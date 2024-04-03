@@ -1,7 +1,8 @@
 **Calculation of Air Pollution Emissions from a Coal Power Plant**
 
 **Introduction:**
-This document outlines the methodology for calculating air pollution emissions, specifically particulate matter $\ (PM_{2.5})\$ and $\ (PM_{10})\$, sulfur dioxide $\ (SO_2)\$, and nitrogen oxides $\ ((NO_x)\$ from a coal-fired power plant. The calculations are based on emission factors provided in various sources for coal power plants in India.
+
+This document outlines the methodology for calculating air pollution emissions, specifically particulate matter $\ (PM_{2.5})\$ and $\ (PM_{10})\$, sulfur dioxide $\ (SO_2)\$, and nitrogen oxides $\ (NO_x)\$ from a coal-fired power plant. The calculations are based on emission factors provided in various sources for coal power plants in India.
 
 
 **Emission Factors:**
@@ -37,7 +38,7 @@ To estimate the total annual emissions of each pollutant, the following steps ar
 
    $$\text{Emissions (tonnes/annum)} = \left( \text{Emissions per unit (g/kWh)} \times \text{Electricity Production (kWh)} \right) \times \frac{1}{1,000,000}$$
    
-   For $\ (SO_2)\$ and $\ (N0_x)\$:
+   For $\ (SO_2)\$ and $\ (NO_x)\$:
    $$\text{Emissions (tonnes/annum)} = \left( \text{Emissions per unit (g/kWh)} \times \text{Electricity Production (kWh)} \right) \times \frac{1}{1,000,000}$$
    
 **Conclusion:**
