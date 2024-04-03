@@ -1,4 +1,4 @@
-**Readme: Calculation of Air Pollution Emissions from a Coal Power Plant**
+**Calculation of Air Pollution Emissions from a Coal Power Plant**
 
 **Introduction:**
 This document outlines the methodology for calculating air pollution emissions, specifically particulate matter (PM2.5 and PM10), sulfur dioxide (SO2), and nitrogen oxides (NOx) from a coal-fired power plant. The calculations are based on emission factors provided in various sources for coal power plants in India.
@@ -6,8 +6,8 @@ This document outlines the methodology for calculating air pollution emissions, 
 **Emission Factors:**
 
 1. **Particulate Matter (PM2.5 and PM10):**
-   - Emissions per unit: $\ 0.16-0.22  g/kWh \$ for PM2.5
-   - Emissions per unit: $\ 0.29-0.45  g/kWh \$ for PM10
+   - Emissions per unit: $\ 0.16-0.22 \text{g/kWh}\$ for PM2.5
+   - Emissions per unit: $\ 0.29-0.45 \text{g/kWh}\$ for PM10
    - Source: [India Air Quality - Coal Power Plants Emissions](https://www.indiaairquality.info/wp-content/uploads/docs/2014-08-AE-Emissions-Health-Coal-PPs-India.pdf)
 
 3. **Sulfur Dioxide (SO2):**
@@ -15,7 +15,7 @@ This document outlines the methodology for calculating air pollution emissions, 
    - Source: [US EPA - Emissions Inventory Conference](https://www3.epa.gov/ttnchie1/conference/ei20/session5/mmittal.pdf)
 
 4. **Nitrogen Oxides (NOx):**
-   - Emissions per unit: $\ 4.22 to 4.38  g/kWh \$
+   - Emissions per unit: $\ 4.22 - 4.38  g/kWh \$
    - Source: [US EPA - Emissions Inventory Conference](https://www3.epa.gov/ttnchie1/conference/ei20/session5/mmittal.pdf)
 
 **Calculation Methodology:**
