@@ -6,10 +6,8 @@ This document outlines the methodology for calculating air pollution emissions, 
 **Emission Factors:**
 
 1. **Particulate Matter (PM2.5 and PM10):**
-$$
-   - Emissions per unit: 0.16-0.22 g/kWh for PM2.5
+   - Emissions per unit: $\ 0.16-0.22 g/kWh for PM2.5 \$ 
    - Emissions per unit: 0.29-0.45 g/kWh for PM10
-$$
    - Source: [India Air Quality - Coal Power Plants Emissions](https://www.indiaairquality.info/wp-content/uploads/docs/2014-08-AE-Emissions-Health-Coal-PPs-India.pdf)
 
 3. **Sulfur Dioxide (SO2):**
