@@ -22,13 +22,11 @@ This document outlines the methodology for calculating air pollution emissions, 
 To estimate the total annual emissions of each pollutant, the following steps are taken:
 
 1. **Electricity Production Calculation:**
-**Electricity Production Calculation:**
+
 Electricity production (kWh) is calculated based on the capacity of the power plant for one hour and then extrapolated for a year.
-
-```latex
-Electricity Production (kWh) = \text{Capacity (MW)} \times 1000 \times 1 \text{ hour/day} \times 365 \text{ days/year}
-
-   \text{Electricity Production (kWh)} = \text{Capacity (MW)} \times 1000 \times 1 \text{ hour/day} \times 365 \text{ days/year}
+$$
+\text{Electricity Production (kWh)} = \text{Capacity (MW)} \times 1000 \times 1 \text{ hour/day} \times 365 \text{ days/year}
+$$
    \]
    For example, if the power plant has a capacity of 30 MW:
    \[
@@ -38,7 +36,7 @@ Electricity Production (kWh) = \text{Capacity (MW)} \times 1000 \times 1 \text{ 
    \text{Electricity Production (kWh)} = 10,950,000 \, \text{kWh/year}
    \]
 
-2. **Emissions Calculation:**
+3. **Emissions Calculation:**
    Once the electricity production is determined, emissions for each pollutant are calculated by multiplying the emissions per unit (g/kWh) by the total electricity production (kWh) and converting to tonnes per annum assuming full capacity operation for a year.
    
    For PM2.5 and PM10:
