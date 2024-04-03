@@ -1,21 +1,21 @@
 **Calculation of Air Pollution Emissions from a Coal Power Plant**
 
 **Introduction:**
-This document outlines the methodology for calculating air pollution emissions, specifically particulate matter (PM2.5 and PM10), sulfur dioxide (SO2), and nitrogen oxides (NOx) from a coal-fired power plant. The calculations are based on emission factors provided in various sources for coal power plants in India.
+This document outlines the methodology for calculating air pollution emissions, specifically particulate matter ($\PM_2.5\$ and $\PM_10\$), sulfur dioxide ($\SO_2\$), and nitrogen oxides ($\NOx\$) from a coal-fired power plant. The calculations are based on emission factors provided in various sources for coal power plants in India.
 
 **Emission Factors:**
 
 1. **Particulate Matter (PM2.5 and PM10):**
-   - Emissions per unit: $\ 0.16-0.22 \text{g/kWh}\$ for PM2.5
-   - Emissions per unit: $\ 0.29-0.45 \text{g/kWh}\$ for PM10
+   - Emissions per unit: $\ 0.16-0.22 \text{ g/kWh}\$ for PM2.5
+   - Emissions per unit: $\ 0.29-0.45 \text{ g/kWh}\$ for PM10
    - Source: [India Air Quality - Coal Power Plants Emissions](https://www.indiaairquality.info/wp-content/uploads/docs/2014-08-AE-Emissions-Health-Coal-PPs-India.pdf)
 
-3. **Sulfur Dioxide (SO2):**
-   - Emissions per unit: $\ 7.20  g/kWh \$
+3. **Sulfur Dioxide ($\SO_2\$):**
+   - Emissions per unit: $\ 7.20  \text{ g/kWh}\$
    - Source: [US EPA - Emissions Inventory Conference](https://www3.epa.gov/ttnchie1/conference/ei20/session5/mmittal.pdf)
 
 4. **Nitrogen Oxides (NOx):**
-   - Emissions per unit: $\ 4.22 - 4.38  g/kWh \$
+   - Emissions per unit: $\ 4.22 - 4.38 \text{ g/kWh}\$
    - Source: [US EPA - Emissions Inventory Conference](https://www3.epa.gov/ttnchie1/conference/ei20/session5/mmittal.pdf)
 
 **Calculation Methodology:**
@@ -32,7 +32,7 @@ To estimate the total annual emissions of each pollutant, the following steps ar
 3. **Emissions Calculation:**
    Once the electricity production is determined, emissions for each pollutant are calculated by multiplying the emissions per unit (g/kWh) by the total electricity production (kWh) and converting to tonnes per annum assuming full capacity operation for a year.
    
-   For PM2.5 and PM10:
+   For $\PM_2.5\$ and PM10:
 
    $$\text{Emissions (tonnes/annum)} = \left( \text{Emissions per unit (g/kWh)} \times \text{Electricity Production (kWh)} \right) \times \frac{1}{1,000,000}$$
    
