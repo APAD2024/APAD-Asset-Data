@@ -1,4 +1,4 @@
-**Calculation of Air Pollution Emissions from a Coal Power Plant**
+**Readme: Calculation of Air Pollution Emissions from a Coal Power Plant**
 
 **Introduction:**
 This document outlines the methodology for calculating air pollution emissions, specifically particulate matter (PM2.5 and PM10), sulfur dioxide (SO2), and nitrogen oxides (NOx) from a coal-fired power plant. The calculations are based on emission factors provided in various sources for coal power plants in India.
@@ -22,19 +22,19 @@ This document outlines the methodology for calculating air pollution emissions, 
 To estimate the total annual emissions of each pollutant, the following steps are taken:
 
 1. **Electricity Production Calculation:**
-
-Electricity production (kWh) is calculated based on the capacity of the power plant for one hour and then extrapolated for a year.
-```math
-\text{Electricity Production (kWh)} = \text{Capacity (MW)} \times 1000 \times 1 \text{hour/day} \times 365 \text{days/year}
-```
-   \]
+   Electricity production (kWh) is calculated based on the capacity of the power plant for one hour and then extrapolated for a year.
+   $$
+   ```math
+   \text{Electricity Production (kWh)} = \text{Capacity (MW)} \times 1000 \times 1 \text{ hour/day} \times 365 \text{ days/year}
+   ```
    For example, if the power plant has a capacity of 30 MW:
-   \[
+   ```math
    \text{Electricity Production (kWh)} = 30 \, \text{MW} \times 1000 \times 1 \, \text{hour/day} \times 365 \, \text{days/year} = 30,000 \times 365 \, \text{MWh/year}
-   \]
-   \[
+   ```
+   ```math
    \text{Electricity Production (kWh)} = 10,950,000 \, \text{kWh/year}
-   \]
+   ```
+   $$
 
 3. **Emissions Calculation:**
    Once the electricity production is determined, emissions for each pollutant are calculated by multiplying the emissions per unit (g/kWh) by the total electricity production (kWh) and converting to tonnes per annum assuming full capacity operation for a year.
