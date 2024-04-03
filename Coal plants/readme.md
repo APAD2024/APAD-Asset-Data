@@ -27,7 +27,7 @@ To estimate the total annual emissions of each pollutant, the following steps ar
    Electricity production (kWh) is calculated based on the capacity of the power plant for 24 hours and then extrapolated for a year.
    $$\text{Electricity Production (kWh)} = \text{Capacity (MW)} \times 1000 \times 24 \text{ hours/day} \times 365 \text{ days/year}$$
    For example, if the power plant has a capacity of 30 MW:
-   $$\text{Electricity Production (kWh)} = 30 \, \text{MW} \times 1000 \times 24 \, \text{hours/day} \times 365 \, \text{days/year} = 30,000 \times 365 \, \text{MWh/year}$$
+   $$\text{Electricity Production (kWh)} = 30 \, \text{MW} \times 1000 \times 24 \ \text{hours/day} \times 365 \ \text{days/year} = 30,000 \times 365 \, \text{MWh/year}$$
    
    $$\text{Electricity Production (kWh)} = 26,280,0000 \, \text{kWh/year}$$
 
