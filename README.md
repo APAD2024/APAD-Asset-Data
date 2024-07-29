@@ -1,5 +1,5 @@
-# GIS-Part
-This repo contains GIS related data and respective notebooks
+# APAD Asset-level data
+This repo contains asset-level data and respective notebooks
 
 
 
