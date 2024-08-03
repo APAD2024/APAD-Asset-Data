@@ -1,1 +1,1 @@
-This README file: https://github.com/APAD2024/brickkilns-low-res: provides a comprehensive overview of the repository, details about brick kilns processing and extraction using low-res satellite imagery. 
+This Repo: https://github.com/APAD2024/brickkilns-low-res: provides a comprehensive overview of the repository, details about brick kilns processing and extraction using low-res satellite imagery. 
