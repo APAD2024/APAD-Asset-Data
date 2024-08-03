@@ -12,6 +12,16 @@ The Coal Plant dataset is a comprehensive collection of data detailing various a
 - **Fuel Types**: Types of coal used, such as bituminous, sub-bituminous, lignite, etc.
 - **Operational Data**: Year of commissioning, planned retirement dates, and other operational metrics.
 
+## Some Pre-Processing
+
+- Using different datasets to filter, combine, and create the new dataset.
+***Steps to pre-process data for "IND"
+- Load the CSV files for coal_igp and coal_india.
+- Filter coal_igp for rows where the country is 'India'.
+- Find matching coal plants from coal_igp in coal_india based on a common identifier (e.g., plant name or ID).
+- Retain the matching records in coal_india, along with any other records that don't match.
+- Multiply the units column by the capacity column to create a new column with the total capacity.
+- 
 ## Purpose
 
 This dataset is designed to support research and policy-making aimed at reducing air pollution from coal power plants. By providing detailed information on plant operations and emissions, the dataset allows for:
