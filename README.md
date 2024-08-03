@@ -14,7 +14,7 @@ This repository contains data related to various assets that contribute to pollu
 
 This folder contains subfolders for each asset type that contributes to pollution. Each subfolder contains data specific to that asset, such as its geographical location, operational details, and other relevant information.
 
-You can check the asset layers through (gist)[https://gist.github.com/khizerzakir]
+You can check the asset layers through [gist](https://gist.github.com/khizerzakir)
 
 - `Asset Data/`
   - `Brick Kiln/`
