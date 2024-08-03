@@ -8,13 +8,16 @@ This folder contains the calculated metrics for population exposure to pollutant
 
 The decay function is defined as:
 
-\[ C(x) = C_0 \times e^{-\lambda x} \]
+$$
+C(x) = C_0 \times e^{-\lambda x}
+$$
 
 Where:
 - \( C(x) \) is the pollutant concentration at distance \( x \) from the source.
 - \( C_0 \) is the initial pollutant concentration at the source.
 - \( \lambda \) is the decay rate, which depends on the pollutant type and environmental factors.
 - \( x \) is the distance from the source.
+
 
 **Note:** The decay function described is commonly used in environmental science and air pollution modeling to estimate how pollutant concentration decreases with distance from the source.
 #### Calculation Process
