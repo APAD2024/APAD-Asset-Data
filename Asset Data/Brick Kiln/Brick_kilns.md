@@ -12,7 +12,7 @@ Given:
 - 18,000 kilns produce 45 billion bricks per year.
 
 To find the production for 12,290 kilns (extracted):
--okkuu
+
 $\text{Total production for 12,290 kilns} = \left(\frac{45\ \text{billion bricks}}{18,000\ \text{kilns}}\right) \times 12,290\ \text{kilns}$
 
 
