@@ -10,13 +10,13 @@ According to Shaikh et al. (2020), 18,000 kilns produce 45 billion bricks per ye
 
 Hence, to find how much 12,290 kilns would produce:
 
-\[
+$
 \text{Total production for 12,290 kilns} = \frac{45\ \text{billion bricks}}{18,000\ \text{kilns}} \times 12,290\ \text{kilns}
-\]
+$
 
-\[
+$
 = \frac{45 \times 12,290}{18,000} \ \text{billion bricks}
-\]
+$
 
 \[
 = 30.7275 \ \text{billion bricks}
