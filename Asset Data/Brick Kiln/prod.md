@@ -66,6 +66,8 @@ $\text{NOx Annual Emissions} = 97.2074 \, \text{kg/day} \times 365 = 35,473.701 
 $\text{CO Annual Emissions} = 1,861.38 \, \text{kg/day} \times 365 = 679,402.7 \, \text{kg/year}$
 
 This calculation assumes continuous operation without downtime and a consistent production rate.
+
+
 ---
 
 ## Estimating Concentration and Emission Rate
@@ -75,14 +77,14 @@ To estimate the concentration and emission rate based on the given formula and a
 ### Given Formula:
 - **Emission Rate (ER):**
   
-  $ER \, \text{(g/h)} = \frac{S \, \text{(mg/m}^3\text{)}}{Q_S \, \text{(m}^3\text{/h)}}$
+  $ER\text{(g/h)} = \frac{S \, \text{(mg/m}^3\text{)}}{Q_S \, \text{(m}^3\text{/h)}}$
   where:
   - \( S \) is the concentration of the pollutant in the flue gas (mg/m³).
   - $(Q_S)$ is the flow rate of the flue gas (m³/h).
 
 - **Fuel Unit Mass-Based Emission Factor (EFm):**
   
-  $EFm \, \text{(g/kg)} = \frac{ER \, \text{(g/h)}}{F \, \text{(kg/h)}}$
+  $EF_m \text{(g/kg)} = \frac{ER \, \text{(g/h)}}{F \, \text{(kg/h)}}$
   where:
   - \( F \) is the fuel consumption rate (kg/h).
 
@@ -106,11 +108,11 @@ So, the emission rate \( ER \) is 0.0004 g/h.
 
 Now, use the emission rate to calculate the fuel unit mass-based emission factor \( EFm \).
 
-$EFm \, \text{(g/kg)} = \frac{ER \, \text{(g/h)}}{F \, \text{(kg/h)}}$
+$EF_m \text{(g/kg)} = \frac{ER \, \text{(g/h)}}{F \, \text{(kg/h)}}$
 
 Substituting the assumed fuel consumption rate \( F = 100 \, \text{kg/h} \):
 
-$EFm \, \text{(g/kg)} = \frac{0.0004 \, \text{g/h}}{100 \, \text{kg/h}} = 0.000004 \, \text{g/kg}$
+$EF_m \text{(g/kg)} = \frac{0.0004 \, \text{g/h}}{100 \text{kg/h}} = 0.000004  \text{g/kg}$
 
 ### 3. Conclusion:
 
