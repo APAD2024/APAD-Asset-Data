@@ -1,8 +1,6 @@
 
 ## Estimating Emissions Per Kiln
 
-To estimate the total emissions per kiln based on the given emission factors and brick production data, you can follow these steps:
-
 ### 1. Given Data:
    - **Emission Factors:**
      - PM10: 9.7 g/kg
@@ -67,28 +65,12 @@ $\text{NOx Annual Emissions} = 97.2074 \, \text{kg/day} \times 365 = 35,473.701 
 
 $\text{CO Annual Emissions} = 1,861.38 \, \text{kg/day} \times 365 = 679,402.7 \, \text{kg/year}$
 
-### Summary:
-- **Daily Emissions per Kiln:**
-  - PM10: 200.6154 kg
-  - PM2.5: 140.6376 kg
-  - SOx: 95.1372 kg
-  - NOx: 97.2074 kg
-  - CO: 1,861.38 kg
-
-- **Annual Emissions per Kiln:**
-  - PM10: 73,224.621 kg/year
-  - PM2.5: 51,632.724 kg/year
-  - SOx: 34,725.078 kg/year
-  - NOx: 35,473.701 kg/year
-  - CO: 679,402.7 kg/year
-
 This calculation assumes continuous operation without downtime and a consistent production rate.
-
 ---
 
 ## Estimating Concentration and Emission Rate
 
-To estimate the concentration and emission rate based on the given formula and assumptions, let’s break down the problem step by step.
+To estimate the concentration and emission rate based on the given formula and assumptions from "Assessment of air pollutant emissions from brick kilns" by [Rajarathnam, U, et al., (2014)](https://doi.org/10.1016/j.atmosenv.2014.08.075)
 
 ### Given Formula:
 - **Emission Rate (ER):**
