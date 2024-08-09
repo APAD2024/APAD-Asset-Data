@@ -93,10 +93,10 @@ To estimate the concentration and emission rate based on the given formula and a
 ### Given Formula:
 - **Emission Rate (ER):**
   
-  $ER \, \text{(g/h)} = \frac{S \, \text{(mg/m}^3\text{)}}}{Q_S \, \text{(m}^3\text{/h)}}$
+  $ER \, \text{(g/h)} = \frac{S \, \text{(mg/m}^3\text{)}}{Q_S \, \text{(m}^3\text{/h)}}$
   where:
   - \( S \) is the concentration of the pollutant in the flue gas (mg/m³).
-  - \( Q_S \) is the flow rate of the flue gas (m³/h).
+  - $(Q_S)$ is the flow rate of the flue gas (m³/h).
 
 - **Fuel Unit Mass-Based Emission Factor (EFm):**
   
@@ -112,7 +112,7 @@ To estimate the concentration and emission rate based on the given formula and a
 
 Let’s assume that the concentration of PM10 in the flue gas is \( S = 200 \, \text{mg/m}^3 \) (this is an assumed value for demonstration purposes).
 
-$ER \, \text{(g/h)} = \frac{S \, \text{(mg/m}^3\text{)}}}{Q_S \, \text{(m}^3\text{/h)}} = \frac{200 \, \text{mg/m}^3}{500 \, \text{m}^3\text{/h}} = \frac{200 \, \text{mg/m}^3}{500 \, \text{m}^3\text{/h}}$
+$ER \, \text{(g/h)} = \frac{S \, \text{(mg/m}^3\text{)}}{Q_S \, \text{(m}^3\text{/h)}} = \frac{200 \, \text{mg/m}^3}{500 \, \text{m}^3\text{/h}} = \frac{200 \, \text{mg/m}^3}{500 \, \text{m}^3\text{/h}}$
 
 First, convert mg to g:
 
