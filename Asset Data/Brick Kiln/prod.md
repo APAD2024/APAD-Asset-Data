@@ -13,57 +13,57 @@
 
 ### 2. Total Brick Weight per Day:
 Since each brick weighs approximately 3 kg, the total weight of bricks produced per day by one kiln is:
-   $\text{Total Brick Weight} = \text{Number of Bricks} \times \text{Weight per Brick} = 6,894 \times 3 \, \text{kg}$
+   $\text{Total Brick Weight} = \text{Number of Bricks} \times \text{Weight per Brick} = 6,894 \times 3  \text{kg}$
 
-   $\text{Total Brick Weight} = 20,682 \, \text{kg}$
+   $\text{Total Brick Weight} = 20,682 \text{kg}$
 
 ### 3. Calculate Emissions for Each Pollutant:
 To calculate the total emissions of each pollutant, multiply the emission factor by the total weight of bricks produced.
 
 #### a. PM10 Emissions:
 
-$\text{PM10 Emissions} = \text{Emission Factor} \times \text{Total Brick Weight} = 9.7 \, \text{g/kg} \times 20,682 \, \text{kg}$
+$\text{PM10 Emissions} = \text{Emission Factor} \times \text{Total Brick Weight} = 9.7 \text{g/kg} \times 20,682 \text{kg}$
 
-$\text{PM10 Emissions} = 200,615.4 \, \text{g} = 200.6154 \, \text{kg/day}$
+$\text{PM10 Emissions} = 200,615.4 \text{g} = 200.6154  \text{kg/day}$
 
 #### b. PM2.5 Emissions:
 
-$\text{PM2.5 Emissions} = 6.8 \, \text{g/kg} \times 20,682 \, \text{kg} = 140,637.6 \, \text{g} = 140.6376 \, \text{kg/day}$
+$\text{PM2.5 Emissions} = 6.8 \text{g/kg} \times 20,682  \text{kg} = 140,637.6  \text{g} = 140.6376  \text{kg/day}$
 
 #### c. SOx Emissions:
 
-$\text{SOx Emissions} = 4.6 \, \text{g/kg} \times 20,682 \, \text{kg} = 95,137.2 \, \text{g} = 95.1372 \, \text{kg/day}$
+$\text{SOx Emissions} = 4.6 \text{g/kg} \times 20,682 \text{kg} = 95,137.2 \text{g} = 95.1372  \text{kg/day}$
 
 #### d. NOx Emissions:
 
-$\text{NOx Emissions} = 4.7 \, \text{g/kg} \times 20,682 \, \text{kg} = 97,207.4 \, \text{g} = 97.2074 \, \text{kg/day}$
+$\text{NOx Emissions} = 4.7  \text{g/kg} \times 20,682 \text{kg} = 97,207.4 \text{g} = 97.2074 \text{kg/day}$
 
 #### e. CO Emissions:
 
-$\text{CO Emissions} = 90 \, \text{g/kg} \times 20,682 \, \text{kg} = 1,861,380 \, \text{g} = 1,861.38 \, \text{kg/day}$
+$\text{CO Emissions} = 90 \text{g/kg} \times 20,682 \text{kg} = 1,861,380 \text{g} = 1,861.38 \text{kg/day}$
 
 ### 4. Annual Emissions (assuming the kiln operates 365 days/year):
 Multiply the daily emissions by 365 to get the annual emissions.
 
 #### a. PM10 Annual Emissions:
 
-$\text{PM10 Annual Emissions} = 200.6154 \, \text{kg/day} \times 365 = 73,224.621 \, \text{kg/year}$
+$\text{PM10 Annual Emissions} = 200.6154 \text{kg/day} \times 365 = 73,224.621 \text{kg/year}$
 
 #### b. PM2.5 Annual Emissions:
 
-$\text{PM2.5 Annual Emissions} = 140.6376 \, \text{kg/day} \times 365 = 51,632.724 \, \text{kg/year}$
+$\text{PM2.5 Annual Emissions} = 140.6376 \text{kg/day} \times 365 = 51,632.724 \text{kg/year}$
 
 #### c. SOx Annual Emissions:
 
-$\text{SOx Annual Emissions} = 95.1372 \, \text{kg/day} \times 365 = 34,725.078 \, \text{kg/year}$
+$\text{SOx Annual Emissions} = 95.1372 \text{kg/day} \times 365 = 34,725.078 \text{kg/year}$
 
 #### d. NOx Annual Emissions:
 
-$\text{NOx Annual Emissions} = 97.2074 \, \text{kg/day} \times 365 = 35,473.701 \, \text{kg/year}$
+$\text{NOx Annual Emissions} = 97.2074  \text{kg/day} \times 365 = 35,473.701  \text{kg/year}$
 
 #### e. CO Annual Emissions:
 
-$\text{CO Annual Emissions} = 1,861.38 \, \text{kg/day} \times 365 = 679,402.7 \, \text{kg/year}$
+$\text{CO Annual Emissions} = 1,861.38  \text{kg/day} \times 365 = 679,402.7 \text{kg/year}$
 
 This calculation assumes continuous operation without downtime and a consistent production rate.
 
