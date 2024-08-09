@@ -77,30 +77,30 @@ To estimate the concentration and emission rate based on the given formula and a
 ### Given Formula:
 - **Emission Rate (ER):**
   
-  $ER\text{(g/h)} = \frac{S \, \text{(mg/m}^3\text{)}}{Q_S \, \text{(m}^3\text{/h)}}$
+  $ER\text{(g/h)} = \frac{S \text{(mg/m}^3\text{)}}{Q_S \text{(m}^3\text{/h)}}$
   where:
-  - \( S \) is the concentration of the pollutant in the flue gas (mg/m³).
+  - \( S \) is the concentration of the pollutant in the fuel gas (mg/m³).
   - $(Q_S)$ is the flow rate of the flue gas (m³/h).
 
 - **Fuel Unit Mass-Based Emission Factor (EFm):**
   
-  $EF_m \text{(g/kg)} = \frac{ER \, \text{(g/h)}}{F \, \text{(kg/h)}}$
+  $EF_m \text{(g/kg)} = \frac{ER \text{(g/h)}}{F \text{(kg/h)}}$
   where:
   - \( F \) is the fuel consumption rate (kg/h).
 
 ### Assumptions:
 1. **Fuel Consumption Rate:** Assume the kiln consumes 100 kg of fuel per hour (this value can be adjusted based on real data).
-2. **Flow Rate of Flue Gas (Q_S):** Assume a flow rate of 500 m³/h (this value can be adjusted based on real data).
+2. **Flow Rate of Flue Gas $(Q_S)$:** Assume a flow rate of 500 m³/h (this value can be adjusted based on real data).
 
 ### 1. Calculating Emission Rate (ER):
 
-Let’s assume that the concentration of PM10 in the flue gas is \( S = 200 \, \text{mg/m}^3 \) (this is an assumed value for demonstration purposes).
+Let’s assume that the concentration of PM10 in the fuel gas is \( S = 200 \text{mg/m}^3 \) (this is an assumed value for demonstration purposes only).
 
-$ER \, \text{(g/h)} = \frac{S \, \text{(mg/m}^3\text{)}}{Q_S \, \text{(m}^3\text{/h)}} = \frac{200 \, \text{mg/m}^3}{500 \, \text{m}^3\text{/h}} = \frac{200 \, \text{mg/m}^3}{500 \, \text{m}^3\text{/h}}$
+$ER \text{(g/h)} = \frac{S \text{(mg/m}^3\text{)}}{Q_S\text{(m}^3\text{/h)}} = \frac{200  \text{mg/m}^3}{500 \text{m}^3\text{/h}} = \frac{200 \text{mg/m}^3}{500\text{m}^3\text{/h}}$
 
 First, convert mg to g:
 
-$ER \, \text{(g/h)} = \frac{200 \, \text{mg/m}^3 \times 1 \, \text{g/1000 mg}}{500 \, \text{m}^3\text{/h}} = \frac{0.2 \, \text{g/m}^3}{500 \, \text{m}^3\text{/h}} = 0.0004 \, \text{g/h}$
+$ER \text{(g/h)} = \frac{200 \text{mg/m}^3 \times 1 \text{g/1000 mg}}{500 \text{m}^3\text{/h}} = \frac{0.2 \text{g/m}^3}{500  \text{m}^3\text{/h}} = 0.0004\text{g/h}$
 
 So, the emission rate \( ER \) is 0.0004 g/h.
 
@@ -108,17 +108,15 @@ So, the emission rate \( ER \) is 0.0004 g/h.
 
 Now, use the emission rate to calculate the fuel unit mass-based emission factor \( EFm \).
 
-$EF_m \text{(g/kg)} = \frac{ER \, \text{(g/h)}}{F \, \text{(kg/h)}}$
+$EF_m \text{(g/kg)} = \frac{ER \text{(g/h)}}{F \text{(kg/h)}}$
 
-Substituting the assumed fuel consumption rate \( F = 100 \, \text{kg/h} \):
+Substituting the assumed fuel consumption rate \( F = 100 \text{kg/h} \):
 
-$EF_m \text{(g/kg)} = \frac{0.0004 \, \text{g/h}}{100 \text{kg/h}} = 0.000004  \text{g/kg}$
+$EF_m \text{(g/kg)} = \frac{0.0004  \text{g/h}}{100 \text{kg/h}} = 0.000004  \text{g/kg}$
 
-### 3. Conclusion:
-
-- The **concentration** assumed for PM10 is \( 200 \, \text{mg/m}^3 \).
-- The **flow rate** is assumed to be \( 500 \, \text{m}^3/h \).
+- The **concentration** assumed for PM10 is \( 200\text{mg/m}^3 \).
+- The **flow rate** is assumed to be \( 500\text{m}^3/h \).
 - The **emission rate** \( ER \) is calculated to be 0.0004 g/h.
 - The **emission factor** \( EFm \) is calculated to be 0.000004 g/kg.
 
-These values are based on the assumptions made and can be adjusted according to real data. If the actual flow rate of flue gas, fuel consumption rate
+These values are based on the assumptions made and can be adjusted according to real data. If the actual flow rate of fuel gas, fuel consumption rate
