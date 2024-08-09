@@ -1,6 +1,4 @@
-Here's the content rewritten in Markdown style:
 
-```markdown
 ## Estimating Emissions Per Kiln
 
 To estimate the total emissions per kiln based on the given emission factors and brick production data, you can follow these steps:
