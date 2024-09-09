@@ -8,9 +8,35 @@ This repository contains data related to various assets that contribute to pollu
 2. **Pollution Data**
 3. **Population Exposure Risk**
 
-### Folder Structure
+### 1. Brief Introduction
 
-#### 1. Asset Data
+# Study Area Overview
+
+The study focuses on two major regions: the Indo-Gangetic Plain (IGP) in South Asia and selected countries in Africa. The study area includes several countries and their respective provinces and districts, as detailed below.
+
+## **Indo-Gangetic Plain (IGP) - South Asia**
+
+### Countries Included:
+- **India**
+- **Bangladesh**
+- **Pakistan**
+
+| **Country**   | **States/Regions**                           | **Notable Districts**                   | **Area Covered (sq km)** |
+|---------------|----------------------------------------------|-----------------------------------------|--------------------------|
+| **India**     | Uttar Pradesh, Bihar, Haryana, Punjab, West Bengal, Uttarakhand, Delhi | Varanasi, Lucknow, Patna, Kanpur, Meerut, Ludhiana, Amritsar | _______ |
+| **Bangladesh**| Khulna, Rajshahi, Dhaka                      | Rajshahi, Bogura, Pabna, Rangpur        | _______                  |
+| **Pakistan**  | Punjab, Sindh                                | Lahore, Faisalabad, Multan, Hyderabad   | _______                  |
+
+### Total Area Covered in IGP: **______ square kilometers**
+
+### Environmental and Industrial Focus:
+The Indo-Gangetic Plain is a major agricultural and industrial zone, with a high density of brick kilns, coal plants, and other sources of air pollution, making it an ideal area for studying the effects of emissions on air quality, including PM2.5 levels.
+
+### Environmental and Industrial Focus:
+These regions in Africa represent a mix of urban industrial areas and rapidly growing cities, where coal-fired power plants, transportation, and industrial emissions contribute significantly to air pollution. These areas provide an important contrast to the IGP for assessing air quality and pollution sources.
+
+
+#### 2. Asset Data
 
 This folder contains subfolders for each asset type that contributes to pollution. Each subfolder contains data specific to that asset, such as its geographical location, operational details, and other relevant information.
 
@@ -30,7 +56,7 @@ You can check the asset layers through [gist](https://gist.github.com/khizerzaki
   - `Chemical industry/`
   - `Crop stubble burning (seasonal)/`
 
-#### 2. Pollution Data
+#### 3. Pollution Data
 
 This folder contains data on various pollutants. The subfolders are organized based on the type of pollutant. Each subfolder contains data related to the specific pollutant, including its concentration levels across different regions.
 
@@ -40,7 +66,7 @@ This folder contains data on various pollutants. The subfolders are organized ba
   - `SO2/`
   - `NOx/`
 
-#### 3. Population Exposure Risk
+#### 4. Population Exposure Risk
 
 This folder contains data related to the population exposure risk to pollutants, calculated based on the assets listed in the Asset Data folder. The calculations use a decay function to estimate the risk levels. A README file is included in this folder to explain the decay function and the calculation process.
 
