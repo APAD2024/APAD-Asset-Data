@@ -23,8 +23,8 @@ The study focuses on two major regions: the Indo-Gangetic Plain (IGP) in South A
 
 | **Country**   | **States/Regions**                           | **Notable Districts**                   | **Area Covered (sq km)** |
 |---------------|----------------------------------------------|-----------------------------------------|--------------------------|
-| **India**     | Uttar Pradesh, Bihar, Haryana, Punjab, West Bengal, Uttarakhand, Delhi | Varanasi, Lucknow, Patna, Kanpur, Meerut, Ludhiana, Amritsar | _______ |
-| **Bangladesh**| Khulna, Rajshahi, Dhaka                      | Rajshahi, Bogura, Pabna, Rangpur        | _______                  |
+| **India**     | ______________________ | _______ |
+| **Bangladesh**| ______________________                     | _____________________        | _______                  |
 | **Pakistan**  | Punjab, Sindh                                | Lahore, Faisalabad, Multan, Hyderabad   | _______                  |
 
 ### Total Area Covered in IGP: **______ square kilometers**
