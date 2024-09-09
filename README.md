@@ -38,7 +38,7 @@ These regions in Africa represent a mix of urban industrial areas and rapidly gr
 
 #### 2. Asset Data
 
-This folder contains subfolders for each asset type that contributes to pollution. Each subfolder contains data specific to that asset, such as its geographical location, operational details, and other relevant information.
+This folder contains subfolders for each asset type that contributes to pollution. Each subfolder contains data specific to that asset, such as its geographical location, operational details, name-plate capacity, and other relevant information.
 
 You can check the asset layers through [gist](https://gist.github.com/khizerzakir)
 
