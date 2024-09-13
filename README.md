@@ -118,6 +118,10 @@ Last, this dataset is processed and ready to be integrated into cloud-based work
 
 This dataset is released under a Creative Commons (CC) license, allowing for broad use while ensuring proper attribution.
 
+### Data Sources:
+
+- Global Administrative Areas (2024). University of California, Berkely. [digital geospatial data]. Available online: https://gadm.org/data.html [license](https://gadm.org/license.html).
+
 
 
 
