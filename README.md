@@ -27,7 +27,7 @@ The study focuses on two major regions: the Indo-Gangetic Plain (IGP) in South A
 | **Bangladesh**| Barisal, Chittagong, Dhaka, Khulna, Mymensingh, Rajshahi, Rangpur                     | Jhalokati, Chandpur, Comilla, Barisal, Bogra...        | 82519.21 Km²                |
 | **Pakistan**  | Punjab, Sindh, Balochistan, Azad Kashmir, FATA, Islamabad                               | Lahore, Faisalabad, Multan, Hyderabad, Bahawalpur...  | 521919.57 Km²                  |
 
-### Total Area Covered in IGP: **______ square kilometers**
+### Total Area Covered in IGP: **1106675.758 Km²**
 
 ### Environmental and Industrial Focus:
 The Indo-Gangetic Plain is a major agricultural and industrial zone, with a high density of brick kilns, coal plants, and other sources of air pollution, making it an ideal area for studying the effects of emissions on air quality, including PM2.5 levels.
