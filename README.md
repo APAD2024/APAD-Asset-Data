@@ -30,7 +30,24 @@ The study focuses on two major regions: the Indo-Gangetic Plain (IGP) in South A
 ### Total Area Covered in IGP: **1106675.758 Km²**
 
 ### Environmental and Industrial Focus:
-The Indo-Gangetic Plain is a major agricultural and industrial zone, with a high density of brick kilns, coal plants, and other sources of air pollution, making it an ideal area for studying the effects of emissions on air quality, including PM2.5 levels.
+The Indo-Gangetic Plain is a major agricultural and industrial zone, with a high density of brick kilns, coal plants, and other sources of air pollution (Pollution Assets), making it an ideal area for studying the effects of emissions on air quality, including PM2.5 levels.
+
+## **Study Areas in Africa**
+
+### Countries Included:
+- **DOC**
+- **Ghana**
+- **Nigeria**
+- **Uganda**
+
+| **Country**   | **States/Regions**                           | **Notable Districts**                   | **Area Covered (sq km)** |
+|---------------|----------------------------------------------|-----------------------------------------|--------------------------|
+| **DRC**     | __________ | _______| ______ Km²
+| **Ghana**| _______                    | ________        | _______  Km²         |
+| **Nigeria**  | ________                               | _________  | __________  Km²              |
+| **Uganda**  | ________                               | _________  | __________  Km²              |
+
+### Total Area Covered in parts of Africa: **_____ Km²**
 
 ### Environmental and Industrial Focus:
 These regions in Africa represent a mix of urban industrial areas and rapidly growing cities, where coal-fired power plants, transportation, and industrial emissions contribute significantly to air pollution. These areas provide an important contrast to the IGP for assessing air quality and pollution sources.
