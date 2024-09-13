@@ -25,7 +25,7 @@ The study focuses on two major regions: the Indo-Gangetic Plain (IGP) in South A
 |---------------|----------------------------------------------|-----------------------------------------|--------------------------|
 | **India**     | ______________________ | _______ |
 | **Bangladesh**| ______________________                     | _____________________        | _______                  |
-| **Pakistan**  | Punjab, Sindh                                | Lahore, Faisalabad, Multan, Hyderabad   | _______                  |
+| **Pakistan**  | Punjab, Sindh, Balochistan, Azad Kashmir, FATA, Islamabad                               | Lahore, Faisalabad, Multan, Hyderabad, Bahawalpur...  | 521919.57 Km²                  |
 
 ### Total Area Covered in IGP: **______ square kilometers**
 
