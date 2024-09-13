@@ -23,7 +23,7 @@ The study focuses on two major regions: the Indo-Gangetic Plain (IGP) in South A
 
 | **Country**   | **States/Regions**                           | **Notable Districts**                   | **Area Covered (sq km)** |
 |---------------|----------------------------------------------|-----------------------------------------|--------------------------|
-| **India**     | Assam, Bihar, Chandigarh, Chhattisgarh, Gujarat, Haryana, Himachal Pradesh, Jammu and Kashmir, Jharkhand, Madhya Pradesh, Punjab, Rajasthan, Uttar Pradesh, Uttarakhand, West Bengal, Odisha, Delhi | Bhagalpur, Bhojpur, Araria, Jehanabad, Chandigarh, Panipat | 496003.68 Km²
+| **India**     | Assam, Bihar, Chandigarh, Chhattisgarh, Gujarat, Haryana, Himachal Pradesh, Jammu and Kashmir, Jharkhand, Madhya Pradesh, Punjab, Rajasthan, Uttar Pradesh, Uttarakhand, West Bengal, Odisha, Delhi... | Bhagalpur, Bhojpur, Araria, Jehanabad, Chandigarh, Panipat... | 496003.68 Km²
 | **Bangladesh**| Barisal, Chittagong, Dhaka, Khulna, Mymensingh, Rajshahi, Rangpur                     | Jhalokati, Chandpur, Comilla, Barisal, Bogra...        | 82519.21 Km²                |
 | **Pakistan**  | Punjab, Sindh, Balochistan, Azad Kashmir, FATA, Islamabad                               | Lahore, Faisalabad, Multan, Hyderabad, Bahawalpur...  | 521919.57 Km²                  |
 
