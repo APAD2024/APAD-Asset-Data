@@ -1,0 +1,91 @@
+id,city,state,country,region,sub_region,latitude,longitude,status,plant_type,production,capacity,capacity_s,year,owner_name
+1,Narayanganj District,Dhaka Division,Bangladesh,Asia,Southern Asia,23.71286,90.51543,Operating,Grinding,,0,,0,Heidelberg Cement Bangladesh Ltd
+2,Munshiganj District,Dhaka Division,Bangladesh,Asia,Southern Asia,23.611005,90.613007,Operating,Grinding,,0,,0,LafargeHolcim Bangladesh Ltd
+3,Mongla,Khulna Division,Bangladesh,Asia,Southern Asia,22.504972,89.589503,Operating,Grinding,,0,,0,LafargeHolcim Bangladesh Ltd
+4,Khulna,Khulna Division,Bangladesh,Asia,Southern Asia,22.784672,89.581336,Operating,Grinding,,0,,0,Shun Shing Cement Mills Ltd
+5,Mongla,Khulna Division,Bangladesh,Asia,Southern Asia,22.515404,89.587142,Operating,Grinding,,0,,0,
+6,Munshiganj District,Dhaka Division,Bangladesh,Asia,Southern Asia,23.576689,90.508382,Operating,Grinding,,0,,0,
+7,Mongla,Khulna Division,Bangladesh,Asia,Southern Asia,22.517834,89.585596,Operating,Grinding,,0,,0,
+8,Munshiganj District,Dhaka Division,Bangladesh,Asia,Southern Asia,23.568501,90.520327,Operating,Grinding,,0,,0,
+9,Mongla,Khulna Division,Bangladesh,Asia,Southern Asia,22.503884,89.590302,Operating,Grinding,,0,,0,
+10,Mongla,Khulna Division,Bangladesh,Asia,Southern Asia,22.51778,89.585416,Operating,Grinding,,0,,0,
+11,Barisal,Barisal Division,Bangladesh,Asia,Southern Asia,22.652466,90.345293,Operating,Grinding,,0,,0,
+12,Munshiganj District,Dhaka Division,Bangladesh,Asia,Southern Asia,23.568618,90.524404,Operating,Grinding,,1.86,https://prd-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2016-bg.pdf,0,
+13,Munshiganj District,Dhaka Division,Bangladesh,Asia,Southern Asia,23.571925,90.521455,Operating,Grinding,,0,,0,
+14,Munshiganj District,Dhaka Division,Bangladesh,Asia,Southern Asia,23.578555,90.513202,Operating,Grinding,,2.4,https://prd-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2016-bg.pdf,0,
+15,Gazaria,Dhaka Division,Bangladesh,Asia,Southern Asia,23.602161,90.624685,Operating,Grinding,,0,,0,
+16,Narayanganj District,Dhaka Division,Bangladesh,Asia,Southern Asia,23.609232,90.61001,Operating,Grinding,,0,,0,
+17,Sirajganj District,Rajshahi Division,Bangladesh,Asia,Southern Asia,24.127959,89.586911,Operating,Grinding,,0,,0,
+18,Sirajganj District,Rajshahi Division,Bangladesh,Asia,Southern Asia,24.290893,89.566546,Operating,Grinding,,0,,0,
+19,Raebareli,Uttar Pradesh,India,Asia,Southern Asia,26.253459,81.250948,Operating,Grinding,,1.3,https://www.birlacorporation.com/plants.html,0,Birla Corporation Ltd
+20,Durgapur,West Bengal,India,Asia,Southern Asia,23.562013,87.23354,Operating,Grinding,,2.3,https://www.birlacorporation.com/plants.html,0,Birla Corporation Ltd
+21,Khairhani,Uttar Pradesh,India,Asia,Southern Asia,26.404843,81.130322,Operating,Grinding,,2,https://www.birlacorporation.com/plants.html,0,RCCPL Pvt Ltd
+22,Asaida Pur,Uttar Pradesh,India,Asia,Southern Asia,26.190592,81.706283,Operating,Grinding,,0,,0,ACC Ltd
+23,Bathinda,Punjab,India,Asia,Southern Asia,30.233638,74.912213,Operating,Grinding,,0,,2000,Ambuja Cements Ltd
+24,Gautam Buddh Nagar,Uttar Pradesh,India,Asia,Southern Asia,28.570512,77.546556,Operating,Grinding,,0,,2010,Ambuja Cements Ltd
+25,Howrah,West Bengal,India,Asia,Southern Asia,22.569254,88.194228,Operating,Grinding,,0,,0,Ambuja Cements Ltd
+26,Lakesri,Uttarakhand,India,Asia,Southern Asia,29.967487,77.769868,Operating,Grinding,,0,,0,Ambuja Cements Ltd
+27,Farakka,West Bengal,India,Asia,Southern Asia,24.775292,87.88645,Operating,Grinding,,0,,0,Ambuja Cements Ltd
+28,Dhalo,West Bengal,India,Asia,Southern Asia,24.388462,88.083237,Operating,Grinding,,2,http://birlagoldcement.com/our-plants#plantsdropdown,2013,Century Cement
+29,Kota Chandipur,West Bengal,India,Asia,Southern Asia,23.439328,87.51119,Operating,Grinding,,2.5,https://www.doublebullcement.com/plant-panagarh.php,2017,Nu Vista Ltd
+30,Nandanpur,West Bengal,India,Asia,Southern Asia,23.461907,87.120726,Operating,Grinding,,0,,2009,Nuvoco Vistas Corporation Ltd
+31,Lebura,Bihar,India,Asia,Southern Asia,24.670568,83.9891,Operating,Integrated,Dry,0,,0,Kalyanpur Cements Ltd
+32,Bhiwani,Haryana,India,Asia,Southern Asia,28.455175,76.273575,Operating,Grinding,,0,,0,Nuvoco Vistas Corporation Ltd
+33,Kulharia,Bihar,India,Asia,Southern Asia,25.223534,83.461625,Operating,Grinding,,0.8,https://www.doublebullcement.com/plant-bhabua.php,2018,Nu Vista Ltd
+34,Rana,West Bengal,India,Asia,Southern Asia,22.528774,87.313274,Operating,Grinding,,0,,0,OCL India Ltd
+35,Kolaghat,West Bengal,India,Asia,Southern Asia,22.423362,87.862852,Operating,Grinding,,1.95,http://www.ramcocements.in/kolaghat.aspx,2010,Ramco Cements Ltd
+36,Mohanbari,Haryana,India,Asia,Southern Asia,28.490245,76.386299,Operating,Grinding,,0,,0,J K Cement Ltd
+37,Raipur,Uttarakhand,India,Asia,Southern Asia,29.758381,78.062049,Operating,Grinding,,0,,0,Shree Cement Ltd
+38,Jhajjar,Haryana,India,Asia,Southern Asia,28.495111,76.358152,Operating,Grinding,,0,,0,JK Lakshmi Cement Ltd
+39,Dhobaul,Bihar,India,Asia,Southern Asia,24.774342,84.354352,Operating,Grinding,,0,,0,Shree Cement Ltd
+40,Rajarampur,Uttar Pradesh,India,Asia,Southern Asia,28.480534,77.658796,Operating,Grinding,,0,,0,Shree Cement Ltd
+41,Khukhrana,Haryana,India,Asia,Southern Asia,29.396089,76.889313,Operating,Grinding,,0,,0,Shree Cement Ltd
+42,Jamdedya,West Bengal,India,Asia,Southern Asia,22.576171,87.309609,Operating,Integrated,,2.4,https://www.jsw.in/cement/about-salboni-works,2017,JSW Cement Ltd
+43,Udaipur Udasar,Rajasthan,India,Asia,Southern Asia,29.156732,73.865416,Operating,Grinding,,0,,0,Shree Cement Ltd
+44,Dalla,Uttar Pradesh,India,Asia,Southern Asia,24.449401,83.039567,Operating,Integrated,Dry,2.36,Estimated,2008,UltraTech Cement Ltd
+45,Ambedkar Nagar,Uttar Pradesh,India,Asia,Southern Asia,26.576623,82.584652,Operating,Grinding,,0,,2005,UltraTech Cement Ltd
+46,Hooghly,West Bengal,India,Asia,Southern Asia,22.726902,88.26913,Operating,Grinding,,0,,0,UltraTech Cement Ltd
+47,Jhajjar,Haryana,India,Asia,Southern Asia,28.505156,76.36704,Operating,Grinding,,0,,0,UltraTech Cement Ltd
+48,Panipat,Haryana,India,Asia,Southern Asia,29.289373,76.808284,Operating,Grinding,,0,,0,UltraTech Cement Ltd
+49,Kasimpur,Uttar Pradesh,India,Asia,Southern Asia,27.989507,78.136713,Operating,Grinding,,0,,0,UltraTech Cement Ltd
+50,Patti Karam Chand Mehraj,Punjab,India,Asia,Southern Asia,30.272417,75.162379,Operating,Grinding,,0,,0,UltraTech Cement Ltd
+51,Durgapur,West Bengal,India,Asia,Southern Asia,23.492432,87.362242,Operating,Grinding,,0,,2001,UltraTech Cement Ltd
+52,Salarpur Khadar,Uttar Pradesh,India,Asia,Southern Asia,28.578002,77.592701,Operating,Grinding,,0,,0,UltraTech Cement Ltd
+53,Patna,Bihar,India,Asia,Southern Asia,25.395551,85.292394,Operating,Grinding,,0,,0,UltraTech Cement Ltd
+54,Amarpur Qazi,Uttarakhand,India,Asia,Southern Asia,29.888977,77.812058,Operating,Grinding,,0,,0,UltraTech Cement Ltd
+55,Jamshoro,Sindh,Pakistan,Asia,Southern Asia,25.315639,68.215568,Operating,Integrated,Dry,0.05,http://anwarzaib.com/,1989,Anwarzaib White Cement Ltd
+56,Nowshera,Khyber Pakhtunkhwa,Pakistan,Asia,Southern Asia,33.802044,72.095823,Operating,Integrated,Dry,2.07,http://www.askaricement.com.pk/AclNizampur.html,1996,Askari Cement Ltd
+57,Greater Noida,Uttar Pradesh,India,Asia,Southern Asia,28.469413,77.666031,Operating,Grinding,,0,,0,UltraTech Cement Ltd
+58,Wah,Punjab,Pakistan,Asia,Southern Asia,33.817001,72.721614,Operating,Integrated,Dry,1.34,http://www.askaricement.com.pk/AclWah.html,1994,Askari Cement Ltd
+59,Chakwal,Punjab,Pakistan,Asia,Southern Asia,32.721675,72.924369,Operating,Integrated,Dry,3.43,https://www.bestway.com.pk/index.php/investor-information/#financialrpts,2004,Bestway Cement Ltd
+60,Attock,Punjab,Pakistan,Asia,Southern Asia,33.829331,72.831164,Operating,Integrated,Dry,3,https://www.bestway.com.pk/index.php/investor-information/#financialrpts,2005,Bestway Cement Ltd
+61,Haripur,Khyber Pakhtunkhwa,Pakistan,Asia,Southern Asia,33.849229,72.872128,Operating,Integrated,Dry,1.23,https://www.bestway.com.pk/index.php/investor-information/#financialrpts,1995,Bestway Cement Ltd
+62,Chakwal,Punjab,Pakistan,Asia,Southern Asia,32.717428,72.775661,Operating,,,2.4942,https://www.bestway.com.pk/index.php/investor-information/#financialrpts,2008,Bestway Cement Ltd
+63,Dera Ghazi Khan,Punjab,Pakistan,Asia,Southern Asia,30.327399,70.538435,Operating,Integrated,Dry,2.11,http://www.dgcement.com/plants.html#,1986,D G Khan Cement Company Ltd
+64,Chakwal,Punjab,Pakistan,Asia,Southern Asia,32.725581,72.816963,Operating,Integrated,Dry,2.11,http://www.dgcement.com/plants.html#,2007,D G Khan Cement Company Ltd
+65,Las Bela,Balochistan,Pakistan,Asia,Southern Asia,25.158018,66.784087,Operating,Integrated,Dry,2.84,http://www.dgcement.com/plants.html#,0,D G Khan Cement Company Ltd
+66,Jhelum,Punjab,Pakistan,Asia,Southern Asia,32.644464,72.976899,Operating,Integrated,Dry,0.504,http://www.dandotcement.com/profile.html,1983,Dandot Cement Company Ltd
+67,Haripur,Khyber Pakhtunkhwa,Pakistan,Asia,Southern Asia,33.856388,72.863033,Operating,Integrated,Dry,1.39,http://www.dewancement.com/The%20Plant.html,0,Dewan Cement Ltd
+68,Karachi,Sindh,Pakistan,Asia,Southern Asia,24.909361,67.474854,Operating,Integrated,Dry,2.08,http://www.dewancement.com/The%20Plant.html,1985,Dewan Cement Ltd
+69,Attock,Punjab,Pakistan,Asia,Southern Asia,33.690512,72.713367,Operating,Integrated,Dry,3.43,http://fccl.com.pk/,1997,Fauji Cement Company Ltd
+70,Islamabad,Islamabad Capital Territory,Pakistan,Asia,Southern Asia,33.693119,72.859164,Operating,Integrated,Dry,0.9,https://prd-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2016-pk.pdf,0,Fecto Cement Ltd
+71,Khushab,Punjab,Pakistan,Asia,Southern Asia,32.574803,72.565983,Operating,Integrated,Dry,0.6,http://www.flyingcement.com/page/profile-of-the-company.html,0,Flying Cement Co Ltd
+72,Gharibwal Cement Factory Housing Colony,Punjab,Pakistan,Asia,Southern Asia,32.726458,73.142329,Operating,Integrated,Dry,2.45,https://prd-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2016-pk.pdf,1965,Gharibwal Cement Ltd
+73,Lakari,Khyber Pakhtunkhwa,Pakistan,Asia,Southern Asia,33.905264,71.91052,Operating,Integrated,Dry,4.5,https://gfg.com.pk/cccl/,1985,Cherat Cement Company Ltd
+74,Togh Bala,Khyber Pakhtunkhwa,Pakistan,Asia,Southern Asia,33.548053,71.549005,Operating,Integrated,Dry,2.95,http://www.kohatcement.com/pdf_files/reports/637060193231926566_Kohat_Cement_Annual_Report_2019.pdf,1984,Kohat Cement Company Ltd
+75,Iskandarabad,Punjab,Pakistan,Asia,Southern Asia,32.907938,71.590321,Operating,Integrated,Dry,4.38,http://www.kmlg.com/mlcfl/profile/#vision-mission,0,Maple Leaf Cement Factory Ltd
+76,Karachi,Sindh,Pakistan,Asia,Southern Asia,25.053071,67.494014,Operating,Integrated,Dry,8,https://prd-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2016-pk.pdf,2005,Lucky Cement Ltd
+77,Jamshoro,Sindh,Pakistan,Asia,Southern Asia,25.15328,67.672503,Operating,Integrated,,1.02,http://mhdadabhoy.com/dadabhoy-cement-industries-limited-dcil/,1986,Dadabhoy Cement Industries Ltd
+78,Hub,Balochistan,Pakistan,Asia,Southern Asia,25.139196,66.914996,Operating,Integrated,Dry,3,http://www.attockcement.com/about-us/,1988,Attock Cement Pakistan Ltd
+79,Khushab,Punjab,Pakistan,Asia,Southern Asia,32.387991,72.14237,Operating,Integrated,Dry,1.3,https://prd-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2016-pk.pdf,1994,Pioneer Cement Ltd
+80,Jamshoro,Sindh,Pakistan,Asia,Southern Asia,25.154011,67.703129,Operating,Integrated,Dry,0.6,https://prd-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb3-2016-pk.pdf,0,Power Cement Ltd
+81,RCW Rohri,Sindh,Pakistan,Asia,Southern Asia,27.669985,68.891452,Operating,Integrated,Dry,1.8,http://dbaluch.com/rohri-cement-factory/,1938,Rohri Cement Factory Pvt Ltd
+82,Thatta,Sindh,Pakistan,Asia,Southern Asia,24.648057,67.843569,Operating,Integrated,Dry,0.675,http://www.thattacement.com/Company-Profile.html,1982,Thatta Cement Company Ltd
+83,Hyderabad,Sindh,Pakistan,Asia,Southern Asia,25.34692,68.396246,Operating,Integrated,,0.576,http://dbaluch.com/zeal-pak-cement-factory-ltd/,1956,Zeal Pak Cement Factory Ltd
+84,Vilemar Kundi,Uttar Pradesh,India,Asia,Southern Asia,24.44605,83.075826,Operating,Integrated,Dry,1.59,Estimated,0,
+85,Churk,Uttar Pradesh,India,Asia,Southern Asia,24.63924,83.101967,Operating,Integrated,Dry,0,,0,
+86,Mirzapur,Uttar Pradesh,India,Asia,Southern Asia,25.087704,82.902584,Operating,Grinding,,0,,0,
+87,Prayagraj,Uttar Pradesh,India,Asia,Southern Asia,25.229553,81.781506,Operating,Grinding,,0,,0,
+88,Chenchur Gerya,West Bengal,India,Asia,Southern Asia,22.392435,87.015888,Operating,Grinding,,0,,0,
+89,Chherat,Uttar Pradesh,India,Asia,Southern Asia,27.960795,78.08159,Operating,Grinding,,0,,0,
+90,Bardhaman,West Bengal,India,Asia,Southern Asia,23.718837,86.954305,Operating,,,0,,0,
