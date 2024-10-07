@@ -1,0 +1,41 @@
+iso3_country,sector,subsector,start_time,end_time,gas,emissions_quantity,emissions_quantity_units,temporal_granularity,created_date,modified_date
+COD,waste,solid-waste-disposal,2015-01-01 00:00:00,2015-12-31 00:00:00,ch4,155250.61969999998,tonnes,annual,2023-10-10 22:40:39.354678,
+COD,waste,solid-waste-disposal,2015-01-01 00:00:00,2015-12-31 00:00:00,co2,,tonnes,annual,2023-10-10 22:40:39.35466,2023-11-17 17:09:40.459039
+COD,waste,solid-waste-disposal,2015-01-01 00:00:00,2015-12-31 00:00:00,co2e_100yr,4347017.35,tonnes,annual,2023-10-10 22:40:39.354705,
+COD,waste,solid-waste-disposal,2015-01-01 00:00:00,2015-12-31 00:00:00,co2e_20yr,13041052.05,tonnes,annual,2023-10-10 22:40:39.354717,
+COD,waste,solid-waste-disposal,2015-01-01 00:00:00,2015-12-31 00:00:00,n2o,,tonnes,annual,2023-10-10 22:40:39.354692,2023-11-17 17:09:40.459039
+COD,waste,solid-waste-disposal,2016-01-01 00:00:00,2016-12-31 00:00:00,ch4,162305.6582,tonnes,annual,2023-10-10 22:40:39.355511,
+COD,waste,solid-waste-disposal,2016-01-01 00:00:00,2016-12-31 00:00:00,co2,,tonnes,annual,2023-10-10 22:40:39.355496,2023-11-17 17:09:40.459039
+COD,waste,solid-waste-disposal,2016-01-01 00:00:00,2016-12-31 00:00:00,co2e_100yr,4544558.43,tonnes,annual,2023-10-10 22:40:39.355538,
+COD,waste,solid-waste-disposal,2016-01-01 00:00:00,2016-12-31 00:00:00,co2e_20yr,13633675.29,tonnes,annual,2023-10-10 22:40:39.355551,
+COD,waste,solid-waste-disposal,2016-01-01 00:00:00,2016-12-31 00:00:00,n2o,,tonnes,annual,2023-10-10 22:40:39.355525,2023-11-17 17:09:40.459039
+COD,waste,solid-waste-disposal,2017-01-01 00:00:00,2017-12-31 00:00:00,ch4,170173.2487,tonnes,annual,2023-10-10 22:40:39.356438,
+COD,waste,solid-waste-disposal,2017-01-01 00:00:00,2017-12-31 00:00:00,co2,,tonnes,annual,2023-10-10 22:40:39.356421,2023-11-17 17:09:40.459039
+COD,waste,solid-waste-disposal,2017-01-01 00:00:00,2017-12-31 00:00:00,co2e_100yr,4764850.96,tonnes,annual,2023-10-10 22:40:39.356466,
+COD,waste,solid-waste-disposal,2017-01-01 00:00:00,2017-12-31 00:00:00,co2e_20yr,14294552.89,tonnes,annual,2023-10-10 22:40:39.35649,
+COD,waste,solid-waste-disposal,2017-01-01 00:00:00,2017-12-31 00:00:00,n2o,,tonnes,annual,2023-10-10 22:40:39.356453,2023-11-17 17:09:40.459039
+COD,waste,solid-waste-disposal,2018-01-01 00:00:00,2018-12-31 00:00:00,ch4,180311.475,tonnes,annual,2023-10-10 22:40:39.357311,
+COD,waste,solid-waste-disposal,2018-01-01 00:00:00,2018-12-31 00:00:00,co2,,tonnes,annual,2023-10-10 22:40:39.357292,2023-11-17 17:09:40.459039
+COD,waste,solid-waste-disposal,2018-01-01 00:00:00,2018-12-31 00:00:00,co2e_100yr,5048721.3,tonnes,annual,2023-10-10 22:40:39.357347,
+COD,waste,solid-waste-disposal,2018-01-01 00:00:00,2018-12-31 00:00:00,co2e_20yr,15146163.9,tonnes,annual,2023-10-10 22:40:39.357359,
+COD,waste,solid-waste-disposal,2018-01-01 00:00:00,2018-12-31 00:00:00,n2o,,tonnes,annual,2023-10-10 22:40:39.357333,2023-11-17 17:09:40.459039
+COD,waste,solid-waste-disposal,2019-01-01 00:00:00,2019-12-31 00:00:00,ch4,189525.9515,tonnes,annual,2023-10-10 22:40:39.357982,
+COD,waste,solid-waste-disposal,2019-01-01 00:00:00,2019-12-31 00:00:00,co2,,tonnes,annual,2023-10-10 22:40:39.357971,2023-11-17 17:09:40.459039
+COD,waste,solid-waste-disposal,2019-01-01 00:00:00,2019-12-31 00:00:00,co2e_100yr,5306726.64,tonnes,annual,2023-10-10 22:40:39.357998,
+COD,waste,solid-waste-disposal,2019-01-01 00:00:00,2019-12-31 00:00:00,co2e_20yr,15920179.93,tonnes,annual,2023-10-10 22:40:39.358006,
+COD,waste,solid-waste-disposal,2019-01-01 00:00:00,2019-12-31 00:00:00,n2o,,tonnes,annual,2023-10-10 22:40:39.35799,2023-11-17 17:09:40.459039
+COD,waste,solid-waste-disposal,2020-01-01 00:00:00,2020-12-31 00:00:00,ch4,199211.3164,tonnes,annual,2023-10-10 22:40:39.358622,
+COD,waste,solid-waste-disposal,2020-01-01 00:00:00,2020-12-31 00:00:00,co2,,tonnes,annual,2023-10-10 22:40:39.35861,2023-11-17 17:09:40.459039
+COD,waste,solid-waste-disposal,2020-01-01 00:00:00,2020-12-31 00:00:00,co2e_100yr,5577916.86,tonnes,annual,2023-10-10 22:40:39.358639,
+COD,waste,solid-waste-disposal,2020-01-01 00:00:00,2020-12-31 00:00:00,co2e_20yr,16733750.58,tonnes,annual,2023-10-10 22:40:39.358647,
+COD,waste,solid-waste-disposal,2020-01-01 00:00:00,2020-12-31 00:00:00,n2o,,tonnes,annual,2023-10-10 22:40:39.358631,2023-11-17 17:09:40.459039
+COD,waste,solid-waste-disposal,2021-01-01 00:00:00,2021-12-31 00:00:00,ch4,207962.1471,tonnes,annual,2023-10-10 22:40:39.359146,
+COD,waste,solid-waste-disposal,2021-01-01 00:00:00,2021-12-31 00:00:00,co2,,tonnes,annual,2023-10-10 22:40:39.359137,2023-11-17 17:09:40.459039
+COD,waste,solid-waste-disposal,2021-01-01 00:00:00,2021-12-31 00:00:00,co2e_100yr,5822940.12,tonnes,annual,2023-10-10 22:40:39.359163,
+COD,waste,solid-waste-disposal,2021-01-01 00:00:00,2021-12-31 00:00:00,co2e_20yr,17468820.36,tonnes,annual,2023-10-10 22:40:39.35917,
+COD,waste,solid-waste-disposal,2021-01-01 00:00:00,2021-12-31 00:00:00,n2o,,tonnes,annual,2023-10-10 22:40:39.359155,2023-11-17 17:09:40.459039
+COD,waste,solid-waste-disposal,2022-01-01 00:00:00,2022-12-31 00:00:00,ch4,207962.1471,tonnes,annual,2023-10-10 22:40:39.359665,
+COD,waste,solid-waste-disposal,2022-01-01 00:00:00,2022-12-31 00:00:00,co2,,tonnes,annual,2023-10-10 22:40:39.359656,2023-11-17 17:09:40.459039
+COD,waste,solid-waste-disposal,2022-01-01 00:00:00,2022-12-31 00:00:00,co2e_100yr,5822940.12,tonnes,annual,2023-10-10 22:40:39.359682,
+COD,waste,solid-waste-disposal,2022-01-01 00:00:00,2022-12-31 00:00:00,co2e_20yr,17468820.36,tonnes,annual,2023-10-10 22:40:39.359689,
+COD,waste,solid-waste-disposal,2022-01-01 00:00:00,2022-12-31 00:00:00,n2o,,tonnes,annual,2023-10-10 22:40:39.359674,2023-11-17 17:09:40.459039

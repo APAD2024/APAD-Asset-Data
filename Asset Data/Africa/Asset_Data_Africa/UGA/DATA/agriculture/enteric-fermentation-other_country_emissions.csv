@@ -1,0 +1,41 @@
+iso3_country,sector,subsector,start_time,end_time,gas,emissions_quantity,emissions_quantity_units,temporal_granularity,created_date,modified_date
+UGA,agriculture,enteric-fermentation-other,2015-01-01 00:00:00,2015-12-31 00:00:00,ch4,82615.60000000002,tonnes,,2023-10-23 11:43:08.395355,
+UGA,agriculture,enteric-fermentation-other,2015-01-01 00:00:00,2015-12-31 00:00:00,co2,0.0,tonnes,,2023-10-23 11:43:08.395355,
+UGA,agriculture,enteric-fermentation-other,2015-01-01 00:00:00,2015-12-31 00:00:00,co2e_100yr,2313236.8000000007,tonnes,,2023-10-23 11:43:08.395355,
+UGA,agriculture,enteric-fermentation-other,2015-01-01 00:00:00,2015-12-31 00:00:00,co2e_20yr,6939710.400000001,tonnes,,2023-10-23 11:43:08.395355,
+UGA,agriculture,enteric-fermentation-other,2015-01-01 00:00:00,2015-12-31 00:00:00,n2o,0.0,tonnes,,2023-10-23 11:43:08.395355,
+UGA,agriculture,enteric-fermentation-other,2016-01-01 00:00:00,2016-12-31 00:00:00,ch4,83551.3,tonnes,,2023-10-23 11:43:08.395355,
+UGA,agriculture,enteric-fermentation-other,2016-01-01 00:00:00,2016-12-31 00:00:00,co2,0.0,tonnes,,2023-10-23 11:43:08.395355,
+UGA,agriculture,enteric-fermentation-other,2016-01-01 00:00:00,2016-12-31 00:00:00,co2e_100yr,2339436.4,tonnes,,2023-10-23 11:43:08.395355,
+UGA,agriculture,enteric-fermentation-other,2016-01-01 00:00:00,2016-12-31 00:00:00,co2e_20yr,7018309.2,tonnes,,2023-10-23 11:43:08.395355,
+UGA,agriculture,enteric-fermentation-other,2016-01-01 00:00:00,2016-12-31 00:00:00,n2o,0.0,tonnes,,2023-10-23 11:43:08.395355,
+UGA,agriculture,enteric-fermentation-other,2017-01-01 00:00:00,2017-12-31 00:00:00,ch4,84820.59999999999,tonnes,,2023-10-23 11:43:08.395355,
+UGA,agriculture,enteric-fermentation-other,2017-01-01 00:00:00,2017-12-31 00:00:00,co2,0.0,tonnes,,2023-10-23 11:43:08.395355,
+UGA,agriculture,enteric-fermentation-other,2017-01-01 00:00:00,2017-12-31 00:00:00,co2e_100yr,2374976.8,tonnes,,2023-10-23 11:43:08.395355,
+UGA,agriculture,enteric-fermentation-other,2017-01-01 00:00:00,2017-12-31 00:00:00,co2e_20yr,7124930.399999999,tonnes,,2023-10-23 11:43:08.395355,
+UGA,agriculture,enteric-fermentation-other,2017-01-01 00:00:00,2017-12-31 00:00:00,n2o,0.0,tonnes,,2023-10-23 11:43:08.395355,
+UGA,agriculture,enteric-fermentation-other,2018-01-01 00:00:00,2018-12-31 00:00:00,ch4,85820.50000000001,tonnes,,2023-10-23 11:43:08.395355,
+UGA,agriculture,enteric-fermentation-other,2018-01-01 00:00:00,2018-12-31 00:00:00,co2,0.0,tonnes,,2023-10-23 11:43:08.395355,
+UGA,agriculture,enteric-fermentation-other,2018-01-01 00:00:00,2018-12-31 00:00:00,co2e_100yr,2402974.0000000005,tonnes,,2023-10-23 11:43:08.395355,
+UGA,agriculture,enteric-fermentation-other,2018-01-01 00:00:00,2018-12-31 00:00:00,co2e_20yr,7208922.000000001,tonnes,,2023-10-23 11:43:08.395355,
+UGA,agriculture,enteric-fermentation-other,2018-01-01 00:00:00,2018-12-31 00:00:00,n2o,0.0,tonnes,,2023-10-23 11:43:08.395355,
+UGA,agriculture,enteric-fermentation-other,2019-01-01 00:00:00,2019-12-31 00:00:00,ch4,87824.70000000003,tonnes,,2023-10-23 11:43:08.395355,
+UGA,agriculture,enteric-fermentation-other,2019-01-01 00:00:00,2019-12-31 00:00:00,co2,0.0,tonnes,,2023-10-23 11:43:08.395355,
+UGA,agriculture,enteric-fermentation-other,2019-01-01 00:00:00,2019-12-31 00:00:00,co2e_100yr,2459091.600000001,tonnes,,2023-10-23 11:43:08.395355,
+UGA,agriculture,enteric-fermentation-other,2019-01-01 00:00:00,2019-12-31 00:00:00,co2e_20yr,7377274.800000003,tonnes,,2023-10-23 11:43:08.395355,
+UGA,agriculture,enteric-fermentation-other,2019-01-01 00:00:00,2019-12-31 00:00:00,n2o,0.0,tonnes,,2023-10-23 11:43:08.395355,
+UGA,agriculture,enteric-fermentation-other,2020-01-01 00:00:00,2020-12-31 00:00:00,ch4,90105.0,tonnes,,2023-10-23 11:43:08.395355,
+UGA,agriculture,enteric-fermentation-other,2020-01-01 00:00:00,2020-12-31 00:00:00,co2,0.0,tonnes,,2023-10-23 11:43:08.395355,
+UGA,agriculture,enteric-fermentation-other,2020-01-01 00:00:00,2020-12-31 00:00:00,co2e_100yr,2522940.0,tonnes,,2023-10-23 11:43:08.395355,
+UGA,agriculture,enteric-fermentation-other,2020-01-01 00:00:00,2020-12-31 00:00:00,co2e_20yr,7568820.0,tonnes,,2023-10-23 11:43:08.395355,
+UGA,agriculture,enteric-fermentation-other,2020-01-01 00:00:00,2020-12-31 00:00:00,n2o,0.0,tonnes,,2023-10-23 11:43:08.395355,
+UGA,agriculture,enteric-fermentation-other,2021-01-01 00:00:00,2021-12-31 00:00:00,ch4,90105.0,tonnes,,2023-10-23 11:43:08.395355,2023-10-23 17:49:55.147413
+UGA,agriculture,enteric-fermentation-other,2021-01-01 00:00:00,2021-12-31 00:00:00,co2,0.0,tonnes,,2023-10-23 11:43:08.395355,
+UGA,agriculture,enteric-fermentation-other,2021-01-01 00:00:00,2021-12-31 00:00:00,co2e_100yr,2522940.0,tonnes,,2023-10-23 11:43:08.395355,2023-10-23 17:49:55.147413
+UGA,agriculture,enteric-fermentation-other,2021-01-01 00:00:00,2021-12-31 00:00:00,co2e_20yr,7568820.0,tonnes,,2023-10-23 11:43:08.395355,2023-10-23 17:49:55.147413
+UGA,agriculture,enteric-fermentation-other,2021-01-01 00:00:00,2021-12-31 00:00:00,n2o,0.0,tonnes,,2023-10-23 11:43:08.395355,
+UGA,agriculture,enteric-fermentation-other,2022-01-01 00:00:00,2022-12-31 00:00:00,ch4,90105.0,tonnes,,2023-10-23 11:43:08.395355,2023-10-23 17:49:48.517126
+UGA,agriculture,enteric-fermentation-other,2022-01-01 00:00:00,2022-12-31 00:00:00,co2,0.0,tonnes,,2023-10-23 11:43:08.395355,
+UGA,agriculture,enteric-fermentation-other,2022-01-01 00:00:00,2022-12-31 00:00:00,co2e_100yr,2522940.0,tonnes,,2023-10-23 11:43:08.395355,2023-10-23 17:49:48.517126
+UGA,agriculture,enteric-fermentation-other,2022-01-01 00:00:00,2022-12-31 00:00:00,co2e_20yr,7568820.0,tonnes,,2023-10-23 11:43:08.395355,2023-10-23 17:49:48.517126
+UGA,agriculture,enteric-fermentation-other,2022-01-01 00:00:00,2022-12-31 00:00:00,n2o,0.0,tonnes,,2023-10-23 11:43:08.395355,

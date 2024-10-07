@@ -1,0 +1,41 @@
+iso3_country,sector,subsector,start_time,end_time,gas,emissions_quantity,emissions_quantity_units,temporal_granularity,created_date,modified_date
+UGA,waste,wastewater-treatment-and-discharge,2015-01-01 00:00:00,2015-12-31 00:00:00,ch4,191575.1979,tonnes,annual,2023-10-06 14:56:33.428328,2023-11-03 15:13:34.328448
+UGA,waste,wastewater-treatment-and-discharge,2015-01-01 00:00:00,2015-12-31 00:00:00,co2,0.0,tonnes,,2023-10-06 14:56:33.428328,
+UGA,waste,wastewater-treatment-and-discharge,2015-01-01 00:00:00,2015-12-31 00:00:00,co2e_100yr,5729374.902685,tonnes,annual,2023-10-06 14:56:33.428328,2023-11-03 15:13:34.328448
+UGA,waste,wastewater-treatment-and-discharge,2015-01-01 00:00:00,2015-12-31 00:00:00,co2e_20yr,16456207.610136,tonnes,annual,2023-10-06 14:56:33.428328,2023-11-03 15:13:34.328448
+UGA,waste,wastewater-treatment-and-discharge,2015-01-01 00:00:00,2015-12-31 00:00:00,n2o,1378.374949,tonnes,annual,2023-10-06 14:56:33.428328,2023-11-03 15:13:34.328448
+UGA,waste,wastewater-treatment-and-discharge,2016-01-01 00:00:00,2016-12-31 00:00:00,ch4,197885.4664,tonnes,annual,2023-10-06 14:56:33.428328,2023-11-03 15:13:28.159334
+UGA,waste,wastewater-treatment-and-discharge,2016-01-01 00:00:00,2016-12-31 00:00:00,co2,0.0,tonnes,,2023-10-06 14:56:33.428328,
+UGA,waste,wastewater-treatment-and-discharge,2016-01-01 00:00:00,2016-12-31 00:00:00,co2e_100yr,5918976.8988850005,tonnes,annual,2023-10-06 14:56:33.428328,2023-11-03 15:13:28.159334
+UGA,waste,wastewater-treatment-and-discharge,2016-01-01 00:00:00,2016-12-31 00:00:00,co2e_20yr,16999135.908456,tonnes,annual,2023-10-06 14:56:33.428328,2023-11-03 15:13:28.159334
+UGA,waste,wastewater-treatment-and-discharge,2016-01-01 00:00:00,2016-12-31 00:00:00,n2o,1427.108829,tonnes,annual,2023-10-06 14:56:33.428328,2023-11-03 15:13:28.159334
+UGA,waste,wastewater-treatment-and-discharge,2017-01-01 00:00:00,2017-12-31 00:00:00,ch4,204352.98839999997,tonnes,annual,2023-10-06 14:56:33.428328,2023-11-03 15:13:21.046751
+UGA,waste,wastewater-treatment-and-discharge,2017-01-01 00:00:00,2017-12-31 00:00:00,co2,0.0,tonnes,,2023-10-06 14:56:33.428328,
+UGA,waste,wastewater-treatment-and-discharge,2017-01-01 00:00:00,2017-12-31 00:00:00,co2e_100yr,6112601.326679999,tonnes,annual,2023-10-06 14:56:33.428328,2023-11-03 15:13:21.046751
+UGA,waste,wastewater-treatment-and-discharge,2017-01-01 00:00:00,2017-12-31 00:00:00,co2e_20yr,17554894.270848,tonnes,annual,2023-10-06 14:56:33.428328,2023-11-03 15:13:21.046751
+UGA,waste,wastewater-treatment-and-discharge,2017-01-01 00:00:00,2017-12-31 00:00:00,n2o,1474.406232,tonnes,annual,2023-10-06 14:56:33.428328,2023-11-03 15:13:21.046751
+UGA,waste,wastewater-treatment-and-discharge,2018-01-01 00:00:00,2018-12-31 00:00:00,ch4,211026.7683,tonnes,annual,2023-10-06 14:56:33.428328,2023-11-03 15:13:14.435384
+UGA,waste,wastewater-treatment-and-discharge,2018-01-01 00:00:00,2018-12-31 00:00:00,co2,0.0,tonnes,,2023-10-06 14:56:33.428328,
+UGA,waste,wastewater-treatment-and-discharge,2018-01-01 00:00:00,2018-12-31 00:00:00,co2e_100yr,6309335.981179999,tonnes,annual,2023-10-06 14:56:33.428328,2023-11-03 15:13:14.435384
+UGA,waste,wastewater-treatment-and-discharge,2018-01-01 00:00:00,2018-12-31 00:00:00,co2e_20yr,18125323.358928,tonnes,annual,2023-10-06 14:56:33.428328,2023-11-03 15:13:14.435384
+UGA,waste,wastewater-treatment-and-discharge,2018-01-01 00:00:00,2018-12-31 00:00:00,n2o,1511.647052,tonnes,annual,2023-10-06 14:56:33.428328,2023-11-03 15:13:14.435384
+UGA,waste,wastewater-treatment-and-discharge,2019-01-01 00:00:00,2019-12-31 00:00:00,ch4,217822.2035,tonnes,annual,2023-10-06 14:56:33.428328,2023-11-03 15:13:07.334776
+UGA,waste,wastewater-treatment-and-discharge,2019-01-01 00:00:00,2019-12-31 00:00:00,co2,0.0,tonnes,,2023-10-06 14:56:33.428328,
+UGA,waste,wastewater-treatment-and-discharge,2019-01-01 00:00:00,2019-12-31 00:00:00,co2e_100yr,6512650.00875,tonnes,annual,2023-10-06 14:56:33.428328,2023-11-03 15:13:07.334776
+UGA,waste,wastewater-treatment-and-discharge,2019-01-01 00:00:00,2019-12-31 00:00:00,co2e_20yr,18709132.5432,tonnes,annual,2023-10-06 14:56:33.428328,2023-11-03 15:13:07.334776
+UGA,waste,wastewater-treatment-and-discharge,2019-01-01 00:00:00,2019-12-31 00:00:00,n2o,1560.86155,tonnes,annual,2023-10-06 14:56:33.428328,2023-11-03 15:13:07.334776
+UGA,waste,wastewater-treatment-and-discharge,2020-01-01 00:00:00,2020-12-31 00:00:00,ch4,224661.2544,tonnes,annual,2023-10-06 14:56:33.428328,2023-11-03 15:13:01.214983
+UGA,waste,wastewater-treatment-and-discharge,2020-01-01 00:00:00,2020-12-31 00:00:00,co2,0.0,tonnes,,2023-10-06 14:56:33.428328,
+UGA,waste,wastewater-treatment-and-discharge,2020-01-01 00:00:00,2020-12-31 00:00:00,co2e_100yr,6717497.615254999,tonnes,annual,2023-10-06 14:56:33.428328,2023-11-03 15:13:01.214983
+UGA,waste,wastewater-treatment-and-discharge,2020-01-01 00:00:00,2020-12-31 00:00:00,co2e_20yr,19296916.606967997,tonnes,annual,2023-10-06 14:56:33.428328,2023-11-03 15:13:01.214983
+UGA,waste,wastewater-treatment-and-discharge,2020-01-01 00:00:00,2020-12-31 00:00:00,n2o,1611.254687,tonnes,annual,2023-10-06 14:56:33.428328,2023-11-03 15:13:01.214983
+UGA,waste,wastewater-treatment-and-discharge,2021-01-01 00:00:00,2021-12-31 00:00:00,ch4,231751.8404,tonnes,annual,2023-10-06 14:56:33.428328,2023-11-03 15:12:53.787192
+UGA,waste,wastewater-treatment-and-discharge,2021-01-01 00:00:00,2021-12-31 00:00:00,co2,0.0,tonnes,,2023-10-06 14:56:33.428328,
+UGA,waste,wastewater-treatment-and-discharge,2021-01-01 00:00:00,2021-12-31 00:00:00,co2e_100yr,6928376.649474999,tonnes,annual,2023-10-06 14:56:33.428328,2023-11-03 15:12:53.787192
+UGA,waste,wastewater-treatment-and-discharge,2021-01-01 00:00:00,2021-12-31 00:00:00,co2e_20yr,19904821.88124,tonnes,annual,2023-10-06 14:56:33.428328,2023-11-03 15:12:53.787192
+UGA,waste,wastewater-treatment-and-discharge,2021-01-01 00:00:00,2021-12-31 00:00:00,n2o,1657.830635,tonnes,annual,2023-10-06 14:56:33.428328,2023-11-03 15:12:53.787192
+UGA,waste,wastewater-treatment-and-discharge,2022-01-01 00:00:00,2022-12-31 00:00:00,ch4,239005.6514,tonnes,annual,2023-10-06 14:56:33.428328,2023-11-03 16:28:37.498109
+UGA,waste,wastewater-treatment-and-discharge,2022-01-01 00:00:00,2022-12-31 00:00:00,co2,0.0,tonnes,,2023-10-06 14:56:33.428328,
+UGA,waste,wastewater-treatment-and-discharge,2022-01-01 00:00:00,2022-12-31 00:00:00,co2e_100yr,7144182.76724,tonnes,annual,2023-10-06 14:56:33.428328,2023-11-03 16:28:37.498109
+UGA,waste,wastewater-treatment-and-discharge,2022-01-01 00:00:00,2022-12-31 00:00:00,co2e_20yr,20526793.492704,tonnes,annual,2023-10-06 14:56:33.428328,2023-11-03 16:28:37.498109
+UGA,waste,wastewater-treatment-and-discharge,2022-01-01 00:00:00,2022-12-31 00:00:00,n2o,1705.752936,tonnes,annual,2023-10-06 14:56:33.428328,2023-11-03 16:28:37.498109

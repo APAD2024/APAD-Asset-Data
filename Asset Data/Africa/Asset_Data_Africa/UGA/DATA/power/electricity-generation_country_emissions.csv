@@ -1,0 +1,41 @@
+iso3_country,sector,subsector,start_time,end_time,gas,emissions_quantity,emissions_quantity_units,temporal_granularity,created_date,modified_date
+UGA,power,electricity-generation,2015-01-01 00:00:00,2015-12-31 00:00:00,ch4,,tonnes,annual,2023-10-03 21:10:39.796272,
+UGA,power,electricity-generation,2015-01-01 00:00:00,2015-12-31 00:00:00,co2,153000.0,tonnes,annual,2023-10-03 21:10:39.796251,2023-10-31 20:30:14.555678
+UGA,power,electricity-generation,2015-01-01 00:00:00,2015-12-31 00:00:00,co2e_100yr,153000.0,tonnes,annual,2023-10-03 21:10:39.796301,2023-10-31 20:30:14.555678
+UGA,power,electricity-generation,2015-01-01 00:00:00,2015-12-31 00:00:00,co2e_20yr,153000.0,tonnes,annual,2023-10-03 21:10:39.796316,2023-10-31 20:30:14.555678
+UGA,power,electricity-generation,2015-01-01 00:00:00,2015-12-31 00:00:00,n2o,,tonnes,annual,2023-10-03 21:10:39.796287,
+UGA,power,electricity-generation,2016-01-01 00:00:00,2016-12-31 00:00:00,ch4,,tonnes,annual,2023-10-03 21:10:39.797124,
+UGA,power,electricity-generation,2016-01-01 00:00:00,2016-12-31 00:00:00,co2,151000.0,tonnes,annual,2023-10-03 21:10:39.797103,2023-10-31 20:30:14.555678
+UGA,power,electricity-generation,2016-01-01 00:00:00,2016-12-31 00:00:00,co2e_100yr,151000.0,tonnes,annual,2023-10-03 21:10:39.797156,2023-10-31 20:30:14.555678
+UGA,power,electricity-generation,2016-01-01 00:00:00,2016-12-31 00:00:00,co2e_20yr,151000.0,tonnes,annual,2023-10-03 21:10:39.79717,2023-10-31 20:30:14.555678
+UGA,power,electricity-generation,2016-01-01 00:00:00,2016-12-31 00:00:00,n2o,,tonnes,annual,2023-10-03 21:10:39.797141,
+UGA,power,electricity-generation,2017-01-01 00:00:00,2017-12-31 00:00:00,ch4,,tonnes,annual,2023-10-03 21:10:39.79796,
+UGA,power,electricity-generation,2017-01-01 00:00:00,2017-12-31 00:00:00,co2,130000.0,tonnes,annual,2023-10-03 21:10:39.797939,2023-10-31 20:30:14.555678
+UGA,power,electricity-generation,2017-01-01 00:00:00,2017-12-31 00:00:00,co2e_100yr,130000.0,tonnes,annual,2023-10-03 21:10:39.79799,2023-10-31 20:30:14.555678
+UGA,power,electricity-generation,2017-01-01 00:00:00,2017-12-31 00:00:00,co2e_20yr,130000.0,tonnes,annual,2023-10-03 21:10:39.798004,2023-10-31 20:30:14.555678
+UGA,power,electricity-generation,2017-01-01 00:00:00,2017-12-31 00:00:00,n2o,,tonnes,annual,2023-10-03 21:10:39.797975,
+UGA,power,electricity-generation,2018-01-01 00:00:00,2018-12-31 00:00:00,ch4,,tonnes,annual,2023-10-03 21:10:39.798804,
+UGA,power,electricity-generation,2018-01-01 00:00:00,2018-12-31 00:00:00,co2,209000.0,tonnes,annual,2023-10-03 21:10:39.798772,2023-10-31 20:30:14.555678
+UGA,power,electricity-generation,2018-01-01 00:00:00,2018-12-31 00:00:00,co2e_100yr,209000.0,tonnes,annual,2023-10-03 21:10:39.798835,2023-10-31 20:30:14.555678
+UGA,power,electricity-generation,2018-01-01 00:00:00,2018-12-31 00:00:00,co2e_20yr,209000.0,tonnes,annual,2023-10-03 21:10:39.798849,2023-10-31 20:30:14.555678
+UGA,power,electricity-generation,2018-01-01 00:00:00,2018-12-31 00:00:00,n2o,,tonnes,annual,2023-10-03 21:10:39.79882,
+UGA,power,electricity-generation,2019-01-01 00:00:00,2019-12-31 00:00:00,ch4,,tonnes,annual,2023-10-03 21:10:39.799636,
+UGA,power,electricity-generation,2019-01-01 00:00:00,2019-12-31 00:00:00,co2,60000.0,tonnes,annual,2023-10-03 21:10:39.799616,2023-10-31 20:30:14.555678
+UGA,power,electricity-generation,2019-01-01 00:00:00,2019-12-31 00:00:00,co2e_100yr,60000.0,tonnes,annual,2023-10-03 21:10:39.799666,2023-10-31 20:30:14.555678
+UGA,power,electricity-generation,2019-01-01 00:00:00,2019-12-31 00:00:00,co2e_20yr,60000.0,tonnes,annual,2023-10-03 21:10:39.79968,2023-10-31 20:30:14.555678
+UGA,power,electricity-generation,2019-01-01 00:00:00,2019-12-31 00:00:00,n2o,,tonnes,annual,2023-10-03 21:10:39.799651,
+UGA,power,electricity-generation,2020-01-01 00:00:00,2020-12-31 00:00:00,ch4,,tonnes,annual,2023-10-03 21:10:39.80049,
+UGA,power,electricity-generation,2020-01-01 00:00:00,2020-12-31 00:00:00,co2,79000.0,tonnes,annual,2023-10-03 21:10:39.80047,2023-10-31 20:30:14.555678
+UGA,power,electricity-generation,2020-01-01 00:00:00,2020-12-31 00:00:00,co2e_100yr,79000.0,tonnes,annual,2023-10-03 21:10:39.80052,2023-10-31 20:30:14.555678
+UGA,power,electricity-generation,2020-01-01 00:00:00,2020-12-31 00:00:00,co2e_20yr,79000.0,tonnes,annual,2023-10-03 21:10:39.800534,2023-10-31 20:30:14.555678
+UGA,power,electricity-generation,2020-01-01 00:00:00,2020-12-31 00:00:00,n2o,,tonnes,annual,2023-10-03 21:10:39.800506,
+UGA,power,electricity-generation,2021-01-01 00:00:00,2021-12-31 00:00:00,ch4,,tonnes,annual,2023-10-03 21:10:39.801333,
+UGA,power,electricity-generation,2021-01-01 00:00:00,2021-12-31 00:00:00,co2,81000.0,tonnes,annual,2023-10-03 21:10:39.801313,2023-10-31 20:30:14.555678
+UGA,power,electricity-generation,2021-01-01 00:00:00,2021-12-31 00:00:00,co2e_100yr,81000.0,tonnes,annual,2023-10-03 21:10:39.801363,2023-10-31 20:30:14.555678
+UGA,power,electricity-generation,2021-01-01 00:00:00,2021-12-31 00:00:00,co2e_20yr,81000.0,tonnes,annual,2023-10-03 21:10:39.801377,2023-10-31 20:30:14.555678
+UGA,power,electricity-generation,2021-01-01 00:00:00,2021-12-31 00:00:00,n2o,,tonnes,annual,2023-10-03 21:10:39.801348,
+UGA,power,electricity-generation,2022-01-01 00:00:00,2022-12-31 00:00:00,ch4,,tonnes,annual,2023-10-03 21:10:39.802168,
+UGA,power,electricity-generation,2022-01-01 00:00:00,2022-12-31 00:00:00,co2,81000.0,tonnes,annual,2023-10-03 21:10:39.802149,2023-10-31 20:30:14.555678
+UGA,power,electricity-generation,2022-01-01 00:00:00,2022-12-31 00:00:00,co2e_100yr,81000.0,tonnes,annual,2023-10-03 21:10:39.802197,2023-10-31 20:30:14.555678
+UGA,power,electricity-generation,2022-01-01 00:00:00,2022-12-31 00:00:00,co2e_20yr,81000.0,tonnes,annual,2023-10-03 21:10:39.80221,2023-10-31 20:30:14.555678
+UGA,power,electricity-generation,2022-01-01 00:00:00,2022-12-31 00:00:00,n2o,,tonnes,annual,2023-10-03 21:10:39.802182,

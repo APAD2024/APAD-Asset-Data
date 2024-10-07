@@ -1,0 +1,41 @@
+iso3_country,sector,subsector,start_time,end_time,gas,emissions_quantity,emissions_quantity_units,temporal_granularity,created_date,modified_date
+UGA,waste,solid-waste-disposal,2015-01-01 00:00:00,2015-12-31 00:00:00,ch4,11946.1192,tonnes,annual,2023-10-10 22:40:40.26311,
+UGA,waste,solid-waste-disposal,2015-01-01 00:00:00,2015-12-31 00:00:00,co2,,tonnes,annual,2023-10-10 22:40:40.2631,2023-11-17 17:09:41.000288
+UGA,waste,solid-waste-disposal,2015-01-01 00:00:00,2015-12-31 00:00:00,co2e_100yr,334491.34,tonnes,annual,2023-10-10 22:40:40.263145,
+UGA,waste,solid-waste-disposal,2015-01-01 00:00:00,2015-12-31 00:00:00,co2e_20yr,1003474.01,tonnes,annual,2023-10-10 22:40:40.263152,
+UGA,waste,solid-waste-disposal,2015-01-01 00:00:00,2015-12-31 00:00:00,n2o,,tonnes,annual,2023-10-10 22:40:40.263136,2023-11-17 17:09:41.000288
+UGA,waste,solid-waste-disposal,2016-01-01 00:00:00,2016-12-31 00:00:00,ch4,12749.01313,tonnes,annual,2023-10-10 22:40:40.263684,
+UGA,waste,solid-waste-disposal,2016-01-01 00:00:00,2016-12-31 00:00:00,co2,,tonnes,annual,2023-10-10 22:40:40.263674,2023-11-17 17:09:41.000288
+UGA,waste,solid-waste-disposal,2016-01-01 00:00:00,2016-12-31 00:00:00,co2e_100yr,356972.37,tonnes,annual,2023-10-10 22:40:40.263701,
+UGA,waste,solid-waste-disposal,2016-01-01 00:00:00,2016-12-31 00:00:00,co2e_20yr,1070917.1,tonnes,annual,2023-10-10 22:40:40.263708,
+UGA,waste,solid-waste-disposal,2016-01-01 00:00:00,2016-12-31 00:00:00,n2o,,tonnes,annual,2023-10-10 22:40:40.263692,2023-11-17 17:09:41.000288
+UGA,waste,solid-waste-disposal,2017-01-01 00:00:00,2017-12-31 00:00:00,ch4,13545.56181,tonnes,annual,2023-10-10 22:40:40.26424,
+UGA,waste,solid-waste-disposal,2017-01-01 00:00:00,2017-12-31 00:00:00,co2,,tonnes,annual,2023-10-10 22:40:40.264229,2023-11-17 17:09:41.000288
+UGA,waste,solid-waste-disposal,2017-01-01 00:00:00,2017-12-31 00:00:00,co2e_100yr,379275.73,tonnes,annual,2023-10-10 22:40:40.264257,
+UGA,waste,solid-waste-disposal,2017-01-01 00:00:00,2017-12-31 00:00:00,co2e_20yr,1137827.19,tonnes,annual,2023-10-10 22:40:40.264266,
+UGA,waste,solid-waste-disposal,2017-01-01 00:00:00,2017-12-31 00:00:00,n2o,,tonnes,annual,2023-10-10 22:40:40.264248,2023-11-17 17:09:41.000288
+UGA,waste,solid-waste-disposal,2018-01-01 00:00:00,2018-12-31 00:00:00,ch4,14481.09644,tonnes,annual,2023-10-10 22:40:40.264902,
+UGA,waste,solid-waste-disposal,2018-01-01 00:00:00,2018-12-31 00:00:00,co2,,tonnes,annual,2023-10-10 22:40:40.264891,2023-11-17 17:09:41.000288
+UGA,waste,solid-waste-disposal,2018-01-01 00:00:00,2018-12-31 00:00:00,co2e_100yr,405470.7,tonnes,annual,2023-10-10 22:40:40.264919,
+UGA,waste,solid-waste-disposal,2018-01-01 00:00:00,2018-12-31 00:00:00,co2e_20yr,1216412.1,tonnes,annual,2023-10-10 22:40:40.264926,
+UGA,waste,solid-waste-disposal,2018-01-01 00:00:00,2018-12-31 00:00:00,n2o,,tonnes,annual,2023-10-10 22:40:40.26491,2023-11-17 17:09:41.000288
+UGA,waste,solid-waste-disposal,2019-01-01 00:00:00,2019-12-31 00:00:00,ch4,15279.93961,tonnes,annual,2023-10-10 22:40:40.265457,
+UGA,waste,solid-waste-disposal,2019-01-01 00:00:00,2019-12-31 00:00:00,co2,,tonnes,annual,2023-10-10 22:40:40.265446,2023-11-17 17:09:41.000288
+UGA,waste,solid-waste-disposal,2019-01-01 00:00:00,2019-12-31 00:00:00,co2e_100yr,427838.31,tonnes,annual,2023-10-10 22:40:40.265482,
+UGA,waste,solid-waste-disposal,2019-01-01 00:00:00,2019-12-31 00:00:00,co2e_20yr,1283514.93,tonnes,annual,2023-10-10 22:40:40.26549,
+UGA,waste,solid-waste-disposal,2019-01-01 00:00:00,2019-12-31 00:00:00,n2o,,tonnes,annual,2023-10-10 22:40:40.265474,2023-11-17 17:09:41.000288
+UGA,waste,solid-waste-disposal,2020-01-01 00:00:00,2020-12-31 00:00:00,ch4,16122.8506,tonnes,annual,2023-10-10 22:40:40.266011,
+UGA,waste,solid-waste-disposal,2020-01-01 00:00:00,2020-12-31 00:00:00,co2,,tonnes,annual,2023-10-10 22:40:40.266001,2023-11-17 17:09:41.000288
+UGA,waste,solid-waste-disposal,2020-01-01 00:00:00,2020-12-31 00:00:00,co2e_100yr,451439.82,tonnes,annual,2023-10-10 22:40:40.266028,
+UGA,waste,solid-waste-disposal,2020-01-01 00:00:00,2020-12-31 00:00:00,co2e_20yr,1354319.45,tonnes,annual,2023-10-10 22:40:40.266036,
+UGA,waste,solid-waste-disposal,2020-01-01 00:00:00,2020-12-31 00:00:00,n2o,,tonnes,annual,2023-10-10 22:40:40.26602,2023-11-17 17:09:41.000288
+UGA,waste,solid-waste-disposal,2021-01-01 00:00:00,2021-12-31 00:00:00,ch4,16957.87357,tonnes,annual,2023-10-10 22:40:40.266694,
+UGA,waste,solid-waste-disposal,2021-01-01 00:00:00,2021-12-31 00:00:00,co2,,tonnes,annual,2023-10-10 22:40:40.266683,2023-11-17 17:09:41.000288
+UGA,waste,solid-waste-disposal,2021-01-01 00:00:00,2021-12-31 00:00:00,co2e_100yr,474820.46,tonnes,annual,2023-10-10 22:40:40.26671,
+UGA,waste,solid-waste-disposal,2021-01-01 00:00:00,2021-12-31 00:00:00,co2e_20yr,1424461.38,tonnes,annual,2023-10-10 22:40:40.266718,
+UGA,waste,solid-waste-disposal,2021-01-01 00:00:00,2021-12-31 00:00:00,n2o,,tonnes,annual,2023-10-10 22:40:40.266702,2023-11-17 17:09:41.000288
+UGA,waste,solid-waste-disposal,2022-01-01 00:00:00,2022-12-31 00:00:00,ch4,16957.87357,tonnes,annual,2023-10-10 22:40:40.267254,
+UGA,waste,solid-waste-disposal,2022-01-01 00:00:00,2022-12-31 00:00:00,co2,,tonnes,annual,2023-10-10 22:40:40.267245,2023-11-17 17:09:41.000288
+UGA,waste,solid-waste-disposal,2022-01-01 00:00:00,2022-12-31 00:00:00,co2e_100yr,474820.46,tonnes,annual,2023-10-10 22:40:40.267272,
+UGA,waste,solid-waste-disposal,2022-01-01 00:00:00,2022-12-31 00:00:00,co2e_20yr,1424461.38,tonnes,annual,2023-10-10 22:40:40.267279,
+UGA,waste,solid-waste-disposal,2022-01-01 00:00:00,2022-12-31 00:00:00,n2o,,tonnes,annual,2023-10-10 22:40:40.267263,2023-11-17 17:09:41.000288

@@ -1,0 +1,6 @@
+iso3_country,sector,subsector,start_time,end_time,gas,emissions_quantity,emissions_quantity_units,temporal_granularity,created_date,modified_date
+GHA,manufacturing,petrochemicals,2022-01-01 00:00:00,2022-12-31 00:00:00,ch4,0.0,tonnes,annual,2023-11-13 18:37:04.238163,
+GHA,manufacturing,petrochemicals,2022-01-01 00:00:00,2022-12-31 00:00:00,co2,0.0,tonnes,annual,2023-11-13 18:37:04.238154,
+GHA,manufacturing,petrochemicals,2022-01-01 00:00:00,2022-12-31 00:00:00,co2e_100yr,0.0,tonnes,annual,2023-11-13 18:37:04.238181,
+GHA,manufacturing,petrochemicals,2022-01-01 00:00:00,2022-12-31 00:00:00,co2e_20yr,0.0,tonnes,annual,2023-11-13 18:37:04.238189,
+GHA,manufacturing,petrochemicals,2022-01-01 00:00:00,2022-12-31 00:00:00,n2o,,tonnes,annual,2023-11-13 18:37:04.238173,

@@ -1,0 +1,41 @@
+iso3_country,sector,subsector,start_time,end_time,gas,emissions_quantity,emissions_quantity_units,temporal_granularity,created_date,modified_date
+GHA,power,electricity-generation,2015-01-01 00:00:00,2015-12-31 00:00:00,ch4,,tonnes,annual,2023-10-03 21:10:38.932373,
+GHA,power,electricity-generation,2015-01-01 00:00:00,2015-12-31 00:00:00,co2,3074000.0,tonnes,annual,2023-10-03 21:10:38.932361,2023-10-31 20:30:14.124514
+GHA,power,electricity-generation,2015-01-01 00:00:00,2015-12-31 00:00:00,co2e_100yr,3074000.0,tonnes,annual,2023-10-03 21:10:38.93239,2023-10-31 20:30:14.124514
+GHA,power,electricity-generation,2015-01-01 00:00:00,2015-12-31 00:00:00,co2e_20yr,3074000.0,tonnes,annual,2023-10-03 21:10:38.932397,2023-10-31 20:30:14.124514
+GHA,power,electricity-generation,2015-01-01 00:00:00,2015-12-31 00:00:00,n2o,,tonnes,annual,2023-10-03 21:10:38.932382,
+GHA,power,electricity-generation,2016-01-01 00:00:00,2016-12-31 00:00:00,ch4,,tonnes,annual,2023-10-03 21:10:38.932909,
+GHA,power,electricity-generation,2016-01-01 00:00:00,2016-12-31 00:00:00,co2,3242000.0,tonnes,annual,2023-10-03 21:10:38.932896,2023-10-31 20:30:14.124514
+GHA,power,electricity-generation,2016-01-01 00:00:00,2016-12-31 00:00:00,co2e_100yr,3242000.0,tonnes,annual,2023-10-03 21:10:38.932925,2023-10-31 20:30:14.124514
+GHA,power,electricity-generation,2016-01-01 00:00:00,2016-12-31 00:00:00,co2e_20yr,3242000.0,tonnes,annual,2023-10-03 21:10:38.932933,2023-10-31 20:30:14.124514
+GHA,power,electricity-generation,2016-01-01 00:00:00,2016-12-31 00:00:00,n2o,,tonnes,annual,2023-10-03 21:10:38.932917,
+GHA,power,electricity-generation,2017-01-01 00:00:00,2017-12-31 00:00:00,ch4,,tonnes,annual,2023-10-03 21:10:38.93359,
+GHA,power,electricity-generation,2017-01-01 00:00:00,2017-12-31 00:00:00,co2,4061000.0,tonnes,annual,2023-10-03 21:10:38.933572,2023-10-31 20:30:14.124514
+GHA,power,electricity-generation,2017-01-01 00:00:00,2017-12-31 00:00:00,co2e_100yr,4061000.0,tonnes,annual,2023-10-03 21:10:38.933609,2023-10-31 20:30:14.124514
+GHA,power,electricity-generation,2017-01-01 00:00:00,2017-12-31 00:00:00,co2e_20yr,4061000.0,tonnes,annual,2023-10-03 21:10:38.933617,2023-10-31 20:30:14.124514
+GHA,power,electricity-generation,2017-01-01 00:00:00,2017-12-31 00:00:00,n2o,,tonnes,annual,2023-10-03 21:10:38.9336,
+GHA,power,electricity-generation,2018-01-01 00:00:00,2018-12-31 00:00:00,ch4,,tonnes,annual,2023-10-03 21:10:38.934188,
+GHA,power,electricity-generation,2018-01-01 00:00:00,2018-12-31 00:00:00,co2,4751000.0,tonnes,annual,2023-10-03 21:10:38.934175,2023-10-31 20:30:14.124514
+GHA,power,electricity-generation,2018-01-01 00:00:00,2018-12-31 00:00:00,co2e_100yr,4751000.0,tonnes,annual,2023-10-03 21:10:38.934206,2023-10-31 20:30:14.124514
+GHA,power,electricity-generation,2018-01-01 00:00:00,2018-12-31 00:00:00,co2e_20yr,4751000.0,tonnes,annual,2023-10-03 21:10:38.934215,2023-10-31 20:30:14.124514
+GHA,power,electricity-generation,2018-01-01 00:00:00,2018-12-31 00:00:00,n2o,,tonnes,annual,2023-10-03 21:10:38.934196,
+GHA,power,electricity-generation,2019-01-01 00:00:00,2019-12-31 00:00:00,ch4,,tonnes,annual,2023-10-03 21:10:38.934744,
+GHA,power,electricity-generation,2019-01-01 00:00:00,2019-12-31 00:00:00,co2,5378000.0,tonnes,annual,2023-10-03 21:10:38.934731,2023-10-31 20:30:14.124514
+GHA,power,electricity-generation,2019-01-01 00:00:00,2019-12-31 00:00:00,co2e_100yr,5378000.0,tonnes,annual,2023-10-03 21:10:38.934761,2023-10-31 20:30:14.124514
+GHA,power,electricity-generation,2019-01-01 00:00:00,2019-12-31 00:00:00,co2e_20yr,5378000.0,tonnes,annual,2023-10-03 21:10:38.934768,2023-10-31 20:30:14.124514
+GHA,power,electricity-generation,2019-01-01 00:00:00,2019-12-31 00:00:00,n2o,,tonnes,annual,2023-10-03 21:10:38.934752,
+GHA,power,electricity-generation,2020-01-01 00:00:00,2020-12-31 00:00:00,ch4,,tonnes,annual,2023-10-03 21:10:38.935286,
+GHA,power,electricity-generation,2020-01-01 00:00:00,2020-12-31 00:00:00,co2,7360000.0,tonnes,annual,2023-10-03 21:10:38.935274,2023-10-31 20:30:14.124514
+GHA,power,electricity-generation,2020-01-01 00:00:00,2020-12-31 00:00:00,co2e_100yr,7360000.0,tonnes,annual,2023-10-03 21:10:38.935305,2023-10-31 20:30:14.124514
+GHA,power,electricity-generation,2020-01-01 00:00:00,2020-12-31 00:00:00,co2e_20yr,7360000.0,tonnes,annual,2023-10-03 21:10:38.935312,2023-10-31 20:30:14.124514
+GHA,power,electricity-generation,2020-01-01 00:00:00,2020-12-31 00:00:00,n2o,,tonnes,annual,2023-10-03 21:10:38.935295,
+GHA,power,electricity-generation,2021-01-01 00:00:00,2021-12-31 00:00:00,ch4,,tonnes,annual,2023-10-03 21:10:38.935841,
+GHA,power,electricity-generation,2021-01-01 00:00:00,2021-12-31 00:00:00,co2,7767000.0,tonnes,annual,2023-10-03 21:10:38.935828,2023-10-31 20:30:14.124514
+GHA,power,electricity-generation,2021-01-01 00:00:00,2021-12-31 00:00:00,co2e_100yr,7767000.0,tonnes,annual,2023-10-03 21:10:38.935857,2023-10-31 20:30:14.124514
+GHA,power,electricity-generation,2021-01-01 00:00:00,2021-12-31 00:00:00,co2e_20yr,7767000.0,tonnes,annual,2023-10-03 21:10:38.935864,2023-10-31 20:30:14.124514
+GHA,power,electricity-generation,2021-01-01 00:00:00,2021-12-31 00:00:00,n2o,,tonnes,annual,2023-10-03 21:10:38.935849,
+GHA,power,electricity-generation,2022-01-01 00:00:00,2022-12-31 00:00:00,ch4,,tonnes,annual,2023-10-03 21:10:38.936374,
+GHA,power,electricity-generation,2022-01-01 00:00:00,2022-12-31 00:00:00,co2,8379000.0,tonnes,annual,2023-10-03 21:10:38.936361,2023-10-31 20:30:14.124514
+GHA,power,electricity-generation,2022-01-01 00:00:00,2022-12-31 00:00:00,co2e_100yr,8379000.0,tonnes,annual,2023-10-03 21:10:38.93639,2023-10-31 20:30:14.124514
+GHA,power,electricity-generation,2022-01-01 00:00:00,2022-12-31 00:00:00,co2e_20yr,8379000.0,tonnes,annual,2023-10-03 21:10:38.936397,2023-10-31 20:30:14.124514
+GHA,power,electricity-generation,2022-01-01 00:00:00,2022-12-31 00:00:00,n2o,,tonnes,annual,2023-10-03 21:10:38.936382,

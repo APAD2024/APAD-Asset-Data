@@ -1,0 +1,3 @@
+source_id,source_name,iso3_country,sector,subsector,relationship,ultimate_parent_name,ultimate_parent_id,percent_interest_parent,company_name,company_id,percent_interest_company,interest_units,start_date,end_date,created_date,modified_date,percent_company_datasource,percent_parent_datasource
+25494198,Greater Jubilee,GHA,fossil-fuel-operations,oil-and-gas-production-and-transport,operator,Tullow Oil,200000000612,,Tullow Oil,200000000612,100,,2022-01-01 00:00:00,2022-12-31 00:00:00,2023-12-18 12:32:22.361805,2023-12-19 17:24:21.095354,,
+25494496,Sankofa,GHA,fossil-fuel-operations,oil-and-gas-production-and-transport,operator,Eni,200000000191,,Eni,200000000191,100,,2022-01-01 00:00:00,2022-12-31 00:00:00,2023-12-18 12:32:22.381387,2023-12-19 17:24:21.095354,,

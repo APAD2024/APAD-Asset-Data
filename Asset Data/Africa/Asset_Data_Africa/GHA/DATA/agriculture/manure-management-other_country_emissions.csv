@@ -1,0 +1,41 @@
+iso3_country,sector,subsector,start_time,end_time,gas,emissions_quantity,emissions_quantity_units,temporal_granularity,created_date,modified_date
+GHA,agriculture,manure-management-other,2015-01-01 00:00:00,2015-12-31 00:00:00,ch4,4661.5,tonnes,,2023-10-23 11:43:08.395355,
+GHA,agriculture,manure-management-other,2015-01-01 00:00:00,2015-12-31 00:00:00,co2,0.0,tonnes,,2023-10-23 11:43:08.395355,
+GHA,agriculture,manure-management-other,2015-01-01 00:00:00,2015-12-31 00:00:00,co2e_100yr,232891.5,tonnes,,2023-10-23 11:43:08.395355,
+GHA,agriculture,manure-management-other,2015-01-01 00:00:00,2015-12-31 00:00:00,co2e_20yr,493549.1999999999,tonnes,,2023-10-23 11:43:08.395355,
+GHA,agriculture,manure-management-other,2015-01-01 00:00:00,2015-12-31 00:00:00,n2o,386.2999999999999,tonnes,,2023-10-23 11:43:08.395355,
+GHA,agriculture,manure-management-other,2016-01-01 00:00:00,2016-12-31 00:00:00,ch4,4895.5,tonnes,,2023-10-23 11:43:08.395355,
+GHA,agriculture,manure-management-other,2016-01-01 00:00:00,2016-12-31 00:00:00,co2,0.0,tonnes,,2023-10-23 11:43:08.395355,
+GHA,agriculture,manure-management-other,2016-01-01 00:00:00,2016-12-31 00:00:00,co2e_100yr,245538.5,tonnes,,2023-10-23 11:43:08.395355,
+GHA,agriculture,manure-management-other,2016-01-01 00:00:00,2016-12-31 00:00:00,co2e_20yr,519277.2,tonnes,,2023-10-23 11:43:08.395355,
+GHA,agriculture,manure-management-other,2016-01-01 00:00:00,2016-12-31 00:00:00,n2o,409.3,tonnes,,2023-10-23 11:43:08.395355,
+GHA,agriculture,manure-management-other,2017-01-01 00:00:00,2017-12-31 00:00:00,ch4,5112.500000000001,tonnes,,2023-10-23 11:43:08.395355,
+GHA,agriculture,manure-management-other,2017-01-01 00:00:00,2017-12-31 00:00:00,co2,0.0,tonnes,,2023-10-23 11:43:08.395355,
+GHA,agriculture,manure-management-other,2017-01-01 00:00:00,2017-12-31 00:00:00,co2e_100yr,256755.50000000003,tonnes,,2023-10-23 11:43:08.395355,
+GHA,agriculture,manure-management-other,2017-01-01 00:00:00,2017-12-31 00:00:00,co2e_20yr,542626.8,tonnes,,2023-10-23 11:43:08.395355,
+GHA,agriculture,manure-management-other,2017-01-01 00:00:00,2017-12-31 00:00:00,n2o,428.7,tonnes,,2023-10-23 11:43:08.395355,
+GHA,agriculture,manure-management-other,2018-01-01 00:00:00,2018-12-31 00:00:00,ch4,5323.2,tonnes,,2023-10-23 11:43:08.395355,
+GHA,agriculture,manure-management-other,2018-01-01 00:00:00,2018-12-31 00:00:00,co2,0.0,tonnes,,2023-10-23 11:43:08.395355,
+GHA,agriculture,manure-management-other,2018-01-01 00:00:00,2018-12-31 00:00:00,co2e_100yr,261038.6,tonnes,,2023-10-23 11:43:08.395355,
+GHA,agriculture,manure-management-other,2018-01-01 00:00:00,2018-12-31 00:00:00,co2e_20yr,558715.2,tonnes,,2023-10-23 11:43:08.395355,
+GHA,agriculture,manure-management-other,2018-01-01 00:00:00,2018-12-31 00:00:00,n2o,422.6,tonnes,,2023-10-23 11:43:08.395355,
+GHA,agriculture,manure-management-other,2019-01-01 00:00:00,2019-12-31 00:00:00,ch4,5554.3,tonnes,,2023-10-23 11:43:08.395355,
+GHA,agriculture,manure-management-other,2019-01-01 00:00:00,2019-12-31 00:00:00,co2,0.0,tonnes,,2023-10-23 11:43:08.395355,
+GHA,agriculture,manure-management-other,2019-01-01 00:00:00,2019-12-31 00:00:00,co2e_100yr,265998.9,tonnes,,2023-10-23 11:43:08.395355,
+GHA,agriculture,manure-management-other,2019-01-01 00:00:00,2019-12-31 00:00:00,co2e_20yr,576622.8,tonnes,,2023-10-23 11:43:08.395355,
+GHA,agriculture,manure-management-other,2019-01-01 00:00:00,2019-12-31 00:00:00,n2o,416.9,tonnes,,2023-10-23 11:43:08.395355,
+GHA,agriculture,manure-management-other,2020-01-01 00:00:00,2020-12-31 00:00:00,ch4,5769.800000000001,tonnes,,2023-10-23 11:43:08.395355,
+GHA,agriculture,manure-management-other,2020-01-01 00:00:00,2020-12-31 00:00:00,co2,0.0,tonnes,,2023-10-23 11:43:08.395355,
+GHA,agriculture,manure-management-other,2020-01-01 00:00:00,2020-12-31 00:00:00,co2e_100yr,272165.4,tonnes,,2023-10-23 11:43:08.395355,
+GHA,agriculture,manure-management-other,2020-01-01 00:00:00,2020-12-31 00:00:00,co2e_20yr,594856.8,tonnes,,2023-10-23 11:43:08.395355,
+GHA,agriculture,manure-management-other,2020-01-01 00:00:00,2020-12-31 00:00:00,n2o,417.4,tonnes,,2023-10-23 11:43:08.395355,
+GHA,agriculture,manure-management-other,2021-01-01 00:00:00,2021-12-31 00:00:00,ch4,5769.800000000001,tonnes,,2023-10-23 11:43:08.395355,2023-10-23 17:49:51.218197
+GHA,agriculture,manure-management-other,2021-01-01 00:00:00,2021-12-31 00:00:00,co2,0.0,tonnes,,2023-10-23 11:43:08.395355,
+GHA,agriculture,manure-management-other,2021-01-01 00:00:00,2021-12-31 00:00:00,co2e_100yr,272165.4,tonnes,,2023-10-23 11:43:08.395355,2023-10-23 17:49:51.218197
+GHA,agriculture,manure-management-other,2021-01-01 00:00:00,2021-12-31 00:00:00,co2e_20yr,594856.8,tonnes,,2023-10-23 11:43:08.395355,2023-10-23 17:49:51.218197
+GHA,agriculture,manure-management-other,2021-01-01 00:00:00,2021-12-31 00:00:00,n2o,417.4,tonnes,,2023-10-23 11:43:08.395355,2023-10-23 17:49:51.218197
+GHA,agriculture,manure-management-other,2022-01-01 00:00:00,2022-12-31 00:00:00,ch4,5769.800000000001,tonnes,,2023-10-23 11:43:08.395355,2023-10-23 17:49:44.556822
+GHA,agriculture,manure-management-other,2022-01-01 00:00:00,2022-12-31 00:00:00,co2,0.0,tonnes,,2023-10-23 11:43:08.395355,
+GHA,agriculture,manure-management-other,2022-01-01 00:00:00,2022-12-31 00:00:00,co2e_100yr,272165.4,tonnes,,2023-10-23 11:43:08.395355,2023-10-23 17:49:44.556822
+GHA,agriculture,manure-management-other,2022-01-01 00:00:00,2022-12-31 00:00:00,co2e_20yr,594856.8,tonnes,,2023-10-23 11:43:08.395355,2023-10-23 17:49:44.556822
+GHA,agriculture,manure-management-other,2022-01-01 00:00:00,2022-12-31 00:00:00,n2o,417.4,tonnes,,2023-10-23 11:43:08.395355,2023-10-23 17:49:44.556822

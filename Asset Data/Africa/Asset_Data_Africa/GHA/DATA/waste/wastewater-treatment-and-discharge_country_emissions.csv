@@ -1,0 +1,41 @@
+iso3_country,sector,subsector,start_time,end_time,gas,emissions_quantity,emissions_quantity_units,temporal_granularity,created_date,modified_date
+GHA,waste,wastewater-treatment-and-discharge,2015-01-01 00:00:00,2015-12-31 00:00:00,ch4,139833.84050000002,tonnes,annual,2023-10-06 14:56:33.428328,2023-11-03 15:13:30.621236
+GHA,waste,wastewater-treatment-and-discharge,2015-01-01 00:00:00,2015-12-31 00:00:00,co2,0.0,tonnes,,2023-10-06 14:56:33.428328,
+GHA,waste,wastewater-treatment-and-discharge,2015-01-01 00:00:00,2015-12-31 00:00:00,co2e_100yr,4190306.9365150006,tonnes,annual,2023-10-06 14:56:33.428328,2023-11-03 15:13:30.621236
+GHA,waste,wastewater-treatment-and-discharge,2015-01-01 00:00:00,2015-12-31 00:00:00,co2e_20yr,12019964.421864,tonnes,annual,2023-10-06 14:56:33.428328,2023-11-03 15:13:30.621236
+GHA,waste,wastewater-treatment-and-discharge,2015-01-01 00:00:00,2015-12-31 00:00:00,n2o,1037.582651,tonnes,annual,2023-10-06 14:56:33.428328,2023-11-03 15:13:30.621236
+GHA,waste,wastewater-treatment-and-discharge,2016-01-01 00:00:00,2016-12-31 00:00:00,ch4,143106.717,tonnes,annual,2023-10-06 14:56:33.428328,2023-11-03 15:13:23.90079
+GHA,waste,wastewater-treatment-and-discharge,2016-01-01 00:00:00,2016-12-31 00:00:00,co2,0.0,tonnes,,2023-10-06 14:56:33.428328,
+GHA,waste,wastewater-treatment-and-discharge,2016-01-01 00:00:00,2016-12-31 00:00:00,co2e_100yr,4286751.50213,tonnes,annual,2023-10-06 14:56:33.428328,2023-11-03 15:13:23.90079
+GHA,waste,wastewater-treatment-and-discharge,2016-01-01 00:00:00,2016-12-31 00:00:00,co2e_20yr,12299671.943088,tonnes,annual,2023-10-06 14:56:33.428328,2023-11-03 15:13:23.90079
+GHA,waste,wastewater-treatment-and-discharge,2016-01-01 00:00:00,2016-12-31 00:00:00,n2o,1055.711042,tonnes,annual,2023-10-06 14:56:33.428328,2023-11-03 15:13:23.90079
+GHA,waste,wastewater-treatment-and-discharge,2017-01-01 00:00:00,2017-12-31 00:00:00,ch4,146435.0795,tonnes,annual,2023-10-06 14:56:33.428328,2023-11-03 15:13:16.963286
+GHA,waste,wastewater-treatment-and-discharge,2017-01-01 00:00:00,2017-12-31 00:00:00,co2,0.0,tonnes,,2023-10-06 14:56:33.428328,
+GHA,waste,wastewater-treatment-and-discharge,2017-01-01 00:00:00,2017-12-31 00:00:00,co2e_100yr,4389539.287335,tonnes,annual,2023-10-06 14:56:33.428328,2023-11-03 15:13:16.963286
+GHA,waste,wastewater-treatment-and-discharge,2017-01-01 00:00:00,2017-12-31 00:00:00,co2e_20yr,12588811.825896,tonnes,annual,2023-10-06 14:56:33.428328,2023-11-03 15:13:16.963286
+GHA,waste,wastewater-treatment-and-discharge,2017-01-01 00:00:00,2017-12-31 00:00:00,n2o,1091.9134390000002,tonnes,annual,2023-10-06 14:56:33.428328,2023-11-03 15:13:16.963286
+GHA,waste,wastewater-treatment-and-discharge,2018-01-01 00:00:00,2018-12-31 00:00:00,ch4,149792.0743,tonnes,annual,2023-10-06 14:56:33.428328,2023-11-03 15:13:10.421192
+GHA,waste,wastewater-treatment-and-discharge,2018-01-01 00:00:00,2018-12-31 00:00:00,co2,0.0,tonnes,,2023-10-06 14:56:33.428328,
+GHA,waste,wastewater-treatment-and-discharge,2018-01-01 00:00:00,2018-12-31 00:00:00,co2e_100yr,4494785.879445001,tonnes,annual,2023-10-06 14:56:33.428328,2023-11-03 15:13:10.421192
+GHA,waste,wastewater-treatment-and-discharge,2018-01-01 00:00:00,2018-12-31 00:00:00,co2e_20yr,12882007.671192,tonnes,annual,2023-10-06 14:56:33.428328,2023-11-03 15:13:10.421192
+GHA,waste,wastewater-treatment-and-discharge,2018-01-01 00:00:00,2018-12-31 00:00:00,n2o,1134.369053,tonnes,annual,2023-10-06 14:56:33.428328,2023-11-03 15:13:10.421192
+GHA,waste,wastewater-treatment-and-discharge,2019-01-01 00:00:00,2019-12-31 00:00:00,ch4,153129.7424,tonnes,annual,2023-10-06 14:56:33.428328,2023-11-03 15:13:03.667502
+GHA,waste,wastewater-treatment-and-discharge,2019-01-01 00:00:00,2019-12-31 00:00:00,co2,0.0,tonnes,,2023-10-06 14:56:33.428328,
+GHA,waste,wastewater-treatment-and-discharge,2019-01-01 00:00:00,2019-12-31 00:00:00,co2e_100yr,4601749.70722,tonnes,annual,2023-10-06 14:56:33.428328,2023-11-03 15:13:03.667502
+GHA,waste,wastewater-treatment-and-discharge,2019-01-01 00:00:00,2019-12-31 00:00:00,co2e_20yr,13175829.934752,tonnes,annual,2023-10-06 14:56:33.428328,2023-11-03 15:13:03.667502
+GHA,waste,wastewater-treatment-and-discharge,2019-01-01 00:00:00,2019-12-31 00:00:00,n2o,1185.346868,tonnes,annual,2023-10-06 14:56:33.428328,2023-11-03 15:13:03.667502
+GHA,waste,wastewater-treatment-and-discharge,2020-01-01 00:00:00,2020-12-31 00:00:00,ch4,156484.0212,tonnes,annual,2023-10-06 14:56:33.428328,2023-11-03 15:12:56.579583
+GHA,waste,wastewater-treatment-and-discharge,2020-01-01 00:00:00,2020-12-31 00:00:00,co2,0.0,tonnes,,2023-10-06 14:56:33.428328,
+GHA,waste,wastewater-treatment-and-discharge,2020-01-01 00:00:00,2020-12-31 00:00:00,co2e_100yr,4713624.4791749995,tonnes,annual,2023-10-06 14:56:33.428328,2023-11-03 15:12:56.579583
+GHA,waste,wastewater-treatment-and-discharge,2020-01-01 00:00:00,2020-12-31 00:00:00,co2e_20yr,13475476.56492,tonnes,annual,2023-10-06 14:56:33.428328,2023-11-03 15:12:56.579583
+GHA,waste,wastewater-treatment-and-discharge,2020-01-01 00:00:00,2020-12-31 00:00:00,n2o,1253.101455,tonnes,annual,2023-10-06 14:56:33.428328,2023-11-03 15:12:56.579583
+GHA,waste,wastewater-treatment-and-discharge,2021-01-01 00:00:00,2021-12-31 00:00:00,ch4,159879.5234,tonnes,annual,2023-10-06 14:56:33.428328,2023-11-03 15:12:50.048188
+GHA,waste,wastewater-treatment-and-discharge,2021-01-01 00:00:00,2021-12-31 00:00:00,co2,0.0,tonnes,,2023-10-06 14:56:33.428328,
+GHA,waste,wastewater-treatment-and-discharge,2021-01-01 00:00:00,2021-12-31 00:00:00,co2e_100yr,4820121.03744,tonnes,annual,2023-10-06 14:56:33.428328,2023-11-03 15:12:50.048188
+GHA,waste,wastewater-treatment-and-discharge,2021-01-01 00:00:00,2021-12-31 00:00:00,co2e_20yr,13772078.142624,tonnes,annual,2023-10-06 14:56:33.428328,2023-11-03 15:12:50.048188
+GHA,waste,wastewater-treatment-and-discharge,2021-01-01 00:00:00,2021-12-31 00:00:00,n2o,1296.2052159999998,tonnes,annual,2023-10-06 14:56:33.428328,2023-11-03 15:12:50.048188
+GHA,waste,wastewater-treatment-and-discharge,2022-01-01 00:00:00,2022-12-31 00:00:00,ch4,163297.47040000002,tonnes,annual,2023-10-06 14:56:33.428328,2023-11-03 16:28:32.491412
+GHA,waste,wastewater-treatment-and-discharge,2022-01-01 00:00:00,2022-12-31 00:00:00,co2,0.0,tonnes,,2023-10-06 14:56:33.428328,
+GHA,waste,wastewater-treatment-and-discharge,2022-01-01 00:00:00,2022-12-31 00:00:00,co2e_100yr,4927638.957125001,tonnes,annual,2023-10-06 14:56:33.428328,2023-11-03 16:28:32.491412
+GHA,waste,wastewater-treatment-and-discharge,2022-01-01 00:00:00,2022-12-31 00:00:00,co2e_20yr,14070956.50788,tonnes,annual,2023-10-06 14:56:33.428328,2023-11-03 16:28:32.491412
+GHA,waste,wastewater-treatment-and-discharge,2022-01-01 00:00:00,2022-12-31 00:00:00,n2o,1340.791645,tonnes,annual,2023-10-06 14:56:33.428328,2023-11-03 16:28:32.491412

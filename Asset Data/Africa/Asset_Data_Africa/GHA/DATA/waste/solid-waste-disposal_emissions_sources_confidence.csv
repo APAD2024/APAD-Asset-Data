@@ -1,0 +1,21 @@
+source_id,source_name,iso3_country,sector,subsector,start_time,end_time,source_type,capacity,capacity_factor,activity,co2_emissions_factor,ch4_emissions_factor,n2o_emissions_factor,co2_emissions,ch4_emissions,n2o_emissions,total_co2e_20yrgwp,created_date,modified_date,total_co2e_100yrgwp
+25778117,Agbogbloshie,GHA,waste,solid-waste-disposal,2021-01-01 00:00:00,2021-12-31 00:00:00,high,medium,,low,low,,,low,,,low,2023-11-08 00:00:00,,low
+25778117,Agbogbloshie,GHA,waste,solid-waste-disposal,2022-01-01 00:00:00,2022-12-31 00:00:00,high,medium,,low,low,,,low,,,low,2023-11-08 00:00:00,,low
+25773762,OpenStreetMap Landfill,GHA,waste,solid-waste-disposal,2021-01-01 00:00:00,2021-12-31 00:00:00,,,,low,low,,,low,,,low,2023-11-08 00:00:00,,low
+25773762,OpenStreetMap Landfill,GHA,waste,solid-waste-disposal,2022-01-01 00:00:00,2022-12-31 00:00:00,,,,low,low,,,low,,,low,2023-11-08 00:00:00,,low
+25773763,OpenStreetMap Landfill,GHA,waste,solid-waste-disposal,2021-01-01 00:00:00,2021-12-31 00:00:00,,,,low,low,,,low,,,low,2023-11-08 00:00:00,,low
+25773763,OpenStreetMap Landfill,GHA,waste,solid-waste-disposal,2022-01-01 00:00:00,2022-12-31 00:00:00,,,,low,low,,,low,,,low,2023-11-08 00:00:00,,low
+25773764,OpenStreetMap Landfill,GHA,waste,solid-waste-disposal,2021-01-01 00:00:00,2021-12-31 00:00:00,,,,low,low,,,low,,,low,2023-11-08 00:00:00,,low
+25773764,OpenStreetMap Landfill,GHA,waste,solid-waste-disposal,2022-01-01 00:00:00,2022-12-31 00:00:00,,,,low,low,,,low,,,low,2023-11-08 00:00:00,,low
+25773765,OpenStreetMap Landfill,GHA,waste,solid-waste-disposal,2021-01-01 00:00:00,2021-12-31 00:00:00,,,,low,low,,,low,,,low,2023-11-08 00:00:00,,low
+25773765,OpenStreetMap Landfill,GHA,waste,solid-waste-disposal,2022-01-01 00:00:00,2022-12-31 00:00:00,,,,low,low,,,low,,,low,2023-11-08 00:00:00,,low
+25773766,OpenStreetMap Landfill,GHA,waste,solid-waste-disposal,2021-01-01 00:00:00,2021-12-31 00:00:00,,,,low,low,,,low,,,low,2023-11-08 00:00:00,,low
+25773766,OpenStreetMap Landfill,GHA,waste,solid-waste-disposal,2022-01-01 00:00:00,2022-12-31 00:00:00,,,,low,low,,,low,,,low,2023-11-08 00:00:00,,low
+25773767,OpenStreetMap Landfill,GHA,waste,solid-waste-disposal,2021-01-01 00:00:00,2021-12-31 00:00:00,,,,low,low,,,low,,,low,2023-11-08 00:00:00,,low
+25773767,OpenStreetMap Landfill,GHA,waste,solid-waste-disposal,2022-01-01 00:00:00,2022-12-31 00:00:00,,,,low,low,,,low,,,low,2023-11-08 00:00:00,,low
+25773768,OpenStreetMap Landfill,GHA,waste,solid-waste-disposal,2021-01-01 00:00:00,2021-12-31 00:00:00,,,,low,low,,,low,,,low,2023-11-08 00:00:00,,low
+25773768,OpenStreetMap Landfill,GHA,waste,solid-waste-disposal,2022-01-01 00:00:00,2022-12-31 00:00:00,,,,low,low,,,low,,,low,2023-11-08 00:00:00,,low
+25773769,OpenStreetMap Landfill,GHA,waste,solid-waste-disposal,2021-01-01 00:00:00,2021-12-31 00:00:00,,,,low,low,,,low,,,low,2023-11-08 00:00:00,,low
+25773769,OpenStreetMap Landfill,GHA,waste,solid-waste-disposal,2022-01-01 00:00:00,2022-12-31 00:00:00,,,,low,low,,,low,,,low,2023-11-08 00:00:00,,low
+25773770,OpenStreetMap Landfill,GHA,waste,solid-waste-disposal,2021-01-01 00:00:00,2021-12-31 00:00:00,,,,low,low,,,low,,,low,2023-11-08 00:00:00,,low
+25773770,OpenStreetMap Landfill,GHA,waste,solid-waste-disposal,2022-01-01 00:00:00,2022-12-31 00:00:00,,,,low,low,,,low,,,low,2023-11-08 00:00:00,,low

@@ -1,0 +1,41 @@
+iso3_country,sector,subsector,start_time,end_time,gas,emissions_quantity,emissions_quantity_units,temporal_granularity,created_date,modified_date
+GHA,mineral-extraction,bauxite-mining,2015-01-01 00:00:00,2015-12-31 00:00:00,ch4,,tonnes,annual,2023-10-03 21:10:31.552233,
+GHA,mineral-extraction,bauxite-mining,2015-01-01 00:00:00,2015-12-31 00:00:00,co2,70691.0,tonnes,annual,2023-10-03 21:10:31.55222,2023-11-02 13:53:00.017128
+GHA,mineral-extraction,bauxite-mining,2015-01-01 00:00:00,2015-12-31 00:00:00,co2e_100yr,70691.0,tonnes,annual,2023-10-03 21:10:31.55226,2023-11-02 13:53:00.017128
+GHA,mineral-extraction,bauxite-mining,2015-01-01 00:00:00,2015-12-31 00:00:00,co2e_20yr,70691.0,tonnes,annual,2023-10-03 21:10:31.552267,2023-11-02 13:53:00.017128
+GHA,mineral-extraction,bauxite-mining,2015-01-01 00:00:00,2015-12-31 00:00:00,n2o,,tonnes,annual,2023-10-03 21:10:31.552251,
+GHA,mineral-extraction,bauxite-mining,2016-01-01 00:00:00,2016-12-31 00:00:00,ch4,,tonnes,annual,2023-10-03 21:10:31.552788,
+GHA,mineral-extraction,bauxite-mining,2016-01-01 00:00:00,2016-12-31 00:00:00,co2,78822.0,tonnes,annual,2023-10-03 21:10:31.552774,2023-11-02 13:53:00.017128
+GHA,mineral-extraction,bauxite-mining,2016-01-01 00:00:00,2016-12-31 00:00:00,co2e_100yr,78822.0,tonnes,annual,2023-10-03 21:10:31.552805,2023-11-02 13:53:00.017128
+GHA,mineral-extraction,bauxite-mining,2016-01-01 00:00:00,2016-12-31 00:00:00,co2e_20yr,78822.0,tonnes,annual,2023-10-03 21:10:31.552813,2023-11-02 13:53:00.017128
+GHA,mineral-extraction,bauxite-mining,2016-01-01 00:00:00,2016-12-31 00:00:00,n2o,,tonnes,annual,2023-10-03 21:10:31.552797,
+GHA,mineral-extraction,bauxite-mining,2017-01-01 00:00:00,2017-12-31 00:00:00,ch4,,tonnes,annual,2023-10-03 21:10:31.553332,
+GHA,mineral-extraction,bauxite-mining,2017-01-01 00:00:00,2017-12-31 00:00:00,co2,101765.0,tonnes,annual,2023-10-03 21:10:31.553318,2023-11-02 13:53:00.017128
+GHA,mineral-extraction,bauxite-mining,2017-01-01 00:00:00,2017-12-31 00:00:00,co2e_100yr,101765.0,tonnes,annual,2023-10-03 21:10:31.553349,2023-11-02 13:53:00.017128
+GHA,mineral-extraction,bauxite-mining,2017-01-01 00:00:00,2017-12-31 00:00:00,co2e_20yr,101765.0,tonnes,annual,2023-10-03 21:10:31.553357,2023-11-02 13:53:00.017128
+GHA,mineral-extraction,bauxite-mining,2017-01-01 00:00:00,2017-12-31 00:00:00,n2o,,tonnes,annual,2023-10-03 21:10:31.553341,
+GHA,mineral-extraction,bauxite-mining,2018-01-01 00:00:00,2018-12-31 00:00:00,ch4,,tonnes,annual,2023-10-03 21:10:31.553884,
+GHA,mineral-extraction,bauxite-mining,2018-01-01 00:00:00,2018-12-31 00:00:00,co2,69658.0,tonnes,annual,2023-10-03 21:10:31.553871,2023-11-02 13:53:00.017128
+GHA,mineral-extraction,bauxite-mining,2018-01-01 00:00:00,2018-12-31 00:00:00,co2e_100yr,69658.0,tonnes,annual,2023-10-03 21:10:31.553903,2023-11-02 13:53:00.017128
+GHA,mineral-extraction,bauxite-mining,2018-01-01 00:00:00,2018-12-31 00:00:00,co2e_20yr,69658.0,tonnes,annual,2023-10-03 21:10:31.553911,2023-11-02 13:53:00.017128
+GHA,mineral-extraction,bauxite-mining,2018-01-01 00:00:00,2018-12-31 00:00:00,n2o,,tonnes,annual,2023-10-03 21:10:31.553894,
+GHA,mineral-extraction,bauxite-mining,2019-01-01 00:00:00,2019-12-31 00:00:00,ch4,,tonnes,annual,2023-10-03 21:10:31.555417,
+GHA,mineral-extraction,bauxite-mining,2019-01-01 00:00:00,2019-12-31 00:00:00,co2,82680.0,tonnes,annual,2023-10-03 21:10:31.555402,2023-11-02 13:53:00.017128
+GHA,mineral-extraction,bauxite-mining,2019-01-01 00:00:00,2019-12-31 00:00:00,co2e_100yr,82680.0,tonnes,annual,2023-10-03 21:10:31.555435,2023-11-02 13:53:00.017128
+GHA,mineral-extraction,bauxite-mining,2019-01-01 00:00:00,2019-12-31 00:00:00,co2e_20yr,82680.0,tonnes,annual,2023-10-03 21:10:31.555443,2023-11-02 13:53:00.017128
+GHA,mineral-extraction,bauxite-mining,2019-01-01 00:00:00,2019-12-31 00:00:00,n2o,,tonnes,annual,2023-10-03 21:10:31.555427,
+GHA,mineral-extraction,bauxite-mining,2020-01-01 00:00:00,2020-12-31 00:00:00,ch4,,tonnes,annual,2023-10-03 21:10:31.556088,
+GHA,mineral-extraction,bauxite-mining,2020-01-01 00:00:00,2020-12-31 00:00:00,co2,68900.0,tonnes,annual,2023-10-03 21:10:31.556074,2023-11-02 13:53:00.017128
+GHA,mineral-extraction,bauxite-mining,2020-01-01 00:00:00,2020-12-31 00:00:00,co2e_100yr,68900.0,tonnes,annual,2023-10-03 21:10:31.556107,2023-11-02 13:53:00.017128
+GHA,mineral-extraction,bauxite-mining,2020-01-01 00:00:00,2020-12-31 00:00:00,co2e_20yr,68900.0,tonnes,annual,2023-10-03 21:10:31.556114,2023-11-02 13:53:00.017128
+GHA,mineral-extraction,bauxite-mining,2020-01-01 00:00:00,2020-12-31 00:00:00,n2o,,tonnes,annual,2023-10-03 21:10:31.556098,
+GHA,mineral-extraction,bauxite-mining,2021-01-01 00:00:00,2021-12-31 00:00:00,ch4,,tonnes,annual,2023-10-03 21:10:31.556656,
+GHA,mineral-extraction,bauxite-mining,2021-01-01 00:00:00,2021-12-31 00:00:00,co2,92842.0,tonnes,annual,2023-10-03 21:10:31.556642,2023-11-02 13:53:00.017128
+GHA,mineral-extraction,bauxite-mining,2021-01-01 00:00:00,2021-12-31 00:00:00,co2e_100yr,92842.0,tonnes,annual,2023-10-03 21:10:31.556674,2023-11-02 13:53:00.017128
+GHA,mineral-extraction,bauxite-mining,2021-01-01 00:00:00,2021-12-31 00:00:00,co2e_20yr,92842.0,tonnes,annual,2023-10-03 21:10:31.556682,2023-11-02 13:53:00.017128
+GHA,mineral-extraction,bauxite-mining,2021-01-01 00:00:00,2021-12-31 00:00:00,n2o,,tonnes,annual,2023-10-03 21:10:31.556665,
+GHA,mineral-extraction,bauxite-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,ch4,,tonnes,annual,2023-10-03 21:10:31.557311,
+GHA,mineral-extraction,bauxite-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,co2,97586.0,tonnes,annual,2023-10-03 21:10:31.557296,2023-11-02 13:53:00.017128
+GHA,mineral-extraction,bauxite-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,co2e_100yr,97586.0,tonnes,annual,2023-10-03 21:10:31.557329,2023-11-02 13:53:00.017128
+GHA,mineral-extraction,bauxite-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,co2e_20yr,97586.0,tonnes,annual,2023-10-03 21:10:31.557337,2023-11-02 13:53:00.017128
+GHA,mineral-extraction,bauxite-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,n2o,,tonnes,annual,2023-10-03 21:10:31.55732,

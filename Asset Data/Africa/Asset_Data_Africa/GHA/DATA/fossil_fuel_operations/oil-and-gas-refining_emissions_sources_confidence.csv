@@ -1,0 +1,9 @@
+source_id,source_name,iso3_country,sector,subsector,start_time,end_time,source_type,capacity,capacity_factor,activity,co2_emissions_factor,ch4_emissions_factor,n2o_emissions_factor,co2_emissions,ch4_emissions,n2o_emissions,total_co2e_20yrgwp,created_date,modified_date,total_co2e_100yrgwp
+3143906,TORC Tema Refinery,GHA,fossil-fuel-operations,oil-and-gas-refining,2015-01-01 00:00:00,2015-12-31 00:00:00,low,low,low,low,low,low,low,low,low,low,low,2023-08-30 00:00:00,,low
+3143906,TORC Tema Refinery,GHA,fossil-fuel-operations,oil-and-gas-refining,2016-01-01 00:00:00,2016-12-31 00:00:00,low,low,low,low,low,low,low,low,low,low,low,2023-08-30 00:00:00,,low
+3143906,TORC Tema Refinery,GHA,fossil-fuel-operations,oil-and-gas-refining,2017-01-01 00:00:00,2017-12-31 00:00:00,low,low,low,low,low,low,low,low,low,low,low,2023-08-30 00:00:00,,low
+3143906,TORC Tema Refinery,GHA,fossil-fuel-operations,oil-and-gas-refining,2018-01-01 00:00:00,2018-12-31 00:00:00,low,low,low,low,low,low,low,low,low,low,low,2023-08-30 00:00:00,,low
+3143906,TORC Tema Refinery,GHA,fossil-fuel-operations,oil-and-gas-refining,2019-01-01 00:00:00,2019-12-31 00:00:00,low,low,low,low,low,low,low,low,low,low,low,2023-08-30 00:00:00,,low
+3143906,TORC Tema Refinery,GHA,fossil-fuel-operations,oil-and-gas-refining,2020-01-01 00:00:00,2020-12-31 00:00:00,low,low,low,low,low,low,low,low,low,low,low,2023-08-30 00:00:00,,low
+3143906,TORC Tema Refinery,GHA,fossil-fuel-operations,oil-and-gas-refining,2021-01-01 00:00:00,2021-12-31 00:00:00,low,low,low,low,low,low,low,low,low,low,low,2023-08-30 00:00:00,,low
+3143906,TORC Tema Refinery,GHA,fossil-fuel-operations,oil-and-gas-refining,2022-01-01 00:00:00,2022-12-31 00:00:00,low,low,low,low,low,low,low,low,low,low,low,2023-08-30 00:00:00,,low

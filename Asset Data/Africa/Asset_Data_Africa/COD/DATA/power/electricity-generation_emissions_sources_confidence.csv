@@ -1,0 +1,5 @@
+source_id,source_name,iso3_country,sector,subsector,start_time,end_time,source_type,capacity,capacity_factor,activity,co2_emissions_factor,ch4_emissions_factor,n2o_emissions_factor,co2_emissions,ch4_emissions,n2o_emissions,total_co2e_20yrgwp,created_date,modified_date,total_co2e_100yrgwp
+25454146,<unknown plant name>,COD,power,electricity-generation,2019-01-01 00:00:00,2019-12-31 00:00:00,high,high,low,medium,low,,,medium,,,medium,2023-10-31 00:00:00,2023-11-01 10:00:00,medium
+25454146,<unknown plant name>,COD,power,electricity-generation,2020-01-01 00:00:00,2020-12-31 00:00:00,high,high,low,medium,low,,,medium,,,medium,2023-10-31 00:00:00,2023-11-01 10:00:00,medium
+25454146,<unknown plant name>,COD,power,electricity-generation,2021-01-01 00:00:00,2021-12-31 00:00:00,high,high,low,medium,low,,,medium,,,medium,2023-10-31 00:00:00,2023-11-01 10:00:00,medium
+25454146,<unknown plant name>,COD,power,electricity-generation,2022-01-01 00:00:00,2022-12-31 00:00:00,high,high,low,medium,low,,,medium,,,medium,2023-10-31 00:00:00,2023-11-01 10:00:00,medium

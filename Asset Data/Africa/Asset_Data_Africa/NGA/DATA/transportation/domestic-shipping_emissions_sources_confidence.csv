@@ -1,0 +1,397 @@
+source_id,source_name,iso3_country,sector,subsector,start_time,end_time,source_type,capacity,capacity_factor,activity,co2_emissions_factor,ch4_emissions_factor,n2o_emissions_factor,co2_emissions,ch4_emissions,n2o_emissions,total_co2e_20yrgwp,created_date,modified_date,total_co2e_100yrgwp
+13174091,Agbami Offshore Terminal,NGA,transportation,domestic-shipping,2015-01-01 00:00:00,2015-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13174091,Agbami Offshore Terminal,NGA,transportation,domestic-shipping,2016-01-01 00:00:00,2016-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13174091,Agbami Offshore Terminal,NGA,transportation,domestic-shipping,2017-01-01 00:00:00,2017-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13174091,Agbami Offshore Terminal,NGA,transportation,domestic-shipping,2018-01-01 00:00:00,2018-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13174091,Agbami Offshore Terminal,NGA,transportation,domestic-shipping,2019-01-01 00:00:00,2019-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13174091,Agbami Offshore Terminal,NGA,transportation,domestic-shipping,2020-01-01 00:00:00,2020-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13174091,Agbami Offshore Terminal,NGA,transportation,domestic-shipping,2021-01-01 00:00:00,2021-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13174091,Agbami Offshore Terminal,NGA,transportation,domestic-shipping,2022-01-01 00:00:00,2022-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13174091,Agbami Offshore Terminal,NGA,transportation,domestic-shipping,2023-01-01 00:00:00,2023-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13174092,Akpo Oil Terminal,NGA,transportation,domestic-shipping,2015-01-01 00:00:00,2015-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13174092,Akpo Oil Terminal,NGA,transportation,domestic-shipping,2016-01-01 00:00:00,2016-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13174092,Akpo Oil Terminal,NGA,transportation,domestic-shipping,2017-01-01 00:00:00,2017-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13174092,Akpo Oil Terminal,NGA,transportation,domestic-shipping,2018-01-01 00:00:00,2018-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13174092,Akpo Oil Terminal,NGA,transportation,domestic-shipping,2019-01-01 00:00:00,2019-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13174092,Akpo Oil Terminal,NGA,transportation,domestic-shipping,2020-01-01 00:00:00,2020-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13174092,Akpo Oil Terminal,NGA,transportation,domestic-shipping,2021-01-01 00:00:00,2021-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13174092,Akpo Oil Terminal,NGA,transportation,domestic-shipping,2022-01-01 00:00:00,2022-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13174092,Akpo Oil Terminal,NGA,transportation,domestic-shipping,2023-01-01 00:00:00,2023-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13174093,Antan Oil Terminal,NGA,transportation,domestic-shipping,2015-01-01 00:00:00,2015-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13174093,Antan Oil Terminal,NGA,transportation,domestic-shipping,2016-01-01 00:00:00,2016-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13174093,Antan Oil Terminal,NGA,transportation,domestic-shipping,2017-01-01 00:00:00,2017-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13174093,Antan Oil Terminal,NGA,transportation,domestic-shipping,2018-01-01 00:00:00,2018-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13174093,Antan Oil Terminal,NGA,transportation,domestic-shipping,2019-01-01 00:00:00,2019-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13174093,Antan Oil Terminal,NGA,transportation,domestic-shipping,2020-01-01 00:00:00,2020-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13174093,Antan Oil Terminal,NGA,transportation,domestic-shipping,2021-01-01 00:00:00,2021-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13174093,Antan Oil Terminal,NGA,transportation,domestic-shipping,2022-01-01 00:00:00,2022-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13174093,Antan Oil Terminal,NGA,transportation,domestic-shipping,2023-01-01 00:00:00,2023-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13174094,Apapa,NGA,transportation,domestic-shipping,2015-01-01 00:00:00,2015-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13174094,Apapa,NGA,transportation,domestic-shipping,2016-01-01 00:00:00,2016-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13174094,Apapa,NGA,transportation,domestic-shipping,2017-01-01 00:00:00,2017-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13174094,Apapa,NGA,transportation,domestic-shipping,2018-01-01 00:00:00,2018-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13174094,Apapa,NGA,transportation,domestic-shipping,2019-01-01 00:00:00,2019-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13174094,Apapa,NGA,transportation,domestic-shipping,2020-01-01 00:00:00,2020-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13174094,Apapa,NGA,transportation,domestic-shipping,2021-01-01 00:00:00,2021-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13174094,Apapa,NGA,transportation,domestic-shipping,2022-01-01 00:00:00,2022-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13174094,Apapa,NGA,transportation,domestic-shipping,2023-01-01 00:00:00,2023-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13174095,Bonga Offshore Terminal,NGA,transportation,domestic-shipping,2015-01-01 00:00:00,2015-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13174095,Bonga Offshore Terminal,NGA,transportation,domestic-shipping,2016-01-01 00:00:00,2016-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13174095,Bonga Offshore Terminal,NGA,transportation,domestic-shipping,2017-01-01 00:00:00,2017-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13174095,Bonga Offshore Terminal,NGA,transportation,domestic-shipping,2018-01-01 00:00:00,2018-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13174095,Bonga Offshore Terminal,NGA,transportation,domestic-shipping,2019-01-01 00:00:00,2019-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13174095,Bonga Offshore Terminal,NGA,transportation,domestic-shipping,2020-01-01 00:00:00,2020-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13174095,Bonga Offshore Terminal,NGA,transportation,domestic-shipping,2021-01-01 00:00:00,2021-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13174095,Bonga Offshore Terminal,NGA,transportation,domestic-shipping,2022-01-01 00:00:00,2022-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13174095,Bonga Offshore Terminal,NGA,transportation,domestic-shipping,2023-01-01 00:00:00,2023-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13174096,Bonny,NGA,transportation,domestic-shipping,2015-01-01 00:00:00,2015-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13174096,Bonny,NGA,transportation,domestic-shipping,2016-01-01 00:00:00,2016-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13174096,Bonny,NGA,transportation,domestic-shipping,2017-01-01 00:00:00,2017-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13174096,Bonny,NGA,transportation,domestic-shipping,2018-01-01 00:00:00,2018-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13174096,Bonny,NGA,transportation,domestic-shipping,2019-01-01 00:00:00,2019-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13174096,Bonny,NGA,transportation,domestic-shipping,2020-01-01 00:00:00,2020-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13174096,Bonny,NGA,transportation,domestic-shipping,2021-01-01 00:00:00,2021-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13174096,Bonny,NGA,transportation,domestic-shipping,2022-01-01 00:00:00,2022-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13174096,Bonny,NGA,transportation,domestic-shipping,2023-01-01 00:00:00,2023-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13174097,Bonny Offshore Terminal,NGA,transportation,domestic-shipping,2015-01-01 00:00:00,2015-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13174097,Bonny Offshore Terminal,NGA,transportation,domestic-shipping,2016-01-01 00:00:00,2016-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13174097,Bonny Offshore Terminal,NGA,transportation,domestic-shipping,2017-01-01 00:00:00,2017-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13174097,Bonny Offshore Terminal,NGA,transportation,domestic-shipping,2018-01-01 00:00:00,2018-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13174097,Bonny Offshore Terminal,NGA,transportation,domestic-shipping,2019-01-01 00:00:00,2019-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13174097,Bonny Offshore Terminal,NGA,transportation,domestic-shipping,2020-01-01 00:00:00,2020-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13174097,Bonny Offshore Terminal,NGA,transportation,domestic-shipping,2021-01-01 00:00:00,2021-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13174097,Bonny Offshore Terminal,NGA,transportation,domestic-shipping,2022-01-01 00:00:00,2022-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13174097,Bonny Offshore Terminal,NGA,transportation,domestic-shipping,2023-01-01 00:00:00,2023-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13181893,Brass Oil Terminal,NGA,transportation,domestic-shipping,2015-01-01 00:00:00,2015-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13181893,Brass Oil Terminal,NGA,transportation,domestic-shipping,2016-01-01 00:00:00,2016-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13181893,Brass Oil Terminal,NGA,transportation,domestic-shipping,2017-01-01 00:00:00,2017-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13181893,Brass Oil Terminal,NGA,transportation,domestic-shipping,2018-01-01 00:00:00,2018-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13181893,Brass Oil Terminal,NGA,transportation,domestic-shipping,2019-01-01 00:00:00,2019-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13181893,Brass Oil Terminal,NGA,transportation,domestic-shipping,2020-01-01 00:00:00,2020-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13181893,Brass Oil Terminal,NGA,transportation,domestic-shipping,2021-01-01 00:00:00,2021-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13181893,Brass Oil Terminal,NGA,transportation,domestic-shipping,2022-01-01 00:00:00,2022-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13181893,Brass Oil Terminal,NGA,transportation,domestic-shipping,2023-01-01 00:00:00,2023-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13577363,Burutu,NGA,transportation,domestic-shipping,2015-01-01 00:00:00,2015-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13577363,Burutu,NGA,transportation,domestic-shipping,2016-01-01 00:00:00,2016-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13577363,Burutu,NGA,transportation,domestic-shipping,2017-01-01 00:00:00,2017-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13577363,Burutu,NGA,transportation,domestic-shipping,2018-01-01 00:00:00,2018-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13577363,Burutu,NGA,transportation,domestic-shipping,2019-01-01 00:00:00,2019-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13577363,Burutu,NGA,transportation,domestic-shipping,2020-01-01 00:00:00,2020-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13577363,Burutu,NGA,transportation,domestic-shipping,2021-01-01 00:00:00,2021-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13577363,Burutu,NGA,transportation,domestic-shipping,2022-01-01 00:00:00,2022-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13577363,Burutu,NGA,transportation,domestic-shipping,2023-01-01 00:00:00,2023-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13174098,Calabar,NGA,transportation,domestic-shipping,2015-01-01 00:00:00,2015-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13174098,Calabar,NGA,transportation,domestic-shipping,2016-01-01 00:00:00,2016-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13174098,Calabar,NGA,transportation,domestic-shipping,2017-01-01 00:00:00,2017-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13174098,Calabar,NGA,transportation,domestic-shipping,2018-01-01 00:00:00,2018-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13174098,Calabar,NGA,transportation,domestic-shipping,2019-01-01 00:00:00,2019-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13174098,Calabar,NGA,transportation,domestic-shipping,2020-01-01 00:00:00,2020-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13174098,Calabar,NGA,transportation,domestic-shipping,2021-01-01 00:00:00,2021-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13174098,Calabar,NGA,transportation,domestic-shipping,2022-01-01 00:00:00,2022-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13174098,Calabar,NGA,transportation,domestic-shipping,2023-01-01 00:00:00,2023-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13174099,Egina Oil Terminal,NGA,transportation,domestic-shipping,2015-01-01 00:00:00,2015-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13174099,Egina Oil Terminal,NGA,transportation,domestic-shipping,2016-01-01 00:00:00,2016-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13174099,Egina Oil Terminal,NGA,transportation,domestic-shipping,2017-01-01 00:00:00,2017-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13174099,Egina Oil Terminal,NGA,transportation,domestic-shipping,2018-01-01 00:00:00,2018-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13174099,Egina Oil Terminal,NGA,transportation,domestic-shipping,2019-01-01 00:00:00,2019-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13174099,Egina Oil Terminal,NGA,transportation,domestic-shipping,2020-01-01 00:00:00,2020-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13174099,Egina Oil Terminal,NGA,transportation,domestic-shipping,2021-01-01 00:00:00,2021-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13174099,Egina Oil Terminal,NGA,transportation,domestic-shipping,2022-01-01 00:00:00,2022-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13174099,Egina Oil Terminal,NGA,transportation,domestic-shipping,2023-01-01 00:00:00,2023-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13174100,Erha Offshore Terminal,NGA,transportation,domestic-shipping,2015-01-01 00:00:00,2015-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13174100,Erha Offshore Terminal,NGA,transportation,domestic-shipping,2016-01-01 00:00:00,2016-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13174100,Erha Offshore Terminal,NGA,transportation,domestic-shipping,2017-01-01 00:00:00,2017-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13174100,Erha Offshore Terminal,NGA,transportation,domestic-shipping,2018-01-01 00:00:00,2018-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13174100,Erha Offshore Terminal,NGA,transportation,domestic-shipping,2019-01-01 00:00:00,2019-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13174100,Erha Offshore Terminal,NGA,transportation,domestic-shipping,2020-01-01 00:00:00,2020-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13174100,Erha Offshore Terminal,NGA,transportation,domestic-shipping,2021-01-01 00:00:00,2021-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13174100,Erha Offshore Terminal,NGA,transportation,domestic-shipping,2022-01-01 00:00:00,2022-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13174100,Erha Offshore Terminal,NGA,transportation,domestic-shipping,2023-01-01 00:00:00,2023-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13174101,Escravos Oil Terminal,NGA,transportation,domestic-shipping,2015-01-01 00:00:00,2015-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13174101,Escravos Oil Terminal,NGA,transportation,domestic-shipping,2016-01-01 00:00:00,2016-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13174101,Escravos Oil Terminal,NGA,transportation,domestic-shipping,2017-01-01 00:00:00,2017-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13174101,Escravos Oil Terminal,NGA,transportation,domestic-shipping,2018-01-01 00:00:00,2018-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13174101,Escravos Oil Terminal,NGA,transportation,domestic-shipping,2019-01-01 00:00:00,2019-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13174101,Escravos Oil Terminal,NGA,transportation,domestic-shipping,2020-01-01 00:00:00,2020-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13174101,Escravos Oil Terminal,NGA,transportation,domestic-shipping,2021-01-01 00:00:00,2021-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13174101,Escravos Oil Terminal,NGA,transportation,domestic-shipping,2022-01-01 00:00:00,2022-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13174101,Escravos Oil Terminal,NGA,transportation,domestic-shipping,2023-01-01 00:00:00,2023-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13181898,Forcados,NGA,transportation,domestic-shipping,2015-01-01 00:00:00,2015-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13181898,Forcados,NGA,transportation,domestic-shipping,2016-01-01 00:00:00,2016-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13181898,Forcados,NGA,transportation,domestic-shipping,2017-01-01 00:00:00,2017-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13181898,Forcados,NGA,transportation,domestic-shipping,2018-01-01 00:00:00,2018-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13181898,Forcados,NGA,transportation,domestic-shipping,2019-01-01 00:00:00,2019-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13181898,Forcados,NGA,transportation,domestic-shipping,2020-01-01 00:00:00,2020-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13181898,Forcados,NGA,transportation,domestic-shipping,2021-01-01 00:00:00,2021-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13181898,Forcados,NGA,transportation,domestic-shipping,2022-01-01 00:00:00,2022-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13181898,Forcados,NGA,transportation,domestic-shipping,2023-01-01 00:00:00,2023-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13174102,Forcados Oil Terminal,NGA,transportation,domestic-shipping,2015-01-01 00:00:00,2015-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13174102,Forcados Oil Terminal,NGA,transportation,domestic-shipping,2016-01-01 00:00:00,2016-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13174102,Forcados Oil Terminal,NGA,transportation,domestic-shipping,2017-01-01 00:00:00,2017-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13174102,Forcados Oil Terminal,NGA,transportation,domestic-shipping,2018-01-01 00:00:00,2018-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13174102,Forcados Oil Terminal,NGA,transportation,domestic-shipping,2019-01-01 00:00:00,2019-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13174102,Forcados Oil Terminal,NGA,transportation,domestic-shipping,2020-01-01 00:00:00,2020-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13174102,Forcados Oil Terminal,NGA,transportation,domestic-shipping,2021-01-01 00:00:00,2021-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13174102,Forcados Oil Terminal,NGA,transportation,domestic-shipping,2022-01-01 00:00:00,2022-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13174102,Forcados Oil Terminal,NGA,transportation,domestic-shipping,2023-01-01 00:00:00,2023-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13174103,Koko,NGA,transportation,domestic-shipping,2015-01-01 00:00:00,2015-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13174103,Koko,NGA,transportation,domestic-shipping,2016-01-01 00:00:00,2016-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13174103,Koko,NGA,transportation,domestic-shipping,2017-01-01 00:00:00,2017-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13174103,Koko,NGA,transportation,domestic-shipping,2018-01-01 00:00:00,2018-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13174103,Koko,NGA,transportation,domestic-shipping,2019-01-01 00:00:00,2019-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13174103,Koko,NGA,transportation,domestic-shipping,2020-01-01 00:00:00,2020-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13174103,Koko,NGA,transportation,domestic-shipping,2021-01-01 00:00:00,2021-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13174103,Koko,NGA,transportation,domestic-shipping,2022-01-01 00:00:00,2022-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13174103,Koko,NGA,transportation,domestic-shipping,2023-01-01 00:00:00,2023-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13174104,Lagos Container Port,NGA,transportation,domestic-shipping,2015-01-01 00:00:00,2015-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13174104,Lagos Container Port,NGA,transportation,domestic-shipping,2016-01-01 00:00:00,2016-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13174104,Lagos Container Port,NGA,transportation,domestic-shipping,2017-01-01 00:00:00,2017-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13174104,Lagos Container Port,NGA,transportation,domestic-shipping,2018-01-01 00:00:00,2018-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13174104,Lagos Container Port,NGA,transportation,domestic-shipping,2019-01-01 00:00:00,2019-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13174104,Lagos Container Port,NGA,transportation,domestic-shipping,2020-01-01 00:00:00,2020-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13174104,Lagos Container Port,NGA,transportation,domestic-shipping,2021-01-01 00:00:00,2021-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13174104,Lagos Container Port,NGA,transportation,domestic-shipping,2022-01-01 00:00:00,2022-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13174104,Lagos Container Port,NGA,transportation,domestic-shipping,2023-01-01 00:00:00,2023-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13174105,Odudu Terminal,NGA,transportation,domestic-shipping,2015-01-01 00:00:00,2015-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13174105,Odudu Terminal,NGA,transportation,domestic-shipping,2016-01-01 00:00:00,2016-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13174105,Odudu Terminal,NGA,transportation,domestic-shipping,2017-01-01 00:00:00,2017-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13174105,Odudu Terminal,NGA,transportation,domestic-shipping,2018-01-01 00:00:00,2018-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13174105,Odudu Terminal,NGA,transportation,domestic-shipping,2019-01-01 00:00:00,2019-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13174105,Odudu Terminal,NGA,transportation,domestic-shipping,2020-01-01 00:00:00,2020-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13174105,Odudu Terminal,NGA,transportation,domestic-shipping,2021-01-01 00:00:00,2021-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13174105,Odudu Terminal,NGA,transportation,domestic-shipping,2022-01-01 00:00:00,2022-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13174105,Odudu Terminal,NGA,transportation,domestic-shipping,2023-01-01 00:00:00,2023-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13181902,Offshore Terminal,NGA,transportation,domestic-shipping,2015-01-01 00:00:00,2015-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13181902,Offshore Terminal,NGA,transportation,domestic-shipping,2016-01-01 00:00:00,2016-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13181902,Offshore Terminal,NGA,transportation,domestic-shipping,2017-01-01 00:00:00,2017-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13181902,Offshore Terminal,NGA,transportation,domestic-shipping,2018-01-01 00:00:00,2018-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13181902,Offshore Terminal,NGA,transportation,domestic-shipping,2019-01-01 00:00:00,2019-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13181902,Offshore Terminal,NGA,transportation,domestic-shipping,2020-01-01 00:00:00,2020-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13181902,Offshore Terminal,NGA,transportation,domestic-shipping,2021-01-01 00:00:00,2021-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13181902,Offshore Terminal,NGA,transportation,domestic-shipping,2022-01-01 00:00:00,2022-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13181902,Offshore Terminal,NGA,transportation,domestic-shipping,2023-01-01 00:00:00,2023-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13174106,Okono Terminal,NGA,transportation,domestic-shipping,2015-01-01 00:00:00,2015-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13174106,Okono Terminal,NGA,transportation,domestic-shipping,2016-01-01 00:00:00,2016-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13174106,Okono Terminal,NGA,transportation,domestic-shipping,2017-01-01 00:00:00,2017-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13174106,Okono Terminal,NGA,transportation,domestic-shipping,2018-01-01 00:00:00,2018-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13174106,Okono Terminal,NGA,transportation,domestic-shipping,2019-01-01 00:00:00,2019-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13174106,Okono Terminal,NGA,transportation,domestic-shipping,2020-01-01 00:00:00,2020-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13174106,Okono Terminal,NGA,transportation,domestic-shipping,2021-01-01 00:00:00,2021-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13174106,Okono Terminal,NGA,transportation,domestic-shipping,2022-01-01 00:00:00,2022-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13174106,Okono Terminal,NGA,transportation,domestic-shipping,2023-01-01 00:00:00,2023-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13174107,Okrika,NGA,transportation,domestic-shipping,2015-01-01 00:00:00,2015-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13174107,Okrika,NGA,transportation,domestic-shipping,2016-01-01 00:00:00,2016-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13174107,Okrika,NGA,transportation,domestic-shipping,2017-01-01 00:00:00,2017-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13174107,Okrika,NGA,transportation,domestic-shipping,2018-01-01 00:00:00,2018-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13174107,Okrika,NGA,transportation,domestic-shipping,2019-01-01 00:00:00,2019-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13174107,Okrika,NGA,transportation,domestic-shipping,2020-01-01 00:00:00,2020-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13174107,Okrika,NGA,transportation,domestic-shipping,2021-01-01 00:00:00,2021-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13174107,Okrika,NGA,transportation,domestic-shipping,2022-01-01 00:00:00,2022-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13174107,Okrika,NGA,transportation,domestic-shipping,2023-01-01 00:00:00,2023-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13174108,Okwori Terminal,NGA,transportation,domestic-shipping,2015-01-01 00:00:00,2015-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13174108,Okwori Terminal,NGA,transportation,domestic-shipping,2016-01-01 00:00:00,2016-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13174108,Okwori Terminal,NGA,transportation,domestic-shipping,2017-01-01 00:00:00,2017-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13174108,Okwori Terminal,NGA,transportation,domestic-shipping,2018-01-01 00:00:00,2018-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13174108,Okwori Terminal,NGA,transportation,domestic-shipping,2019-01-01 00:00:00,2019-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13174108,Okwori Terminal,NGA,transportation,domestic-shipping,2020-01-01 00:00:00,2020-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13174108,Okwori Terminal,NGA,transportation,domestic-shipping,2021-01-01 00:00:00,2021-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13174108,Okwori Terminal,NGA,transportation,domestic-shipping,2022-01-01 00:00:00,2022-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13174108,Okwori Terminal,NGA,transportation,domestic-shipping,2023-01-01 00:00:00,2023-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13174109,Onne,NGA,transportation,domestic-shipping,2015-01-01 00:00:00,2015-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13174109,Onne,NGA,transportation,domestic-shipping,2016-01-01 00:00:00,2016-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13174109,Onne,NGA,transportation,domestic-shipping,2017-01-01 00:00:00,2017-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13174109,Onne,NGA,transportation,domestic-shipping,2018-01-01 00:00:00,2018-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13174109,Onne,NGA,transportation,domestic-shipping,2019-01-01 00:00:00,2019-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13174109,Onne,NGA,transportation,domestic-shipping,2020-01-01 00:00:00,2020-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13174109,Onne,NGA,transportation,domestic-shipping,2021-01-01 00:00:00,2021-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13174109,Onne,NGA,transportation,domestic-shipping,2022-01-01 00:00:00,2022-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13174109,Onne,NGA,transportation,domestic-shipping,2023-01-01 00:00:00,2023-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13174110,Oso Offshore Terminal,NGA,transportation,domestic-shipping,2015-01-01 00:00:00,2015-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13174110,Oso Offshore Terminal,NGA,transportation,domestic-shipping,2016-01-01 00:00:00,2016-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13174110,Oso Offshore Terminal,NGA,transportation,domestic-shipping,2017-01-01 00:00:00,2017-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13174110,Oso Offshore Terminal,NGA,transportation,domestic-shipping,2018-01-01 00:00:00,2018-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13174110,Oso Offshore Terminal,NGA,transportation,domestic-shipping,2019-01-01 00:00:00,2019-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13174110,Oso Offshore Terminal,NGA,transportation,domestic-shipping,2020-01-01 00:00:00,2020-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13174110,Oso Offshore Terminal,NGA,transportation,domestic-shipping,2021-01-01 00:00:00,2021-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13174110,Oso Offshore Terminal,NGA,transportation,domestic-shipping,2022-01-01 00:00:00,2022-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13174110,Oso Offshore Terminal,NGA,transportation,domestic-shipping,2023-01-01 00:00:00,2023-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13174111,Oyo Offshore Terminal,NGA,transportation,domestic-shipping,2015-01-01 00:00:00,2015-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13174111,Oyo Offshore Terminal,NGA,transportation,domestic-shipping,2016-01-01 00:00:00,2016-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13174111,Oyo Offshore Terminal,NGA,transportation,domestic-shipping,2017-01-01 00:00:00,2017-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13174111,Oyo Offshore Terminal,NGA,transportation,domestic-shipping,2018-01-01 00:00:00,2018-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13174111,Oyo Offshore Terminal,NGA,transportation,domestic-shipping,2019-01-01 00:00:00,2019-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13174111,Oyo Offshore Terminal,NGA,transportation,domestic-shipping,2020-01-01 00:00:00,2020-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13174111,Oyo Offshore Terminal,NGA,transportation,domestic-shipping,2021-01-01 00:00:00,2021-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13174111,Oyo Offshore Terminal,NGA,transportation,domestic-shipping,2022-01-01 00:00:00,2022-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13174111,Oyo Offshore Terminal,NGA,transportation,domestic-shipping,2023-01-01 00:00:00,2023-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13619419,Pennington,NGA,transportation,domestic-shipping,2015-01-01 00:00:00,2015-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13619419,Pennington,NGA,transportation,domestic-shipping,2016-01-01 00:00:00,2016-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13619419,Pennington,NGA,transportation,domestic-shipping,2017-01-01 00:00:00,2017-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13619419,Pennington,NGA,transportation,domestic-shipping,2018-01-01 00:00:00,2018-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13619419,Pennington,NGA,transportation,domestic-shipping,2019-01-01 00:00:00,2019-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13619419,Pennington,NGA,transportation,domestic-shipping,2020-01-01 00:00:00,2020-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13619419,Pennington,NGA,transportation,domestic-shipping,2021-01-01 00:00:00,2021-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13619419,Pennington,NGA,transportation,domestic-shipping,2022-01-01 00:00:00,2022-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13619419,Pennington,NGA,transportation,domestic-shipping,2023-01-01 00:00:00,2023-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13177919,Pennington Oil Terminal,NGA,transportation,domestic-shipping,2015-01-01 00:00:00,2015-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13177919,Pennington Oil Terminal,NGA,transportation,domestic-shipping,2016-01-01 00:00:00,2016-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13177919,Pennington Oil Terminal,NGA,transportation,domestic-shipping,2017-01-01 00:00:00,2017-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13177919,Pennington Oil Terminal,NGA,transportation,domestic-shipping,2018-01-01 00:00:00,2018-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13177919,Pennington Oil Terminal,NGA,transportation,domestic-shipping,2019-01-01 00:00:00,2019-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13177919,Pennington Oil Terminal,NGA,transportation,domestic-shipping,2020-01-01 00:00:00,2020-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13177919,Pennington Oil Terminal,NGA,transportation,domestic-shipping,2021-01-01 00:00:00,2021-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13177919,Pennington Oil Terminal,NGA,transportation,domestic-shipping,2022-01-01 00:00:00,2022-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13177919,Pennington Oil Terminal,NGA,transportation,domestic-shipping,2023-01-01 00:00:00,2023-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13174112,Port Harcourt,NGA,transportation,domestic-shipping,2015-01-01 00:00:00,2015-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13174112,Port Harcourt,NGA,transportation,domestic-shipping,2016-01-01 00:00:00,2016-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13174112,Port Harcourt,NGA,transportation,domestic-shipping,2017-01-01 00:00:00,2017-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13174112,Port Harcourt,NGA,transportation,domestic-shipping,2018-01-01 00:00:00,2018-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13174112,Port Harcourt,NGA,transportation,domestic-shipping,2019-01-01 00:00:00,2019-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13174112,Port Harcourt,NGA,transportation,domestic-shipping,2020-01-01 00:00:00,2020-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13174112,Port Harcourt,NGA,transportation,domestic-shipping,2021-01-01 00:00:00,2021-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13174112,Port Harcourt,NGA,transportation,domestic-shipping,2022-01-01 00:00:00,2022-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13174112,Port Harcourt,NGA,transportation,domestic-shipping,2023-01-01 00:00:00,2023-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13174113,Qua Iboe Oil Terminal,NGA,transportation,domestic-shipping,2015-01-01 00:00:00,2015-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13174113,Qua Iboe Oil Terminal,NGA,transportation,domestic-shipping,2016-01-01 00:00:00,2016-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13174113,Qua Iboe Oil Terminal,NGA,transportation,domestic-shipping,2017-01-01 00:00:00,2017-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13174113,Qua Iboe Oil Terminal,NGA,transportation,domestic-shipping,2018-01-01 00:00:00,2018-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13174113,Qua Iboe Oil Terminal,NGA,transportation,domestic-shipping,2019-01-01 00:00:00,2019-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13174113,Qua Iboe Oil Terminal,NGA,transportation,domestic-shipping,2020-01-01 00:00:00,2020-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13174113,Qua Iboe Oil Terminal,NGA,transportation,domestic-shipping,2021-01-01 00:00:00,2021-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13174113,Qua Iboe Oil Terminal,NGA,transportation,domestic-shipping,2022-01-01 00:00:00,2022-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13174113,Qua Iboe Oil Terminal,NGA,transportation,domestic-shipping,2023-01-01 00:00:00,2023-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13181908,Sapele,NGA,transportation,domestic-shipping,2015-01-01 00:00:00,2015-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13181908,Sapele,NGA,transportation,domestic-shipping,2016-01-01 00:00:00,2016-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13181908,Sapele,NGA,transportation,domestic-shipping,2017-01-01 00:00:00,2017-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13181908,Sapele,NGA,transportation,domestic-shipping,2018-01-01 00:00:00,2018-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13181908,Sapele,NGA,transportation,domestic-shipping,2019-01-01 00:00:00,2019-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13181908,Sapele,NGA,transportation,domestic-shipping,2020-01-01 00:00:00,2020-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13181908,Sapele,NGA,transportation,domestic-shipping,2021-01-01 00:00:00,2021-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13181908,Sapele,NGA,transportation,domestic-shipping,2022-01-01 00:00:00,2022-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13181908,Sapele,NGA,transportation,domestic-shipping,2023-01-01 00:00:00,2023-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13174114,Sea Eagle Terminal,NGA,transportation,domestic-shipping,2015-01-01 00:00:00,2015-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13174114,Sea Eagle Terminal,NGA,transportation,domestic-shipping,2016-01-01 00:00:00,2016-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13174114,Sea Eagle Terminal,NGA,transportation,domestic-shipping,2017-01-01 00:00:00,2017-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13174114,Sea Eagle Terminal,NGA,transportation,domestic-shipping,2018-01-01 00:00:00,2018-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13174114,Sea Eagle Terminal,NGA,transportation,domestic-shipping,2019-01-01 00:00:00,2019-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13174114,Sea Eagle Terminal,NGA,transportation,domestic-shipping,2020-01-01 00:00:00,2020-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13174114,Sea Eagle Terminal,NGA,transportation,domestic-shipping,2021-01-01 00:00:00,2021-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13174114,Sea Eagle Terminal,NGA,transportation,domestic-shipping,2022-01-01 00:00:00,2022-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13174114,Sea Eagle Terminal,NGA,transportation,domestic-shipping,2023-01-01 00:00:00,2023-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13174115,Tin Can Island,NGA,transportation,domestic-shipping,2015-01-01 00:00:00,2015-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13174115,Tin Can Island,NGA,transportation,domestic-shipping,2016-01-01 00:00:00,2016-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13174115,Tin Can Island,NGA,transportation,domestic-shipping,2017-01-01 00:00:00,2017-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13174115,Tin Can Island,NGA,transportation,domestic-shipping,2018-01-01 00:00:00,2018-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13174115,Tin Can Island,NGA,transportation,domestic-shipping,2019-01-01 00:00:00,2019-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13174115,Tin Can Island,NGA,transportation,domestic-shipping,2020-01-01 00:00:00,2020-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13174115,Tin Can Island,NGA,transportation,domestic-shipping,2021-01-01 00:00:00,2021-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13174115,Tin Can Island,NGA,transportation,domestic-shipping,2022-01-01 00:00:00,2022-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13174115,Tin Can Island,NGA,transportation,domestic-shipping,2023-01-01 00:00:00,2023-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13174116,Tin Can Island Port (Tcip),NGA,transportation,domestic-shipping,2015-01-01 00:00:00,2015-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13174116,Tin Can Island Port (Tcip),NGA,transportation,domestic-shipping,2016-01-01 00:00:00,2016-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13174116,Tin Can Island Port (Tcip),NGA,transportation,domestic-shipping,2017-01-01 00:00:00,2017-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13174116,Tin Can Island Port (Tcip),NGA,transportation,domestic-shipping,2018-01-01 00:00:00,2018-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13174116,Tin Can Island Port (Tcip),NGA,transportation,domestic-shipping,2019-01-01 00:00:00,2019-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13174116,Tin Can Island Port (Tcip),NGA,transportation,domestic-shipping,2020-01-01 00:00:00,2020-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13174116,Tin Can Island Port (Tcip),NGA,transportation,domestic-shipping,2021-01-01 00:00:00,2021-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13174116,Tin Can Island Port (Tcip),NGA,transportation,domestic-shipping,2022-01-01 00:00:00,2022-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13174116,Tin Can Island Port (Tcip),NGA,transportation,domestic-shipping,2023-01-01 00:00:00,2023-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13177923,Tulja Offshore Terminal,NGA,transportation,domestic-shipping,2015-01-01 00:00:00,2015-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13177923,Tulja Offshore Terminal,NGA,transportation,domestic-shipping,2016-01-01 00:00:00,2016-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13177923,Tulja Offshore Terminal,NGA,transportation,domestic-shipping,2017-01-01 00:00:00,2017-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13177923,Tulja Offshore Terminal,NGA,transportation,domestic-shipping,2018-01-01 00:00:00,2018-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13177923,Tulja Offshore Terminal,NGA,transportation,domestic-shipping,2019-01-01 00:00:00,2019-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13177923,Tulja Offshore Terminal,NGA,transportation,domestic-shipping,2020-01-01 00:00:00,2020-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13177923,Tulja Offshore Terminal,NGA,transportation,domestic-shipping,2021-01-01 00:00:00,2021-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13177923,Tulja Offshore Terminal,NGA,transportation,domestic-shipping,2022-01-01 00:00:00,2022-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13177923,Tulja Offshore Terminal,NGA,transportation,domestic-shipping,2023-01-01 00:00:00,2023-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13174117,Ukpokiti Marine Terminal,NGA,transportation,domestic-shipping,2015-01-01 00:00:00,2015-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13174117,Ukpokiti Marine Terminal,NGA,transportation,domestic-shipping,2016-01-01 00:00:00,2016-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13174117,Ukpokiti Marine Terminal,NGA,transportation,domestic-shipping,2017-01-01 00:00:00,2017-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13174117,Ukpokiti Marine Terminal,NGA,transportation,domestic-shipping,2018-01-01 00:00:00,2018-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13174117,Ukpokiti Marine Terminal,NGA,transportation,domestic-shipping,2019-01-01 00:00:00,2019-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13174117,Ukpokiti Marine Terminal,NGA,transportation,domestic-shipping,2020-01-01 00:00:00,2020-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13174117,Ukpokiti Marine Terminal,NGA,transportation,domestic-shipping,2021-01-01 00:00:00,2021-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13174117,Ukpokiti Marine Terminal,NGA,transportation,domestic-shipping,2022-01-01 00:00:00,2022-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13174117,Ukpokiti Marine Terminal,NGA,transportation,domestic-shipping,2023-01-01 00:00:00,2023-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13174118,Warri,NGA,transportation,domestic-shipping,2015-01-01 00:00:00,2015-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13174118,Warri,NGA,transportation,domestic-shipping,2016-01-01 00:00:00,2016-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13174118,Warri,NGA,transportation,domestic-shipping,2017-01-01 00:00:00,2017-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13174118,Warri,NGA,transportation,domestic-shipping,2018-01-01 00:00:00,2018-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13174118,Warri,NGA,transportation,domestic-shipping,2019-01-01 00:00:00,2019-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13174118,Warri,NGA,transportation,domestic-shipping,2020-01-01 00:00:00,2020-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13174118,Warri,NGA,transportation,domestic-shipping,2021-01-01 00:00:00,2021-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13174118,Warri,NGA,transportation,domestic-shipping,2022-01-01 00:00:00,2022-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13174118,Warri,NGA,transportation,domestic-shipping,2023-01-01 00:00:00,2023-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13174119,Yoho Terminal,NGA,transportation,domestic-shipping,2015-01-01 00:00:00,2015-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13174119,Yoho Terminal,NGA,transportation,domestic-shipping,2016-01-01 00:00:00,2016-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13174119,Yoho Terminal,NGA,transportation,domestic-shipping,2017-01-01 00:00:00,2017-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13174119,Yoho Terminal,NGA,transportation,domestic-shipping,2018-01-01 00:00:00,2018-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13174119,Yoho Terminal,NGA,transportation,domestic-shipping,2019-01-01 00:00:00,2019-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13174119,Yoho Terminal,NGA,transportation,domestic-shipping,2020-01-01 00:00:00,2020-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13174119,Yoho Terminal,NGA,transportation,domestic-shipping,2021-01-01 00:00:00,2021-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13174119,Yoho Terminal,NGA,transportation,domestic-shipping,2022-01-01 00:00:00,2022-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13174119,Yoho Terminal,NGA,transportation,domestic-shipping,2023-01-01 00:00:00,2023-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13174090,,NGA,transportation,domestic-shipping,2015-01-01 00:00:00,2015-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13174090,,NGA,transportation,domestic-shipping,2016-01-01 00:00:00,2016-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13174090,,NGA,transportation,domestic-shipping,2017-01-01 00:00:00,2017-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13174090,,NGA,transportation,domestic-shipping,2018-01-01 00:00:00,2018-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13174090,,NGA,transportation,domestic-shipping,2019-01-01 00:00:00,2019-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13174090,,NGA,transportation,domestic-shipping,2020-01-01 00:00:00,2020-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13174090,,NGA,transportation,domestic-shipping,2021-01-01 00:00:00,2021-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13174090,,NGA,transportation,domestic-shipping,2022-01-01 00:00:00,2022-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13174090,,NGA,transportation,domestic-shipping,2023-01-01 00:00:00,2023-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13181883,,NGA,transportation,domestic-shipping,2015-01-01 00:00:00,2015-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13181883,,NGA,transportation,domestic-shipping,2016-01-01 00:00:00,2016-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13181883,,NGA,transportation,domestic-shipping,2017-01-01 00:00:00,2017-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13181883,,NGA,transportation,domestic-shipping,2018-01-01 00:00:00,2018-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13181883,,NGA,transportation,domestic-shipping,2019-01-01 00:00:00,2019-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13181883,,NGA,transportation,domestic-shipping,2020-01-01 00:00:00,2020-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13181883,,NGA,transportation,domestic-shipping,2021-01-01 00:00:00,2021-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13181883,,NGA,transportation,domestic-shipping,2022-01-01 00:00:00,2022-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13181883,,NGA,transportation,domestic-shipping,2023-01-01 00:00:00,2023-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13181884,,NGA,transportation,domestic-shipping,2015-01-01 00:00:00,2015-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13181884,,NGA,transportation,domestic-shipping,2016-01-01 00:00:00,2016-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13181884,,NGA,transportation,domestic-shipping,2017-01-01 00:00:00,2017-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13181884,,NGA,transportation,domestic-shipping,2018-01-01 00:00:00,2018-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13181884,,NGA,transportation,domestic-shipping,2019-01-01 00:00:00,2019-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13181884,,NGA,transportation,domestic-shipping,2020-01-01 00:00:00,2020-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13181884,,NGA,transportation,domestic-shipping,2021-01-01 00:00:00,2021-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13181884,,NGA,transportation,domestic-shipping,2022-01-01 00:00:00,2022-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13181884,,NGA,transportation,domestic-shipping,2023-01-01 00:00:00,2023-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13181885,,NGA,transportation,domestic-shipping,2015-01-01 00:00:00,2015-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13181885,,NGA,transportation,domestic-shipping,2016-01-01 00:00:00,2016-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13181885,,NGA,transportation,domestic-shipping,2017-01-01 00:00:00,2017-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13181885,,NGA,transportation,domestic-shipping,2018-01-01 00:00:00,2018-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13181885,,NGA,transportation,domestic-shipping,2019-01-01 00:00:00,2019-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13181885,,NGA,transportation,domestic-shipping,2020-01-01 00:00:00,2020-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13181885,,NGA,transportation,domestic-shipping,2021-01-01 00:00:00,2021-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13181885,,NGA,transportation,domestic-shipping,2022-01-01 00:00:00,2022-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13181885,,NGA,transportation,domestic-shipping,2023-01-01 00:00:00,2023-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13186015,,NGA,transportation,domestic-shipping,2015-01-01 00:00:00,2015-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13186015,,NGA,transportation,domestic-shipping,2016-01-01 00:00:00,2016-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13186015,,NGA,transportation,domestic-shipping,2017-01-01 00:00:00,2017-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13186015,,NGA,transportation,domestic-shipping,2018-01-01 00:00:00,2018-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13186015,,NGA,transportation,domestic-shipping,2019-01-01 00:00:00,2019-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13186015,,NGA,transportation,domestic-shipping,2020-01-01 00:00:00,2020-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13186015,,NGA,transportation,domestic-shipping,2021-01-01 00:00:00,2021-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13186015,,NGA,transportation,domestic-shipping,2022-01-01 00:00:00,2022-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13186015,,NGA,transportation,domestic-shipping,2023-01-01 00:00:00,2023-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13799636,,NGA,transportation,domestic-shipping,2015-01-01 00:00:00,2015-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13799636,,NGA,transportation,domestic-shipping,2016-01-01 00:00:00,2016-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13799636,,NGA,transportation,domestic-shipping,2017-01-01 00:00:00,2017-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13799636,,NGA,transportation,domestic-shipping,2018-01-01 00:00:00,2018-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13799636,,NGA,transportation,domestic-shipping,2019-01-01 00:00:00,2019-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13799636,,NGA,transportation,domestic-shipping,2020-01-01 00:00:00,2020-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13799636,,NGA,transportation,domestic-shipping,2021-01-01 00:00:00,2021-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13799636,,NGA,transportation,domestic-shipping,2022-01-01 00:00:00,2022-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+13799636,,NGA,transportation,domestic-shipping,2023-01-01 00:00:00,2023-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+17186628,,NGA,transportation,domestic-shipping,2015-01-01 00:00:00,2015-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+17186628,,NGA,transportation,domestic-shipping,2016-01-01 00:00:00,2016-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+17186628,,NGA,transportation,domestic-shipping,2017-01-01 00:00:00,2017-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+17186628,,NGA,transportation,domestic-shipping,2018-01-01 00:00:00,2018-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+17186628,,NGA,transportation,domestic-shipping,2019-01-01 00:00:00,2019-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+17186628,,NGA,transportation,domestic-shipping,2020-01-01 00:00:00,2020-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+17186628,,NGA,transportation,domestic-shipping,2021-01-01 00:00:00,2021-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+17186628,,NGA,transportation,domestic-shipping,2022-01-01 00:00:00,2022-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low
+17186628,,NGA,transportation,domestic-shipping,2023-01-01 00:00:00,2023-12-31 00:00:00,,medium,,medium,very low,,,very low,,,very low,2023-09-01 00:00:00,2023-10-27 16:00:00,very low

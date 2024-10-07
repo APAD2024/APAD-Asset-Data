@@ -1,0 +1,41 @@
+iso3_country,sector,subsector,start_time,end_time,gas,emissions_quantity,emissions_quantity_units,temporal_granularity,created_date,modified_date
+NGA,agriculture,other-agricultural-soil-emissions,2015-01-01 00:00:00,2015-12-31 00:00:00,ch4,0.0,tonnes,,2023-10-23 11:43:08.395355,
+NGA,agriculture,other-agricultural-soil-emissions,2015-01-01 00:00:00,2015-12-31 00:00:00,co2,0.0,tonnes,,2023-10-23 11:43:08.395355,
+NGA,agriculture,other-agricultural-soil-emissions,2015-01-01 00:00:00,2015-12-31 00:00:00,co2e_100yr,12890765.999999998,tonnes,,2023-10-23 11:43:08.395355,
+NGA,agriculture,other-agricultural-soil-emissions,2015-01-01 00:00:00,2015-12-31 00:00:00,co2e_20yr,12842121.599999998,tonnes,,2023-10-23 11:43:08.395355,
+NGA,agriculture,other-agricultural-soil-emissions,2015-01-01 00:00:00,2015-12-31 00:00:00,n2o,48644.399999999994,tonnes,,2023-10-23 11:43:08.395355,
+NGA,agriculture,other-agricultural-soil-emissions,2016-01-01 00:00:00,2016-12-31 00:00:00,ch4,0.0,tonnes,,2023-10-23 11:43:08.395355,
+NGA,agriculture,other-agricultural-soil-emissions,2016-01-01 00:00:00,2016-12-31 00:00:00,co2,0.0,tonnes,,2023-10-23 11:43:08.395355,
+NGA,agriculture,other-agricultural-soil-emissions,2016-01-01 00:00:00,2016-12-31 00:00:00,co2e_100yr,13797463.5,tonnes,,2023-10-23 11:43:08.395355,
+NGA,agriculture,other-agricultural-soil-emissions,2016-01-01 00:00:00,2016-12-31 00:00:00,co2e_20yr,13745397.6,tonnes,,2023-10-23 11:43:08.395355,
+NGA,agriculture,other-agricultural-soil-emissions,2016-01-01 00:00:00,2016-12-31 00:00:00,n2o,52065.9,tonnes,,2023-10-23 11:43:08.395355,
+NGA,agriculture,other-agricultural-soil-emissions,2017-01-01 00:00:00,2017-12-31 00:00:00,ch4,0.0,tonnes,,2023-10-23 11:43:08.395355,
+NGA,agriculture,other-agricultural-soil-emissions,2017-01-01 00:00:00,2017-12-31 00:00:00,co2,0.0,tonnes,,2023-10-23 11:43:08.395355,
+NGA,agriculture,other-agricultural-soil-emissions,2017-01-01 00:00:00,2017-12-31 00:00:00,co2e_100yr,14124977.0,tonnes,,2023-10-23 11:43:08.395355,
+NGA,agriculture,other-agricultural-soil-emissions,2017-01-01 00:00:00,2017-12-31 00:00:00,co2e_20yr,14071675.2,tonnes,,2023-10-23 11:43:08.395355,
+NGA,agriculture,other-agricultural-soil-emissions,2017-01-01 00:00:00,2017-12-31 00:00:00,n2o,53301.8,tonnes,,2023-10-23 11:43:08.395355,
+NGA,agriculture,other-agricultural-soil-emissions,2018-01-01 00:00:00,2018-12-31 00:00:00,ch4,0.0,tonnes,,2023-10-23 11:43:08.395355,
+NGA,agriculture,other-agricultural-soil-emissions,2018-01-01 00:00:00,2018-12-31 00:00:00,co2,0.0,tonnes,,2023-10-23 11:43:08.395355,
+NGA,agriculture,other-agricultural-soil-emissions,2018-01-01 00:00:00,2018-12-31 00:00:00,co2e_100yr,14507716.500000002,tonnes,,2023-10-23 11:43:08.395355,
+NGA,agriculture,other-agricultural-soil-emissions,2018-01-01 00:00:00,2018-12-31 00:00:00,co2e_20yr,14452970.400000002,tonnes,,2023-10-23 11:43:08.395355,
+NGA,agriculture,other-agricultural-soil-emissions,2018-01-01 00:00:00,2018-12-31 00:00:00,n2o,54746.100000000006,tonnes,,2023-10-23 11:43:08.395355,
+NGA,agriculture,other-agricultural-soil-emissions,2019-01-01 00:00:00,2019-12-31 00:00:00,ch4,0.0,tonnes,,2023-10-23 11:43:08.395355,
+NGA,agriculture,other-agricultural-soil-emissions,2019-01-01 00:00:00,2019-12-31 00:00:00,co2,0.0,tonnes,,2023-10-23 11:43:08.395355,
+NGA,agriculture,other-agricultural-soil-emissions,2019-01-01 00:00:00,2019-12-31 00:00:00,co2e_100yr,14746057.5,tonnes,,2023-10-23 11:43:08.395355,
+NGA,agriculture,other-agricultural-soil-emissions,2019-01-01 00:00:00,2019-12-31 00:00:00,co2e_20yr,14690412.0,tonnes,,2023-10-23 11:43:08.395355,
+NGA,agriculture,other-agricultural-soil-emissions,2019-01-01 00:00:00,2019-12-31 00:00:00,n2o,55645.5,tonnes,,2023-10-23 11:43:08.395355,
+NGA,agriculture,other-agricultural-soil-emissions,2020-01-01 00:00:00,2020-12-31 00:00:00,ch4,0.0,tonnes,,2023-10-23 11:43:08.395355,
+NGA,agriculture,other-agricultural-soil-emissions,2020-01-01 00:00:00,2020-12-31 00:00:00,co2,0.0,tonnes,,2023-10-23 11:43:08.395355,
+NGA,agriculture,other-agricultural-soil-emissions,2020-01-01 00:00:00,2020-12-31 00:00:00,co2e_100yr,14822589.5,tonnes,,2023-10-23 11:43:08.395355,
+NGA,agriculture,other-agricultural-soil-emissions,2020-01-01 00:00:00,2020-12-31 00:00:00,co2e_20yr,14766655.2,tonnes,,2023-10-23 11:43:08.395355,
+NGA,agriculture,other-agricultural-soil-emissions,2020-01-01 00:00:00,2020-12-31 00:00:00,n2o,55934.3,tonnes,,2023-10-23 11:43:08.395355,
+NGA,agriculture,other-agricultural-soil-emissions,2021-01-01 00:00:00,2021-12-31 00:00:00,ch4,0.0,tonnes,,2023-10-23 11:43:08.395355,
+NGA,agriculture,other-agricultural-soil-emissions,2021-01-01 00:00:00,2021-12-31 00:00:00,co2,0.0,tonnes,,2023-10-23 11:43:08.395355,
+NGA,agriculture,other-agricultural-soil-emissions,2021-01-01 00:00:00,2021-12-31 00:00:00,co2e_100yr,14822589.5,tonnes,,2023-10-23 11:43:08.395355,2023-10-23 17:49:53.5061
+NGA,agriculture,other-agricultural-soil-emissions,2021-01-01 00:00:00,2021-12-31 00:00:00,co2e_20yr,14766655.2,tonnes,,2023-10-23 11:43:08.395355,2023-10-23 17:49:53.5061
+NGA,agriculture,other-agricultural-soil-emissions,2021-01-01 00:00:00,2021-12-31 00:00:00,n2o,55934.3,tonnes,,2023-10-23 11:43:08.395355,2023-10-23 17:49:53.5061
+NGA,agriculture,other-agricultural-soil-emissions,2022-01-01 00:00:00,2022-12-31 00:00:00,ch4,0.0,tonnes,,2023-10-23 11:43:08.395355,
+NGA,agriculture,other-agricultural-soil-emissions,2022-01-01 00:00:00,2022-12-31 00:00:00,co2,0.0,tonnes,,2023-10-23 11:43:08.395355,
+NGA,agriculture,other-agricultural-soil-emissions,2022-01-01 00:00:00,2022-12-31 00:00:00,co2e_100yr,14822589.5,tonnes,,2023-10-23 11:43:08.395355,2023-10-23 17:49:46.830461
+NGA,agriculture,other-agricultural-soil-emissions,2022-01-01 00:00:00,2022-12-31 00:00:00,co2e_20yr,14766655.2,tonnes,,2023-10-23 11:43:08.395355,2023-10-23 17:49:46.830461
+NGA,agriculture,other-agricultural-soil-emissions,2022-01-01 00:00:00,2022-12-31 00:00:00,n2o,55934.3,tonnes,,2023-10-23 11:43:08.395355,2023-10-23 17:49:46.830461

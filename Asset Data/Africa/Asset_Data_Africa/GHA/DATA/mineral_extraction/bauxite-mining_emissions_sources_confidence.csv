@@ -1,0 +1,2 @@
+source_id,source_name,iso3_country,sector,subsector,start_time,end_time,source_type,capacity,capacity_factor,activity,co2_emissions_factor,ch4_emissions_factor,n2o_emissions_factor,co2_emissions,ch4_emissions,n2o_emissions,total_co2e_20yrgwp,created_date,modified_date,total_co2e_100yrgwp
+25487569,Awaso Mine,GHA,mineral-extraction,bauxite-mining,2022-01-01 00:00:00,2022-12-31 00:00:00,high,,,medium,very low,,,very low,,,very low,2023-10-10 00:00:00,2023-11-06 11:20:00,very low
