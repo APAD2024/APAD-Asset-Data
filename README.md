@@ -42,12 +42,12 @@ The Indo-Gangetic Plain is a major agricultural and industrial zone, with a high
 
 | **Country**   | **States/Regions**                           | **Notable Districts**                   | **Area Covered (sq km)** |
 |---------------|----------------------------------------------|-----------------------------------------|--------------------------|
-| **DRC**     | __________ | _______| ______ Km²
-| **Ghana**| _______                    | ________        | _______  Km²         |
-| **Nigeria**  | ________                               | _________  | __________  Km²              |
-| **Uganda**  | ________                               | _________  | __________  Km²              |
+| **DRC**     | All| All| 2,344,858 Km²
+| **Ghana**| All                   | All       | 227,533  Km²         |
+| **Nigeria**  | All                               | All  | 923,769  Km²              |
+| **Uganda**  | All                              | All  | 241,550  Km²              |
 
-### Total Area Covered in parts of Africa: **_____ Km²**
+### Total Area Covered in parts of Africa: **3,737,710 Km²**
 
 ### Environmental and Industrial Focus:
 These regions in Africa represent a mix of urban industrial areas and rapidly growing cities, where coal-fired power plants, transportation, and industrial emissions contribute significantly to air pollution. These areas provide an important contrast to the IGP for assessing air quality and pollution sources.
@@ -89,18 +89,6 @@ This folder contains data related to the population exposure risk to pollutants,
 
 - `Population Exposure Risk/`
   - `README.md` (Explanation of the decay function and risk calculation methodology)
-  - `Brick Kiln/`
-  - `Cement/`
-  - `Steel/`
-  - `Marble and Granite/`
-  - `Transport/`
-  - `Open burning sites/`
-  - `Coal/`
-  - `Oil/`
-  - `Gas/`
-  - `Pulp and paper industry/`
-  - `Chemical industry/`
-  - `Crop stubble burning (seasonal)/`
 
 ### How can this dataset be used?
 
