@@ -1,6 +1,6 @@
-# Brick Kilns Low-Resolution Satellite Imagery Analysis
+# Brick Kilns in IGP Region Using AI
 
-This repository provides a comprehensive geospatial analysis of brick kiln operations in Pakistan, focusing on their environmental and public health impacts. Using low-resolution satellite imagery, we have mapped and analyzed brick kiln sites, estimating their production and emissions. This dataset represents a pioneering effort to understand the spatial distribution of brick kilns and their contribution to air pollution in the region.
+This repository provides a comprehensive geospatial analysis of brick kiln operations in Indo-Gangetic Plain (IGP)-region (Bangladesh, India, and Pakistan) , focusing on their environmental and public health impacts. Using low-resolution satellite imagery, we have mapped and analyzed brick kiln sites, estimating their production and emissions. This dataset represents a pioneering effort to understand the spatial distribution of brick kilns and their contribution to air pollution in the region.
 
 ---
 
@@ -8,7 +8,7 @@ This repository provides a comprehensive geospatial analysis of brick kiln opera
 
 1. [Overview](#overview)  
 2. [Brick Production Calculation](#brick-production-calculation)  
-   - [Step 1: Total Production for 11,277 Kilns](#step-1-total-production-for-11277-kilns)  
+   - [Step 1: Total Production for "n" Kilns](#step-1-total-production-for-n-kilns)  
    - [Step 2: Daily Production per Kiln](#step-2-daily-production-per-kiln)  
    - [Updated Production & Emissions Calculation](#updated-production--emissions-calculation)  
 3. [File Structure](#file-structure)  
@@ -22,7 +22,7 @@ This repository provides a comprehensive geospatial analysis of brick kiln opera
 
 ## **Overview**
 
-This dataset is the first geospatial mapping of brick kiln sites in the Indus-Ganges Plain (IGP) region of Pakistan, providing invaluable insights into the distribution and environmental impact of these sites. Brick kilns are significant contributors to air pollution, and their emissions pose severe public health risks. This repository includes:
+This dataset is the first open sourced geospatial mapping of brick kiln sites in the IGP region, providing invaluable insights into the distribution and environmental impact of these sites. Brick kilns are significant contributors to air pollution, and their emissions pose severe public health risks. This repository includes:
 
 - **Precise geolocation of brick kilns**, standardized in CRS EPSG:4326 (WGS 84).
 - **Preliminary emissions estimates** for pollutants such as PM10, PM2.5, NOx, and SOx.
@@ -32,7 +32,7 @@ This dataset is the first geospatial mapping of brick kiln sites in the Indus-Ga
 
 ## **Brick Production Calculation**
 
-### **Step 1: Total Production for 11,277 Kilns**
+### **Step 1: Total Production for "n" Kilns**
 
 Based on the paper _"Health risk assessment of emissions from brick kilns in Tando Hyder, Sindh, Pakistan using the AERMOD dispersion model"_:
 
@@ -103,7 +103,7 @@ Pollutants analyzed: PM2.5, PM10, NOx, and SOx.
 
 ### **1. Main Dataset**
 
-This dataset includes the primary geolocation data of brick kilns in Pakistan:
+This dataset includes the primary geolocation data of brick kilns in the region:
 
 | **Column**       | **Description**                                          |
 |------------------|----------------------------------------------------------|
@@ -159,18 +159,10 @@ Below are two visualizations showing the distribution density of brick kilns in 
 
 **Figure 1: Brick Kiln Density Map**
 
-![Brick Kiln Density Map](path/to/brick_kiln_density_map.png)
+![Brick Kiln Density Map](density.png)
 
 **Figure 2: Proximity to Sensitive Areas (1km radius)**
 
-![Proximity to Sensitive Areas](path/to/proximity_sensitive_areas.png)
-
----
-
-## **Citation**
-
-For academic use, please cite the following source:
-
-Shaikh, K., Imran, U., Khan, A. et al. (2020). _Health risk assessment of emissions from brick kilns in Tando Hyder, Sindh, Pakistan using the AERMOD dispersion model_. [Link to paper](https://rdcu.be/dQtaj)
+![Proximity to Sensitive Areas](proximity_final.png)
 
 ---
