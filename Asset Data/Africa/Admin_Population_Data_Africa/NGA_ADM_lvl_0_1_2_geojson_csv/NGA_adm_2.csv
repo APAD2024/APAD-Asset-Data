@@ -1,0 +1,776 @@
+GID_0,COUNTRY,GID_1,NAME_1,NAME_2,TYPE_2,ENGTYPE_2
+NGA,Nigeria,NGA.1_1,Abia,Aba North,Local Authority,Local Authority
+NGA,Nigeria,NGA.1_1,Abia,Aba South,Local Authority,Local Authority
+NGA,Nigeria,NGA.1_1,Abia,Arochukwu,Local Authority,Local Authority
+NGA,Nigeria,NGA.1_1,Abia,Bende,Local Authority,Local Authority
+NGA,Nigeria,NGA.1_1,Abia,Ikwuano,Local Authority,Local Authority
+NGA,Nigeria,NGA.1_1,Abia,Isiala Ngwa North,Local Authority,Local Authority
+NGA,Nigeria,NGA.1_1,Abia,Isiala Ngwa South,Local Authority,Local Authority
+NGA,Nigeria,NGA.1_1,Abia,Isuikwuato,Local Authority,Local Authority
+NGA,Nigeria,NGA.1_1,Abia,Obi Ngwa,Local Authority,Local Authority
+NGA,Nigeria,NGA.1_1,Abia,Ohafia,Local Authority,Local Authority
+NGA,Nigeria,NGA.1_1,Abia,Osisioma Ngwa,Local Authority,Local Authority
+NGA,Nigeria,NGA.1_1,Abia,Ugwunagbo,Local Authority,Local Authority
+NGA,Nigeria,NGA.1_1,Abia,Ukwa East,Local Authority,Local Authority
+NGA,Nigeria,NGA.1_1,Abia,Ukwa West,Local Authority,Local Authority
+NGA,Nigeria,NGA.1_1,Abia,Umu Nneochi,Local Authority,Local Authority
+NGA,Nigeria,NGA.1_1,Abia,Umuahia North,Local Authority,Local Authority
+NGA,Nigeria,NGA.1_1,Abia,Umuahia South,Local Authority,Local Authority
+NGA,Nigeria,NGA.2_1,Adamawa,Demsa,Local Authority,Local Authority
+NGA,Nigeria,NGA.2_1,Adamawa,Fufore,Local Authority,Local Authority
+NGA,Nigeria,NGA.2_1,Adamawa,Ganye,Local Authority,Local Authority
+NGA,Nigeria,NGA.2_1,Adamawa,Girie,Local Authority,Local Authority
+NGA,Nigeria,NGA.2_1,Adamawa,Gombi,Local Authority,Local Authority
+NGA,Nigeria,NGA.2_1,Adamawa,Guyuk,Local Authority,Local Authority
+NGA,Nigeria,NGA.2_1,Adamawa,Hong,Local Authority,Local Authority
+NGA,Nigeria,NGA.2_1,Adamawa,Jada,Local Authority,Local Authority
+NGA,Nigeria,NGA.2_1,Adamawa,Lamurde,Local Authority,Local Authority
+NGA,Nigeria,NGA.2_1,Adamawa,Madagali,Local Authority,Local Authority
+NGA,Nigeria,NGA.2_1,Adamawa,Maiha,Local Authority,Local Authority
+NGA,Nigeria,NGA.2_1,Adamawa,Mayo-Belwa,Local Authority,Local Authority
+NGA,Nigeria,NGA.2_1,Adamawa,Michika,Local Authority,Local Authority
+NGA,Nigeria,NGA.2_1,Adamawa,Mubi North,Local Authority,Local Authority
+NGA,Nigeria,NGA.2_1,Adamawa,Mubi South,Local Authority,Local Authority
+NGA,Nigeria,NGA.2_1,Adamawa,Numan,Local Authority,Local Authority
+NGA,Nigeria,NGA.2_1,Adamawa,Shelleng,Local Authority,Local Authority
+NGA,Nigeria,NGA.2_1,Adamawa,Song,Local Authority,Local Authority
+NGA,Nigeria,NGA.2_1,Adamawa,Teungo,Local Authority,Local Authority
+NGA,Nigeria,NGA.2_1,Adamawa,Yola North,Local Authority,Local Authority
+NGA,Nigeria,NGA.2_1,Adamawa,Yola South,Local Authority,Local Authority
+NGA,Nigeria,NGA.3_1,Akwa Ibom,Abak,Local Authority,Local Authority
+NGA,Nigeria,NGA.3_1,Akwa Ibom,Eastern Obolo,Local Authority,Local Authority
+NGA,Nigeria,NGA.3_1,Akwa Ibom,Eket,Local Authority,Local Authority
+NGA,Nigeria,NGA.3_1,Akwa Ibom,Esit Eket,Local Authority,Local Authority
+NGA,Nigeria,NGA.3_1,Akwa Ibom,Essien Udim,Local Authority,Local Authority
+NGA,Nigeria,NGA.3_1,Akwa Ibom,Etim Ekpo,Local Authority,Local Authority
+NGA,Nigeria,NGA.3_1,Akwa Ibom,Etinan,Local Authority,Local Authority
+NGA,Nigeria,NGA.3_1,Akwa Ibom,Ibeno,Local Authority,Local Authority
+NGA,Nigeria,NGA.3_1,Akwa Ibom,Ibesikpo Asutan,Local Authority,Local Authority
+NGA,Nigeria,NGA.3_1,Akwa Ibom,Ibiono Ibom,Local Authority,Local Authority
+NGA,Nigeria,NGA.3_1,Akwa Ibom,Ika,Local Authority,Local Authority
+NGA,Nigeria,NGA.3_1,Akwa Ibom,Ikono,Local Authority,Local Authority
+NGA,Nigeria,NGA.3_1,Akwa Ibom,Ikot Abasi,Local Authority,Local Authority
+NGA,Nigeria,NGA.3_1,Akwa Ibom,Ikot Ekpene,Local Authority,Local Authority
+NGA,Nigeria,NGA.3_1,Akwa Ibom,Ini,Local Authority,Local Authority
+NGA,Nigeria,NGA.3_1,Akwa Ibom,Itu,Local Authority,Local Authority
+NGA,Nigeria,NGA.3_1,Akwa Ibom,Mbo,Local Authority,Local Authority
+NGA,Nigeria,NGA.3_1,Akwa Ibom,Mkpat Enin,Local Authority,Local Authority
+NGA,Nigeria,NGA.3_1,Akwa Ibom,Nsit Atai,Local Authority,Local Authority
+NGA,Nigeria,NGA.3_1,Akwa Ibom,Nsit Ibom,Local Authority,Local Authority
+NGA,Nigeria,NGA.3_1,Akwa Ibom,Nsit Ubium,Local Authority,Local Authority
+NGA,Nigeria,NGA.3_1,Akwa Ibom,Obot Akara,Local Authority,Local Authority
+NGA,Nigeria,NGA.3_1,Akwa Ibom,Okobo,Local Authority,Local Authority
+NGA,Nigeria,NGA.3_1,Akwa Ibom,Onna,Local Authority,Local Authority
+NGA,Nigeria,NGA.3_1,Akwa Ibom,Oron,Local Authority,Local Authority
+NGA,Nigeria,NGA.3_1,Akwa Ibom,Oruk Anam,Local Authority,Local Authority
+NGA,Nigeria,NGA.3_1,Akwa Ibom,Udung Uko,Local Authority,Local Authority
+NGA,Nigeria,NGA.3_1,Akwa Ibom,Ukanafun,Local Authority,Local Authority
+NGA,Nigeria,NGA.3_1,Akwa Ibom,Uruan,Local Authority,Local Authority
+NGA,Nigeria,NGA.3_1,Akwa Ibom,Urue Offong,Local Authority,Local Authority
+NGA,Nigeria,NGA.3_1,Akwa Ibom,Uyo,Local Authority,Local Authority
+NGA,Nigeria,NGA.4_1,Anambra,Aguata,Local Authority,Local Authority
+NGA,Nigeria,NGA.4_1,Anambra,Anambra East,Local Authority,Local Authority
+NGA,Nigeria,NGA.4_1,Anambra,Anambra West,Local Authority,Local Authority
+NGA,Nigeria,NGA.4_1,Anambra,Anaocha,Local Authority,Local Authority
+NGA,Nigeria,NGA.4_1,Anambra,Awka North,Local Authority,Local Authority
+NGA,Nigeria,NGA.4_1,Anambra,Awka South,Local Authority,Local Authority
+NGA,Nigeria,NGA.4_1,Anambra,Ayamelum,Local Authority,Local Authority
+NGA,Nigeria,NGA.4_1,Anambra,Dunukofia,Local Authority,Local Authority
+NGA,Nigeria,NGA.4_1,Anambra,Ekwusigo,Local Authority,Local Authority
+NGA,Nigeria,NGA.4_1,Anambra,Idemili North,Local Authority,Local Authority
+NGA,Nigeria,NGA.4_1,Anambra,Idemili South,Local Authority,Local Authority
+NGA,Nigeria,NGA.4_1,Anambra,Ihiala,Local Authority,Local Authority
+NGA,Nigeria,NGA.4_1,Anambra,Njikoka,Local Authority,Local Authority
+NGA,Nigeria,NGA.4_1,Anambra,Nnewi North,Local Authority,Local Authority
+NGA,Nigeria,NGA.4_1,Anambra,Nnewi South,Local Authority,Local Authority
+NGA,Nigeria,NGA.4_1,Anambra,Ogbaru,Local Authority,Local Authority
+NGA,Nigeria,NGA.4_1,Anambra,Onitsha North,Local Authority,Local Authority
+NGA,Nigeria,NGA.4_1,Anambra,Onitsha South,Local Authority,Local Authority
+NGA,Nigeria,NGA.4_1,Anambra,Orumba North,Local Authority,Local Authority
+NGA,Nigeria,NGA.4_1,Anambra,Orumba South,Local Authority,Local Authority
+NGA,Nigeria,NGA.4_1,Anambra,Oyi,Local Authority,Local Authority
+NGA,Nigeria,NGA.5_1,Bauchi,Alkaleri,Local Authority,Local Authority
+NGA,Nigeria,NGA.5_1,Bauchi,Bauchi,Local Authority,Local Authority
+NGA,Nigeria,NGA.5_1,Bauchi,Bogoro,Local Authority,Local Authority
+NGA,Nigeria,NGA.5_1,Bauchi,Damban,Local Authority,Local Authority
+NGA,Nigeria,NGA.5_1,Bauchi,Darazo,Local Authority,Local Authority
+NGA,Nigeria,NGA.5_1,Bauchi,Dass,Local Authority,Local Authority
+NGA,Nigeria,NGA.5_1,Bauchi,Gamawa,Local Authority,Local Authority
+NGA,Nigeria,NGA.5_1,Bauchi,Ganjuwa,Local Authority,Local Authority
+NGA,Nigeria,NGA.5_1,Bauchi,Giade,Local Authority,Local Authority
+NGA,Nigeria,NGA.5_1,Bauchi,Itas/Gadau,Local Authority,Local Authority
+NGA,Nigeria,NGA.5_1,Bauchi,Jama'are,Local Authority,Local Authority
+NGA,Nigeria,NGA.5_1,Bauchi,Katagum,Local Authority,Local Authority
+NGA,Nigeria,NGA.5_1,Bauchi,Kirfi,Local Authority,Local Authority
+NGA,Nigeria,NGA.5_1,Bauchi,Misau,Local Authority,Local Authority
+NGA,Nigeria,NGA.5_1,Bauchi,Ningi,Local Authority,Local Authority
+NGA,Nigeria,NGA.5_1,Bauchi,Shira,Local Authority,Local Authority
+NGA,Nigeria,NGA.5_1,Bauchi,Tafawa-Balewa,Local Authority,Local Authority
+NGA,Nigeria,NGA.5_1,Bauchi,Toro,Local Authority,Local Authority
+NGA,Nigeria,NGA.5_1,Bauchi,Warji,Local Authority,Local Authority
+NGA,Nigeria,NGA.5_1,Bauchi,Zaki,Local Authority,Local Authority
+NGA,Nigeria,NGA.6_1,Bayelsa,Brass,Local Authority,Local Authority
+NGA,Nigeria,NGA.6_1,Bayelsa,Ekeremor,Local Authority,Local Authority
+NGA,Nigeria,NGA.6_1,Bayelsa,Kolokuma/Opokuma,Local Authority,Local Authority
+NGA,Nigeria,NGA.6_1,Bayelsa,Nembe,Local Authority,Local Authority
+NGA,Nigeria,NGA.6_1,Bayelsa,Ogbia,Local Authority,Local Authority
+NGA,Nigeria,NGA.6_1,Bayelsa,Sagbama,Local Authority,Local Authority
+NGA,Nigeria,NGA.6_1,Bayelsa,Southern Ijaw,Local Authority,Local Authority
+NGA,Nigeria,NGA.6_1,Bayelsa,Yenagoa,Local Authority,Local Authority
+NGA,Nigeria,NGA.7_1,Benue,Ado,Local Authority,Local Authority
+NGA,Nigeria,NGA.7_1,Benue,Agatu,Local Authority,Local Authority
+NGA,Nigeria,NGA.7_1,Benue,Apa,Local Authority,Local Authority
+NGA,Nigeria,NGA.7_1,Benue,Bukuru,Local Authority,Local Authority
+NGA,Nigeria,NGA.7_1,Benue,Gboko,Local Authority,Local Authority
+NGA,Nigeria,NGA.7_1,Benue,Guma,Local Authority,Local Authority
+NGA,Nigeria,NGA.7_1,Benue,Gwer East,Local Authority,Local Authority
+NGA,Nigeria,NGA.7_1,Benue,Gwer West,Local Authority,Local Authority
+NGA,Nigeria,NGA.7_1,Benue,Katsina-Ala,Local Authority,Local Authority
+NGA,Nigeria,NGA.7_1,Benue,Konshisha,Local Authority,Local Authority
+NGA,Nigeria,NGA.7_1,Benue,Kwande,Local Authority,Local Authority
+NGA,Nigeria,NGA.7_1,Benue,Logo,Local Authority,Local Authority
+NGA,Nigeria,NGA.7_1,Benue,Makurdi,Local Authority,Local Authority
+NGA,Nigeria,NGA.7_1,Benue,Obi,Local Authority,Local Authority
+NGA,Nigeria,NGA.7_1,Benue,Ogbadibo,Local Authority,Local Authority
+NGA,Nigeria,NGA.7_1,Benue,Ohimini,Local Authority,Local Authority
+NGA,Nigeria,NGA.7_1,Benue,Oju,Local Authority,Local Authority
+NGA,Nigeria,NGA.7_1,Benue,Okpokwu,Local Authority,Local Authority
+NGA,Nigeria,NGA.7_1,Benue,Otukpo,Local Authority,Local Authority
+NGA,Nigeria,NGA.7_1,Benue,Tarka,Local Authority,Local Authority
+NGA,Nigeria,NGA.7_1,Benue,Ukum,Local Authority,Local Authority
+NGA,Nigeria,NGA.7_1,Benue,Ushongo,Local Authority,Local Authority
+NGA,Nigeria,NGA.7_1,Benue,Vande Ikya,Local Authority,Local Authority
+NGA,Nigeria,NGA.8_1,Borno,Abadam,Local Authority,Local Authority
+NGA,Nigeria,NGA.8_1,Borno,Askira/Uba,Local Authority,Local Authority
+NGA,Nigeria,NGA.8_1,Borno,Bama,Local Authority,Local Authority
+NGA,Nigeria,NGA.8_1,Borno,Bayo,Local Authority,Local Authority
+NGA,Nigeria,NGA.8_1,Borno,Biu,Local Authority,Local Authority
+NGA,Nigeria,NGA.8_1,Borno,Chibok,Local Authority,Local Authority
+NGA,Nigeria,NGA.8_1,Borno,Damboa,Local Authority,Local Authority
+NGA,Nigeria,NGA.8_1,Borno,Dikwa,Local Authority,Local Authority
+NGA,Nigeria,NGA.8_1,Borno,Gubio,Local Authority,Local Authority
+NGA,Nigeria,NGA.8_1,Borno,Guzamala,Local Authority,Local Authority
+NGA,Nigeria,NGA.8_1,Borno,Gwoza,Local Authority,Local Authority
+NGA,Nigeria,NGA.8_1,Borno,Hawul,Local Authority,Local Authority
+NGA,Nigeria,NGA.8_1,Borno,Jere,Local Authority,Local Authority
+NGA,Nigeria,NGA.8_1,Borno,Kaga,Local Authority,Local Authority
+NGA,Nigeria,NGA.8_1,Borno,Kala/Balge,Local Authority,Local Authority
+NGA,Nigeria,NGA.8_1,Borno,Konduga,Local Authority,Local Authority
+NGA,Nigeria,NGA.8_1,Borno,Kukawa,Local Authority,Local Authority
+NGA,Nigeria,NGA.8_1,Borno,Kwaya Kusar,Local Authority,Local Authority
+NGA,Nigeria,NGA.8_1,Borno,Lake Chad,Water body,Water body
+NGA,Nigeria,NGA.8_1,Borno,Mafa,Local Authority,Local Authority
+NGA,Nigeria,NGA.8_1,Borno,Magumeri,Local Authority,Local Authority
+NGA,Nigeria,NGA.8_1,Borno,Maiduguri,Local Authority,Local Authority
+NGA,Nigeria,NGA.8_1,Borno,Marte,Local Authority,Local Authority
+NGA,Nigeria,NGA.8_1,Borno,Mobbar,Local Authority,Local Authority
+NGA,Nigeria,NGA.8_1,Borno,Monguno,Local Authority,Local Authority
+NGA,Nigeria,NGA.8_1,Borno,Ngala,Local Authority,Local Authority
+NGA,Nigeria,NGA.8_1,Borno,Nganzai,Local Authority,Local Authority
+NGA,Nigeria,NGA.8_1,Borno,Shani,Local Authority,Local Authority
+NGA,Nigeria,NGA.9_1,Cross River,Abi,Local Authority,Local Authority
+NGA,Nigeria,NGA.9_1,Cross River,Akamkpa,Local Authority,Local Authority
+NGA,Nigeria,NGA.9_1,Cross River,Akpabuyo,Local Authority,Local Authority
+NGA,Nigeria,NGA.9_1,Cross River,Bakassi,Local Authority,Local Authority
+NGA,Nigeria,NGA.9_1,Cross River,Bekwarra,Local Authority,Local Authority
+NGA,Nigeria,NGA.9_1,Cross River,Biase,Local Authority,Local Authority
+NGA,Nigeria,NGA.9_1,Cross River,Boki,Local Authority,Local Authority
+NGA,Nigeria,NGA.9_1,Cross River,Calabar,Local Authority,Local Authority
+NGA,Nigeria,NGA.9_1,Cross River,Calabar South,Local Authority,Local Authority
+NGA,Nigeria,NGA.9_1,Cross River,Etung,Local Authority,Local Authority
+NGA,Nigeria,NGA.9_1,Cross River,Ikom,Local Authority,Local Authority
+NGA,Nigeria,NGA.9_1,Cross River,Obanliku,Local Authority,Local Authority
+NGA,Nigeria,NGA.9_1,Cross River,Obubra,Local Authority,Local Authority
+NGA,Nigeria,NGA.9_1,Cross River,Obudu,Local Authority,Local Authority
+NGA,Nigeria,NGA.9_1,Cross River,Odukpani,Local Authority,Local Authority
+NGA,Nigeria,NGA.9_1,Cross River,Ogoja,Local Authority,Local Authority
+NGA,Nigeria,NGA.9_1,Cross River,Yakurr,Local Authority,Local Authority
+NGA,Nigeria,NGA.9_1,Cross River,Yala,Local Authority,Local Authority
+NGA,Nigeria,NGA.10_1,Delta,Aniocha North,Local Authority,Local Authority
+NGA,Nigeria,NGA.10_1,Delta,Aniocha South,Local Authority,Local Authority
+NGA,Nigeria,NGA.10_1,Delta,Bomadi,Local Authority,Local Authority
+NGA,Nigeria,NGA.10_1,Delta,Burutu,Local Authority,Local Authority
+NGA,Nigeria,NGA.10_1,Delta,Ethiope East,Local Authority,Local Authority
+NGA,Nigeria,NGA.10_1,Delta,Ethiope West,Local Authority,Local Authority
+NGA,Nigeria,NGA.10_1,Delta,Ika North-East,Local Authority,Local Authority
+NGA,Nigeria,NGA.10_1,Delta,Ika South,Local Authority,Local Authority
+NGA,Nigeria,NGA.10_1,Delta,Isoko North,Local Authority,Local Authority
+NGA,Nigeria,NGA.10_1,Delta,Isoko South,Local Authority,Local Authority
+NGA,Nigeria,NGA.10_1,Delta,Ndokwa East,Local Authority,Local Authority
+NGA,Nigeria,NGA.10_1,Delta,Ndokwa West,Local Authority,Local Authority
+NGA,Nigeria,NGA.10_1,Delta,Okpe,Local Authority,Local Authority
+NGA,Nigeria,NGA.10_1,Delta,Oshimili North,Local Authority,Local Authority
+NGA,Nigeria,NGA.10_1,Delta,Oshimili South,Local Authority,Local Authority
+NGA,Nigeria,NGA.10_1,Delta,Patani,Local Authority,Local Authority
+NGA,Nigeria,NGA.10_1,Delta,Sapele,Local Authority,Local Authority
+NGA,Nigeria,NGA.10_1,Delta,Udu,Local Authority,Local Authority
+NGA,Nigeria,NGA.10_1,Delta,Ughelli North,Local Authority,Local Authority
+NGA,Nigeria,NGA.10_1,Delta,Ughelli South,Local Authority,Local Authority
+NGA,Nigeria,NGA.10_1,Delta,Ukwuani,Local Authority,Local Authority
+NGA,Nigeria,NGA.10_1,Delta,Uvwie,Local Authority,Local Authority
+NGA,Nigeria,NGA.10_1,Delta,Warri North,Local Authority,Local Authority
+NGA,Nigeria,NGA.10_1,Delta,Warri South,Local Authority,Local Authority
+NGA,Nigeria,NGA.10_1,Delta,Warri South-West,Local Authority,Local Authority
+NGA,Nigeria,NGA.11_1,Ebonyi,Abakaliki,Local Authority,Local Authority
+NGA,Nigeria,NGA.11_1,Ebonyi,Afikpo North,Local Authority,Local Authority
+NGA,Nigeria,NGA.11_1,Ebonyi,Afikpo South,Local Authority,Local Authority
+NGA,Nigeria,NGA.11_1,Ebonyi,Ebonyi,Local Authority,Local Authority
+NGA,Nigeria,NGA.11_1,Ebonyi,Ezza North,Local Authority,Local Authority
+NGA,Nigeria,NGA.11_1,Ebonyi,Ezza South,Local Authority,Local Authority
+NGA,Nigeria,NGA.11_1,Ebonyi,Ikwo,Local Authority,Local Authority
+NGA,Nigeria,NGA.11_1,Ebonyi,Ishielu,Local Authority,Local Authority
+NGA,Nigeria,NGA.11_1,Ebonyi,Ivo,Local Authority,Local Authority
+NGA,Nigeria,NGA.11_1,Ebonyi,Izzi,Local Authority,Local Authority
+NGA,Nigeria,NGA.11_1,Ebonyi,Ohaozara,Local Authority,Local Authority
+NGA,Nigeria,NGA.11_1,Ebonyi,Ohaukwu,Local Authority,Local Authority
+NGA,Nigeria,NGA.11_1,Ebonyi,Onicha,Local Authority,Local Authority
+NGA,Nigeria,NGA.12_1,Edo,Akoko-Edo,Local Authority,Local Authority
+NGA,Nigeria,NGA.12_1,Edo,Egor,Local Authority,Local Authority
+NGA,Nigeria,NGA.12_1,Edo,Esan Central,Local Authority,Local Authority
+NGA,Nigeria,NGA.12_1,Edo,Esan North-East,Local Authority,Local Authority
+NGA,Nigeria,NGA.12_1,Edo,Esan South-East,Local Authority,Local Authority
+NGA,Nigeria,NGA.12_1,Edo,Esan West,Local Authority,Local Authority
+NGA,Nigeria,NGA.12_1,Edo,Etsako Central,Local Authority,Local Authority
+NGA,Nigeria,NGA.12_1,Edo,Etsako East,Local Authority,Local Authority
+NGA,Nigeria,NGA.12_1,Edo,Etsako West,Local Authority,Local Authority
+NGA,Nigeria,NGA.12_1,Edo,Igueben,Local Authority,Local Authority
+NGA,Nigeria,NGA.12_1,Edo,Ikpoba-Okha,Local Authority,Local Authority
+NGA,Nigeria,NGA.12_1,Edo,Oredo,Local Authority,Local Authority
+NGA,Nigeria,NGA.12_1,Edo,Orhionmwon,Local Authority,Local Authority
+NGA,Nigeria,NGA.12_1,Edo,Ovia North-East,Local Authority,Local Authority
+NGA,Nigeria,NGA.12_1,Edo,Ovia South-West,Local Authority,Local Authority
+NGA,Nigeria,NGA.12_1,Edo,Owan East,Local Authority,Local Authority
+NGA,Nigeria,NGA.12_1,Edo,Owan West,Local Authority,Local Authority
+NGA,Nigeria,NGA.12_1,Edo,Uhunmwonde,Local Authority,Local Authority
+NGA,Nigeria,NGA.13_1,Ekiti,Ado-Ekiti,Local Authority,Local Authority
+NGA,Nigeria,NGA.13_1,Ekiti,Efon,Local Authority,Local Authority
+NGA,Nigeria,NGA.13_1,Ekiti,Ekiti East,Local Authority,Local Authority
+NGA,Nigeria,NGA.13_1,Ekiti,Ekiti South-West,Local Authority,Local Authority
+NGA,Nigeria,NGA.13_1,Ekiti,Ekiti West,Local Authority,Local Authority
+NGA,Nigeria,NGA.13_1,Ekiti,Emure/Ise/Orun,Local Authority,Local Authority
+NGA,Nigeria,NGA.13_1,Ekiti,Gboyin,Local Authority,Local Authority
+NGA,Nigeria,NGA.13_1,Ekiti,Ido-Osi,Local Authority,Local Authority
+NGA,Nigeria,NGA.13_1,Ekiti,Ijero,Local Authority,Local Authority
+NGA,Nigeria,NGA.13_1,Ekiti,Ikere,Local Authority,Local Authority
+NGA,Nigeria,NGA.13_1,Ekiti,Ikole,Local Authority,Local Authority
+NGA,Nigeria,NGA.13_1,Ekiti,Ilejemeje,Local Authority,Local Authority
+NGA,Nigeria,NGA.13_1,Ekiti,Irepodun/Ifelodun,Local Authority,Local Authority
+NGA,Nigeria,NGA.13_1,Ekiti,Ise/Orun,Local Authority,Local Authority
+NGA,Nigeria,NGA.13_1,Ekiti,Moba,Local Authority,Local Authority
+NGA,Nigeria,NGA.13_1,Ekiti,Oye,Local Authority,Local Authority
+NGA,Nigeria,NGA.14_1,Enugu,Aninri,Local Authority,Local Authority
+NGA,Nigeria,NGA.14_1,Enugu,Awgu,Local Authority,Local Authority
+NGA,Nigeria,NGA.14_1,Enugu,Enugu East,Local Authority,Local Authority
+NGA,Nigeria,NGA.14_1,Enugu,Enugu North,Local Authority,Local Authority
+NGA,Nigeria,NGA.14_1,Enugu,Enugu South,Local Authority,Local Authority
+NGA,Nigeria,NGA.14_1,Enugu,Ezeagu,Local Authority,Local Authority
+NGA,Nigeria,NGA.14_1,Enugu,Igbo-Etiti,Local Authority,Local Authority
+NGA,Nigeria,NGA.14_1,Enugu,Igbo-eze North,Local Authority,Local Authority
+NGA,Nigeria,NGA.14_1,Enugu,Igbo-eze South,Local Authority,Local Authority
+NGA,Nigeria,NGA.14_1,Enugu,Isi-Uzo,Local Authority,Local Authority
+NGA,Nigeria,NGA.14_1,Enugu,Nkanu East,Local Authority,Local Authority
+NGA,Nigeria,NGA.14_1,Enugu,Nkanu West,Local Authority,Local Authority
+NGA,Nigeria,NGA.14_1,Enugu,Nsukka,Local Authority,Local Authority
+NGA,Nigeria,NGA.14_1,Enugu,Oji-River,Local Authority,Local Authority
+NGA,Nigeria,NGA.14_1,Enugu,Udenu,Local Authority,Local Authority
+NGA,Nigeria,NGA.14_1,Enugu,Udi,Local Authority,Local Authority
+NGA,Nigeria,NGA.14_1,Enugu,Uzo-Uwani,Local Authority,Local Authority
+NGA,Nigeria,NGA.15_1,Federal Capital Territory,Abaji,Local Authority,Local Authority
+NGA,Nigeria,NGA.15_1,Federal Capital Territory,Abuja,Local Authority,Local Authority
+NGA,Nigeria,NGA.15_1,Federal Capital Territory,Bwari,Local Authority,Local Authority
+NGA,Nigeria,NGA.15_1,Federal Capital Territory,Gwagwalada,Local Authority,Local Authority
+NGA,Nigeria,NGA.15_1,Federal Capital Territory,Kuje,Local Authority,Local Authority
+NGA,Nigeria,NGA.15_1,Federal Capital Territory,Kwali,Local Authority,Local Authority
+NGA,Nigeria,NGA.16_1,Gombe,Akko,Local Authority,Local Authority
+NGA,Nigeria,NGA.16_1,Gombe,Balanga,Local Authority,Local Authority
+NGA,Nigeria,NGA.16_1,Gombe,Billiri,Local Authority,Local Authority
+NGA,Nigeria,NGA.16_1,Gombe,Dukku,Local Authority,Local Authority
+NGA,Nigeria,NGA.16_1,Gombe,Funakaye,Local Authority,Local Authority
+NGA,Nigeria,NGA.16_1,Gombe,Gombe,Local Authority,Local Authority
+NGA,Nigeria,NGA.16_1,Gombe,Kaltungo,Local Authority,Local Authority
+NGA,Nigeria,NGA.16_1,Gombe,Kwami,Local Authority,Local Authority
+NGA,Nigeria,NGA.16_1,Gombe,Nafada,Local Authority,Local Authority
+NGA,Nigeria,NGA.16_1,Gombe,Shomgom,Local Authority,Local Authority
+NGA,Nigeria,NGA.16_1,Gombe,Yamaltu/Deba,Local Authority,Local Authority
+NGA,Nigeria,NGA.17_1,Imo,Aboh-Mbaise,Local Authority,Local Authority
+NGA,Nigeria,NGA.17_1,Imo,Ahiazu-Mbaise,Local Authority,Local Authority
+NGA,Nigeria,NGA.17_1,Imo,Ehime-Mbano,Local Authority,Local Authority
+NGA,Nigeria,NGA.17_1,Imo,Ezinihitte Mbaise,Local Authority,Local Authority
+NGA,Nigeria,NGA.17_1,Imo,Ideato North,Local Authority,Local Authority
+NGA,Nigeria,NGA.17_1,Imo,Ideato South,Local Authority,Local Authority
+NGA,Nigeria,NGA.17_1,Imo,Ihitte/Uboma,Local Authority,Local Authority
+NGA,Nigeria,NGA.17_1,Imo,Ikeduru,Local Authority,Local Authority
+NGA,Nigeria,NGA.17_1,Imo,Isiala Mbano,Local Authority,Local Authority
+NGA,Nigeria,NGA.17_1,Imo,Isu,Local Authority,Local Authority
+NGA,Nigeria,NGA.17_1,Imo,Mbatoli,Local Authority,Local Authority
+NGA,Nigeria,NGA.17_1,Imo,Ngor-Okpala,Local Authority,Local Authority
+NGA,Nigeria,NGA.17_1,Imo,Njaba,Local Authority,Local Authority
+NGA,Nigeria,NGA.17_1,Imo,Nkwerre,Local Authority,Local Authority
+NGA,Nigeria,NGA.17_1,Imo,Nwangele,Local Authority,Local Authority
+NGA,Nigeria,NGA.17_1,Imo,Obowo,Local Authority,Local Authority
+NGA,Nigeria,NGA.17_1,Imo,Oguta,Local Authority,Local Authority
+NGA,Nigeria,NGA.17_1,Imo,Ohaji/Egbema,Local Authority,Local Authority
+NGA,Nigeria,NGA.17_1,Imo,Okigwe,Local Authority,Local Authority
+NGA,Nigeria,NGA.17_1,Imo,Orlu,Local Authority,Local Authority
+NGA,Nigeria,NGA.17_1,Imo,Orsu,Local Authority,Local Authority
+NGA,Nigeria,NGA.17_1,Imo,Oru East,Local Authority,Local Authority
+NGA,Nigeria,NGA.17_1,Imo,Oru West,Local Authority,Local Authority
+NGA,Nigeria,NGA.17_1,Imo,Owerri Municipal,Local Authority,Local Authority
+NGA,Nigeria,NGA.17_1,Imo,Owerri North,Local Authority,Local Authority
+NGA,Nigeria,NGA.17_1,Imo,Owerri West,Local Authority,Local Authority
+NGA,Nigeria,NGA.17_1,Imo,Unuimo,Local Authority,Local Authority
+NGA,Nigeria,NGA.18_1,Jigawa,Auyo,Local Authority,Local Authority
+NGA,Nigeria,NGA.18_1,Jigawa,Babura,Local Authority,Local Authority
+NGA,Nigeria,NGA.18_1,Jigawa,Biriniwa,Local Authority,Local Authority
+NGA,Nigeria,NGA.18_1,Jigawa,Birnin Kudu,Local Authority,Local Authority
+NGA,Nigeria,NGA.18_1,Jigawa,Buji,Local Authority,Local Authority
+NGA,Nigeria,NGA.18_1,Jigawa,Dutse,Local Authority,Local Authority
+NGA,Nigeria,NGA.18_1,Jigawa,Gagarawa,Local Authority,Local Authority
+NGA,Nigeria,NGA.18_1,Jigawa,Garki,Local Authority,Local Authority
+NGA,Nigeria,NGA.18_1,Jigawa,Gumel,Local Authority,Local Authority
+NGA,Nigeria,NGA.18_1,Jigawa,Guri,Local Authority,Local Authority
+NGA,Nigeria,NGA.18_1,Jigawa,Gwaram,Local Authority,Local Authority
+NGA,Nigeria,NGA.18_1,Jigawa,Gwiwa,Local Authority,Local Authority
+NGA,Nigeria,NGA.18_1,Jigawa,Hadejia,Local Authority,Local Authority
+NGA,Nigeria,NGA.18_1,Jigawa,Jahun,Local Authority,Local Authority
+NGA,Nigeria,NGA.18_1,Jigawa,Kafin Hausa,Local Authority,Local Authority
+NGA,Nigeria,NGA.18_1,Jigawa,Kaugama,Local Authority,Local Authority
+NGA,Nigeria,NGA.18_1,Jigawa,Kazaure,Local Authority,Local Authority
+NGA,Nigeria,NGA.18_1,Jigawa,Kiri Kasama,Local Authority,Local Authority
+NGA,Nigeria,NGA.18_1,Jigawa,Kiyawa,Local Authority,Local Authority
+NGA,Nigeria,NGA.18_1,Jigawa,Maigatari,Local Authority,Local Authority
+NGA,Nigeria,NGA.18_1,Jigawa,Malam Maduri,Local Authority,Local Authority
+NGA,Nigeria,NGA.18_1,Jigawa,Miga,Local Authority,Local Authority
+NGA,Nigeria,NGA.18_1,Jigawa,Ringim,Local Authority,Local Authority
+NGA,Nigeria,NGA.18_1,Jigawa,Roni,Local Authority,Local Authority
+NGA,Nigeria,NGA.18_1,Jigawa,Sule Tankarkar,Local Authority,Local Authority
+NGA,Nigeria,NGA.18_1,Jigawa,Taura,Local Authority,Local Authority
+NGA,Nigeria,NGA.18_1,Jigawa,Yankwashi,Local Authority,Local Authority
+NGA,Nigeria,NGA.19_1,Kaduna,Birnin Gwari,Local Authority,Local Authority
+NGA,Nigeria,NGA.19_1,Kaduna,Chikun,Local Authority,Local Authority
+NGA,Nigeria,NGA.19_1,Kaduna,Giwa,Local Authority,Local Authority
+NGA,Nigeria,NGA.19_1,Kaduna,Igabi,Local Authority,Local Authority
+NGA,Nigeria,NGA.19_1,Kaduna,Ikara,Local Authority,Local Authority
+NGA,Nigeria,NGA.19_1,Kaduna,Jaba,Local Authority,Local Authority
+NGA,Nigeria,NGA.19_1,Kaduna,Jema'a,Local Authority,Local Authority
+NGA,Nigeria,NGA.19_1,Kaduna,Kachia,Local Authority,Local Authority
+NGA,Nigeria,NGA.19_1,Kaduna,Kaduna North,Local Authority,Local Authority
+NGA,Nigeria,NGA.19_1,Kaduna,Kaduna South,Local Authority,Local Authority
+NGA,Nigeria,NGA.19_1,Kaduna,Kagarko,Local Authority,Local Authority
+NGA,Nigeria,NGA.19_1,Kaduna,Kajuru,Local Authority,Local Authority
+NGA,Nigeria,NGA.19_1,Kaduna,Kaura,Local Authority,Local Authority
+NGA,Nigeria,NGA.19_1,Kaduna,Kauru,Local Authority,Local Authority
+NGA,Nigeria,NGA.19_1,Kaduna,Kubau,Local Authority,Local Authority
+NGA,Nigeria,NGA.19_1,Kaduna,Kudan,Local Authority,Local Authority
+NGA,Nigeria,NGA.19_1,Kaduna,Lere,Local Authority,Local Authority
+NGA,Nigeria,NGA.19_1,Kaduna,Makarfi,Local Authority,Local Authority
+NGA,Nigeria,NGA.19_1,Kaduna,Sabon Gari,Local Authority,Local Authority
+NGA,Nigeria,NGA.19_1,Kaduna,Sanga,Local Authority,Local Authority
+NGA,Nigeria,NGA.19_1,Kaduna,Soba,Local Authority,Local Authority
+NGA,Nigeria,NGA.19_1,Kaduna,Zangon Kataf,Local Authority,Local Authority
+NGA,Nigeria,NGA.19_1,Kaduna,Zaria,Local Authority,Local Authority
+NGA,Nigeria,NGA.20_1,Kano,Ajingi,Local Authority,Local Authority
+NGA,Nigeria,NGA.20_1,Kano,Albasu,Local Authority,Local Authority
+NGA,Nigeria,NGA.20_1,Kano,Bagwai,Local Authority,Local Authority
+NGA,Nigeria,NGA.20_1,Kano,Bebeji,Local Authority,Local Authority
+NGA,Nigeria,NGA.20_1,Kano,Bichi,Local Authority,Local Authority
+NGA,Nigeria,NGA.20_1,Kano,Bunkure,Local Authority,Local Authority
+NGA,Nigeria,NGA.20_1,Kano,Dala,Local Authority,Local Authority
+NGA,Nigeria,NGA.20_1,Kano,Dambatta,Local Authority,Local Authority
+NGA,Nigeria,NGA.20_1,Kano,Dawakin Kudu,Local Authority,Local Authority
+NGA,Nigeria,NGA.20_1,Kano,Dawakin Tofa,Local Authority,Local Authority
+NGA,Nigeria,NGA.20_1,Kano,Doguwa,Local Authority,Local Authority
+NGA,Nigeria,NGA.20_1,Kano,Fagge,Local Authority,Local Authority
+NGA,Nigeria,NGA.20_1,Kano,Gabasawa,Local Authority,Local Authority
+NGA,Nigeria,NGA.20_1,Kano,Garko,Local Authority,Local Authority
+NGA,Nigeria,NGA.20_1,Kano,Garum Mallam,Local Authority,Local Authority
+NGA,Nigeria,NGA.20_1,Kano,Gaya,Local Authority,Local Authority
+NGA,Nigeria,NGA.20_1,Kano,Gezawa,Local Authority,Local Authority
+NGA,Nigeria,NGA.20_1,Kano,Gwale,Local Authority,Local Authority
+NGA,Nigeria,NGA.20_1,Kano,Gwarzo,Local Authority,Local Authority
+NGA,Nigeria,NGA.20_1,Kano,Kabo,Local Authority,Local Authority
+NGA,Nigeria,NGA.20_1,Kano,Kano,Local Authority,Local Authority
+NGA,Nigeria,NGA.20_1,Kano,Karaye,Local Authority,Local Authority
+NGA,Nigeria,NGA.20_1,Kano,Kibiya,Local Authority,Local Authority
+NGA,Nigeria,NGA.20_1,Kano,Kiru,Local Authority,Local Authority
+NGA,Nigeria,NGA.20_1,Kano,Kumbotso,Local Authority,Local Authority
+NGA,Nigeria,NGA.20_1,Kano,Kunchi,Local Authority,Local Authority
+NGA,Nigeria,NGA.20_1,Kano,Kura,Local Authority,Local Authority
+NGA,Nigeria,NGA.20_1,Kano,Madobi,Local Authority,Local Authority
+NGA,Nigeria,NGA.20_1,Kano,Makoda,Local Authority,Local Authority
+NGA,Nigeria,NGA.20_1,Kano,Minjibir,Local Authority,Local Authority
+NGA,Nigeria,NGA.20_1,Kano,Nasarawa,Local Authority,Local Authority
+NGA,Nigeria,NGA.20_1,Kano,Rano,Local Authority,Local Authority
+NGA,Nigeria,NGA.20_1,Kano,Rimin Gado,Local Authority,Local Authority
+NGA,Nigeria,NGA.20_1,Kano,Rogo,Local Authority,Local Authority
+NGA,Nigeria,NGA.20_1,Kano,Shanono,Local Authority,Local Authority
+NGA,Nigeria,NGA.20_1,Kano,Sumaila,Local Authority,Local Authority
+NGA,Nigeria,NGA.20_1,Kano,Takai,Local Authority,Local Authority
+NGA,Nigeria,NGA.20_1,Kano,Tarauni,Local Authority,Local Authority
+NGA,Nigeria,NGA.20_1,Kano,Tofa,Local Authority,Local Authority
+NGA,Nigeria,NGA.20_1,Kano,Tsanyawa,Local Authority,Local Authority
+NGA,Nigeria,NGA.20_1,Kano,Tudun Wada,Local Authority,Local Authority
+NGA,Nigeria,NGA.20_1,Kano,Ungogo,Local Authority,Local Authority
+NGA,Nigeria,NGA.20_1,Kano,Warawa,Local Authority,Local Authority
+NGA,Nigeria,NGA.20_1,Kano,Wudil,Local Authority,Local Authority
+NGA,Nigeria,NGA.21_1,Katsina,Bakori,Local Authority,Local Authority
+NGA,Nigeria,NGA.21_1,Katsina,Batagarawa,Local Authority,Local Authority
+NGA,Nigeria,NGA.21_1,Katsina,Batsari,Local Authority,Local Authority
+NGA,Nigeria,NGA.21_1,Katsina,Baure,Local Authority,Local Authority
+NGA,Nigeria,NGA.21_1,Katsina,Bindawa,Local Authority,Local Authority
+NGA,Nigeria,NGA.21_1,Katsina,Charanchi,Local Authority,Local Authority
+NGA,Nigeria,NGA.21_1,Katsina,Dandume,Local Authority,Local Authority
+NGA,Nigeria,NGA.21_1,Katsina,Danja,Local Authority,Local Authority
+NGA,Nigeria,NGA.21_1,Katsina,Danmusa,Local Authority,Local Authority
+NGA,Nigeria,NGA.21_1,Katsina,Daura,Local Authority,Local Authority
+NGA,Nigeria,NGA.21_1,Katsina,Dutsi,Local Authority,Local Authority
+NGA,Nigeria,NGA.21_1,Katsina,Dutsinma,Local Authority,Local Authority
+NGA,Nigeria,NGA.21_1,Katsina,Faskari,Local Authority,Local Authority
+NGA,Nigeria,NGA.21_1,Katsina,Funtua,Local Authority,Local Authority
+NGA,Nigeria,NGA.21_1,Katsina,Ingawa,Local Authority,Local Authority
+NGA,Nigeria,NGA.21_1,Katsina,Jibia,Local Authority,Local Authority
+NGA,Nigeria,NGA.21_1,Katsina,Kafur,Local Authority,Local Authority
+NGA,Nigeria,NGA.21_1,Katsina,Kaita,Local Authority,Local Authority
+NGA,Nigeria,NGA.21_1,Katsina,Kankara,Local Authority,Local Authority
+NGA,Nigeria,NGA.21_1,Katsina,Kankia,Local Authority,Local Authority
+NGA,Nigeria,NGA.21_1,Katsina,Katsina,Local Authority,Local Authority
+NGA,Nigeria,NGA.21_1,Katsina,Kurfi,Local Authority,Local Authority
+NGA,Nigeria,NGA.21_1,Katsina,Kusada,Local Authority,Local Authority
+NGA,Nigeria,NGA.21_1,Katsina,Mai'Adua,Local Authority,Local Authority
+NGA,Nigeria,NGA.21_1,Katsina,Malumfashi,Local Authority,Local Authority
+NGA,Nigeria,NGA.21_1,Katsina,Mani,Local Authority,Local Authority
+NGA,Nigeria,NGA.21_1,Katsina,Mashi,Local Authority,Local Authority
+NGA,Nigeria,NGA.21_1,Katsina,Matazu,Local Authority,Local Authority
+NGA,Nigeria,NGA.21_1,Katsina,Musawa,Local Authority,Local Authority
+NGA,Nigeria,NGA.21_1,Katsina,Rimi,Local Authority,Local Authority
+NGA,Nigeria,NGA.21_1,Katsina,Sabuwa,Local Authority,Local Authority
+NGA,Nigeria,NGA.21_1,Katsina,Safana,Local Authority,Local Authority
+NGA,Nigeria,NGA.21_1,Katsina,Sandamu,Local Authority,Local Authority
+NGA,Nigeria,NGA.21_1,Katsina,Zango,Local Authority,Local Authority
+NGA,Nigeria,NGA.22_1,Kebbi,Aleiro,Local Authority,Local Authority
+NGA,Nigeria,NGA.22_1,Kebbi,Arewa Dandi,Local Authority,Local Authority
+NGA,Nigeria,NGA.22_1,Kebbi,Argungu,Local Authority,Local Authority
+NGA,Nigeria,NGA.22_1,Kebbi,Augie,Local Authority,Local Authority
+NGA,Nigeria,NGA.22_1,Kebbi,Bagudo,Local Authority,Local Authority
+NGA,Nigeria,NGA.22_1,Kebbi,Birnin Kebbi,Local Authority,Local Authority
+NGA,Nigeria,NGA.22_1,Kebbi,Bunza,Local Authority,Local Authority
+NGA,Nigeria,NGA.22_1,Kebbi,Dandi,Local Authority,Local Authority
+NGA,Nigeria,NGA.22_1,Kebbi,Danko Wasagu,Local Authority,Local Authority
+NGA,Nigeria,NGA.22_1,Kebbi,Fakai,Local Authority,Local Authority
+NGA,Nigeria,NGA.22_1,Kebbi,Gwandu,Local Authority,Local Authority
+NGA,Nigeria,NGA.22_1,Kebbi,Jega,Local Authority,Local Authority
+NGA,Nigeria,NGA.22_1,Kebbi,Kalgo,Local Authority,Local Authority
+NGA,Nigeria,NGA.22_1,Kebbi,Koko/Besse,Local Authority,Local Authority
+NGA,Nigeria,NGA.22_1,Kebbi,Maiyama,Local Authority,Local Authority
+NGA,Nigeria,NGA.22_1,Kebbi,Ngaski,Local Authority,Local Authority
+NGA,Nigeria,NGA.22_1,Kebbi,Sakaba,Local Authority,Local Authority
+NGA,Nigeria,NGA.22_1,Kebbi,Shanga,Local Authority,Local Authority
+NGA,Nigeria,NGA.22_1,Kebbi,Suru,Local Authority,Local Authority
+NGA,Nigeria,NGA.22_1,Kebbi,Yauri,Local Authority,Local Authority
+NGA,Nigeria,NGA.22_1,Kebbi,Zuru,Local Authority,Local Authority
+NGA,Nigeria,NGA.23_1,Kogi,Adavi,Local Authority,Local Authority
+NGA,Nigeria,NGA.23_1,Kogi,Ajaokuta,Local Authority,Local Authority
+NGA,Nigeria,NGA.23_1,Kogi,Ankpa,Local Authority,Local Authority
+NGA,Nigeria,NGA.23_1,Kogi,Bassa,Local Authority,Local Authority
+NGA,Nigeria,NGA.23_1,Kogi,Dekina,Local Authority,Local Authority
+NGA,Nigeria,NGA.23_1,Kogi,Ibaji,Local Authority,Local Authority
+NGA,Nigeria,NGA.23_1,Kogi,Idah,Local Authority,Local Authority
+NGA,Nigeria,NGA.23_1,Kogi,Igalamela-Odolu,Local Authority,Local Authority
+NGA,Nigeria,NGA.23_1,Kogi,Ijumu,Local Authority,Local Authority
+NGA,Nigeria,NGA.23_1,Kogi,Kabba/Bunu,Local Authority,Local Authority
+NGA,Nigeria,NGA.23_1,Kogi,Kogi,Local Authority,Local Authority
+NGA,Nigeria,NGA.23_1,Kogi,Lokoja,Local Authority,Local Authority
+NGA,Nigeria,NGA.23_1,Kogi,Mopa-Muro,Local Authority,Local Authority
+NGA,Nigeria,NGA.23_1,Kogi,Ofu,Local Authority,Local Authority
+NGA,Nigeria,NGA.23_1,Kogi,Ogori/Magongo,Local Authority,Local Authority
+NGA,Nigeria,NGA.23_1,Kogi,Okehi,Local Authority,Local Authority
+NGA,Nigeria,NGA.23_1,Kogi,Okene,Local Authority,Local Authority
+NGA,Nigeria,NGA.23_1,Kogi,Olamaboro,Local Authority,Local Authority
+NGA,Nigeria,NGA.23_1,Kogi,Omala,Local Authority,Local Authority
+NGA,Nigeria,NGA.23_1,Kogi,Yagba East,Local Authority,Local Authority
+NGA,Nigeria,NGA.23_1,Kogi,Yagba West,Local Authority,Local Authority
+NGA,Nigeria,NGA.24_1,Kwara,Asa,Local Authority,Local Authority
+NGA,Nigeria,NGA.24_1,Kwara,Baruten,Local Authority,Local Authority
+NGA,Nigeria,NGA.24_1,Kwara,Edu,Local Authority,Local Authority
+NGA,Nigeria,NGA.24_1,Kwara,Ekiti,Local Authority,Local Authority
+NGA,Nigeria,NGA.24_1,Kwara,Ifelodun,Local Authority,Local Authority
+NGA,Nigeria,NGA.24_1,Kwara,Ilorin East,Local Authority,Local Authority
+NGA,Nigeria,NGA.24_1,Kwara,Ilorin South,Local Authority,Local Authority
+NGA,Nigeria,NGA.24_1,Kwara,Ilorin West,Local Authority,Local Authority
+NGA,Nigeria,NGA.24_1,Kwara,Irepodun,Local Authority,Local Authority
+NGA,Nigeria,NGA.24_1,Kwara,Isin,Local Authority,Local Authority
+NGA,Nigeria,NGA.24_1,Kwara,Kaiama,Local Authority,Local Authority
+NGA,Nigeria,NGA.24_1,Kwara,Moro,Local Authority,Local Authority
+NGA,Nigeria,NGA.24_1,Kwara,Offa,Local Authority,Local Authority
+NGA,Nigeria,NGA.24_1,Kwara,Oke-Ero,Local Authority,Local Authority
+NGA,Nigeria,NGA.24_1,Kwara,Oyun,Local Authority,Local Authority
+NGA,Nigeria,NGA.24_1,Kwara,Pategi,Local Authority,Local Authority
+NGA,Nigeria,NGA.25_1,Lagos,Agege,Local Authority,Local Authority
+NGA,Nigeria,NGA.25_1,Lagos,Ajeromi/Ifelodun,Local Authority,Local Authority
+NGA,Nigeria,NGA.25_1,Lagos,Alimosho,Local Authority,Local Authority
+NGA,Nigeria,NGA.25_1,Lagos,Amuwo Odofin,Local Authority,Local Authority
+NGA,Nigeria,NGA.25_1,Lagos,Apapa,Local Authority,Local Authority
+NGA,Nigeria,NGA.25_1,Lagos,Badagry,Local Authority,Local Authority
+NGA,Nigeria,NGA.25_1,Lagos,Epe,Local Authority,Local Authority
+NGA,Nigeria,NGA.25_1,Lagos,Eti-Osa,Local Authority,Local Authority
+NGA,Nigeria,NGA.25_1,Lagos,Ibeju-Lekki,Local Authority,Local Authority
+NGA,Nigeria,NGA.25_1,Lagos,Ifako/Ijaye,Local Authority,Local Authority
+NGA,Nigeria,NGA.25_1,Lagos,Ikeja,Local Authority,Local Authority
+NGA,Nigeria,NGA.25_1,Lagos,Ikorodu,Local Authority,Local Authority
+NGA,Nigeria,NGA.25_1,Lagos,Kosofe,Local Authority,Local Authority
+NGA,Nigeria,NGA.25_1,Lagos,Lagos Island,Local Authority,Local Authority
+NGA,Nigeria,NGA.25_1,Lagos,Mainland,Local Authority,Local Authority
+NGA,Nigeria,NGA.25_1,Lagos,Mushin,Local Authority,Local Authority
+NGA,Nigeria,NGA.25_1,Lagos,Ojo,Local Authority,Local Authority
+NGA,Nigeria,NGA.25_1,Lagos,Oshodi/Isolo,Local Authority,Local Authority
+NGA,Nigeria,NGA.25_1,Lagos,Shomolu,Local Authority,Local Authority
+NGA,Nigeria,NGA.25_1,Lagos,Surulere,Local Authority,Local Authority
+NGA,Nigeria,NGA.26_1,Nasarawa,Akwanga,Local Authority,Local Authority
+NGA,Nigeria,NGA.26_1,Nasarawa,Awe,Local Authority,Local Authority
+NGA,Nigeria,NGA.26_1,Nasarawa,Doma,Local Authority,Local Authority
+NGA,Nigeria,NGA.26_1,Nasarawa,Karu,Local Authority,Local Authority
+NGA,Nigeria,NGA.26_1,Nasarawa,Keana,Local Authority,Local Authority
+NGA,Nigeria,NGA.26_1,Nasarawa,Keffi,Local Authority,Local Authority
+NGA,Nigeria,NGA.26_1,Nasarawa,Kokona,Local Authority,Local Authority
+NGA,Nigeria,NGA.26_1,Nasarawa,Lafia,Local Authority,Local Authority
+NGA,Nigeria,NGA.26_1,Nasarawa,Nasarawa,Local Authority,Local Authority
+NGA,Nigeria,NGA.26_1,Nasarawa,Nasarawa Eggon,Local Authority,Local Authority
+NGA,Nigeria,NGA.26_1,Nasarawa,Obi,Local Authority,Local Authority
+NGA,Nigeria,NGA.26_1,Nasarawa,Toto,Local Authority,Local Authority
+NGA,Nigeria,NGA.26_1,Nasarawa,Wamba,Local Authority,Local Authority
+NGA,Nigeria,NGA.27_1,Niger,Agaie,Local Authority,Local Authority
+NGA,Nigeria,NGA.27_1,Niger,Agwara,Local Authority,Local Authority
+NGA,Nigeria,NGA.27_1,Niger,Bida,Local Authority,Local Authority
+NGA,Nigeria,NGA.27_1,Niger,Borgu,Local Authority,Local Authority
+NGA,Nigeria,NGA.27_1,Niger,Bosso,Local Authority,Local Authority
+NGA,Nigeria,NGA.27_1,Niger,Chanchaga,Local Authority,Local Authority
+NGA,Nigeria,NGA.27_1,Niger,Edati,Local Authority,Local Authority
+NGA,Nigeria,NGA.27_1,Niger,Gbako,Local Authority,Local Authority
+NGA,Nigeria,NGA.27_1,Niger,Gurara,Local Authority,Local Authority
+NGA,Nigeria,NGA.27_1,Niger,Katcha,Local Authority,Local Authority
+NGA,Nigeria,NGA.27_1,Niger,Kontagora,Local Authority,Local Authority
+NGA,Nigeria,NGA.27_1,Niger,Lapai,Local Authority,Local Authority
+NGA,Nigeria,NGA.27_1,Niger,Lavun,Local Authority,Local Authority
+NGA,Nigeria,NGA.27_1,Niger,Magama,Local Authority,Local Authority
+NGA,Nigeria,NGA.27_1,Niger,Mariga,Local Authority,Local Authority
+NGA,Nigeria,NGA.27_1,Niger,Mashegu,Local Authority,Local Authority
+NGA,Nigeria,NGA.27_1,Niger,Mokwa,Local Authority,Local Authority
+NGA,Nigeria,NGA.27_1,Niger,Muya,Local Authority,Local Authority
+NGA,Nigeria,NGA.27_1,Niger,Paikoro,Local Authority,Local Authority
+NGA,Nigeria,NGA.27_1,Niger,Rafi,Local Authority,Local Authority
+NGA,Nigeria,NGA.27_1,Niger,Rijau,Local Authority,Local Authority
+NGA,Nigeria,NGA.27_1,Niger,Shiroro,Local Authority,Local Authority
+NGA,Nigeria,NGA.27_1,Niger,Suleja,Local Authority,Local Authority
+NGA,Nigeria,NGA.27_1,Niger,Tafa,Local Authority,Local Authority
+NGA,Nigeria,NGA.27_1,Niger,Wushishi,Local Authority,Local Authority
+NGA,Nigeria,NGA.28_1,Ogun,Abeokuta North,Local Authority,Local Authority
+NGA,Nigeria,NGA.28_1,Ogun,Abeokuta South,Local Authority,Local Authority
+NGA,Nigeria,NGA.28_1,Ogun,Ado Odo/Ota,Local Authority,Local Authority
+NGA,Nigeria,NGA.28_1,Ogun,Ewekoro,Local Authority,Local Authority
+NGA,Nigeria,NGA.28_1,Ogun,Ifo,Local Authority,Local Authority
+NGA,Nigeria,NGA.28_1,Ogun,Ijebu-Ode,Local Authority,Local Authority
+NGA,Nigeria,NGA.28_1,Ogun,Ijebu East,Local Authority,Local Authority
+NGA,Nigeria,NGA.28_1,Ogun,Ijebu North,Local Authority,Local Authority
+NGA,Nigeria,NGA.28_1,Ogun,Ijebu North-East,Local Authority,Local Authority
+NGA,Nigeria,NGA.28_1,Ogun,Ikenne,Local Authority,Local Authority
+NGA,Nigeria,NGA.28_1,Ogun,Imeko-Afon,Local Authority,Local Authority
+NGA,Nigeria,NGA.28_1,Ogun,Ipokia,Local Authority,Local Authority
+NGA,Nigeria,NGA.28_1,Ogun,Obafemi-Owode,Local Authority,Local Authority
+NGA,Nigeria,NGA.28_1,Ogun,Odeda,Local Authority,Local Authority
+NGA,Nigeria,NGA.28_1,Ogun,Odogbolu,Local Authority,Local Authority
+NGA,Nigeria,NGA.28_1,Ogun,Ogun Waterside,Local Authority,Local Authority
+NGA,Nigeria,NGA.28_1,Ogun,Remo-North,Local Authority,Local Authority
+NGA,Nigeria,NGA.28_1,Ogun,Shagamu,Local Authority,Local Authority
+NGA,Nigeria,NGA.28_1,Ogun,Yewa North,Local Authority,Local Authority
+NGA,Nigeria,NGA.28_1,Ogun,Yewa South,Local Authority,Local Authority
+NGA,Nigeria,NGA.29_1,Ondo,Akoko North-East,Local Authority,Local Authority
+NGA,Nigeria,NGA.29_1,Ondo,Akoko North-West,Local Authority,Local Authority
+NGA,Nigeria,NGA.29_1,Ondo,Akoko South-East,Local Authority,Local Authority
+NGA,Nigeria,NGA.29_1,Ondo,Akoko South-West,Local Authority,Local Authority
+NGA,Nigeria,NGA.29_1,Ondo,Akure North,Local Authority,Local Authority
+NGA,Nigeria,NGA.29_1,Ondo,Akure South,Local Authority,Local Authority
+NGA,Nigeria,NGA.29_1,Ondo,Ese-Odo,Local Authority,Local Authority
+NGA,Nigeria,NGA.29_1,Ondo,Idanre,Local Authority,Local Authority
+NGA,Nigeria,NGA.29_1,Ondo,Ifedore,Local Authority,Local Authority
+NGA,Nigeria,NGA.29_1,Ondo,Ilaje,Local Authority,Local Authority
+NGA,Nigeria,NGA.29_1,Ondo,Ile-Oluji/Okeigbo,Local Authority,Local Authority
+NGA,Nigeria,NGA.29_1,Ondo,Irele,Local Authority,Local Authority
+NGA,Nigeria,NGA.29_1,Ondo,Odigbo,Local Authority,Local Authority
+NGA,Nigeria,NGA.29_1,Ondo,Okitipupa,Local Authority,Local Authority
+NGA,Nigeria,NGA.29_1,Ondo,Ondo East,Local Authority,Local Authority
+NGA,Nigeria,NGA.29_1,Ondo,Ondo West,Local Authority,Local Authority
+NGA,Nigeria,NGA.29_1,Ondo,Ose,Local Authority,Local Authority
+NGA,Nigeria,NGA.29_1,Ondo,Owo,Local Authority,Local Authority
+NGA,Nigeria,NGA.30_1,Osun,Aiyedade,Local Authority,Local Authority
+NGA,Nigeria,NGA.30_1,Osun,Atakumosa East,Local Authority,Local Authority
+NGA,Nigeria,NGA.30_1,Osun,Atakumosa West,Local Authority,Local Authority
+NGA,Nigeria,NGA.30_1,Osun,Ayedire,Local Authority,Local Authority
+NGA,Nigeria,NGA.30_1,Osun,Boluwaduro,Local Authority,Local Authority
+NGA,Nigeria,NGA.30_1,Osun,Boripe,Local Authority,Local Authority
+NGA,Nigeria,NGA.30_1,Osun,Ede North,Local Authority,Local Authority
+NGA,Nigeria,NGA.30_1,Osun,Ede South,Local Authority,Local Authority
+NGA,Nigeria,NGA.30_1,Osun,Egbedore,Local Authority,Local Authority
+NGA,Nigeria,NGA.30_1,Osun,Ejigbo,Local Authority,Local Authority
+NGA,Nigeria,NGA.30_1,Osun,Ife Central,Local Authority,Local Authority
+NGA,Nigeria,NGA.30_1,Osun,Ife East,Local Authority,Local Authority
+NGA,Nigeria,NGA.30_1,Osun,Ife North,Local Authority,Local Authority
+NGA,Nigeria,NGA.30_1,Osun,Ife South,Local Authority,Local Authority
+NGA,Nigeria,NGA.30_1,Osun,Ifedayo,Local Authority,Local Authority
+NGA,Nigeria,NGA.30_1,Osun,Ifelodun,Local Authority,Local Authority
+NGA,Nigeria,NGA.30_1,Osun,Ila,Local Authority,Local Authority
+NGA,Nigeria,NGA.30_1,Osun,Ilesha East,Local Authority,Local Authority
+NGA,Nigeria,NGA.30_1,Osun,Ilesha West,Local Authority,Local Authority
+NGA,Nigeria,NGA.30_1,Osun,Irepodun,Local Authority,Local Authority
+NGA,Nigeria,NGA.30_1,Osun,Irewole,Local Authority,Local Authority
+NGA,Nigeria,NGA.30_1,Osun,Isokan,Local Authority,Local Authority
+NGA,Nigeria,NGA.30_1,Osun,Iwo,Local Authority,Local Authority
+NGA,Nigeria,NGA.30_1,Osun,Obokun,Local Authority,Local Authority
+NGA,Nigeria,NGA.30_1,Osun,Odo-Otin,Local Authority,Local Authority
+NGA,Nigeria,NGA.30_1,Osun,Ola Oluwa,Local Authority,Local Authority
+NGA,Nigeria,NGA.30_1,Osun,Olorunda,Local Authority,Local Authority
+NGA,Nigeria,NGA.30_1,Osun,Oriade,Local Authority,Local Authority
+NGA,Nigeria,NGA.30_1,Osun,Orolu,Local Authority,Local Authority
+NGA,Nigeria,NGA.30_1,Osun,Osogbo,Local Authority,Local Authority
+NGA,Nigeria,NGA.31_1,Oyo,Afijio,Local Authority,Local Authority
+NGA,Nigeria,NGA.31_1,Oyo,Akinyele,Local Authority,Local Authority
+NGA,Nigeria,NGA.31_1,Oyo,Atiba,Local Authority,Local Authority
+NGA,Nigeria,NGA.31_1,Oyo,Atisbo,Local Authority,Local Authority
+NGA,Nigeria,NGA.31_1,Oyo,Egbeda,Local Authority,Local Authority
+NGA,Nigeria,NGA.31_1,Oyo,Ibadan North,Local Authority,Local Authority
+NGA,Nigeria,NGA.31_1,Oyo,Ibadan North-East,Local Authority,Local Authority
+NGA,Nigeria,NGA.31_1,Oyo,Ibadan North-West,Local Authority,Local Authority
+NGA,Nigeria,NGA.31_1,Oyo,Ibadan South-East,Local Authority,Local Authority
+NGA,Nigeria,NGA.31_1,Oyo,Ibadan South-West,Local Authority,Local Authority
+NGA,Nigeria,NGA.31_1,Oyo,Ibarapa Central,Local Authority,Local Authority
+NGA,Nigeria,NGA.31_1,Oyo,Ibarapa East,Local Authority,Local Authority
+NGA,Nigeria,NGA.31_1,Oyo,Ibarapa North,Local Authority,Local Authority
+NGA,Nigeria,NGA.31_1,Oyo,Ido,Local Authority,Local Authority
+NGA,Nigeria,NGA.31_1,Oyo,Irepo,Local Authority,Local Authority
+NGA,Nigeria,NGA.31_1,Oyo,Iseyin,Local Authority,Local Authority
+NGA,Nigeria,NGA.31_1,Oyo,Itesiwaju,Local Authority,Local Authority
+NGA,Nigeria,NGA.31_1,Oyo,Iwajowa,Local Authority,Local Authority
+NGA,Nigeria,NGA.31_1,Oyo,Kajola,Local Authority,Local Authority
+NGA,Nigeria,NGA.31_1,Oyo,Lagelu,Local Authority,Local Authority
+NGA,Nigeria,NGA.31_1,Oyo,Ogbomosho North,Local Authority,Local Authority
+NGA,Nigeria,NGA.31_1,Oyo,Ogbomosho South,Local Authority,Local Authority
+NGA,Nigeria,NGA.31_1,Oyo,Ogo Oluwa,Local Authority,Local Authority
+NGA,Nigeria,NGA.31_1,Oyo,Olorunsogo,Local Authority,Local Authority
+NGA,Nigeria,NGA.31_1,Oyo,Oluyole,Local Authority,Local Authority
+NGA,Nigeria,NGA.31_1,Oyo,Ona Ara,Local Authority,Local Authority
+NGA,Nigeria,NGA.31_1,Oyo,Orelope,Local Authority,Local Authority
+NGA,Nigeria,NGA.31_1,Oyo,Ori-Ire,Local Authority,Local Authority
+NGA,Nigeria,NGA.31_1,Oyo,Oyo East,Local Authority,Local Authority
+NGA,Nigeria,NGA.31_1,Oyo,Oyo West,Local Authority,Local Authority
+NGA,Nigeria,NGA.31_1,Oyo,Saki East,Local Authority,Local Authority
+NGA,Nigeria,NGA.31_1,Oyo,Saki West,Local Authority,Local Authority
+NGA,Nigeria,NGA.31_1,Oyo,Surulere,Local Authority,Local Authority
+NGA,Nigeria,NGA.32_1,Plateau,Barkin Ladi,Local Authority,Local Authority
+NGA,Nigeria,NGA.32_1,Plateau,Bassa,Local Authority,Local Authority
+NGA,Nigeria,NGA.32_1,Plateau,Bokkos,Local Authority,Local Authority
+NGA,Nigeria,NGA.32_1,Plateau,Jos East,Local Authority,Local Authority
+NGA,Nigeria,NGA.32_1,Plateau,Jos North,Local Authority,Local Authority
+NGA,Nigeria,NGA.32_1,Plateau,Jos South,Local Authority,Local Authority
+NGA,Nigeria,NGA.32_1,Plateau,Kanam,Local Authority,Local Authority
+NGA,Nigeria,NGA.32_1,Plateau,Kanke,Local Authority,Local Authority
+NGA,Nigeria,NGA.32_1,Plateau,Langtang North,Local Authority,Local Authority
+NGA,Nigeria,NGA.32_1,Plateau,Langtang South,Local Authority,Local Authority
+NGA,Nigeria,NGA.32_1,Plateau,Mangu,Local Authority,Local Authority
+NGA,Nigeria,NGA.32_1,Plateau,Mikang,Local Authority,Local Authority
+NGA,Nigeria,NGA.32_1,Plateau,Pankshin,Local Authority,Local Authority
+NGA,Nigeria,NGA.32_1,Plateau,Qua'an Pan,Local Authority,Local Authority
+NGA,Nigeria,NGA.32_1,Plateau,Riyom,Local Authority,Local Authority
+NGA,Nigeria,NGA.32_1,Plateau,Shendam,Local Authority,Local Authority
+NGA,Nigeria,NGA.32_1,Plateau,Wase,Local Authority,Local Authority
+NGA,Nigeria,NGA.33_1,Rivers,Abua/Odual,Local Authority,Local Authority
+NGA,Nigeria,NGA.33_1,Rivers,Ahoada East,Local Authority,Local Authority
+NGA,Nigeria,NGA.33_1,Rivers,Ahoada West,Local Authority,Local Authority
+NGA,Nigeria,NGA.33_1,Rivers,Akuku-Toru,Local Authority,Local Authority
+NGA,Nigeria,NGA.33_1,Rivers,Andoni,Local Authority,Local Authority
+NGA,Nigeria,NGA.33_1,Rivers,Asari-Toru,Local Authority,Local Authority
+NGA,Nigeria,NGA.33_1,Rivers,Bonny,Local Authority,Local Authority
+NGA,Nigeria,NGA.33_1,Rivers,Degema,Local Authority,Local Authority
+NGA,Nigeria,NGA.33_1,Rivers,Eleme,Local Authority,Local Authority
+NGA,Nigeria,NGA.33_1,Rivers,Emuoha,Local Authority,Local Authority
+NGA,Nigeria,NGA.33_1,Rivers,Etche,Local Authority,Local Authority
+NGA,Nigeria,NGA.33_1,Rivers,Gokana,Local Authority,Local Authority
+NGA,Nigeria,NGA.33_1,Rivers,Ikwerre,Local Authority,Local Authority
+NGA,Nigeria,NGA.33_1,Rivers,Khana,Local Authority,Local Authority
+NGA,Nigeria,NGA.33_1,Rivers,Obio/Akpor,Local Authority,Local Authority
+NGA,Nigeria,NGA.33_1,Rivers,Ogba/Egbema/Ndoni,Local Authority,Local Authority
+NGA,Nigeria,NGA.33_1,Rivers,Ogu/Bolo,Local Authority,Local Authority
+NGA,Nigeria,NGA.33_1,Rivers,Okrika,Local Authority,Local Authority
+NGA,Nigeria,NGA.33_1,Rivers,Omumma,Local Authority,Local Authority
+NGA,Nigeria,NGA.33_1,Rivers,Opobo/Nkoro,Local Authority,Local Authority
+NGA,Nigeria,NGA.33_1,Rivers,Oyigbo,Local Authority,Local Authority
+NGA,Nigeria,NGA.33_1,Rivers,Port Harcourt,Local Authority,Local Authority
+NGA,Nigeria,NGA.33_1,Rivers,Tai,Local Authority,Local Authority
+NGA,Nigeria,NGA.34_1,Sokoto,Binji,Local Authority,Local Authority
+NGA,Nigeria,NGA.34_1,Sokoto,Bodinga,Local Authority,Local Authority
+NGA,Nigeria,NGA.34_1,Sokoto,Dange-Shuni,Local Authority,Local Authority
+NGA,Nigeria,NGA.34_1,Sokoto,Gada,Local Authority,Local Authority
+NGA,Nigeria,NGA.34_1,Sokoto,Goronyo,Local Authority,Local Authority
+NGA,Nigeria,NGA.34_1,Sokoto,Gudu,Local Authority,Local Authority
+NGA,Nigeria,NGA.34_1,Sokoto,Gwadabawa,Local Authority,Local Authority
+NGA,Nigeria,NGA.34_1,Sokoto,Illela,Local Authority,Local Authority
+NGA,Nigeria,NGA.34_1,Sokoto,Isa,Local Authority,Local Authority
+NGA,Nigeria,NGA.34_1,Sokoto,Kebbe,Local Authority,Local Authority
+NGA,Nigeria,NGA.34_1,Sokoto,Kware,Local Authority,Local Authority
+NGA,Nigeria,NGA.34_1,Sokoto,Rabah,Local Authority,Local Authority
+NGA,Nigeria,NGA.34_1,Sokoto,Sabon Birni,Local Authority,Local Authority
+NGA,Nigeria,NGA.34_1,Sokoto,Shagari,Local Authority,Local Authority
+NGA,Nigeria,NGA.34_1,Sokoto,Silame,Local Authority,Local Authority
+NGA,Nigeria,NGA.34_1,Sokoto,Sokoto North,Local Authority,Local Authority
+NGA,Nigeria,NGA.34_1,Sokoto,Sokoto South,Local Authority,Local Authority
+NGA,Nigeria,NGA.34_1,Sokoto,Tambuwal,Local Authority,Local Authority
+NGA,Nigeria,NGA.34_1,Sokoto,Tangaza,Local Authority,Local Authority
+NGA,Nigeria,NGA.34_1,Sokoto,Tureta,Local Authority,Local Authority
+NGA,Nigeria,NGA.34_1,Sokoto,Wamako,Local Authority,Local Authority
+NGA,Nigeria,NGA.34_1,Sokoto,Wurno,Local Authority,Local Authority
+NGA,Nigeria,NGA.34_1,Sokoto,Yabo,Local Authority,Local Authority
+NGA,Nigeria,NGA.35_1,Taraba,Ardo-Kola,Local Authority,Local Authority
+NGA,Nigeria,NGA.35_1,Taraba,Bali,Local Authority,Local Authority
+NGA,Nigeria,NGA.35_1,Taraba,Donga,Local Authority,Local Authority
+NGA,Nigeria,NGA.35_1,Taraba,Gashaka,Local Authority,Local Authority
+NGA,Nigeria,NGA.35_1,Taraba,Gassol,Local Authority,Local Authority
+NGA,Nigeria,NGA.35_1,Taraba,Ibi,Local Authority,Local Authority
+NGA,Nigeria,NGA.35_1,Taraba,Jalingo,Local Authority,Local Authority
+NGA,Nigeria,NGA.35_1,Taraba,Karim Lamido,Local Authority,Local Authority
+NGA,Nigeria,NGA.35_1,Taraba,Kurmi,Local Authority,Local Authority
+NGA,Nigeria,NGA.35_1,Taraba,Lau,Local Authority,Local Authority
+NGA,Nigeria,NGA.35_1,Taraba,Sardauna,Local Authority,Local Authority
+NGA,Nigeria,NGA.35_1,Taraba,Takum,Local Authority,Local Authority
+NGA,Nigeria,NGA.35_1,Taraba,Ussa,Local Authority,Local Authority
+NGA,Nigeria,NGA.35_1,Taraba,Wukari,Local Authority,Local Authority
+NGA,Nigeria,NGA.35_1,Taraba,Yorro,Local Authority,Local Authority
+NGA,Nigeria,NGA.35_1,Taraba,Zing,Local Authority,Local Authority
+NGA,Nigeria,NGA.36_1,Yobe,Bade,Local Authority,Local Authority
+NGA,Nigeria,NGA.36_1,Yobe,Borsari,Local Authority,Local Authority
+NGA,Nigeria,NGA.36_1,Yobe,Damaturu,Local Authority,Local Authority
+NGA,Nigeria,NGA.36_1,Yobe,Fika,Local Authority,Local Authority
+NGA,Nigeria,NGA.36_1,Yobe,Fune,Local Authority,Local Authority
+NGA,Nigeria,NGA.36_1,Yobe,Geidam,Local Authority,Local Authority
+NGA,Nigeria,NGA.36_1,Yobe,Gujba,Local Authority,Local Authority
+NGA,Nigeria,NGA.36_1,Yobe,Gulani,Local Authority,Local Authority
+NGA,Nigeria,NGA.36_1,Yobe,Jakusko,Local Authority,Local Authority
+NGA,Nigeria,NGA.36_1,Yobe,Karasuwa,Local Authority,Local Authority
+NGA,Nigeria,NGA.36_1,Yobe,Machina,Local Authority,Local Authority
+NGA,Nigeria,NGA.36_1,Yobe,Nangere,Local Authority,Local Authority
+NGA,Nigeria,NGA.36_1,Yobe,Nguru,Local Authority,Local Authority
+NGA,Nigeria,NGA.36_1,Yobe,Potiskum,Local Authority,Local Authority
+NGA,Nigeria,NGA.36_1,Yobe,Tarmuwa,Local Authority,Local Authority
+NGA,Nigeria,NGA.36_1,Yobe,Yunusari,Local Authority,Local Authority
+NGA,Nigeria,NGA.36_1,Yobe,Yusufari,Local Authority,Local Authority
+NGA,Nigeria,NGA.37_1,Zamfara,Anka,Local Authority,Local Authority
+NGA,Nigeria,NGA.37_1,Zamfara,Bakura,Local Authority,Local Authority
+NGA,Nigeria,NGA.37_1,Zamfara,Birnin-Magaji/Kiyaw,Local Authority,Local Authority
+NGA,Nigeria,NGA.37_1,Zamfara,Bukkuyum,Local Authority,Local Authority
+NGA,Nigeria,NGA.37_1,Zamfara,Bungudu,Local Authority,Local Authority
+NGA,Nigeria,NGA.37_1,Zamfara,Gummi,Local Authority,Local Authority
+NGA,Nigeria,NGA.37_1,Zamfara,Gusau,Local Authority,Local Authority
+NGA,Nigeria,NGA.37_1,Zamfara,Kaura Namoda,Local Authority,Local Authority
+NGA,Nigeria,NGA.37_1,Zamfara,Maradun,Local Authority,Local Authority
+NGA,Nigeria,NGA.37_1,Zamfara,Maru,Local Authority,Local Authority
+NGA,Nigeria,NGA.37_1,Zamfara,Shinkafi,Local Authority,Local Authority
+NGA,Nigeria,NGA.37_1,Zamfara,Talata-Mafara,Local Authority,Local Authority
+NGA,Nigeria,NGA.37_1,Zamfara,Tsafe,Local Authority,Local Authority
+NGA,Nigeria,NGA.37_1,Zamfara,Zurmi,Local Authority,Local Authority
