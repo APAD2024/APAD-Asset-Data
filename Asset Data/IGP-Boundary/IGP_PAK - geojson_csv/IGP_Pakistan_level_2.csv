@@ -1,0 +1,33 @@
+GID_0,COUNTRY,GID_1,NAME_1,NAME_2,TYPE_2,ENGTYPE_2,HASC_2
+Z06,Pakistan,Z06.1_1,Azad Kashmir,Azad Kashmir,Division,Division,PK.JK.JK
+PAK,Pakistan,PAK.2_1,Balochistan,Kalat,Division,Division,PK.BA.KL
+PAK,Pakistan,PAK.2_1,Balochistan,Makran,Division,Division,PK.BA.MR
+PAK,Pakistan,PAK.2_1,Balochistan,Nasirabad,Division,Division,PK.BA.NS
+PAK,Pakistan,PAK.2_1,Balochistan,Quetta,Division,Division,PK.BA.QE
+PAK,Pakistan,PAK.2_1,Balochistan,Sibi,Division,Division,PK.BA.SI
+PAK,Pakistan,PAK.2_1,Balochistan,Zhob,Division,Division,PK.BA.ZH
+PAK,Pakistan,PAK.3_1,Federally Administered Tribal Ar,F.A.T.A.,Division,Division,PK.TA.TA
+Z06,Pakistan,Z06.6_1,Gilgit-Baltistan,Northern Areas,Division,Division,PK.NA.NA
+PAK,Pakistan,PAK.4_1,Islamabad,Islamabad,Division,Division,PK.IS.IS
+PAK,Pakistan,PAK.5_1,Khyber-Pakhtunkhwa,Bannu,Division,Division,PK.NW.BN
+PAK,Pakistan,PAK.5_1,Khyber-Pakhtunkhwa,Dera Ismail Khan,Division,Division,PK.NW.DI
+PAK,Pakistan,PAK.5_1,Khyber-Pakhtunkhwa,F.A.T.A.,Division,Division,PK.TA.TA
+PAK,Pakistan,PAK.5_1,Khyber-Pakhtunkhwa,Hazara,Division,Division,PK.NW.HZ
+PAK,Pakistan,PAK.5_1,Khyber-Pakhtunkhwa,Kohat,Division,Division,PK.NW.KH
+PAK,Pakistan,PAK.5_1,Khyber-Pakhtunkhwa,Malakand,Division,Division,PK.NW.MD
+PAK,Pakistan,PAK.5_1,Khyber-Pakhtunkhwa,Mardan,Division,Division,PK.NW.MA
+PAK,Pakistan,PAK.5_1,Khyber-Pakhtunkhwa,Peshawar,Division,Division,PK.NW.PS
+PAK,Pakistan,PAK.7_1,Punjab,Bahawalpur,Division,Division,PK.PB.BW
+PAK,Pakistan,PAK.7_1,Punjab,Dera Ghazi Khan,Division,Division,PK.PB.GK
+PAK,Pakistan,PAK.7_1,Punjab,Faisalabad,Division,Division,PK.PB.FS
+PAK,Pakistan,PAK.7_1,Punjab,Gujranwala,Division,Division,PK.PB.GW
+PAK,Pakistan,PAK.7_1,Punjab,Lahore,Division,Division,PK.PB.LH
+PAK,Pakistan,PAK.7_1,Punjab,Multan,Division,Division,PK.PB.MT
+PAK,Pakistan,PAK.7_1,Punjab,Rawalpindi,Division,Division,PK.PB.RP
+PAK,Pakistan,PAK.7_1,Punjab,Sargodha,Division,Division,PK.PB.SG
+PAK,Pakistan,PAK.8_1,Sindh,Hyderabad,Division,Division,PK.SD.HD
+PAK,Pakistan,PAK.8_1,Sindh,Karachi,Division,Division,PK.SD.KR
+PAK,Pakistan,PAK.8_1,Sindh,Larkana,Division,Division,PK.SD.LK
+PAK,Pakistan,PAK.8_1,Sindh,Mirpur Khas,Division,Division,PK.SD.MK
+PAK,Pakistan,PAK.8_1,Sindh,Rann of Kutch,Division,Division,NA
+PAK,Pakistan,PAK.8_1,Sindh,Sukkur,Division,Division,PK.SD.SU
