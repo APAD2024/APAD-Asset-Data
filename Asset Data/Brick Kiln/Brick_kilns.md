@@ -152,6 +152,15 @@ This project was funded by:
 - **Smith School of Enterprise and The Environment, University of Oxford**
 
 ---
+## **Special Gratitude**
+
+We want to extend our heartfelt gratitude to @Doreen and her team for generously sharing valuable data that significantly contributed to our work on developing a model for detecting brick kilns. Your contributions have been instrumental in enabling us to expand data coverage for the whole of Indian Gangetic Plain (IGP). 
+
+The brick kiln data for whole of India prepared by @Doreen and her team is accessible with the following link: [https://geo-ai.undp.org.in/](Access the Data) 
+
+
+
+
 
 ## **Distribution Density**
 
@@ -159,7 +168,7 @@ Below are two visualizations showing the distribution density of brick kilns in 
 
 **Figure 1: Brick Kiln Density Map**
 
-![Brick Kiln Density Map](density.png)
+![Brick Kiln Density Map](all.png)
 
 **Figure 2: Proximity to Sensitive Areas (1km radius)**
 
