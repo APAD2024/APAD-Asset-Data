@@ -69,19 +69,19 @@ Given that brick kilns operate for approximately **215 days per year**, the upda
 
 1. **Daily Brick Production per Kiln**:
 
-\[
+$$
 \frac{0.65 \times 45\ \text{billion bricks}}{11,277\ \text{kilns} \times 215\ \text{days}} \approx 12,068\ \text{bricks/day}
-\]
+$$
 
 2. **Total Daily Brick Weight per Kiln**:
 
-\[
+$$
 12,068\ \text{bricks/day} \times 3\ \text{kg/brick} = 36,204\ \text{kg/day}
-\]
+$$
 
 #### Pollutant Emissions
 
-Let \(E_i\) represent the emission factor for pollutant \(i\) in \(g/kg\). Emissions for each pollutant are calculated as follows:
+Let $\(E_i\)$ represent the emission factor for pollutant $\(i\)$ in \(g/kg\). Emissions for each pollutant are calculated as follows:
 
 - **Daily Emissions (\(D_i\))**: 
 
