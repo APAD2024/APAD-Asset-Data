@@ -81,19 +81,19 @@ $$
 
 #### Pollutant Emissions
 
-Let $\(E_i\)$ represent the emission factor for pollutant $\(i\)$ in \(g/kg\). Emissions for each pollutant are calculated as follows:
+Let $\(E_i\)$ represent the emission factor for pollutant $\(i\)$ in $\(g/kg\)$. Emissions for each pollutant are calculated as follows:
 
-- **Daily Emissions (\(D_i\))**: 
+- **Daily Emissions $\(D_i\)$**: 
 
-\[
+$$
 D_i = E_i \times 36,204\ \text{kg/day}
-\]
+$$
 
-- **Seasonal Emissions (\(S_i\))**:
+- **Seasonal Emissions $\(S_i\)$**:
 
-\[
+$$
 S_i = D_i \times 215
-\]
+$$
 
 Pollutants analyzed: PM2.5, PM10, NOx, and SOx.
 
