@@ -1,6 +1,10 @@
 # Brick Kilns in IGP Region Using AI
 
-This repository provides a comprehensive geospatial analysis of brick kiln operations in Indo-Gangetic Plain (IGP)-region (Bangladesh, India, and Pakistan) , focusing on their environmental and public health impacts. Using low-resolution satellite imagery, we have mapped and analyzed brick kiln sites, estimating their production and emissions. This dataset represents a pioneering effort to understand the spatial distribution of brick kilns and their contribution to air pollution in the region.
+<div style="background-color: #f0f8ff; color: #333; padding: 20px; border-radius: 10px;">
+
+This repository provides a comprehensive geospatial analysis of brick kiln operations in the Indo-Gangetic Plain (IGP) region (Bangladesh, India, and Pakistan), focusing on their environmental and public health impacts. Using low-resolution satellite imagery, we have mapped and analyzed brick kiln sites, estimating their production and emissions. This dataset represents a pioneering effort to understand the spatial distribution of brick kilns and their contribution to air pollution in the region.
+
+</div>
 
 ---
 
@@ -156,10 +160,7 @@ This project was funded by:
 
 We want to extend our heartfelt gratitude to @Doreen and her team for generously sharing valuable data that significantly contributed to our work on developing a model for detecting brick kilns. Your contributions have been instrumental in enabling us to expand data coverage for the whole of Indian Gangetic Plain (IGP). 
 
-The brick kiln data for whole of India prepared by @Doreen and her team is accessible with the following link: [https://geo-ai.undp.org.in/](Access the Data) 
-
-
-
+The brick kiln data for whole of India prepared by @Doreen and her team is accessible with the following link: (https://geo-ai.undp.org.in/)[Access the Data] 
 
 
 ## **Distribution Density**
