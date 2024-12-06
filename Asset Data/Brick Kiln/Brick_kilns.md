@@ -39,9 +39,9 @@ Based on the paper _"Health risk assessment of emissions from brick kilns in Tan
 - **18,000 kilns** produce **45 billion bricks annually**.
 - **11,277 kilns** (extracted for our analysis):
 
-\[
+$
 \text{Total production for 11,277 kilns} = \left(\frac{45\ \text{billion bricks}}{18,000\ \text{kilns}}\right) \times 11,277 = 28.293\ \text{billion bricks/year}
-\]
+$
 
 ---
 
