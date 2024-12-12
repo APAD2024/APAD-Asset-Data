@@ -41,11 +41,11 @@ Where:
 **Steps**:
 1. Calculate total energy generated:
 
-   $$E_{\text{total}} = 500 \, \text{MW} \times 20 \, \text{hours/day} \times 300 \, \text{days} = 3,000,000 \, \text{MWh}$$
+   $$E_{\text{total}} = 500 \text{MW} \times 20 \text{hours/day} \times 300 \text{days} = 3,000,000 \text{MWh}$$
 
 2. Estimate emissions:
    
-   $$E_{\text{pollutant}} = 3,000,000 \, \text{MWh} \times 0.5 \, \text{kg/MWh} = 1,500,000 \, \text{kg} = 1,500 \, \text{tons of SO₂}$$
+   $$E_{\text{pollutant}} = 3,000,000 \text{MWh} \times 0.5 \text{kg/MWh} = 1,500,000 \text{kg} = 1,500 \text{tons of SO₂}$$
 
 ---
 
