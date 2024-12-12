@@ -9,7 +9,7 @@
 ### **Convert Capacity into Energy Generated**
 Using the operational time and capacity, calculate the total energy generated:
 
-$ E_{\text{total}} = C_{\text{capacity}} \times H_{\text{operational}} $
+$$E_{\text{total}} = C_{\text{capacity}} \times H_{\text{operational}}$$
 
 Where:
 - \(E_{\text{total}}\): Total energy generated (kWh or MWh).
