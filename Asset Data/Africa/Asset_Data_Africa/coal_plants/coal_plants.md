@@ -26,27 +26,8 @@ E_{\text{pollutant}} = E_{\text{total}} \times EF_{\text{pollutant}}
 $$
 
 Where:
-- \(E_{\text{pollutant}}\): Emission of the pollutant (grams or kilograms).
-- \(EF_{\text{pollutant}}\): Emission factor for the specific pollutant (e.g., g/kWh or kg/MWh).
-
----
-
-### Step 4: **Adjust for Fuel Type and Plant-Specific Parameters**
-- If EF values are based on fuel consumption, convert the energy generated into fuel burned using the thermal efficiency (\(\eta\)) of the power plant:
-
-\[
-F_{\text{fuel}} = \frac{E_{\text{total}}}{\eta}
-\]
-
-Then, calculate emissions using the fuel-based EF:
-
-\[
-E_{\text{pollutant}} = F_{\text{fuel}} \times EF_{\text{fuel-based}}
-\]
-
-Where:
-- \(F_{\text{fuel}}\): Fuel consumed (e.g., tons of coal).
-- \(EF_{\text{fuel-based}}\): Emission factor per unit of fuel (e.g., kg pollutant/ton coal).
+- $E_{\text{pollutant}}\$: Emission of the pollutant (grams or kilograms).
+- $EF_{\text{pollutant}}\$: Emission factor for the specific pollutant (g/kWh or kg/MWh).
 
 ---
 
@@ -59,25 +40,14 @@ Where:
 
 **Steps**:
 1. Calculate total energy generated:
-   \[
+ $$
    E_{\text{total}} = 500 \, \text{MW} \times 20 \, \text{hours/day} \times 300 \, \text{days} = 3,000,000 \, \text{MWh}
-   \]
+ $$
 
 2. Estimate emissions:
-   \[
+  $$
    E_{\text{pollutant}} = 3,000,000 \, \text{MWh} \times 0.5 \, \text{kg/MWh} = 1,500,000 \, \text{kg} = 1,500 \, \text{tons of SO₂}
-   \]
+  $$
 
 ---
 
-### Additional Considerations
-1. **Data Source for EF**:
-   - Use reliable emission factors for pollutants based on technology, combustion conditions, and coal quality.
-
-2. **Adjustments for Pollution Controls**:
-   - If pollution control devices are in place (e.g., scrubbers for SO₂), adjust EF to reflect the reduction.
-
-3. **Uncertainty Analysis**:
-   - Account for potential variations in operational hours, fuel quality, and EF.
-
-Let me know if you'd like further clarification or help applying this method!
