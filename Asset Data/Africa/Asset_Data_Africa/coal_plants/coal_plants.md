@@ -1,4 +1,4 @@
-### **Understand the Key Variables**
+### **Key Variables For Emission Estimates**
 1. **Operational Parameters**:
    - **Capacity (MW)**: Rated power generation capacity.
    - **Operational hours/days**: Total time the plant operates.
