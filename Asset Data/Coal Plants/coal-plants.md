@@ -1,8 +1,8 @@
-# Coal Plant Dataset
+# Coal Plant (IGP Region) Dataset
 
 ## Description
 
-The Coal Plant dataset is a comprehensive collection of data detailing various aspects of coal power plants for Indian Gangetic Plain (IGP) and some of the African countries. This dataset includes information on plant locations, capacities, emissions, operational status, and other relevant attributes. The primary goal of this dataset is to enable the monitoring and analysis of air pollution and its impact on the environment and public health.
+The Coal Plant dataset is a comprehensive collection of data detailing various aspects of coal power plants for the Indo-Gangetic Plain (IGP) and select African countries. This dataset includes information on plant locations, capacities, emissions, operational status, and other relevant attributes. The primary goal of this dataset is to enable the monitoring and analysis of air pollution and its impact on the environment and public health.
 
 ## Dataset Contents
 
@@ -12,16 +12,41 @@ The Coal Plant dataset is a comprehensive collection of data detailing various a
 - **Fuel Types**: Types of coal used, such as bituminous, sub-bituminous, lignite, etc.
 - **Operational Data**: Year of commissioning, planned retirement dates, and other operational metrics.
 
+## 🗂️ **Dataset Overview**
+
+| Column Name | Description |
+|-------------|-------------|
+| FID       | Unique ID for each power plant record. |
+| plnt_nm   | Name of the power plant. |
+| country   | Country where the plant is located (India, Pakistan, Bangladesh). |
+| cap_all   | List of generation capacities (in MW) of each unit within the plant. |
+| ttl_cp_   | Total capacity of the plant (in MW). |
+| stts_ll   | Status of units in the plant (operating, permitted, etc.). |
+| units     | Total number of operational units. |
+| status    | Current overall status of the plant (operating, permitted, etc.). |
+| prod_kw   | Annual electricity production (in kWh). |
+| nx_tn_y   | NOx (Nitrogen Oxides) emissions (in tons/year). |
+| sx_tn_y   | SOx (Sulfur Oxides) emissions (in tons/year). |
+| p10_tn_   | PM10 (Particulate Matter < 10µm) emissions (in tons/year). |
+| p25_tn_   | PM2.5 (Particulate Matter < 2.5µm) emissions (in tons/year). |
+| lat       | Latitude of the plant's location. |
+| long      | Longitude of the plant's location. |
+| geometry  | Geospatial point geometry in WKT format. |
+
+---
+
 ## Some Pre-Processing
 
 - Using different datasets to filter, combine, and create the new dataset.
-***Steps to pre-process data for "IND"
-- Load the CSV files for coal_igp and coal_india.
-- Filter coal_igp for rows where the country is 'India'.
-- Find matching coal plants from coal_igp in coal_india based on a common identifier (e.g., plant name or ID).
-- Retain the matching records in coal_india, along with any other records that don't match.
-- Multiply the units column by the capacity column to create a new column with the total capacity.
-- 
+  
+### Steps to Pre-Process Data for "IND"
+
+- Load the CSV files for `coal_igp` and `coal_india`.
+- Filter `coal_igp` for rows where the country is 'India'.
+- Find matching coal plants from `coal_igp` in `coal_india` based on a common identifier (e.g., plant name or ID).
+- Retain the matching records in `coal_india`, along with any other records that don't match.
+- Multiply the `units` column by the `capacity` column to create a new column with the total capacity.
+
 ## Purpose
 
 This dataset is designed to support research and policy-making aimed at reducing air pollution from coal power plants. By providing detailed information on plant operations and emissions, the dataset allows for:
@@ -31,7 +56,50 @@ This dataset is designed to support research and policy-making aimed at reducing
 - **Policy Development**: Informing policy decisions to mitigate the environmental and health impacts of coal power generation.
 - **Public Awareness**: Raising awareness about the environmental impacts of coal plants and promoting cleaner energy alternatives.
 
+## How to Download and Use the Dataset
+
+### 1. Download via Python
+
+```python
+import requests
+
+# URL for the dataset repository
+data_url = "https://asset-data-igp.s3.ap-southeast-1.amazonaws.com/Coal_Plants_IGP.csv"
+
+# File name to save
+file_name = "Coal_Plants_IGP.csv"
+
+# Download the file
+response = requests.get(data_url)
+with open(file_name, 'wb') as file:
+    file.write(response.content)
+
+print(f"Dataset downloaded as {file_name}")
+```
+
+### 2. General Download Instructions
+
+1. Visit the repository URL: [Coal Plants Dataset Repository](https://github.com/APAD2024/APAD-Asset-Data).
+2. Navigate to the `data` directory.
+3. Click on the desired file format (CSV, GeoJSON, SHP) to download it manually.
+
+### 3. Interactive Visualization with Python
+
+```python
+import geopandas as gpd
+import matplotlib.pyplot as plt
+
+# Load GeoJSON data
+gdf = gpd.read_file('Coal_Plants_IGP.geojson')
+
+# Plot the data
+gdf.plot(marker='o', color='blue', markersize=5, figsize=(12, 8))
+plt.title("Coal Plants in the IGP Region")
+plt.show()
+```
+
 ## Future Enhancements
+
 We are continuously working to expand and enhance the Coal Plant dataset. Future updates will include:
 
 - **Historical Data**: Adding historical emissions and operational data to analyze trends over time.
@@ -47,18 +115,26 @@ We welcome contributions and feedback from the community to improve and expand t
 For any questions, suggestions, or collaboration inquiries, please contact us at [apad.world.proj@gmail.com](mailto:apad.world.proj@gmail.com).
 
 ## License
-TBD
+MIT
 
 ## Citation
 If you use this dataset in your research or projects, please cite it as follows:
 ```
-TBD
+APAD. (2024). Asset-Data-Coal-Plants. The data has been taken from GEM: https://globalenergymonitor.org/projects/global-coal-plant-tracker/
 ```
 
-We are excited to see how this dataset will be used to drive meaningful action towards cleaner air and a healthier environment. Stay tuned for more updates and resources!
+## Metadata Overview
 
+| **Metadata Field**     | **Details**                                                                 |
+|-------------------------|-----------------------------------------------------------------------------|
+| **Geospatial Coverage** | Indo-Gangetic Plain (IGP) and selected African countries                   |
+| **Data Formats**        | CSV, GeoJSON, SHP                                                          |
+| **Categories**          | Energy and Environment, Emissions and Air Quality, Operational Metrics    |
+| **Core Features**       | Locations, capacities, emissions (CO2, SO2, NOx, PM10, PM2.5), status     |
+| **Utilities**           | GeoJSON for mapping, CSV for statistical analysis, SHP for GIS platforms  |
 
-Here's a well-structured **README.md** file for your GitHub repository on the coal plants dataset in the IGP (Indo-Gangetic Plains) region, which includes Pakistan, India, and Bangladesh. I’ll format it to look professional with fancy design elements.
+---
+
 
 ---
 
