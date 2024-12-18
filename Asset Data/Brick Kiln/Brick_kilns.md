@@ -158,9 +158,9 @@ This project was funded by:
 ---
 ## **Special Gratitude**
 
-We want to extend our heartfelt gratitude to @Doreen and her team for generously sharing valuable data that significantly contributed to our work on developing a model for detecting brick kilns. Your contributions have been instrumental in enabling us to expand data coverage for the whole of Indian Gangetic Plain (IGP). 
+We want to extend our heartfelt gratitude to @DozBoyd and her team for generously sharing valuable data that significantly contributed to our work on developing a model for detecting brick kilns. Your contributions have been instrumental in enabling us to expand data coverage for the whole of Indian Gangetic Plain (IGP). 
 
-The brick kiln data for whole of India prepared by @Doreen and her team is accessible with the following link: (https://geo-ai.undp.org.in/)[Access the Data] 
+The brick kiln data for whole of India prepared by @DozBoyd and her team is accessible with the following link: (https://geo-ai.undp.org.in/)[Access the Data] 
 
 
 ## **Distribution Density**
