@@ -2,15 +2,14 @@
 
 ## Description
 
-The Coal Plant dataset is a comprehensive collection of data detailing various aspects of coal power plants for the Indo-Gangetic Plain (IGP) and select African countries. This dataset includes information on plant locations, capacities, emissions, operational status, and other relevant attributes. The primary goal of this dataset is to enable the monitoring and analysis of air pollution and its impact on the environment and public health.
+The Coal Plant dataset is a comprehensive collection of data detailing various aspects of coal power plants for the Indo-Gangetic Plain (IGP). This dataset includes information on plant locations, capacities, emissions, operational status, and other relevant attributes. The primary goal of this dataset is to enable the monitoring and analysis of air pollution and its impact on the environment and public health.
 
 ## Dataset Contents
 
 - **Plant Information**: Names, locations (latitude and longitude), and operational status of coal power plants.
 - **Capacity**: Generation capacity of each plant, measured in megawatts (MW).
-- **Emissions**: Data on various emissions, including CO2, SO2, NOx, and particulate matter.
+- **Emissions**: Data on various emissions, including CO2, SO2, NOx, and particulate matter (PM2.5 & PM10).
 - **Fuel Types**: Types of coal used, such as bituminous, sub-bituminous, lignite, etc.
-- **Operational Data**: Year of commissioning, planned retirement dates, and other operational metrics.
 
 ## 🗂️ **Dataset Overview**
 
@@ -34,18 +33,6 @@ The Coal Plant dataset is a comprehensive collection of data detailing various a
 | geometry  | Geospatial point geometry in WKT format. |
 
 ---
-
-## Some Pre-Processing
-
-- Using different datasets to filter, combine, and create the new dataset.
-  
-### Steps to Pre-Process Data for "IND"
-
-- Load the CSV files for `coal_igp` and `coal_india`.
-- Filter `coal_igp` for rows where the country is 'India'.
-- Find matching coal plants from `coal_igp` in `coal_india` based on a common identifier (e.g., plant name or ID).
-- Retain the matching records in `coal_india`, along with any other records that don't match.
-- Multiply the `units` column by the `capacity` column to create a new column with the total capacity.
 
 ## Purpose
 
@@ -102,9 +89,7 @@ plt.show()
 
 We are continuously working to expand and enhance the Coal Plant dataset. Future updates will include:
 
-- **Historical Data**: Adding historical emissions and operational data to analyze trends over time.
 - **Health Impact Studies**: Integrating data on public health outcomes related to air pollution from coal plants.
-- **Economic Analysis**: Providing insights into the economic impacts of coal plant operations, including costs of emissions and potential savings from alternative energy sources.
 - **Geospatial Analysis Tools**: Developing tools for advanced geospatial analysis of coal plant impacts on surrounding environments.
 
 ## Contribution and Feedback
@@ -127,7 +112,7 @@ APAD. (2024). Asset-Data-Coal-Plants. The data has been taken from GEM: https://
 
 | **Metadata Field**     | **Details**                                                                 |
 |-------------------------|-----------------------------------------------------------------------------|
-| **Geospatial Coverage** | Indo-Gangetic Plain (IGP) and selected African countries                   |
+| **Geospatial Coverage** | Indo-Gangetic Plain (IGP)               |
 | **Data Formats**        | CSV, GeoJSON, SHP                                                          |
 | **Categories**          | Energy and Environment, Emissions and Air Quality, Operational Metrics    |
 | **Core Features**       | Locations, capacities, emissions (CO2, SO2, NOx, PM10, PM2.5), status     |
