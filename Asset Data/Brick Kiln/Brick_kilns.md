@@ -48,7 +48,7 @@ This dataset is the first open sourced geospatial mapping of brick kiln sites in
 | **Daily Production per Kiln**         | 12,068 bricks/day             | 11,635 bricks/day | 13,778 bricks/day          |
 | **Daily Brick Weight per Kiln**       | 36,204 kg/day                 | 34,905 kg/day | 41,334 kg/day              |
 | **Operational Days per Year**         | 215 days                      | 215 days                   | 215 days                   |
-| **Seasonal Brick Weight per Kiln**    | $\(36,204 \times 215 = 7,783,860\ kg\)$ | \(34,905 \times 215 = 7,504,575\ kg\) | \(41,334 \times 215 = 8,896,810\ kg\) |
+| **Seasonal Brick Weight per Kiln**    | $\(36,204 \times 215 = 7,783,860\ kg\)$ | $\(34,905 \times 215 = 7,504,575\ kg\)$ | $\(41,334 \times 215 = 8,896,810\ kg\)$ |
 
 ---
 
