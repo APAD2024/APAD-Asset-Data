@@ -149,12 +149,12 @@ The repository contains various interactive maps and visualizations highlighting
 - **Emission statistics** (NOx, SOx, PM10, PM2.5).
 - Power generation capacities compared across Pakistan, India, and Bangladesh.
 
-![image](https://github.com/user-attachments/assets/326e0352-cd18-4752-b536-e324b2631109)
 
 
-| ![Power Plant Distribution](https://your-image-url.com/map_screenshot.png) | ![Emissions Bar Graph](https://your-image-url.com/emissions_chart.png) |
+| ![Power Plant Distribution](https://github.com/user-attachments/assets/326e0352-cd18-4752-b536-e324b2631109) | ![Emissions Bar Graph](https://github.com/user-attachments/assets/a865a166-268e-4784-a945-0f20ae69ba3c
+) |
 |:--:|:--:|
-| *Plant Distribution Map* | *Annual Emissions Comparison* |
+| *Plant Distribution Map* | *Daily Emissions Comparison* |
 
 ---
 
@@ -179,9 +179,9 @@ We welcome contributions to expand and refine this dataset! Whether you have acc
 
 ## 📞 **Contact Information**
 
-- **Project Lead**: [Your Name](https://github.com/YourUsername)
-- **Email**: your.email@example.com
-- **Twitter**: [@YourTwitterHandle](https://twitter.com/YourTwitterHandle)
+- **Project Lead**:[hassanaftabsheikh](https://github.com/hassanaftabsheikh)
+- **Email**: hassan.sheikh@smithschool.ox.ac.uk
+- **Website**: [APAD WORLD](https://apad.world/)
 
 Feel free to reach out for any questions or collaborations! ✉️
 
