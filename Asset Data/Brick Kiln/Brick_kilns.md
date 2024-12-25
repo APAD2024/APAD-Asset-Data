@@ -12,9 +12,7 @@ This repository provides a comprehensive geospatial analysis of brick kiln opera
 
 1. [Overview](#overview)  
 2. [Brick Production Calculation](#brick-production-calculation)  
-   - [Step 1: Total Production for "n" Kilns](#step-1-total-production-for-n-kilns)  
-   - [Step 2: Daily Production per Kiln](#step-2-daily-production-per-kiln)  
-   - [Updated Production & Emissions Calculation](#updated-production--emissions-calculation)  
+   - Table for Total Production (#table-for-pakistan-india-and-bangladesh)  
 3. [File Structure](#file-structure)  
    - [Main Dataset](#1-main-dataset)  
    - [Estimates Dataset](#2-estimates-dataset)  
@@ -38,7 +36,7 @@ This dataset is the first open sourced geospatial mapping of brick kiln sites in
 
 ---
 
-### **Table for Pakistan (PAK), India (IND), and Bangladesh (BAN)**
+### **Table for Pakistan India and Bangladesh**
 
 | **Metric**                            | **Pakistan (PAK)**            | **India (IND)**             | **Bangladesh (BAN)**        |
 |---------------------------------------|--------------------------------|-----------------------------|-----------------------------|
