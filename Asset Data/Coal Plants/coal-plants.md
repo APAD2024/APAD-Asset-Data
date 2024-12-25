@@ -177,7 +177,7 @@ We welcome contributions to expand and refine this dataset! Whether you have acc
 
 ## 📞 **Contact Information**
 
-- **Project Lead**:[hassanaftabsheikh](https://github.com/hassanaftabsheikh)
+- **Project Lead**: [hassanaftabsheikh](https://github.com/hassanaftabsheikh)
 - **Email**: hassan.sheikh@smithschool.ox.ac.uk
 - **Website**: [APAD WORLD](https://apad.world/)
 
