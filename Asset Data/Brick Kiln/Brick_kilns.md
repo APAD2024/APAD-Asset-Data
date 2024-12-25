@@ -12,7 +12,7 @@ This repository provides a comprehensive geospatial analysis of brick kiln opera
 
 1. [Overview](#overview)  
 2. [Brick Production Calculation](#brick-production-calculation)  
-   - Table for Total Production (#table-for-pakistan-india-and-bangladesh)  
+   - [Table for Total Production](#table-for-pakistan-india-and-bangladesh)  
 3. [File Structure](#file-structure)  
    - [Main Dataset](#1-main-dataset)  
    - [Estimates Dataset](#2-estimates-dataset)  
