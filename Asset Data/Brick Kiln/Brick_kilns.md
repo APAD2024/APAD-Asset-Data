@@ -36,70 +36,19 @@ This dataset is the first open sourced geospatial mapping of brick kiln sites in
 
 ## **Brick Production Calculation**
 
-### **Step 1: Total Production for "n" Kilns**
-
-Based on the paper _"Health risk assessment of emissions from brick kilns in Tando Hyder, Sindh, Pakistan using the AERMOD dispersion model"_:
-
-- **18,000 kilns** produce **45 billion bricks annually**.
-- **11,277 kilns** (extracted for our analysis):
-
-$$
-\text{Total production for 11,277 kilns} = \left(\frac{45\ \text{billion bricks}}{18,000\ \text{kilns}}\right) \times 11,277 = 28.293\ \text{billion bricks/year}
-$$
-
 ---
 
-### **Step 2: Daily Production per Kiln**
+### **Updated Table for Pakistan (PAK), India (IND), and Bangladesh (BAN)**
 
-- **Annual production per kiln**:
-  
-$$
-\frac{28.293\ \text{billion bricks}}{11,277\ \text{kilns}} = 2.51\ \text{million bricks/kiln/year}
-$$
-
-- **Daily production per kiln** (assuming 365 operational days):
-
-$$
-\frac{2.51\ \text{million bricks}}{365\ \text{days}} = 6,877\ \text{bricks/day}
-$$
-
----
-
-### **Updated Production & Emissions Calculation**
-
-#### Seasonal Production
-
-Given that brick kilns operate for approximately **215 days per year**, the updated calculations for daily and seasonal production are as follows:
-
-1. **Daily Brick Production per Kiln**:
-
-$$
-\frac{0.65 \times 45\ \text{billion bricks}}{11,277\ \text{kilns} \times 215\ \text{days}} \approx 12,068\ \text{bricks/day}
-$$
-
-2. **Total Daily Brick Weight per Kiln**:
-
-$$
-12,068\ \text{bricks/day} \times 3\ \text{kg/brick} = 36,204\ \text{kg/day}
-$$
-
-#### Pollutant Emissions
-
-Let $\(E_i\)$ represent the emission factor for pollutant $\(i\)$ in $\(g/kg\)$. Emissions for each pollutant are calculated as follows:
-
-- **Daily Emissions $\(D_i\)$**: 
-
-$$
-D_i = E_i \times 36,204\ \text{kg/day}
-$$
-
-- **Seasonal Emissions $\(S_i\)$**:
-
-$$
-S_i = D_i \times 215
-$$
-
-Pollutants analyzed: PM2.5, PM10, NOx, and SOx.
+| **Metric**                            | **Pakistan (PAK)**            | **India (IND)**             | **Bangladesh (BAN)**        |
+|---------------------------------------|--------------------------------|-----------------------------|-----------------------------|
+| **Annual Production (total kilns)**   | 45 billion bricks (18,000)    | 250 billion bricks (10 lakh) | 15 billion bricks (5,000)  |
+| **Identified Kilns for Analysis**     | 11,277 kilns                  | 34,466 kilns               | 4,760 kilns                |
+| **Annual Production (identified kilns)** | 28.293 billion bricks         | \( \frac{250}{10,00,000} \times 34,466 = 8.617\ \text{billion bricks} \) | 14.28 billion bricks       |
+| **Daily Production per Kiln**         | 12,068 bricks/day             | \( \frac{8.617}{34,466 \times 215} = 11,635\ \text{bricks/day} \) | 13,778 bricks/day          |
+| **Daily Brick Weight per Kiln**       | 36,204 kg/day                 | \( 11,635 \times 3 = 34,905\ \text{kg/day} \) | 41,334 kg/day              |
+| **Operational Days per Year**         | 215 days                      | 215 days                   | 215 days                   |
+| **Seasonal Brick Weight per Kiln**    | \(36,204 \times 215 = 7,783,860\ kg\) | \(34,905 \times 215 = 7,504,575\ kg\) | \(41,334 \times 215 = 8,896,810\ kg\) |
 
 ---
 
