@@ -132,11 +132,6 @@ m.save('maps/IGP_coal_plants.html')
 m
 ```
 
-### Expected Output
-![Map](https://your-image-url.com/coal_plant_map_example.png)
-
----
-
 ## 🔮 **Expected Updates**
 
 We plan to continuously update the dataset to include:
@@ -153,6 +148,9 @@ The repository contains various interactive maps and visualizations highlighting
 - The **distribution of coal plants** across the region.
 - **Emission statistics** (NOx, SOx, PM10, PM2.5).
 - Power generation capacities compared across Pakistan, India, and Bangladesh.
+
+![image](https://github.com/user-attachments/assets/326e0352-cd18-4752-b536-e324b2631109)
+
 
 | ![Power Plant Distribution](https://your-image-url.com/map_screenshot.png) | ![Emissions Bar Graph](https://your-image-url.com/emissions_chart.png) |
 |:--:|:--:|
