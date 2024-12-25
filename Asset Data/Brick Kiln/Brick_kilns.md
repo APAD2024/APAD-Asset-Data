@@ -28,8 +28,8 @@ This repository provides a comprehensive geospatial analysis of brick kiln opera
 
 This dataset is the first open sourced geospatial mapping of brick kiln sites in the IGP region, providing invaluable insights into the distribution and environmental impact of these sites. Brick kilns are significant contributors to air pollution, and their emissions pose severe public health risks. This repository includes:
 
-- **Precise geolocation of brick kilns**, standardized in CRS EPSG:4326 (WGS 84).
-- **Preliminary emissions estimates** for pollutants such as PM10, PM2.5, NOx, and SOx.
+- **Precise geolocation of brick kilns**, standardized in CRS $EPSG:4326 (WGS 84)$.
+- **Preliminary emissions estimates** for pollutants such as $PM10, PM2.5, NOx, and SOx$.
 - **Exposure risk assessments**, including proximity to sensitive areas such as schools, hospitals, and residential populations within a 1 km radius of each kiln.
 
 ---
