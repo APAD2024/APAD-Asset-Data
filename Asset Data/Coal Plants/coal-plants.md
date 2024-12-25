@@ -151,10 +151,8 @@ The repository contains various interactive maps and visualizations highlighting
 
 
 
-| ![Power Plant Distribution](https://github.com/user-attachments/assets/326e0352-cd18-4752-b536-e324b2631109) | ![Emissions Bar Graph](https://github.com/user-attachments/assets/a865a166-268e-4784-a945-0f20ae69ba3c
-) |
-|:--:|:--:|
-| *Plant Distribution Map* | *Daily Emissions Comparison* |
+![Power Plant Distribution](https://github.com/user-attachments/assets/326e0352-cd18-4752-b536-e324b2631109) | ![Emissions Bar Graph](https://github.com/user-attachments/assets/a865a166-268e-4784-a945-0f20ae69ba3c
+) 
 
 ---
 
@@ -191,7 +189,3 @@ Feel free to reach out for any questions or collaborations! ✉️
 
 ---
 
-This **README.md** offers users a detailed description of the dataset, guides for usage, expected updates, visualizations, and how to contribute. It is designed with GitHub’s markdown style and visuals to make it both functional and engaging.
-
-
----
