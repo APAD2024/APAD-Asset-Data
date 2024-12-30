@@ -63,6 +63,8 @@ This dataset is designed to support research and policy-making aimed at reducing
 Download the dataset from the repository and navigate to the `data` directory to access the GeoJSON file:
 
 - **`coal_plants_IGP.geojson`**
+- **`coal_plants_IGP.shp`**
+- **`coal_plants_IGP.csv`**
 
 ### 2. 🗄️ **Dataset File**
 
