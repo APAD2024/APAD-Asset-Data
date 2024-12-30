@@ -66,7 +66,7 @@ Download the dataset from the repository and navigate to the `data` directory to
 
 ### 2. 🗄️ **Dataset File**
 
-This file contains detailed data on **97 coal power plants** in the IGP region, including attributes like capacity, emissions, and geospatial coordinates.
+This file contains detailed data on **coal power plants** in the IGP region, including attributes like capacity, emissions, and geospatial coordinates.
 
 ```plaintext
 data/
