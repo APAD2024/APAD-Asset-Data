@@ -60,29 +60,27 @@ This dataset is designed to support research and policy-making aimed at reducing
 
 ### 1. 📥 **Download the Data**
 
-You can clone the repository and download the dataset using:
+Download the dataset from the repository and navigate to the `data` directory to access the GeoJSON file:
 
-```bash
-git clone https://github.com/YourUsername/coal_plants_IGP.git
-```
-
-The dataset can be found in the `data` directory as a GeoJSON file:
 - **`coal_plants_IGP.geojson`**
+- **`coal_plants_IGP.shp`**
+- **`coal_plants_IGP.csv`**
 
 ### 2. 🗄️ **Dataset File**
 
-This file contains detailed data on **97 coal power plants** in the IGP region, including attributes like capacity, emissions, and geospatial coordinates.
+This file contains detailed data on **coal power plants** in the IGP region, including attributes like capacity, emissions, and geospatial coordinates.
 
 ```plaintext
 data/
 │
 ├── coal_plants_IGP.geojson  # Main dataset with geospatial data
-└── maps/                    # Directory containing visualization maps
+└── coal_plants_IGP.shp # Directory containing visualization maps
+└── coal_plants_IGP.csv
 ```
 
 ### 3. 🛠️ **Visualizations and Maps**
 
-We've provided several map visualizations showcasing the locations and emissions from these coal plants. These can be found in the `maps/` directory. If you wish to create your own visualizations, check out our tutorials below! 📊
+The repository includes several pre-generated map visualizations showcasing the locations and emissions from coal plants, available in the `maps/` directory. You can also create your own visualizations using the tutorials below.
 
 ---
 
@@ -126,10 +124,6 @@ for _, row in gdf.iterrows():
         popup=f"{row['plnt_nm']} ({row['country']})",
         icon=folium.Icon(color="red")
     ).add_to(m)
-
-# Save and display the map
-m.save('maps/IGP_coal_plants.html')
-m
 ```
 
 ## 🔮 **Expected Updates**
