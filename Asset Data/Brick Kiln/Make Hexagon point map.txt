@@ -1,8 +1,0 @@
-Make Hexagon point map
-
-- Make tessellation (with respective buffer size)
-- Add spatial join with shape and points: target = points , join = tessellation
-- remove points with 0
-- make points from tessellation
-- change symbology to graduated colors
-- make a points copy

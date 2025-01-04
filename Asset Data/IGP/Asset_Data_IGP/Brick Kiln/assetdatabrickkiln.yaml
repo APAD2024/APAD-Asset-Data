@@ -1,0 +1,33 @@
+Name: Brick Kilns
+Description: 
+Documentation: 
+Contact: 
+ManagedBy: APAD
+UpdateFrequency: TBD
+Tags:
+  - Energy
+  - Environment
+  - Emissions
+  - Power Plants
+License: MIT
+Citation: 
+  
+  - Description: 
+    ARN: arn:aws:s3:::asset-data-igp
+    Region: ap-south-1
+    Type: S3
+    Explore: 
+    URL: 
+DataAtWork:
+  Tutorials:
+    - Title: Analyzing Coal Plant Data and Emission Calculation
+      URL: https://github.com/APAD2024/APAD-Asset-Data
+      AuthorName: APAD
+      AuthorURL: https://github.com/APAD2024
+      Services: S3
+DeprecatedNotice: This dataset is actively maintained and updated.
+ADXCategories:
+  - Energy
+  - Environment
+  - Emissions
+  - Power Plants
