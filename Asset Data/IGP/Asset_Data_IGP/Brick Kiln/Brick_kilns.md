@@ -34,8 +34,7 @@ This dataset is the first open sourced geospatial mapping of brick kiln sites in
 
 ## **Brick Production Calculation**
 
-
---- 
+#### Table for Pakistan India and Bangladesh
 
 | **Metric**                            | **Pakistan (PAK)**            | **India (IND)**             | **Bangladesh (BAN)**        |
 |---------------------------------------|--------------------------------|-----------------------------|-----------------------------|
