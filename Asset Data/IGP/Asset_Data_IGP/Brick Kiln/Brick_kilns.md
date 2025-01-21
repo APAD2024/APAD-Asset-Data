@@ -34,33 +34,8 @@ This dataset is the first open sourced geospatial mapping of brick kiln sites in
 
 ## **Brick Production Calculation**
 
----
 
-### **Table for Pakistan India and Bangladesh**
-
-Thank you for clarifying! Let's recalculate everything based on **11,272 kilns** while scaling down the total production of **45 billion bricks** for **18,000 kilns**. Here's the step-by-step breakdown:
-
----
-
-### Step 1: Annual Production per Kiln  
-**Annual Production per Kiln** = \( \frac{45 \text{ billion bricks}}{18,000 \text{ kilns}} = 2.5 \text{ million bricks/kiln} \)  
-
----
-
-### Step 2: Total Annual Production for 11,272 Kilns  
-**Total Annual Production for 11,272 Kilns** = \( 11,272 \times 2.5 \text{ million bricks} = 28.18 \text{ billion bricks} \)  
-
----
-
-### Step 3: Daily Production per Kiln  
-- **Total Daily Production** = \( \frac{28.18 \text{ billion bricks}}{215 \text{ operational days}} \)  
-  \( = 131.02 \text{ million bricks/day} \)  
-- **Daily Production per Kiln** = \( \frac{131.02 \text{ million bricks/day}}{11,272 \text{ kilns}} \)  
-  \( \approx 11,625 \text{ bricks/day} \)  
-
----
-
-### Updated Table  
+--- 
 
 | **Metric**                            | **Pakistan (PAK)**            | **India (IND)**             | **Bangladesh (BAN)**        |
 |---------------------------------------|--------------------------------|-----------------------------|-----------------------------|
