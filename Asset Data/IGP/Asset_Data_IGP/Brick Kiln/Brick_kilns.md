@@ -34,57 +34,24 @@ This dataset is the first open sourced geospatial mapping of brick kiln sites in
 
 ## **Brick Production Calculation**
 
----
-
-### **Table for Pakistan India and Bangladesh**
+#### Table for Pakistan India and Bangladesh
 
 | **Metric**                            | **Pakistan (PAK)**            | **India (IND)**             | **Bangladesh (BAN)**        |
 |---------------------------------------|--------------------------------|-----------------------------|-----------------------------|
 | **Annual Production (total kilns)**   | 45 billion bricks (18,000)    | 250 billion bricks (10 lakh) | 15 billion bricks (5,000)  |
-| **Identified Kilns for Analysis**     | 11,277 kilns                  | 34,466 kilns               | 4,760 kilns                |
-| **Annual Production (identified kilns)** | 28.293 billion bricks         | 8.617 billion bricks | 14.28 billion bricks       |
-| **Daily Production per Kiln**         | 12,068 bricks/day             | 11,635 bricks/day | 13,778 bricks/day          |
-| **Daily Brick Weight per Kiln**       | 36,204 kg/day                 | 34,905 kg/day | 41,334 kg/day              |
+| **Identified Kilns for Analysis**     | 11,272 kilns                  | 34,466 kilns               | 4,760 kilns                |
+| **Annual Production (identified kilns)** | 28.18 billion bricks         | 8.617 billion bricks       | 14.28 billion bricks       |
+| **Daily Production per Kiln**         | 11,625 bricks/day             | 11,635 bricks/day          | 13,778 bricks/day          |
+| **Daily Brick Weight per Kiln**       | 36,204 kg/day                 | 34,905 kg/day              | 41,334 kg/day              |
 | **Operational Days per Year**         | 215 days                      | 215 days                   | 215 days                   |
-| **Seasonal Brick Weight per Kiln**    | $\(36,204 \times 215 = 7,783,860\ kg\)$ | $\(34,905 \times 215 = 7,504,575\ kg\)$ | $\(41,334 \times 215 = 8,896,810\ kg\)$ |
+| **Seasonal Brick Weight per Kiln**    | \(36,204 \times 215 = 7,783,860\ kg\) | \(34,905 \times 215 = 7,504,575\ kg\) | \(41,334 \times 215 = 8,896,810\ kg\) |
 
 ---
 
 ## **File Structure**
 
-### **1. Main Dataset**
-
-This dataset includes the primary geolocation data of brick kilns in the region:
-
-| **Column**       | **Description**                                          |
-|------------------|----------------------------------------------------------|
-| `id`             | Unique identifier for each brick kiln site               |
-| `lat`            | Latitude in decimal degrees                              |
-| `lon`            | Longitude in decimal degrees                             |
-| `state`          | Administrative state/region                              |
-| `type`           | Classification (e.g., FCBK or ZigZag kiln)              |
-| `schools1km`     | Number of schools within a 1 km radius                   |
-| `hosp1km`        | Number of hospitals within a 1 km radius                 |
-| `pop1km`         | Estimated population within a 1 km radius                |
-
-### **2. Estimates Dataset**
-
-Supplementary dataset for production and emission estimates:
-
-| **Column**        | **Description**                                          |
-|-------------------|----------------------------------------------------------|
-| `avg_bricks`      | Average daily kiln operation                             |
-| `dailyprod(kg)`   | Daily production in kilograms                            |
-| `seasonprod(kg)`  | Seasonal production in kilograms                         |
-| `pm2.5d(kg)`      | Daily PM2.5 emissions in kilograms                       |
-| `pm10d(kg)`       | Daily PM10 emissions in kilograms                        |
-| `noxd(kg)`        | Daily NOx emissions in kilograms                         |
-| `soxd(kg)`        | Daily SOx emissions in kilograms                         |
-| `pm2.5s(kg)`      | Seasonal PM2.5 emissions in kilograms                    |
-| `pm10s(kg)`       | Seasonal PM10 emissions in kilograms                     |
-| `noxs(kg)`        | Seasonal NOx emissions in kilograms                      |
-| `soxs(kg)`        | Seasonal SOx emissions in kilograms                      |
-
+- Check the .xlsx files for more information
+  
 ### **Data Formats**
 
 The dataset is available in the following formats:
@@ -92,6 +59,7 @@ The dataset is available in the following formats:
 - **GeoJSON** (`.geojson`)
 - **Shapefile** (`.shp`)
 - **CSV** (`.csv`)
+- **XLSX** (`.xlsx`)
 
 ---
 
