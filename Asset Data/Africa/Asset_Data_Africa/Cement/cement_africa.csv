@@ -1,0 +1,27 @@
+﻿city,state,country,region,sub_region,latitude,longitude,status,plant_type,production_type,capacity
+Pointe Noire,Kouilou,Congo,Africa,Sub-Saharan Africa,-4.593023,12.048903,Operating,Integrated,Dry,0.5
+Mindouli,Pool,Congo,Africa,Sub-Saharan Africa,-4.243281,14.363071,Operating,Integrated,Dry,0.5
+Madingou,Bouenza,Congo,Africa,Sub-Saharan Africa,-4.289625,13.857125,Operating,Integrated,Dry,1
+Louvakou,Niari,Congo,Africa,Sub-Saharan Africa,-4.164698,12.614788,Operating,Integrated,Wet,0.3
+Tema,Greater Accra Region,Ghana,Africa,Sub-Saharan Africa,5.704645,0.017442,Operating,Integrated,Dry,1
+Tema,Greater Accra Region,Ghana,Africa,Sub-Saharan Africa,5.621991,-0.014344,Operating,Grinding,n/a,1.5
+Takoradi,n/a,Ghana,Africa,Sub-Saharan Africa,4.891983,-1.745828,Operating,Integrated,Dry,2.2
+Tema,Greater Accra Region,Ghana,Africa,Sub-Saharan Africa,5.637128,0.007768,Operating,Grinding,n/a,2.2
+Central Gonja,Northern Region,Ghana,Africa,Sub-Saharan Africa,8.790301,-1.502071,Operating,Integrated,Dry,0.3
+Ketu,Volta Region,Ghana,Africa,Sub-Saharan Africa,6.15335,1.179772,Operating,Grinding,n/a,1.5
+Ahanta West,Western Region,Ghana,Africa,Sub-Saharan Africa,4.885591,-1.876222,Operating,Integrated,Dry,1.5
+Etsako East,Edo,Nigeria,Africa,Sub-Saharan Africa,7.319348,6.365774,Operating,Integrated,Dry,3
+Etsako East,Edo,Nigeria,Africa,Sub-Saharan Africa,7.35638,6.401469,Operating,Integrated,Dry,0.5
+Sokoto,Sokoto,Nigeria,Africa,Sub-Saharan Africa,13.061804,5.171114,Operating,Integrated,Dry,1.5
+Gboko,Benue,Nigeria,Africa,Sub-Saharan Africa,7.411613,8.975232,Operating,Integrated,Dry,4
+Egbado North,Ogun State,Nigeria,Africa,Sub-Saharan Africa,7.006077,3.047604,Operating,Integrated,Wet,12
+Obajana,Kogi,Nigeria,Africa,Sub-Saharan Africa,7.927327,6.425156,Operating,Integrated,Dry,13.25
+Funakaye,Gombe,Nigeria,Africa,Sub-Saharan Africa,10.929985,11.477114,Operating,Integrated,Dry,1.5
+Ewekoro,Ogun State,Nigeria,Africa,Sub-Saharan Africa,6.893522,3.205342,Operating,Integrated,Wet,2
+Sagamu,Ogun State,Nigeria,Africa,Sub-Saharan Africa,6.813933,3.621188,Operating,Integrated,Dry,3
+Ewekoro,Ogun State,Nigeria,Africa,Sub-Saharan Africa,6.902791,3.207143,Operating,Integrated,Wet,1
+Calabar,Cross River,Nigeria,Africa,Sub-Saharan Africa,4.981631,8.325949,Under Construction,Grinding,n/a,2
+Hima,Western Region,Uganda,Africa,Sub-Saharan Africa,0.291484,30.181853,Operating,Integrated,Dry,0.5
+Tororo,Eastern Region,Uganda,Africa,Sub-Saharan Africa,0.751299,34.179319,Operating,Integrated,Dry,0.3
+Tororo,Eastern Region,Uganda,Africa,Sub-Saharan Africa,0.660021,34.156213,Operating,Grinding,n/a,1
+Namataba,Central Region,Uganda,Africa,Sub-Saharan Africa,0.386128,32.854014,Operating,Integrated,Wet,1.5
