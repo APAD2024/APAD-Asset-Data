@@ -1,31 +1,127 @@
-city,state,country,latitude,longitude,status,plant_type,primary__1,capacity,year
-Hisar,Haryana,India,29.127253,75.773075,Operating,,,0,1977
-Kalyani,West Bengal,India,22.976512,88.46118,Operating,,,0,0
-Mathurakismat,West Bengal,India,22.378355,87.281773,Operating,Integrated,Crude Steel,0.99,0
-Asansol,West Bengal,India,23.665198,86.917455,Operating,Integrated,Crude Steel,0,0
-Durgapur,West Bengal,India,23.546442,87.249552,Operating,Integrated,Crude Steel,0,0
-Durgapur,West Bengal,India,23.522882,87.275935,Operating,,,0,1965
-Latibpur,West Bengal,India,22.385611,87.287179,Operating,Integrated,Crude Steel,0,0
-Ghaziabad,Uttar Pradesh,India,28.648921,77.331907,Operating,,,0,1987
-Hoshiarpur,Punjab,India,31.583478,75.95079,Operating,,,0,1974
-Murtazanagar,Uttar Pradesh,India,26.581306,80.560423,Operating,,,0,0
-Unnao,Uttar Pradesh,India,26.561084,80.532491,Operating,,,0,0
-Salanpur,West Bengal,India,23.776213,86.866906,Operating,,,0,0
-Haldia,West Bengal,India,22.054668,88.126162,Operating,,,0,0
-Kolkata,West Bengal,India,22.715728,88.372253,Operating,,,0,0
-Howrah,West Bengal,India,22.635024,88.337702,Operating,,,0,0
-Bawal,Haryana,India,28.097508,76.58241,Operating,,,0,0
-Asoda Todran,Haryana,India,28.734516,76.842644,Operating,,,0,0
-Fatehgarh Sahib,Punjab,India,30.651464,76.317017,Operating,,,0,0
-Ludhiana,Punjab,India,30.845731,75.960442,Operating,,,0,0
-Ludhiana,Punjab,India,30.885416,75.897013,Operating,,,0,0
-Ludhiana,Punjab,India,30.887595,75.907098,Operating,,,0,0
-Karachi,Sindh,Pakistan,24.794878,67.353327,Operating,DRI,Iron,1.28,1977
-Dhabeji,Sindh,Pakistan,24.800326,67.504851,Operating,Mini-Mill,Crude Steel,0.6,1987
-Karachi,Sindh,Pakistan,24.840713,67.34738,Operating,Downstream,Finished Products,0.7,2012
-Karachi,Sindh,Pakistan,24.837855,67.231431,Operating,Downstream,Finished Products,1,1966
-Lahore,Punjab,Pakistan,31.610191,74.362308,Operating,,,0,1975
-Kasur,Punjab,Pakistan,31.258774,74.132858,Operating,Downstream,Finished Products,0.12,2006
-Karachi,Sindh,Pakistan,24.805135,67.346694,Operating,Integrated,Crude Steel,1.1,1981
-Karachi,Sindh,Pakistan,24.96585,67.022604,Operating,Mini-Mill,Crude Steel,0.07,1975
-Winder,Balochistan,Pakistan,25.382244,66.676192,Operating,Downstream,Finished Products,0.2,1999
+﻿city,state,country,iso3,country_code,region,sub_region,latitude,longitude,accuracy,status,plant_type,primary_production_type,primary_product,capacity,capacity_source,year
+Bhatiari,,Bangladesh,BGD,50,Asia,Southern Asia,22.444118000000000,91.740168999999995,Exact,Operating,Downstream,Rolling,Finished Products,0.750000000000000,http://abulkhairsteel.com/about-us/,
+Sonaichhari,Chittagong Division,Bangladesh,BGD,50,Asia,Southern Asia,22.472007999999999,91.734826999999996,Exact,Operating,Mini-Mill,EAF,Crude Steel,1.400000000000000,http://abulkhairsteel.com/about-us/,
+Chattogram,Chittagong Division,Bangladesh,BGD,50,Asia,Southern Asia,22.381060000000002,91.768619999999999,Exact,Operating,Downstream,Rolling,Finished Products,,,
+Chittagong,Chittagong Division,Bangladesh,BGD,50,Asia,Southern Asia,22.383963999999999,91.810239999999993,Exact,Operating,Downstream,Rolling,Finished Products,0.450000000000000,https://bsrm.com/bangladesh-steel-re-rolling-mills-ltd/,1960
+Zorargonj,Chittagong Division,Bangladesh,BGD,50,Asia,Southern Asia,22.871759999999998,91.546567999999994,Exact,Operating,Mini-Mill,IF,Crude Steel,0.700000000000000,https://bsrm.com/bsrm-steels-ltd/,2008
+Sonaichhari,Chittagong Division,Bangladesh,BGD,50,Asia,Southern Asia,22.499834000000000,91.715778000000000,Exact,Operating,,,,,,
+Hazira,Gujarat,India,IND,356,Asia,Southern Asia,21.111322999999999,72.643812999999994,Exact,Operating,Integrated,BF,Crude Steel,,,1972
+Pimpri-Chinchwad,Maharashtra,India,IND,356,Asia,Southern Asia,18.655587000000001,73.796152000000006,Exact,Operating,,,,,,
+Visakhapatnam,Andhra Pradesh,India,IND,356,Asia,Southern Asia,17.719148000000001,83.274563999999998,Exact,Operating,,,,,,
+Musadia,Odisha,India,IND,356,Asia,Southern Asia,20.321456999999999,86.647655000000000,Exact,Operating,,,,,,
+Danapuram,Karnataka,India,IND,356,Asia,Southern Asia,15.171144000000000,76.377767000000006,Exact,Operating,Integrated,BF,Crude Steel,,,
+Raigad,Maharashtra,India,IND,356,Asia,Southern Asia,18.690093999999998,73.037536000000003,Exact,Operating,Integrated,BF,Crude Steel,,,
+Salem,Tamil Nadu,India,IND,356,Asia,Southern Asia,11.816179999999999,77.914704000000000,Exact,Operating,Integrated,BF,Crude Steel,,,1994
+Toranagallu,Karnataka,India,IND,356,Asia,Southern Asia,15.180540000000001,76.656840000000003,Exact,Operating,Integrated,BF,Crude Steel,,,1997
+Derba,Odisha,India,IND,356,Asia,Southern Asia,21.760297999999999,84.022267999999997,Exact,Operating,Integrated,BF,Crude Steel,3.500000000000000,https://www.bhushanpowersteel.com/profile.html,
+Kurru Bhantha,Chhattisgarh,India,IND,356,Asia,Southern Asia,21.983709000000001,83.238133000000005,Exact,Operating,Integrated,BF,Crude Steel,1.500000000000000,https://www.aionjsw.in/products/steel.aspx,
+Kalameshwar,Maharashtra,India,IND,356,Asia,Southern Asia,21.231231000000001,78.900765000000007,Exact,Operating,,,,,,1982
+Vasind,Maharashtra,India,IND,356,Asia,Southern Asia,19.405092000000000,73.256857999999994,Exact,Operating,,,,,,1982
+Boisar,Maharashtra,India,IND,356,Asia,Southern Asia,19.794505000000001,72.741811999999996,Exact,Operating,,,,,,
+Raipur,Chhattisgarh,India,IND,356,Asia,Southern Asia,21.354495000000000,81.676444000000004,Exact,Operating,Integrated,BF,Crude Steel,1.000000000000000,https://www.necoindia.com/business/steel-plant/,1996
+Jajpur,Odisha,India,IND,356,Asia,Southern Asia,20.954939000000000,86.051985999999999,Exact,Operating,Integrated,BF,Crude Steel,,,
+Hisar,Haryana,India,IND,356,Asia,Southern Asia,29.127253000000000,75.773075000000006,Exact,Operating,,,,,,1977
+Dathi,Andhra Pradesh,India,IND,356,Asia,Southern Asia,17.937349999999999,83.187433999999996,Exact,Operating,,,,,,
+Patratu,Jharkhand,India,IND,356,Asia,Southern Asia,23.633140999999998,85.324431000000004,Exact,Operating,Integrated,BF,Crude Steel,,,
+Sanakerjang jungle,Odisha,India,IND,356,Asia,Southern Asia,20.881239000000001,84.991033999999999,Exact,Operating,Integrated,BF,Crude Steel,4.250000000000000,https://www.jindalsteelpower.com/Odisha.html,
+Muralipali,Chhattisgarh,India,IND,356,Asia,Southern Asia,21.924401000000000,83.346693999999999,Exact,Operating,Integrated,BF,Crude Steel,3.050000000000000,https://www.jindalsteelpower.com/chhattisgarh.html,2003
+Kendujhar,Odisha,India,IND,356,Asia,Southern Asia,22.088175000000000,85.473877000000002,Exact,Operating,,,,,,
+Kalyani,West Bengal,India,IND,356,Asia,Southern Asia,22.976512000000000,88.461179999999999,Exact,Operating,,,,,,
+Mangalore,Karnataka,India,IND,356,Asia,Southern Asia,12.926373000000000,74.822771000000003,Exact,Operating,Pelletisation,Pellet,Pellets,3.500000000000000,https://kioclltd.in/,
+Kanakapur,Karnataka,India,IND,356,Asia,Southern Asia,15.339055000000000,76.251695999999995,Exact,Operating,Integrated,BF,Crude Steel,,,
+Thane,Maharashtra,India,IND,356,Asia,Southern Asia,19.187676000000000,73.000811999999996,Exact,Operating,,,,,,
+Upanpal,Chhattisgarh,India,IND,356,Asia,Southern Asia,19.093972000000001,82.167761999999996,Exact,Operating,Integrated,BF,Crude Steel,,,
+Jajpur,Odisha,India,IND,356,Asia,Southern Asia,20.998640999999999,86.019102000000004,Exact,Operating,Integrated,BF,Crude Steel,1.100000000000000,https://ninl.in/web/Company/Process-Facilities/Blast-Furnace,
+Mathurakismat,West Bengal,India,IND,356,Asia,Southern Asia,22.378354999999999,87.281773000000001,Exact,Operating,Integrated,BF,Crude Steel,0.990000000000000,http://www.orissametaliks.com/#,
+Bhagad,Maharashtra,India,IND,356,Asia,Southern Asia,18.388224999999998,73.345483999999999,Exact,Operating,,,,,,
+Gajuwaka part,Andhra Pradesh,India,IND,356,Asia,Southern Asia,17.614426000000002,83.193190999999999,Exact,Operating,Integrated,BF,Crude Steel,,,
+Bokaro Steel City,Jharkhand,India,IND,356,Asia,Southern Asia,23.673348000000001,86.101459000000006,Exact,Operating,Integrated,BF,Crude Steel,,,
+Asansol,West Bengal,India,IND,356,Asia,Southern Asia,23.665198000000000,86.917455000000004,Exact,Operating,Integrated,BF,Crude Steel,,,
+Durgapur,West Bengal,India,IND,356,Asia,Southern Asia,23.546441999999999,87.249551999999994,Exact,Operating,Integrated,BF,Crude Steel,,,
+Bhilai,Chhattisgarh,India,IND,356,Asia,Southern Asia,21.189193000000000,81.390631999999997,Exact,Operating,Integrated,BF,Crude Steel,,,
+Raurkela Industrial Township,Odisha,India,IND,356,Asia,Southern Asia,22.212810999999999,84.866972000000004,Exact,Operating,Integrated,BF,Crude Steel,,,
+Maramangalathupatti,Tamil Nadu,India,IND,356,Asia,Southern Asia,11.660148000000000,78.026745000000005,Exact,Operating,,,,,,
+Durgapur,West Bengal,India,IND,356,Asia,Southern Asia,23.522881999999999,87.275935000000004,Exact,Operating,,,,,,1965
+Chandrapur,Maharashtra,India,IND,356,Asia,Southern Asia,19.963892999999999,79.333217000000005,Exact,Operating,,,,,,
+Bhadravathi,Karnataka,India,IND,356,Asia,Southern Asia,13.831617000000000,75.702087000000006,Exact,Operating,,,,,,
+Relligavirammapeta,Andhra Pradesh,India,IND,356,Asia,Southern Asia,17.963265000000000,83.161135000000002,Exact,Operating,Mini-Mill,IF,Crude Steel,0.250000000000000,http://www.seil.co.in/steel.html,
+Warthi,Maharashtra,India,IND,356,Asia,Southern Asia,21.232928999999999,79.632397999999995,Exact,Operating,Integrated,BF,Crude Steel,0.500000000000000,https://sunflagsteel.com/company/,1989
+Gobara Ghati,Odisha,India,IND,356,Asia,Southern Asia,20.969287999999999,86.010814999999994,Exact,Operating,Integrated,BF,Crude Steel,,,
+Jamshedpur,Jharkhand,India,IND,356,Asia,Southern Asia,22.789035999999999,86.201881999999998,Exact,Operating,Integrated,BF,Crude Steel,,,
+Latibpur,West Bengal,India,IND,356,Asia,Southern Asia,22.385611000000001,87.287178999999995,Exact,Operating,Integrated,BF,Crude Steel,,,
+Sarapa,Odisha,India,IND,356,Asia,Southern Asia,20.793690999999999,85.260537999999997,Exact,Operating,Integrated,BF,Crude Steel,,,
+Jamshedpur,Jharkhand,India,IND,356,Asia,Southern Asia,22.814903999999999,86.236176999999998,Exact,Operating,,,,,,
+Belaipada,Odisha,India,IND,356,Asia,Southern Asia,22.054641000000000,85.465841999999995,Exact,Operating,,,,,,
+Boisar,Maharashtra,India,IND,356,Asia,Southern Asia,19.794754000000001,72.733897999999996,Exact,Operating,,,,0.420000000000000,http://www.tatawire.com/corporate/tata-steel-global-wires-india/,
+Raigad,Maharashtra,India,IND,356,Asia,Southern Asia,18.800830000000001,73.289828999999997,Exact,Operating,,,,,,2004
+Ghaziabad,Uttar Pradesh,India,IND,356,Asia,Southern Asia,28.648921000000001,77.331907000000001,Exact,Operating,,,,,,1987
+Nuashasan,Odisha,India,IND,356,Asia,Southern Asia,20.473334000000001,85.750130999999996,Exact,Operating,,,,,,
+Zuzuvadi,Tamil Nadu,India,IND,356,Asia,Southern Asia,12.761075999999999,77.801267999999993,Exact,Operating,,,,,,
+Nashik,Maharashtra,India,IND,356,Asia,Southern Asia,19.823169000000000,73.667178000000007,Exact,Operating,,,,,,
+Haratu,Jharkhand,India,IND,356,Asia,Southern Asia,23.370283000000001,85.427581000000004,Exact,Operating,,,,,,1961
+Hoshiarpur,Punjab,India,IND,356,Asia,Southern Asia,31.583477999999999,75.950789999999998,Exact,Operating,,,,,,1974
+Jajpur,Odisha,India,IND,356,Asia,Southern Asia,20.944023999999999,86.060744000000000,Exact,Operating,Integrated and Mini-Mill,BF/EAF,Crude Steel,0.725000000000000,http://visasteel.com/about.php,
+Pune,Maharashtra,India,IND,356,Asia,Southern Asia,18.524061000000000,73.913357000000005,Exact,Operating,,,,,,
+Salav,Maharashtra,India,IND,356,Asia,Southern Asia,18.530853000000000,72.947091000000000,Exact,Operating,,,,,,
+Murtazanagar,Uttar Pradesh,India,IND,356,Asia,Southern Asia,26.581306000000001,80.560423000000000,Exact,Operating,,,,,,
+Donvat,Maharashtra,India,IND,356,Asia,Southern Asia,18.780093000000001,73.260734999999997,Exact,Operating,,,,,,
+Unnao,Uttar Pradesh,India,IND,356,Asia,Southern Asia,26.561084000000001,80.532490999999993,Exact,Operating,,,,,,
+Salanpur,West Bengal,India,IND,356,Asia,Southern Asia,23.776212999999998,86.866906000000000,Exact,Operating,,,,,,
+Lunva,Gujarat,India,IND,356,Asia,Southern Asia,23.262678999999999,70.251109000000000,Exact,Operating,,,,,,
+Kutch,Gujarat,India,IND,356,Asia,Southern Asia,23.177972000000000,70.167556000000005,Exact,Operating,,,,,,
+Kutch,Gujarat,India,IND,356,Asia,Southern Asia,23.113189999999999,70.085397999999998,Exact,Operating,,,,,,
+Koppal,Karnataka,India,IND,356,Asia,Southern Asia,15.328377000000000,76.205088000000003,Exact,Operating,,,,,,
+Mithi Rohar,Gujarat,India,IND,356,Asia,Southern Asia,23.100377000000002,70.181141999999994,Exact,Operating,,,,,,
+Tiruvallur,Tamil Nadu,India,IND,356,Asia,Southern Asia,13.386722000000001,80.108700999999996,Exact,Operating,,,,,,
+Pappankuppam,Tamil Nadu,India,IND,356,Asia,Southern Asia,13.425077000000000,80.087620000000001,Exact,Operating,,,,,,
+Sri Potti Sriramulu Nellore District,Andhra Pradesh,India,IND,356,Asia,Southern Asia,14.137428999999999,79.989552000000003,Exact,Operating,,,,,,
+Husenapuram,Andhra Pradesh,India,IND,356,Asia,Southern Asia,14.875643000000000,78.043235999999993,Exact,Operating,,,,,,
+Narayanadevarake,Karnataka,India,IND,356,Asia,Southern Asia,15.186362000000001,76.316509999999994,Exact,Operating,,,,,,
+Curtorim,Goa,India,IND,356,Asia,Southern Asia,15.269352000000000,74.027732000000000,Exact,Operating,,,,,,
+Koppal,Karnataka,India,IND,356,Asia,Southern Asia,15.289695999999999,76.227753000000007,Exact,Operating,,,,,,
+Bevinhalli,Karnataka,India,IND,356,Asia,Southern Asia,15.334303000000000,76.287323000000001,Exact,Operating,,,,,,
+Shiroda,Goa,India,IND,356,Asia,Southern Asia,15.339612000000001,74.010159999999999,Exact,Operating,,,,,,
+Navelim,Goa,India,IND,356,Asia,Southern Asia,15.525561000000000,73.994191999999998,Exact,Operating,,,,,,
+Akkinepallivari Lingotam,Telangana,India,IND,356,Asia,Southern Asia,17.189623000000001,79.220082000000005,Exact,Operating,,,,,,
+Haldia,West Bengal,India,IND,356,Asia,Southern Asia,22.054667999999999,88.126161999999994,Exact,Operating,,,,,,
+Jamshedpur,Jharkhand,India,IND,356,Asia,Southern Asia,22.822113999999999,86.076297999999994,Exact,Operating,,,,,,
+Navsari,Gujarat,India,IND,356,Asia,Southern Asia,20.939077999999999,72.967996999999997,Exact,Operating,,,,,,
+Khurunti,Odisha,India,IND,356,Asia,Southern Asia,20.974826000000000,86.045427000000004,Exact,Operating,,,,,,
+Nagpur,Maharashtra,India,IND,356,Asia,Southern Asia,21.127545999999999,79.002690000000001,Exact,Operating,,,,,,
+Nagpur,Maharashtra,India,IND,356,Asia,Southern Asia,21.184156999999999,79.119254999999995,Exact,Operating,,,,,,
+Raipur,Chhattisgarh,India,IND,356,Asia,Southern Asia,21.304240000000000,81.637586999999996,Exact,Operating,,,,,,
+Raipur,Chhattisgarh,India,IND,356,Asia,Southern Asia,21.367097000000001,81.679981999999995,Exact,Operating,,,,,,
+Jaladihi,Odisha,India,IND,356,Asia,Southern Asia,21.683444999999999,85.435233999999994,Exact,Operating,,,,,,
+Aharaposi,Odisha,India,IND,356,Asia,Southern Asia,21.801655000000000,85.567218999999994,Exact,Operating,,,,,,
+Godhi,Chhattisgarh,India,IND,356,Asia,Southern Asia,21.887550999999998,82.053273000000004,Exact,Operating,,,,,,
+Palej,Gujarat,India,IND,356,Asia,Southern Asia,21.926573000000001,73.077461000000000,Exact,Operating,,,,,,
+Wardha,Maharashtra,India,IND,356,Asia,Southern Asia,20.696142999999999,78.638879000000003,Exact,Operating,,,,,,
+Deoli,Maharashtra,India,IND,356,Asia,Southern Asia,20.661602999999999,78.492357999999996,Exact,Operating,,,,,,
+Jamshedpur,Jharkhand,India,IND,356,Asia,Southern Asia,22.811793999999999,86.085472999999993,Exact,Operating,,,,,,
+Jamshedpur,Jharkhand,India,IND,356,Asia,Southern Asia,22.795251000000000,86.234198000000006,Exact,Operating,,,,,,
+Jamshedpur,Jharkhand,India,IND,356,Asia,Southern Asia,22.795363999999999,86.134011999999998,Exact,Operating,,,,,,
+Kolkata,West Bengal,India,IND,356,Asia,Southern Asia,22.715727999999999,88.372253000000001,Exact,Operating,,,,,,
+Dhar,Madhya Pradesh,India,IND,356,Asia,Southern Asia,22.640847000000001,75.598236999999997,Exact,Operating,,,,,,
+Howrah,West Bengal,India,IND,356,Asia,Southern Asia,22.635024000000001,88.337701999999993,Exact,Operating,,,,,,
+Khopoli,Maharashtra,India,IND,356,Asia,Southern Asia,18.792528000000001,73.350359999999995,Exact,Operating,,,,,,
+Bhusugaon,Odisha,India,IND,356,Asia,Southern Asia,22.048656999999999,85.365032999999997,Exact,Operating,,,,,,
+Janjgir-Champa,Chhattisgarh,India,IND,356,Asia,Southern Asia,22.004135999999999,82.671233000000001,Exact,Operating,,,,,,
+Boisar,Maharashtra,India,IND,356,Asia,Southern Asia,19.788492999999999,72.744647999999998,Exact,Operating,,,,,,
+Jalna,Maharashtra,India,IND,356,Asia,Southern Asia,19.850235999999999,75.855731000000006,Exact,Operating,,,,,,
+Ghugus,Maharashtra,India,IND,356,Asia,Southern Asia,19.930468999999999,79.120067000000006,Exact,Operating,,,,,,
+Bawal,Haryana,India,IND,356,Asia,Southern Asia,28.097508000000001,76.582409999999996,Exact,Operating,,,,,,
+Khopoli,Maharashtra,India,IND,356,Asia,Southern Asia,18.803308999999999,73.339889999999997,Exact,Operating,,,,,,
+Asoda Todran,Haryana,India,IND,356,Asia,Southern Asia,28.734515999999999,76.842644000000007,Exact,Operating,,,,,,
+Fatehgarh Sahib,Punjab,India,IND,356,Asia,Southern Asia,30.651464000000001,76.317017000000007,Exact,Operating,,,,,,
+Ludhiana,Punjab,India,IND,356,Asia,Southern Asia,30.845731000000001,75.960442000000000,Exact,Operating,,,,,,
+Ludhiana,Punjab,India,IND,356,Asia,Southern Asia,30.885415999999999,75.897013000000001,Exact,Operating,,,,,,
+Ludhiana,Punjab,India,IND,356,Asia,Southern Asia,30.887595000000001,75.907098000000005,Exact,Operating,,,,,,
+Karachi,Sindh,Pakistan,PAK,586,Asia,Southern Asia,24.794878000000001,67.353326999999993,Exact,Operating,DRI,DRI,Iron,1.280000000000000,http://tuwairqi.com.pk/new/,1977
+Dhabeji,Sindh,Pakistan,PAK,586,Asia,Southern Asia,24.800325999999998,67.504851000000002,Exact,Operating,Mini-Mill,IF,Crude Steel,0.600000000000000,https://www.amrelisteels.com/pdf/Amreli-Steels-Annual-Report-2019.pdf,1987
+Karachi,Sindh,Pakistan,PAK,586,Asia,Southern Asia,24.840713000000001,67.347380000000001,Exact,Operating,Downstream,Rolling,Finished Products,0.700000000000000,https://www.aishasteel.com,2012
+Karachi,Sindh,Pakistan,PAK,586,Asia,Southern Asia,24.837855000000001,67.231431000000001,Exact,Operating,Downstream,Rolling,Finished Products,1.000000000000000,http://www.iil.com.pk/company/companyhistory,1966
+Lahore,Punjab,Pakistan,PAK,586,Asia,Southern Asia,31.610191000000000,74.362307999999999,Exact,Operating,,,,,,1975
+Kasur,Punjab,Pakistan,PAK,586,Asia,Southern Asia,31.258773999999999,74.132857999999999,Exact,Operating,Downstream,Rolling,Finished Products,0.120000000000000,https://www.investorslounge.com/research/reports/277887,2006
+Karachi,Sindh,Pakistan,PAK,586,Asia,Southern Asia,24.805135000000000,67.346693999999999,Exact,Operating,Integrated,BF,Crude Steel,1.100000000000000,http://www.steelmelters.com/pakistan.htm,1981
+Karachi,Sindh,Pakistan,PAK,586,Asia,Southern Asia,24.965850000000000,67.022604000000001,Exact,Operating,Mini-Mill,EAF,Crude Steel,0.070000000000000,http://www.psmltd.com/product-facility.html,1975
+Winder,Balochistan,Pakistan,PAK,586,Asia,Southern Asia,25.382244000000000,66.676192000000000,Exact,Operating,Downstream,Rolling,Finished Products,0.200000000000000,https://www.siddiqsonstinplate.com/index.php/group-profile/,1999

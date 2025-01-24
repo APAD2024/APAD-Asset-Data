@@ -1,0 +1,9 @@
+﻿city,state,country,iso3,country_code,region,sub_region,latitude,longitude,status,plant_type,capacity,year
+Tema,Greater Accra Region,Ghana,GHA,288,Africa,Sub-Saharan Africa,5.691421000000000,-0.001024000000000,Operating,,,
+Kano,Kano,Nigeria,NGA,566,Africa,Sub-Saharan Africa,11.955010000000000,8.501671999999999,Operating,Mini-Mill,0.100000000000000,
+Aladja,Delta,Nigeria,NGA,566,Africa,Sub-Saharan Africa,5.481711000000000,5.769321000000000,Operating,Mini-Mill,1.300000000000000,
+Ajaokuta,Kogi,Nigeria,NGA,566,Africa,Sub-Saharan Africa,7.511336000000000,6.689364000000000,Operating,,,
+Enugu,Enugu,Nigeria,NGA,566,Africa,Sub-Saharan Africa,6.474019000000000,7.574896000000000,Operating,,,
+Lagos,Lagos,Nigeria,NGA,566,Africa,Sub-Saharan Africa,6.629595000000000,3.347138000000000,Operating,,,
+Shagamu,Ogun State,Nigeria,NGA,566,Africa,Sub-Saharan Africa,6.794399000000000,3.619435000000000,Operating,,,
+Mukono,Central Region,Uganda,UGA,800,Africa,Sub-Saharan Africa,0.342055000000000,32.700783999999999,Operating,,,
