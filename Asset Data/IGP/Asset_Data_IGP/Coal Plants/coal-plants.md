@@ -8,8 +8,7 @@ The Coal Plant dataset is a comprehensive collection of data detailing various a
 
 - **Plant Information**: Names, locations (latitude and longitude), and operational status of coal power plants.
 - **Capacity**: Generation capacity of each plant, measured in megawatts (MW).
-- **Emissions**: Data on various emissions, including CO2, SO2, NOx, and particulate matter (PM2.5 & PM10).
-- **Fuel Types**: Types of coal used, such as bituminous, sub-bituminous, lignite, etc.
+- **Emissions**: Data on various emissions, including SO2, NOx, and particulate matter (PM2.5 & PM10).
 
 ## 🗂️ **Dataset Overview**
 
@@ -24,9 +23,13 @@ The Coal Plant dataset is a comprehensive collection of data detailing various a
 | units     | Total number of operational units. |
 | status    | Current overall status of the plant (operating, permitted, etc.). |
 | prod_kw   | Annual electricity production (in kWh). |
+| nx_ef | Nitrogen oxide emission factor (grams per kWh [g/kWh]).|
 | nx_tn_y   | NOx (Nitrogen Oxides) emissions (in tons/year). |
-| sx_tn_y   | SOx (Sulfur Oxides) emissions (in tons/year). |
+| so2_ef | SO2 emission factor (grams per kWh [g/kWh]).|
+| so2_tn_y   | SO2 emissions (in tons/year). |
+| p10_ef | PM10 (Particulate Matter < 10µm) emission factor (grams per kWh [g/kWh]).|
 | p10_tn_   | PM10 (Particulate Matter < 10µm) emissions (in tons/year). |
+| pm25_ef | PM2.5 (Particulate Matter < 2.5µm) emission factor (grams per kWh [g/kWh]).|
 | p25_tn_   | PM2.5 (Particulate Matter < 2.5µm) emissions (in tons/year). |
 | lat       | Latitude of the plant's location. |
 | long      | Longitude of the plant's location. |
@@ -41,7 +44,7 @@ The Coal Plant dataset is a comprehensive collection of data detailing various a
 | **Geospatial Coverage** | Indo-Gangetic Plain (IGP)               |
 | **Data Formats**        | CSV, GeoJSON, SHP                                                          |
 | **Categories**          | Energy and Environment, Emissions and Air Quality, Operational Metrics    |
-| **Core Features**       | Locations, capacities, emissions (CO2, SO2, NOx, PM10, PM2.5), status     |
+| **Core Features**       | Locations, capacities, emissions (SO2, NOx, PM10, PM2.5), status     |
 | **Utilities**           | GeoJSON for mapping, CSV for statistical analysis, SHP for GIS platforms  |
 
 ---
@@ -65,6 +68,7 @@ Download the dataset from the repository and navigate to the `data` directory to
 - **`coal_plants_IGP.geojson`**
 - **`coal_plants_IGP.shp`**
 - **`coal_plants_IGP.csv`**
+- **`coal_plants_IGP.xlsx`**
 
 ### 2. 🗄️ **Dataset File**
 
@@ -162,13 +166,25 @@ We welcome contributions to expand and refine this dataset! Whether you have acc
 
 ---
 
-## 🔗 **Useful Links**
+## 🔗 **References**
 
-- **IGP Region Overview**: [Indo-Gangetic Plains](https://en.wikipedia.org/wiki/Indo-Gangetic_Plain)
-- **Environmental Impacts of Coal Plants**: [Greenpeace Report](https://www.greenpeace.org/)
+- **Particulate Matter $\ (PM_{2.5})\$ and $\ (PM_{10})\$:**
+   - Emissions per unit: $\ 0.16-0.22 \text{ g/KWh}\$ for PM2.5
+   - Emissions per unit: $\ 0.29-0.45 \text{ g/KWh}\$ for PM10
+   - Source: [India Air Quality - Coal Power Plants Emissions](https://www.indiaairquality.info/wp-content/uploads/docs/2014-08-AE-Emissions-Health-Coal-PPs-India.pdf)
 
+- **Sulfur Dioxide $\ (SO_2)\$:**
+   - Emissions per unit: $\ 7.20  \text{ g/KWh}\$
+   - Source: [US EPA - Emissions Inventory Conference](https://www3.epa.gov/ttnchie1/conference/ei20/session5/mmittal.pdf)
+
+- **Nitrogen Oxides $\ ((NO_x)\$:**
+   - Emissions per unit: $\ 4.22 - 4.38 \text{ g/KWh}\$
+   - Source: [US EPA - Emissions Inventory Conference](https://www3.epa.gov/ttnchie1/conference/ei20/session5/mmittal.pdf)
+- **Data Sources**
+   - [India Coal Power Plants Database - Source Watch](http://www.sourcewatch.org/index.php/SourceWatch:GNU_Free_Documentation_License)
+   - [GEM](https://globalenergymonitor.org/projects/global-coal-plant-tracker/)
+ 
 ---
-
 ## 📞 **Contact Information**
 
 - **Project Lead**: [hassanaftabsheikh](https://github.com/hassanaftabsheikh)
