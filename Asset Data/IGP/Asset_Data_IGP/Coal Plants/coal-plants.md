@@ -8,7 +8,7 @@ The Coal Plant dataset is a comprehensive collection of data detailing various a
 
 - **Plant Information**: Names, locations (latitude and longitude), and operational status of coal power plants.
 - **Capacity**: Generation capacity of each plant, measured in megawatts (MW).
-- **Emissions**: Data on various emissions, including CO2, SO2, NOx, and particulate matter (PM2.5 & PM10).
+- **Emissions**: Data on various emissions, including SO2, NOx, and particulate matter (PM2.5 & PM10).
 - **Fuel Types**: Types of coal used, such as bituminous, sub-bituminous, lignite, etc.
 
 ## 🗂️ **Dataset Overview**
