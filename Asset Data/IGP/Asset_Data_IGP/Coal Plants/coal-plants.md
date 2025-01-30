@@ -82,15 +82,11 @@ data/
 └── coal_plants_IGP.csv
 ```
 
-### 3. 🛠️ **Visualizations and Maps**
-
-The repository includes several pre-generated map visualizations showcasing the locations and emissions from coal plants, available in the `maps/` directory. You can also create your own visualizations using the tutorials below.
-
----
-
 ## 🔧 **How to Load and Visualize Data**
 
 You can visualize the dataset using Python libraries like `geopandas` and `matplotlib`. Here's a quick guide:
+
+You can also look at the **Data Exploration And Analysis.ipynb** for reference.
 
 ### Step 1: Install dependencies
 
@@ -128,6 +124,7 @@ for _, row in gdf.iterrows():
         popup=f"{row['plnt_nm']} ({row['country']})",
         icon=folium.Icon(color="red")
     ).add_to(m)
+
 ```
 
 ## 🔮 **Expected Updates**
