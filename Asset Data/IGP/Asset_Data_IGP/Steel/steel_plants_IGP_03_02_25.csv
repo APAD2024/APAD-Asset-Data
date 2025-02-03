@@ -1,0 +1,31 @@
+city,state,country,latitude,longitude,status,plant_type,primary_pr,primary__1,capacity
+Hisar,Haryana,India,29.127253,75.773075,Operating,,,,
+Kalyani,West Bengal,India,22.976512,88.46118,Operating,,,,
+Mathurakismat,West Bengal,India,22.378355,87.281773,Operating,Integrated,BF,Crude Steel,0.99
+Asansol,West Bengal,India,23.665198,86.917455,Operating,Integrated,BF,Crude Steel,
+Durgapur,West Bengal,India,23.546442,87.249552,Operating,Integrated,BF,Crude Steel,
+Durgapur,West Bengal,India,23.522882,87.275935,Operating,,,,
+Latibpur,West Bengal,India,22.385611,87.287179,Operating,Integrated,BF,Crude Steel,
+Ghaziabad,Uttar Pradesh,India,28.648921,77.331907,Operating,,,,
+Hoshiarpur,Punjab,India,31.583478,75.95079,Operating,,,,
+Murtazanagar,Uttar Pradesh,India,26.581306,80.560423,Operating,,,,
+Unnao,Uttar Pradesh,India,26.561084,80.532491,Operating,,,,
+Salanpur,West Bengal,India,23.776213,86.866906,Operating,,,,
+Haldia,West Bengal,India,22.054668,88.126162,Operating,,,,
+Kolkata,West Bengal,India,22.715728,88.372253,Operating,,,,
+Howrah,West Bengal,India,22.635024,88.337702,Operating,,,,
+Bawal,Haryana,India,28.097508,76.58241,Operating,,,,
+Asoda Todran,Haryana,India,28.734516,76.842644,Operating,,,,
+Fatehgarh Sahib,Punjab,India,30.651464,76.317017,Operating,,,,
+Ludhiana,Punjab,India,30.845731,75.960442,Operating,,,,
+Ludhiana,Punjab,India,30.885416,75.897013,Operating,,,,
+Ludhiana,Punjab,India,30.887595,75.907098,Operating,,,,
+Karachi,Sindh,Pakistan,24.794878,67.353327,Operating,DRI,DRI,Iron,1.28
+Dhabeji,Sindh,Pakistan,24.800326,67.504851,Operating,Mini-Mill,IF,Crude Steel,0.6
+Karachi,Sindh,Pakistan,24.840713,67.34738,Operating,Downstream,Rolling,Finished Products,0.7
+Karachi,Sindh,Pakistan,24.837855,67.231431,Operating,Downstream,Rolling,Finished Products,1
+Lahore,Punjab,Pakistan,31.610191,74.362308,Operating,,,,
+Kasur,Punjab,Pakistan,31.258774,74.132858,Operating,Downstream,Rolling,Finished Products,0.12
+Karachi,Sindh,Pakistan,24.805135,67.346694,Operating,Integrated,BF,Crude Steel,1.1
+Karachi,Sindh,Pakistan,24.96585,67.022604,Operating,Mini-Mill,EAF,Crude Steel,0.07
+Winder,Balochistan,Pakistan,25.382244,66.676192,Operating,Downstream,Rolling,Finished Products,0.2
