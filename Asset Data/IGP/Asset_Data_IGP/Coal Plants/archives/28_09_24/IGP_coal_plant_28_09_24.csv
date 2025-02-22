@@ -1,0 +1,101 @@
+﻿plnt_nm,country,cap_all,ttl_cp_,stts_ll,units,status,prod_kw,nx_tn_y,sx_tn_y,p10_tn_,p25_tn_,long,lat
+Barapukuria power station,Bangladesh,"125, 125, 275",525,"operating, operating, operating",3,operating,4599000000,19775.7,33112.8,1701.63,873.81,88.9486312,25.5537569
+Patuakhali power station (RPCL/NORINCO),Bangladesh,"660, 660",1320,"construction, construction",2,construction,11563200000,49721.76,83255.04,4278.384,2197.008,90.312349,22.025149
+Payra power station (BCPCL),Bangladesh,"660, 660, 660, 660",2640,"operating, operating, construction, construction",4,operating,23126400000,99443.52,166510.08,8556.768,4394.016,90.30821,22.001974
+Rampal power station,Bangladesh,"660, 660",1320,"operating, construction",2,operating,11563200000,49721.76,83255.04,4278.384,2197.008,89.556427,22.5924582
+Adani Godda power station,India,"800, 800",1600,"operating, operating",2,operating,14016000000,60268.8,100915.2,5185.92,2663.04,87.1354647,24.81410735
+Anpara power station,India,"210, 210, 210, 500, 500",1630,"operating, operating, operating, operating, operating",5,operating,14278800000,61398.84,102807.36,5283.156,2712.972,82.7891278,24.202043
+Anpara-C power station,India,"600, 600",1200,"operating, operating",2,operating,10512000000,45201.6,75686.4,3889.44,1997.28,82.79733,24.2037876
+Anpara-D power station,India,"500, 500",1000,"operating, operating",2,operating,8760000000,37668,63072,3241.2,1664.4,82.8063422,24.1962622
+Anpara-E power station,India,"660, 660",1320,"permitted, permitted",2,permitted,11563200000,49721.76,83255.04,4278.384,2197.008,79.94028,26.19278
+Asansol Crescent power station,India,40,40,operating,1,operating,350400000,1506.72,2522.88,129.648,66.576,88.13,23.65
+Badarpur Thermal Power Station Stage I,India,"95, 95, 95",285,"operating, operating, operating",3,operating,2496600000,10735.38,17975.52,923.742,474.354,77.307965,28.503772
+Badarpur Thermal Power Station Stage II,India,"210, 210",420,"operating, operating",2,operating,3679200000,15820.56,26490.24,1361.304,699.048,77.307965,28.503772
+Bakreswar Thermal Power Station Phase I,India,"210, 210, 210",630,"operating, operating, operating",3,operating,5518800000,23730.84,39735.36,2041.956,1048.572,87.45156,23.828466
+Bakreswar Thermal Power Station Phase II,India,"210, 210",420,"operating, operating",2,operating,3679200000,15820.56,26490.24,1361.304,699.048,87.45156,23.828466
+Bandel Thermal Power Station,India,"60, 210, 60, 60, 60",450,"operating, operating, operating, operating, operating",5,operating,3942000000,16950.6,28382.4,1458.54,748.98,88.4038154,22.9957456
+Banka Thermal Power Plant,India,"660, 660, 660, 660",2640,"construction, construction, permitted, permitted",4,construction,23126400000,99443.52,166510.08,8556.768,4394.016,86.9583,24.714
+Bara Thermal Power Project,India,"660, 660, 660",1980,"operating, operating, operating",3,operating,17344800000,74582.64,124882.56,6417.576,3295.512,81.6585338,25.196345
+Barauni power station,India,"250, 250, 110, 110",720,"operating, operating, operating, operating",4,operating,6307200000,27120.96,45411.84,2333.664,1198.368,86.0234883,25.3913756
+Barh I power station,India,"660, 660, 660",1980,"operating, construction, construction",3,operating,17344800000,74582.64,124882.56,6417.576,3295.512,85.74516,25.4693
+Barh II power station,India,"660, 660",1320,"operating, operating",2,operating,11563200000,49721.76,83255.04,4278.384,2197.008,85.74516,25.4865
+Barkhera IPP power station,India,"45, 45",90,"operating, operating",2,operating,788400000,3390.12,5676.48,291.708,149.796,80.1,28.55
+Bhognipur power station,India,"660, 660",1320,"permitted, permitted",2,permitted,11563200000,49721.76,83255.04,4278.384,2197.008,79.9075,26.194167
+Bilhaur Super Thermal Power Plant,India,"660, 660",1320,"pre-permit, pre-permit",2,pre-permit,11563200000,49721.76,83255.04,4278.384,2197.008,80.05806,26.763391
+Budge Budge Generating Station,India,"250, 250, 250",750,"operating, operating, operating",3,operating,6570000000,28251,47304,2430.9,1248.3,88.1399487,22.4703437
+Buxar Thermal Power Station,India,"660, 660",1320,"construction, construction",2,construction,11563200000,49721.76,83255.04,4278.384,2197.008,83.882568,25.462349
+Chunar Cement power station,India,38,38,operating,1,operating,332880000,1431.384,2396.736,123.1656,63.2472,82.8973389,25.0908847
+Churk captive power station,India,"60, 60, 60, 60",240,"operating, operating, operating, operating",4,operating,2102400000,9040.32,15137.28,777.888,399.456,83.1010848,24.6391037
+Deenbandhu Chhotu Ram Thermal Power Plant,India,"300, 300",600,"operating, operating",2,operating,5256000000,22600.8,37843.2,1944.72,998.64,77.3267646,30.1075175
+Durgapur Projects Limited power station,India,"300, 250",550,"operating, operating",2,operating,4818000000,20717.4,34689.6,1782.66,915.42,87.3023093,23.5211473
+Durgapur SAIL power station,India,"60, 60",120,"operating, operating",2,operating,1051200000,4520.16,7568.64,388.944,199.728,87.2484754,23.5518052
+Durgapur Steel City Andal power station,India,"500, 500",1000,"operating, operating",2,operating,8760000000,37668,63072,3241.2,1664.4,87.2043,23.58
+Farakka power station,India,"200, 200, 200, 500, 500, 500",2100,"operating, operating, operating, operating, operating, operating",6,operating,18396000000,79102.8,132451.2,6806.52,3495.24,87.893707,24.7727289
+Feroze Gandhi Unchahar Power Station,India,"210, 210, 210, 210, 210, 500",1550,"operating, operating, operating, operating, operating, operating",6,operating,13578000000,58385.4,97761.6,5023.86,2579.82,81.3272384,25.9137597
+Ghatampur power station,India,"660, 660, 660",1980,"construction, construction, construction",3,construction,17344800000,74582.64,124882.56,6417.576,3295.512,80.1889,25.975
+Guru Hargobind Lehra Mohabbat Power Station,India,"210, 210, 250, 250",920,"operating, operating, operating, operating",4,operating,8059200000,34654.56,58026.24,2981.904,1531.248,75.16609669,30.26655473
+Guru Nanak Dev Thermal Power Station (GNDTP) Stage I,India,"110, 110, 110, 120",450,"operating, operating, operating, operating",4,operating,3942000000,16950.6,28382.4,1458.54,748.98,74.9247,30.2335
+Haldia Energy power station,India,"600, 600",1200,"operating, operating",2,operating,10512000000,45201.6,75686.4,3889.44,1997.28,88.109748,22.060459
+Haldia India Power,India,"150, 150, 150",450,"construction, construction, construction",3,construction,3942000000,16950.6,28382.4,1458.54,748.98,88.073213,22.085534
+Harduaganj power station,India,"660, 110, 250, 250, 660",1930,"operating, operating, operating, operating, pre-permit",5,operating,16906800000,72699.24,121728.96,6255.516,3212.292,78.13,28.0175
+Hiranmaye Haldia power station,India,"150, 150",300,"operating, operating",2,operating,2628000000,11300.4,18921.6,972.36,499.32,88.0984126,22.076989
+Indira Gandhi Super Thermal Power Project,India,"500, 500, 500",1500,"operating, operating, operating",3,operating,13140000000,56502,94608,4861.8,2496.6,76.3731605,28.4850914
+Jawaharpur Thermal Project,India,"660, 660",1320,"construction, construction",2,construction,11563200000,49721.76,83255.04,4278.384,2197.008,78.826071,27.497098
+Kahalgaon Super Thermal Power Plant,India,"210, 210, 210, 210, 500, 500, 500",2340,"operating, operating, operating, operating, operating, operating, operating",7,operating,20498400000,88143.12,147588.48,7584.408,3894.696,87.2655952,25.2369032
+Kanoria Captive Power Plant,India,50,50,operating,1,operating,438000000,1883.4,3153.6,162.06,83.22,83.056088,24.203819
+Katwa Thermal Power Station,India,"800, 800",1600,"pre-permit, pre-permit",2,pre-permit,14016000000,60268.8,100915.2,5185.92,2663.04,88.139333,23.652583
+Khamberkhera IPP power station,India,"45, 45",90,"operating, operating",2,operating,788400000,3390.12,5676.48,291.708,149.796,80.8,27.9
+Khurja power station,India,"660, 660",1320,"construction, construction",2,construction,11563200000,49721.76,83255.04,4278.384,2197.008,77.908333,28.158333
+Kolaghat Thermal Power Station,India,"210, 210, 210, 210, 210, 210",1260,"operating, operating, operating, operating, operating, operating",6,operating,11037600000,47461.68,79470.72,4083.912,2097.144,87.8709841,22.416565
+Kundarki Ipp power station,India,"45, 45",90,"operating, operating",2,operating,788400000,3390.12,5676.48,291.708,149.796,82.23,27.03
+Mahatma Gandhi power station,India,"660, 660",1320,"operating, operating",2,operating,11563200000,49721.76,83255.04,4278.384,2197.008,76.352534,28.488143
+Maqsoodpur power station,India,"45, 45",90,"operating, operating",2,operating,788400000,3390.12,5676.48,291.708,149.796,79.94,27.81
+Meja Thermal Power Project,India,"660, 660",1320,"operating, operating",2,operating,11563200000,49721.76,83255.04,4278.384,2197.008,81.940096,25.1458673
+Mejia power station,India,"500, 500, 210, 210, 210, 210, 250, 250",2340,"operating, operating, operating, operating, operating, operating, operating, operating",8,operating,20498400000,88143.12,147588.48,7584.408,3894.696,87.1311,23.4639
+Muzaffarpur power station,India,"195, 195, 110, 110",610,"construction, construction, operating, operating",4,construction,5343600000,22977.48,38473.92,1977.132,1015.284,85.3033018,26.1947708
+Nabinagar Super Thermal Power Project,India,"660, 660, 660",1980,"operating, operating, operating",3,operating,17344800000,74582.64,124882.56,6417.576,3295.512,84.1580254,24.7760001
+Nabinagar Thermal Power Project,India,"250, 250, 250, 250",1000,"operating, operating, operating, operating",4,operating,8760000000,37668,63072,3241.2,1664.4,84.0887384,24.7050812
+National Capital Dadri Thermal Power Plant,India,"210, 210, 210, 210, 490, 490",1820,"operating, operating, operating, operating, operating, operating",6,operating,15943200000,68555.76,114791.04,5898.984,3029.208,77.6078,28.603
+Obra Thermal Power Station,India,"200, 200, 200, 200, 660, 660, 200",2320,"operating, operating, operating, operating, construction, construction, operating",7,operating,20323200000,87389.76,146327.04,7519.584,3861.408,82.9803325,24.4445803
+Panipat power station,India,"110, 110, 110, 110, 210, 210, 250, 250",1360,"operating, operating, operating, operating, operating, operating, operating, operating",8,operating,11913600000,51228.48,85777.92,4408.032,2263.584,76.870271,29.398842
+Panki Thermal Power Station,India,"660, 105, 105",870,"construction, operating, operating",3,construction,7621200000,32771.16,54872.64,2819.844,1448.028,80.241,26.4766
+Rajghat Power Station,India,"67.5, 67.5",135,"operating, operating",2,operating,1182600000,5085.18,8514.72,437.562,224.694,77.254044,28.637429
+Rajiv Gandhi Thermal Power Project,India,"600, 600",1200,"operating, operating",2,operating,10512000000,45201.6,75686.4,3889.44,1997.28,75.857538,29.3469803
+Rajpura Thermal Power Project,India,"700, 700",1400,"operating, operating",2,operating,12264000000,52735.2,88300.8,4537.68,2330.16,76.5775931,30.5589628
+Renusagar power station,India,"67.5, 75, 67.5, 74, 74, 68, 74, 74, 76.7, 75",725.7,"operating, operating, operating, operating, operating, operating, operating, operating, operating, operating",10,operating,6357132000,27335.6676,45771.3504,2352.13884,1207.85508,82.7912794,24.1810932
+Rihand power station,India,"500, 500, 500, 500, 500, 500",3000,"operating, operating, operating, operating, operating, operating",6,operating,26280000000,113004,189216,9723.6,4993.2,82.7915,24.027
+Rosa Thermal Power Plant,India,"300, 300, 300, 300",1200,"operating, operating, operating, operating",4,operating,10512000000,45201.6,75686.4,3889.44,1997.28,79.9371618,27.8194455
+Sagardighi Thermal Power Station,India,"300, 300, 500, 500, 660",2260,"operating, operating, operating, operating, construction",5,operating,19797600000,85129.68,142542.72,7325.112,3761.544,88.1040001,24.3688141
+Singrauli Super Thermal Power Station,India,"200, 200, 200, 200, 200, 500, 500, 800, 800",3600,"operating, operating, operating, operating, operating, operating, operating, permitted, permitted",9,operating,31536000000,135604.8,227059.2,11668.32,5991.84,82.7063552,24.1042119
+Southern CESC power station,India,"67.5, 67.5",135,"operating, operating",2,operating,1182600000,5085.18,8514.72,437.562,224.694,88.291512,22.5495911
+Suratgarh Super Thermal Power Station,India,"250, 250, 250, 250, 250, 250, 660, 660",2820,"operating, operating, operating, operating, operating, operating, operating, operating",8,operating,24703200000,106223.76,177863.04,9140.184,4693.608,74.018741,29.181766
+Talwandi Sabo Power Project,India,"660, 660, 660",1980,"operating, operating, operating",3,operating,17344800000,74582.64,124882.56,6417.576,3295.512,75.2389294,29.9245796
+Tanda power station,India,"660, 660, 110, 110, 110, 110",1760,"operating, operating, operating, operating, operating, operating",6,operating,15417600000,66295.68,111006.72,5704.512,2929.344,82.6003754,26.5891987
+The Durgapur Projects Limited,India,"250, 110, 30, 30, 77, 77, 77, 300",951,"operating, operating, operating, operating, operating, operating, operating, operating",8,operating,8330760000,35822.268,59981.472,3082.3812,1582.8444,87.302979,23.518135
+Titagarh power station,India,"60, 60, 60, 60",240,"operating, operating, operating, operating",4,operating,2102400000,9040.32,15137.28,777.888,399.456,88.3703092,22.7319741
+Utraula power station,India,"45, 45",90,"operating, operating",2,operating,788400000,3390.12,5676.48,291.708,149.796,82.18,27.43
+Welspun Energy Mirzapur power station,India,"660, 660",1320,"permitted, permitted",2,permitted,11563200000,49721.76,83255.04,4278.384,2197.008,82.678633,24.982358
+Dera Ghazi Khan Cement power station,Pakistan,30,30,operating,1,operating,262800000,1130.04,1892.16,97.236,49.932,70.5394,30.33167
+Fauji Fertilizer power station,Pakistan,118,118,operating,1,operating,1033680000,4444.824,7442.496,382.4616,196.3992,67.41962,24.83309
+Hub Cement power station,Pakistan,30,30,operating,1,operating,262800000,1130.04,1892.16,97.236,49.932,66.78361,25.15589
+Hubco power station,Pakistan,"660, 660",1320,"operating, operating",2,operating,11563200000,49721.76,83255.04,4278.384,2197.008,66.68876,24.914675
+Jamshoro power station,Pakistan,"660, 660",1320,"construction, permitted",2,construction,11563200000,49721.76,83255.04,4278.384,2197.008,68.266111,25.472222
+Keti Bandar power station,Pakistan,"660, 660",1320,"pre-permit, pre-permit",2,pre-permit,11563200000,49721.76,83255.04,4278.384,2197.008,67.45,24.15
+Muzaffargarh sugar mill power station,Pakistan,"60, 60",120,"operating, operating",2,operating,1051200000,4520.16,7568.64,388.944,199.728,70.96697,30.29455
+Port Qasim EPC power station,Pakistan,"660, 660",1320,"operating, operating",2,operating,11563200000,49721.76,83255.04,4278.384,2197.008,67.36939,24.7845
+Port Qasim Lucky power station,Pakistan,660,660,operating,1,operating,5781600000,24860.88,41627.52,2139.192,1098.504,67.2745601,24.8128054
+Sahiwal power station,Pakistan,"660, 660",1320,"operating, operating",2,operating,11563200000,49721.76,83255.04,4278.384,2197.008,73.23802,30.71422
+Siddiqsons power station,Pakistan,330,330,permitted,1,permitted,2890800000,12430.44,20813.76,1069.596,549.252,70.3670883,24.7836176
+ThalNova power station,Pakistan,330,330,operating,1,operating,2890800000,12430.44,20813.76,1069.596,549.252,70.3883694,24.8154559
+Thar Block I power station,Pakistan,"660, 660",1320,"operating, operating",2,operating,11563200000,49721.76,83255.04,4278.384,2197.008,70.3024933,24.7108029
+Thar Block II power station,Pakistan,"330, 330",660,"operating, operating",2,operating,5781600000,24860.88,41627.52,2139.192,1098.504,70.394069,24.8124812
+Thar Block VI power station,Pakistan,"700, 700",1400,"pre-permit, pre-permit",2,pre-permit,12264000000,52735.2,88300.8,4537.68,2330.16,70.3150749,24.8408017
+Thar Energy Limited power station,Pakistan,330,330,operating,1,operating,2890800000,12430.44,20813.76,1069.596,549.252,70.4005007,24.8062135
+Master Power Plant,Pakistan,0,0,operating,0, operating,0,0,0,0,0,74.17973657,31.26878487
+Sheikhupura power station,Pakistan,31.5,31.5,construction,1,construction,0,0,0,0,0,74.1808,31.6526
+Sapphire Power Plant ,Pakistan,0,0,operating,,operating,,,,,,74.03534412,31.76241512
+Nestle Power Plant,Pakistan,0,0,operating,,operating,,,,,,74.07641003,31.6884929
+Bin Ajmal Rice Processing Mills,Pakistan,0,0,operating,,operating,,,,,,74.08766862,31.77556433
+Faisalabad Sitara Chemical power plant,Pakistan,"40,40",80,operating,2,operating,,,,,,73.38822,31.52292
+Gwadar power station,Pakistan,"150, 150",300,permitted,2,permitted,,,,,,62.3519,25.2052
+Maple Leaf power station,Pakistan,40,40,operating,1,operating,,,,,,71.61064,32.90467
