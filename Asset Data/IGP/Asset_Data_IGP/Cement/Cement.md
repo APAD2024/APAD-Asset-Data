@@ -22,6 +22,18 @@ SEPA, 1996, 2010; EPA, 1995.	pm2.5	NSP Kilns [25.6]	g/kg cement	25.6	kg/tonnes
         Shaft Kilns [5.7]	g/kg cement	5.7	kg/tonnes
         OR Kilns [22.4]	g/kg cement	22.4	kg/tonnes
 
+## Pollutant Dispersion
+
+
+Assuming a plant consumes 300,000 tonnes of coal annually (Reference)[https://en.wikipedia.org/wiki/Cement_kiln] - the Fuel Mass Flow Rate equates to 
+
+ $$FMFR = 300000000/365*24*3600$$
+
+ $$FMFR = 9.51$$ $kg/s$
+
+Emission Rate (ER): 
+
+ $$ER = 69.2 g/kg × 9.51 kg/s =658.092 g/s $$
 
 
 Reference:
