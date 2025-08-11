@@ -10,7 +10,7 @@ This repository contains data related to various assets that contribute to pollu
 
 ### Study Area Overview
 
-The study focuses on three major regions: the Indo-Gangetic Plain (IGP) in South Asia, selected countries in Africa, and additional countries in Asia. The study area includes several countries and their respective areas, as detailed below.
+The study focuses on two major regions: the Indo-Gangetic Plain (IGP) in South Asia extending until Nepal and selected countries in Africa. The study area includes several countries and their respective areas, as detailed below.
 
 ## **Indo-Gangetic Plain (IGP) - South Asia**
 
@@ -41,22 +41,69 @@ The study focuses on three major regions: the Indo-Gangetic Plain (IGP) in South
 
 ## **Asset Data**
 
+This folder contains subfolders for each asset type that contributes to pollution. Each subfolder contains data specific to that asset, such as its geographical location, operational details, capacity, and other relevant information.
+
+## Asset Data
+
 This folder contains subfolders for each asset type that contributes to pollution. Each subfolder contains data specific to that asset, such as its geographical location, operational details, name-plate capacity, and other relevant information.
 
 - `Asset Data/`
-  - **Brick Kiln**: A type of kiln used for burning bricks, contributing to air pollution through particulate matter and greenhouse gas emissions. ![Brick Kiln](https://example.com/brick-kiln.jpg)
-  - **Boilers**: Devices used for generating steam or hot water, contributing to air pollution through particulate matter, greenhouse gas emissions, and other pollutants. ![Boilers](https://example.com/boilers.jpg)
-  - **Cement**: A binding agent used in construction, contributing to air pollution through particulate matter and greenhouse gas emissions. ![Cement](https://example.com/cement.jpg)
-  - **Steel**: A type of metal alloy, contributing to air pollution through particulate matter and greenhouse gas emissions. ![Steel](https://example.com/steel.jpg)
-  - **Marble and Granite**: Types of rocks used in construction, contributing to air pollution through particulate matter and greenhouse gas emissions. ![Marble and Granite](https://example.com/marble-granite.jpg)
-  - **Transport**: A sector contributing to air pollution through emissions from vehicles and other transportation modes. ![Transport](https://example.com/transport.jpg)
-  - **Open burning sites**: Areas where waste is burned, contributing to air pollution through particulate matter and greenhouse gas emissions. ![Open burning sites](https://example.com/open-burning-sites.jpg)
-  - **Coal**: A fossil fuel contributing to air pollution through particulate matter and greenhouse gas emissions. ![Coal](https://example.com/coal.jpg)
-  - **Oil**: A fossil fuel contributing to air pollution through particulate matter and greenhouse gas emissions. ![Oil](https://example.com/oil.jpg)
-  - **Gas**: A fossil fuel contributing to air pollution through particulate matter and greenhouse gas emissions. ![Gas](https://example.com/gas.jpg)
-  - **Pulp and paper industry**: A sector contributing to air pollution through emissions from industrial processes. ![Pulp and paper industry](https://example.com/pulp-paper-industry.jpg)
-  - **Chemical industry**: A sector contributing to air pollution through emissions from industrial processes. ![Chemical industry](https://example.com/chemical-industry.jpg)
-  - **Crop stubble burning (seasonal)**: A practice contributing to air pollution through particulate matter and greenhouse gas emissions. ![Crop stubble burning](https://example.com/crop-stubble-burning.jpg)
+  - **Brick Kiln**: A type of kiln used for burning bricks, releasing pollutants such as particulate matter (PM), carbon monoxide (CO), and volatile organic compounds (VOCs) into the atmosphere, contributing to air pollution and negative health effects. 
+  $$ 
+  PM_{2.5} = 10-30 \space \mu g/m^3 
+  $$
+  ![Brick Kiln](https://example.com/brick-kiln.jpg)
+  - **Boilers**: Devices used for generating steam or hot water, emitting pollutants like particulate matter (PM), sulfur dioxide (SO2), and nitrogen oxides (NOx) due to combustion of fossil fuels, contributing to air pollution and acid rain. 
+  $$ 
+  SO_2 = 10-50 \space ppb 
+  $$
+  ![Boilers](https://example.com/boilers.jpg)
+  - **Cement Plants**: Industrial facilities that produce cement, releasing large amounts of particulate matter (PM), including PM2.5, and greenhouse gases like carbon dioxide (CO2) into the atmosphere, contributing to air pollution and climate change. 
+  $$ 
+  CO_2 = 500-1000 \space g/kg 
+  $$
+  ![Cement Plants](https://example.com/cement-plants.jpg)
+  - **Steel Plants**: Industrial facilities that produce steel, emitting pollutants like particulate matter (PM), carbon monoxide (CO), and volatile organic compounds (VOCs) into the atmosphere, contributing to air pollution and negative health effects. 
+  $$ 
+  PM_{10} = 20-50 \space \mu g/m^3 
+  $$
+  ![Steel Plants](https://example.com/steel-plants.jpg)
+  - **Marble and Granite Processing**: Facilities that process marble and granite, releasing particulate matter (PM) and other pollutants into the atmosphere, contributing to air pollution and negative health effects. 
+  $$ 
+  PM_{2.5} = 5-15 \space \mu g/m^3 
+  $$
+  ![Marble and Granite Processing](https://example.com/marble-granite-processing.jpg)
+  - **Transport**: A sector contributing to air pollution through emissions from vehicles and other transportation modes, releasing pollutants like particulate matter (PM), carbon monoxide (CO), and volatile organic compounds (VOCs) into the atmosphere. 
+  $$ 
+  CO = 100-500 \space ppb 
+  $$
+  ![Transport](https://example.com/transport.jpg)
+  - **Open burning sites**: Areas where waste is burned, releasing pollutants like particulate matter (PM), carbon monoxide (CO), and volatile organic compounds (VOCs) into the atmosphere, contributing to air pollution and negative health effects. 
+  $$ 
+  VOCs = 10-50 \space ppb 
+  $$
+  ![Open burning sites](https://example.com/open-burning-sites.jpg)
+  - **Coal Plants**: Industrial facilities that burn coal to generate electricity or heat, emitting pollutants like particulate matter (PM), sulfur dioxide (SO2), and nitrogen oxides (NOx) into the atmosphere, contributing to air pollution, acid rain, and climate change. 
+  $$ 
+  NO_x = 50-100 \space ppb 
+  $$
+  ![Coal Plants](https://example.com/coal-plants.jpg)
+  - **Oil Refineries**: Industrial facilities that refine oil, releasing pollutants like particulate matter (PM), sulfur dioxide (SO2), and nitrogen oxides (NOx) into the atmosphere, contributing to air pollution and negative health effects. 
+  $$ 
+  SO_2 = 20-50 \space ppb 
+  $$
+  ![Oil Refineries](https://example.com/oil-refineries.jpg)
+  - **Gas Processing**: Facilities that process natural gas, releasing pollutants like methane (CH4) and other pollutants into the atmosphere, contributing to climate change and air pollution. 
+  $$ 
+  CH_4 = 10-50 \space ppb 
+  $$
+  ![Gas Processing](https://example.com/gas-processing.jpg)
+  - **Pulp and Paper Mills**: Industrial facilities that produce pulp and paper, emitting pollutants like particulate matter (PM), sulfur dioxide (SO2), and volatile organic compounds (VOCs) into the atmosphere, contributing to air pollution and negative health effects. 
+  $$ 
+  PM_{10} = 10-30 \space \mu g/m^3 
+  $$
+  ![Pulp and Paper Mills](https://example.com/pulp-paper-mills.jpg)
+  - **Chemical Plants**: Industrial facilities that produce chemicals, releasing pollutants like particulate matter (PM), volatile organic compounds (VOCs), and other pollutants into the atmosphere, contributing to
 
 ## **Pollution Data**
 
