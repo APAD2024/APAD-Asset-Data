@@ -23,6 +23,11 @@ The study focuses on two major regions: the Indo-Gangetic Plain (IGP) in South A
 | **Pakistan**  | xx Km²              |
 | **Nepal**     | xx Km²              |
 
+### Changing Shp to geojson and csv
+
+<img width="1551" height="784" alt="image" src="https://github.com/user-attachments/assets/b5e3e6cb-ec68-4b18-a1bc-ca3d36b0ca3b" />
+
+
 ### Total Area Covered in IGP: **xxxx Km²**
 
 ## **Study Areas in Africa**
