@@ -1,0 +1,48 @@
+GID_1,GID_0,COUNTRY,NAME_1,VARNAME_1,NL_NAME_1,TYPE_1,ENGTYPE_1,CC_1,HASC_1,ISO_1
+KEN.1_1,KEN,Kenya,Baringo,NA,NA,County,County,"30",KE.BA,KE-01
+KEN.2_1,KEN,Kenya,Bomet,NA,NA,County,County,"36",KE.BO,KE-02
+KEN.3_1,KEN,Kenya,Bungoma,NA,NA,County,County,"39",KE.BN,KE-03
+KEN.4_1,KEN,Kenya,Busia,NA,NA,County,County,"40",KE.BS,KE-04
+KEN.5_1,KEN,Kenya,Elgeyo-Marakwet,NA,NA,County,County,"28",KE.EM,NA
+KEN.6_1,KEN,Kenya,Embu,NA,NA,County,County,"14",KE.EB,KE-06
+KEN.7_1,KEN,Kenya,Garissa,NA,NA,County,County,"7",KE.GA,KE-07
+KEN.8_1,KEN,Kenya,Homa Bay,NA,NA,County,County,"43",KE.HB,KE-08
+KEN.9_1,KEN,Kenya,Isiolo,NA,NA,County,County,"11",KE.IS,KE-09
+KEN.10_1,KEN,Kenya,Kajiado,NA,NA,County,County,"34",KE.KJ,KE-10
+KEN.11_1,KEN,Kenya,Kakamega,NA,NA,County,County,"37",KE.KK,KE-11
+KEN.12_1,KEN,Kenya,Kericho,NA,NA,County,County,"35",KE.KR,KE-12
+KEN.13_1,KEN,Kenya,Kiambu,NA,NA,County,County,"22",KE.KB,KE-13
+KEN.14_1,KEN,Kenya,Kilifi,NA,NA,County,County,"3",KE.KF,KE-14
+KEN.15_1,KEN,Kenya,Kirinyaga,NA,NA,County,County,"20",KE.KY,KE-15
+KEN.16_1,KEN,Kenya,Kisii,NA,NA,County,County,"45",KE.KI,KE-16
+KEN.17_1,KEN,Kenya,Kisumu,NA,NA,County,County,"42",KE.KU,KE-17
+KEN.18_1,KEN,Kenya,Kitui,NA,NA,County,County,"15",KE.KT,KE-18
+KEN.19_1,KEN,Kenya,Kwale,NA,NA,County,County,"2",KE.KW,KE-19
+KEN.20_1,KEN,Kenya,Laikipia,NA,NA,County,County,"31",KE.LK,KE-20
+KEN.21_1,KEN,Kenya,Lamu,NA,NA,County,County,"5",KE.LM,KE-21
+KEN.22_1,KEN,Kenya,Machakos,NA,NA,County,County,"16",KE.MC,KE-22
+KEN.23_1,KEN,Kenya,Makueni,NA,NA,County,County,"17",KE.MK,KE-23
+KEN.24_1,KEN,Kenya,Mandera,NA,NA,County,County,"9",KE.MD,KE-24
+KEN.25_1,KEN,Kenya,Marsabit,NA,NA,County,County,"10",KE.MB,KE-25
+KEN.26_1,KEN,Kenya,Meru,NA,NA,County,County,"12",KE.ME,KE-26
+KEN.27_1,KEN,Kenya,Migori,NA,NA,County,County,"44",KE.MG,KE-27
+KEN.28_1,KEN,Kenya,Mombasa,NA,NA,County,County,"1",KE.MM,KE-28
+KEN.29_1,KEN,Kenya,Murang'a,NA,NA,County,County,"21",KE.MU,KE-29
+KEN.30_1,KEN,Kenya,Nairobi,NA,NA,County,County,"47",KE.NB,NA
+KEN.31_1,KEN,Kenya,Nakuru,NA,NA,County,County,"32",KE.NK,KE-31
+KEN.32_1,KEN,Kenya,Nandi,NA,NA,County,County,"29",KE.ND,KE-32
+KEN.33_1,KEN,Kenya,Narok,NA,NA,County,County,"33",KE.NR,KE-33
+KEN.34_1,KEN,Kenya,Nyamira,NA,NA,County,County,"46",KE.NM,KE-34
+KEN.35_1,KEN,Kenya,Nyandarua,NA,NA,County,County,"18",KE.NN,KE-35
+KEN.36_1,KEN,Kenya,Nyeri,NA,NA,County,County,"19",KE.NI,KE-36
+KEN.37_1,KEN,Kenya,Samburu,NA,NA,County,County,"25",KE.SA,KE-37
+KEN.38_1,KEN,Kenya,Siaya,NA,NA,County,County,"41",KE.SI,KE-38
+KEN.39_1,KEN,Kenya,Taita Taveta,NA,NA,County,County,"6",KE.TT,NA
+KEN.40_1,KEN,Kenya,Tana River,NA,NA,County,County,"4",KE.TR,KE-40
+KEN.41_1,KEN,Kenya,Tharaka-Nithi,NA,NA,County,County,"13",KE.NT,KE-41
+KEN.42_1,KEN,Kenya,Trans Nzoia,NA,NA,County,County,"26",KE.TN,KE-42
+KEN.43_1,KEN,Kenya,Turkana,NA,NA,County,County,"23",KE.TU,KE-43
+KEN.44_1,KEN,Kenya,Uasin Gishu,NA,NA,County,County,"27",KE.UG,KE-44
+KEN.45_1,KEN,Kenya,Vihiga,NA,NA,County,County,"38",KE.VI,KE-45
+KEN.46_1,KEN,Kenya,Wajir,NA,NA,County,County,"8",KE.WJ,KE-46
+KEN.47_1,KEN,Kenya,West Pokot,NA,NA,County,County,"24",KE.WP,KE-47
