@@ -119,8 +119,8 @@ This dataset is released under a Creative Commons (CC) license, allowing for bro
 
 ### Data Sources
 
-Administrative Boundaries: Global Administrative Areas (2024). University of California, Berkeley. [digital geospatial data]. Available online: GADM license.
-Pollution Data (PM 2.5): Atmospheric Composition Analysis Group (V6.GL.02 version) 0.01 x 0.01 data: Shen, S., Li, C., van Donkelaar, A., Jacobs, N., Wang, C., Martin, R. V. “Enhancing Global Estimation of Fine Particulate Matter Concentrations by Including Geophysical a Priori Information in Deep Learning.” (2024) ACS ES&T Air. DOI: 10.1021/acsestair.3c00054.
+ - **Administrative Boundaries**: Global Administrative Areas (2024). University of California, Berkeley. [digital geospatial data]. Available online: GADM license.
+ - **Pollution Data (PM 2.5)**: Atmospheric Composition Analysis Group (V6.GL.02 version) 0.01 x 0.01 data: Shen, S., Li, C., van Donkelaar, A., Jacobs, N., Wang, C., Martin, R. V. “Enhancing Global Estimation of Fine Particulate Matter Concentrations by Including Geophysical a Priori Information in Deep Learning.” (2024) ACS ES&T Air. DOI: 10.1021/acsestair.3c00054.
 
 ---
 
