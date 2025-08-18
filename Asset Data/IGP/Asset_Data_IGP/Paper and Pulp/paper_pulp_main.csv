@@ -1,20 +1,22 @@
 ﻿id,name,lat,lon,type, fuel,region,country,status,capacity,emfpm10, pm10,emfpm25, pm25,emfso2, so2,emfnox, nox
-PPB-1,Amber Super Paper Ltd,23.82534,90.4360182,Paper,,Dhaka,Bangladesh,Operating,"16,093.74",0.315,5.0695281,0.315,5.0695281,0.43,6.9203082,0.53,8.5296822
-PPB-2,Asia Paper and Board Mills Ltd,23.7312103,90.4088458,Paper,,Dhaka,Bangladesh,Operating,"16,093.74",0.315,5.0695281,0.315,5.0695281,0.43,6.9203082,0.53,8.5296822
-PPB-3,Bangladesh Paper Mills Ltd,23.7333464,90.4065196,Paper,,Dhaka,Bangladesh,Operating,"16,093.74",0.315,5.0695281,0.315,5.0695281,0.43,6.9203082,0.53,8.5296822
+PPB-1,Amber Super Paper Ltd,23.80788104,90.54548187,Paper,,Dhaka,Bangladesh,Operating,"16,093.74",0.315,5.0695281,0.315,5.0695281,0.43,6.9203082,0.53,8.5296822
+PPB-2,Asia Paper and Board Mills Ltd,23.57903368,90.51213092,Paper,,Dhaka,Bangladesh,Operating,"16,093.74",0.315,5.0695281,0.315,5.0695281,0.43,6.9203082,0.53,8.5296822
+PPB-3,Bangladesh Paper Mills Ltd,23.70363035,90.51373167,Paper,,Dhaka,Bangladesh,Operating,"16,093.74",0.315,5.0695281,0.315,5.0695281,0.43,6.9203082,0.53,8.5296822
 PPB-4,BCIC Bangladesh Chemical Industries Corp.,23.7267506,90.4191763,Paper,,Dhaka,Bangladesh,Operating,"33,069.33",0.315,10.41683895,0.315,10.41683895,0.43,14.2198119,0.53,17.5267449
-PPB-5,"BPML Bashundhara Paper Mill Limited, Bashundhara Group Corporate Office",23.8118837,90.4283242,pulp and paper,,Dhaka,Bangladesh,Operating,"193,455.63",1.3,251.492319,0.315,60.93852345,5,967.27815,2.5,483.639075
-PPB-6,"Hashem Paper Mills Ltd, Zeysha Group",23.7245473,90.4213183,Paper,,Dhaka,Bangladesh,Operating,0,0.315,0,0.315,0,0.43,0,0.53,0
-PPB-7,"Hussain Pulp, Paper and Board Mills Ltd",23.7657287,90.4054498,Paper and packaging,,Dhaka,Bangladesh,Operating,0,0.315,0,0.315,0,0.43,0,0.53,0
-PPB-8,Khulna Newsprint Mills Ltd,22.8496682,89.5367413,Paper,,Khalispur,Bangladesh,Operating,"55,115.56",0.315,17.3614014,0.315,17.3614014,0.43,23.6996908,0.53,29.2112468
-PPB-9,"Lipy Paper Mills Ltd, Lipy Group",23.7327123,90.4125562,Paper,,Dhaka,Bangladesh,Operating,0,0.315,0,0.315,0,0.43,0,0.53,0
-PPB-10,"Magura Paper Mills Ltd, BDG-Magura Group",23.7267506,90.4191763,Paper,,Dhaka,Bangladesh,Operating,"16,534.66",0.315,5.2084179,0.315,5.2084179,0.43,7.1099038,0.53,8.7633698
-PPB-11,NBPM North Bengal Paper Mills Ltd,24.0808134,89.0519747,Paper,,Paksey,Bangladesh,Operating,"16,534.66",0.315,5.2084179,0.315,5.2084179,0.43,7.1099038,0.53,8.7633698
-PPB-12,"Pearl Paper & Board Mills Ltd, Magura Group",23.804093,90.4152376,Paper,,Dhaka,Bangladesh,Operating,"44,092.45",0.315,13.88912175,0.315,13.88912175,0.43,18.9597535,0.53,23.3689985
-PPB-13,Pioneer Paper & Board Mills Ltd,23.7149563,90.4181331,Paper,,Dhaka,Bangladesh,Operating,"8,851.55",0.315,2.78823825,0.315,2.78823825,0.43,3.8061665,0.53,4.6913215
-PPB-14,Sadeque Paper & Board Mills Ltd,23.7235889,90.4231482,Paper,,Dhaka,Bangladesh,Operating,"8,046.87",0.315,2.53476405,0.315,2.53476405,0.43,3.4601541,0.53,4.2648411
-PPB-15,Sonali Paper and Board Mills Ltd,23.7263288,90.4158919,Paper and packaging,,Dhaka,Bangladesh,Operating,"18,105.46",0.315,5.7032199,0.315,5.7032199,0.43,7.7853478,0.53,9.5958938
-PPB-16,Web Coats Ltd,23.7212942,90.4209501,Paper,,Dhaka,Bangladesh,Operating,0,0.315,0,0.315,0,0.43,0,0.53,0
+PPB-5,BPML Bashundhara Paper Mill Limited- Unit 1,23.61845384,90.61073186,pulp and paper,,Dhaka,Bangladesh,Operating,"193,455.63",1.3,251.492319,0.315,60.93852345,5,967.27815,2.5,483.639075
+PPB-6,BPML Bashundhara Paper Mill Limited- Unit 2,23.61418535,90.6193602,pulp and paper,,Dhaka,Bangladesh,Operating,"193,455.63",1.3,251.492319,0.315,60.93852345,5,967.27815,2.5,483.639075
+PPB-7,BPML Bashundhara Paper Mill Limited- Unit 3,23.57584222,90.64422299,pulp and paper,,Dhaka,Bangladesh,Operating,"193,455.63",1.3,251.492319,0.315,60.93852345,5,967.27815,2.5,483.639075
+PPB-8,"Hashem Paper Mills Ltd, Zeysha Group",23.80363083,90.53658873,Paper,,Dhaka,Bangladesh,Operating,0,0.315,0,0.315,0,0.43,0,0.53,0
+PPB-9,"Hussain Pulp, Paper and Board Mills Ltd",23.63274068,90.46939284,Paper and packaging,,Dhaka,Bangladesh,Operating,0,0.315,0,0.315,0,0.43,0,0.53,0
+PPB-10,Khulna Newsprint Mills Ltd,22.85529565,89.55099846,Paper,,Khalispur,Bangladesh,Operating,"55,115.56",0.315,17.3614014,0.315,17.3614014,0.43,23.6996908,0.53,29.2112468
+PPB-11,"Lipy Paper Mills Ltd, Lipy Group",23.70634033,90.55792858,Paper,,Dhaka,Bangladesh,Operating,0,0.315,0,0.315,0,0.43,0,0.53,0
+PPB-12,"Magura Paper Mills Ltd, BDG-Magura Group",23.61567016,90.61192963,Paper,,Dhaka,Bangladesh,Operating,"16,534.66",0.315,5.2084179,0.315,5.2084179,0.43,7.1099038,0.53,8.7633698
+PPB-13,NBPM North Bengal Paper Mills Ltd,24.07612556,89.04865103,Paper,,Paksey,Bangladesh,Operating,"16,534.66",0.315,5.2084179,0.315,5.2084179,0.43,7.1099038,0.53,8.7633698
+PPB-14,"Pearl Paper & Board Mills Ltd, Magura Group",23.91844075,90.12938519,Paper,,Dhaka,Bangladesh,Operating,"44,092.45",0.315,13.88912175,0.315,13.88912175,0.43,18.9597535,0.53,23.3689985
+PPB-15,Pioneer Paper & Board Mills Ltd,23.57650988,90.64400498,Paper,,Dhaka,Bangladesh,Operating,"8,851.55",0.315,2.78823825,0.315,2.78823825,0.43,3.8061665,0.53,4.6913215
+PPB-16,Sadeque Paper & Board Mills Ltd,24.02300304,90.27228186,Paper,,Dhaka,Bangladesh,Operating,"8,046.87",0.315,2.53476405,0.315,2.53476405,0.43,3.4601541,0.53,4.2648411
+PPB-17,Sonali Paper and Board Mills Ltd,23.71686303,90.50628353,Paper and packaging,,Dhaka,Bangladesh,Operating,"18,105.46",0.315,5.7032199,0.315,5.7032199,0.43,7.7853478,0.53,9.5958938
+PPB-18,Web Coats Ltd,23.66998835,90.29507972,Paper,,Dhaka,Bangladesh,Operating,0,0.315,0,0.315,0,0.43,0,0.53,0
 PPI-1,"Abhishek Industries Limited, Trident Group",30.9136225,75.8170786,Paper,,Ludhiana,India,Operating,"108,000.00",0.315,34.02,0.315,34.02,0.43,46.44,0.53,57.24
 PPI-2,Agarwal Pulp and Paper Mills Ltd,29.4610536,77.6861916,Paper,,Muzaffar Nagar,India,Operating,0,0.315,0,0.315,0,0.43,0,0.53,0
 PPI-3,BAHL Paper Mills Ltd,28.6349338,77.1792825,Pulp and Paper,,DELHI,India,Operating,0,1.3,0,0.315,0,5,0,2.5,0
