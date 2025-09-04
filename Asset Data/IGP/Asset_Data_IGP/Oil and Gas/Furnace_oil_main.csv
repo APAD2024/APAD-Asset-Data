@@ -1,0 +1,49 @@
+id,name,lat,lon,type,fuel,state,country,status,capacity,emfpm10,pm10,emfpm25,pm25,emfso2,so2,emfnox,nox
+FOP-2,Attock Refinery,33.55357,73.072974,Furnace Oil,,,Pakistan,operating,,,,,,,,,
+FOP-3,National Refinery NRL Refinery,24.846041,67.124187,Furnace Oil,,,Pakistan,operating,,,,,,,,,
+FOB-1,Bashundhara Oil and Gas Company Refinery,23.668397,90.442809,Furnace Oil,,,Bangladesh,operating,,,,,,,,,
+FOP-1,PARCO Mid Country (Kot Addu) Refinery,30.16778,70.932136,Furnace Oil,,,Pakistan,operating,,,,,,,,,
+FOI-2,Guru Gobind Singh Refinery,29.923863,74.953334,Furnace Oil,,,India,operating,,,,,,,,,
+FOI-3,IOCL Mathura Refinery,27.37846,77.68662,Furnace Oil,,,India,operating,,,,,,,,,
+FOI-4,IOCL Barauni Refinery,25.42778,86.06001,Furnace Oil,,,India,operating,,,,,,,,,
+FOI-5,IOCL Haldia Refinery,22.04581,88.10433,Furnace Oil,,,India,operating,,,,,,,,,
+FOI-1,IOCL Panipat Refinery,29.47308,76.87831,Furnace Oil,,,India,operating,,,,,,,,,
+FOI-14,Panipat Naphtha Cracker Phase II expansion,29.4530463,76.8727075,Furnace Oil,,Haryana,India,announced,32.430528,25.2,0.056039952,19.3,0.042919487,495,1.100784779,142,0.315780684
+FOI-9,Vadodara Manufacturing Division,22.37346743,73.10635644,Furnace Oil,,Gujarat,India,operating,35.47089,25.2,0.061293698,19.3,0.046943189,495,1.203983352,142,0.345385123
+FOI-6,Assam Gas Cracker Project (AGCP),27.367977,94.888719,Furnace Oil,,Assam,India,operating,40.53816,25.2,0.07004994,19.3,0.053649359,495,1.375980974,142,0.394725855
+FOI-16,Nagothane Manufacturing Division ,18.54959795,73.10905949,Furnace Oil,,Maharashtra,India,operating,117.560664,25.2,0.203144827,19.3,0.155583142,495,3.990344824,142,1.14470498
+FOI-20,Haldia Petrochemicals plant,22.06664396,88.10308191,Furnace Oil,,West Bengal,India,operating,141.88356,25.2,0.245174792,19.3,0.187772757,495,4.815933408,142,1.381540493
+FOI-7,Dahej Manufacturing Division,21.692313,72.573313,Furnace Oil,,Gujarat,India,operating,141.88356,25.2,0.245174792,19.3,0.187772757,495,4.815933408,142,1.381540493
+FOI-13,Panipat Naphtha Cracker ,29.4530463,76.8727075,Furnace Oil,,Haryana,India,operating,162.15264,25.2,0.280199762,19.3,0.214597437,495,5.503923895,142,1.57890342
+FOI-19,PATA Petrochemical complex,26.643451,79.488859,Furnace Oil,Ethane; Propane,Uttar Pradesh,India,operating,182.42172,25.2,0.315224732,19.3,0.241422116,495,6.191914382,142,1.776266348
+FOI-10,Hazira Manufacturing Division,21.169938,72.673938,Furnace Oil,,Gujarat,India,operating,222.95988,25.2,0.385274673,19.3,0.295071475,495,7.567895355,142,2.170992203
+FOI-8,OPaL Cracker unit,21.67436476,72.54369273,Furnace Oil,,Gujarat,India,operating,222.95988,25.2,0.385274673,19.3,0.295071475,495,7.567895355,142,2.170992203
+FOI-15,Bina Petrochemical and Refinery Expansion Project,24.247797,78.155975,Furnace Oil,,Madhya Pradesh,India,under construction,243.22896,25.2,0.420299643,19.3,0.321896155,495,8.255885842,142,2.368355131
+FOI-18,Guru Gobind Singh Polymer Addition Project (`GGSPAP’),29.928273,74.948007,Furnace Oil,Mixed,Punjab,India,operating,243.22896,25.2,0.420299643,19.3,0.321896155,495,8.255885842,142,2.368355131
+FOI-22,LNG plant - expansion project,,,Furnace Oil,Ethane,,India,announced,243.22896,25.2,0.420299643,19.3,0.321896155,495,8.255885842,142,2.368355131
+FOI-11,Jamnagar Manufacturing Division,22.348056,69.868889,Furnace Oil,Ethane,Gujarat,India,operating,304.0362,25.2,0.525374554,19.3,0.402370194,495,10.3198573,142,2.960443913
+FOI-21,Nagarjuna Oil refinery - reinvestment project,,,Furnace Oil,,,India,announced,364.84344,25.2,0.630449464,19.3,0.482844233,495,12.38382876,142,3.552532696
+FOP-18,QATPL,31.605907,73.9058873,Furnace Oil,RLNG,,Pakistan,operating,176.4,0.14,0.00169344,0.14,0.00169344,0.281,0.003398976,89,1.076544
+FOP-19,Balloki Power Plant,31.03867,73.924773,Furnace Oil,RLNG,,Pakistan,operating,183.6,0.14,0.00176256,0.14,0.00176256,0.281,0.00353771,89,1.120484571
+FOP-20,Haveli Bahadur Shah Power Plant,31.126387,72.1913301,Furnace Oil,RLNG,,Pakistan,operating,183.6,0.14,0.00176256,0.14,0.00176256,0.281,0.00353771,89,1.120484571
+FOP-6,Saba Power Plant,31.733074,73.8735099,Furnace Oil,furnace oil,,Pakistan,operating,21.6,25.2,0.0373248,19.3,0.028586057,495,0.733165714,142,0.210322286
+FOP-23,Japan Power,31.325543,74.2623156,Furnace Oil,furnace oil,,Pakistan,operating,21.6,25.2,0.0373248,19.3,0.028586057,495,0.733165714,142,0.210322286
+FOP-24,Southern Electric Power,31.291531,74.2495319,Furnace Oil,furnace oil,,Pakistan,operating,21.6,25.2,0.0373248,19.3,0.028586057,495,0.733165714,142,0.210322286
+FOP-10,Nishat Power Limited,31.122248,73.9053941,Furnace Oil,furnace oil,,Pakistan,operating,28.8,25.2,0.0497664,19.3,0.038114743,495,0.977554286,142,0.280429714
+FOP-11,Nishat Chunian Power,31.123387,73.9053045,Furnace Oil,furnace oil,,Pakistan,operating,28.8,25.2,0.0497664,19.3,0.038114743,495,0.977554286,142,0.280429714
+FOP-15,Liberty Power Tech,31.699592,73.210921,Furnace Oil,furnace oil,,Pakistan,operating,28.8,25.2,0.0497664,19.3,0.038114743,495,0.977554286,142,0.280429714
+FOP-14,Hubco Narowal Energy,32.059082,74.7812748,Furnace Oil,furnace oil,,Pakistan,operating,32.4,25.2,0.0559872,19.3,0.042879086,495,1.099748571,142,0.315483429
+FOP-12,Sapphire Power Plant,31.760858,74.0333998,Furnace Oil,gas,,Pakistan,operating,32.4,0.14,0.00031104,0.14,0.00031104,0.281,0.000624302,89,0.197732571
+FOP-13,Halmore Power Station,31.633141,73.8703108,Furnace Oil,gas,,Pakistan,operating,32.4,0.14,0.00031104,0.14,0.00031104,0.281,0.000624302,89,0.197732571
+FOP-7,Atlas Power Plant,31.678385,74.0850865,Furnace Oil,furnace oil,,Pakistan,operating,32.4,25.2,0.0559872,19.3,0.042879086,495,1.099748571,142,0.315483429
+FOP-8,SAIF POWER PLANT,30.69621,73.2605951,Furnace Oil,gas,,Pakistan,operating,32.4,0.14,0.00031104,0.14,0.00031104,0.281,0.000624302,89,0.197732571
+FOP-9,Orient Power Station,31.18786,73.8900523,Furnace Oil,gas,,Pakistan,operating,32.4,0.14,0.00031104,0.14,0.00031104,0.281,0.000624302,89,0.197732571
+FOP-22,Nandipur Power Project,32.242589,74.2691227,Furnace Oil,furnace oil,,Pakistan,operating,64.8,25.2,0.1119744,19.3,0.085758171,495,2.199497143,142,0.630966857
+FOP-5,Rousch Power Limited,30.569074,72.143899,Furnace Oil,gas,,Pakistan,operating,68.4,0.14,0.00065664,0.14,0.00065664,0.281,0.00131797,89,0.417435429
+FOP-21,Chiniot Power,31.611397,72.7607832,Furnace Oil,biofuel,,Pakistan,operating,10.8,155,0.114788571,133,0.098496,10.8,0.007998171,81,0.059986286
+FOP-17,Gulf Powergen,32.062449,74.2388696,Furnace Oil,furnace oil,,Pakistan,operating,14.4,25.2,0.0248832,19.3,0.019057371,495,0.488777143,142,0.140214857
+FOP-16,Reshma Power,31.246171,74.1778492,Furnace Oil,furnace oil,,Pakistan,operating,14.4,25.2,0.0248832,19.3,0.019057371,495,0.488777143,142,0.140214857
+FOP-4,Kohinoor Energy,31.2632,74.1874818,Furnace Oil,furnace oil,,Pakistan,operating,187.2,25.2,0.3234816,19.3,0.247745829,495,6.354102857,142,1.822793143
+FOI-12,Jamnagar Manufacturing Division,22.348056,69.868889,Furnace Oil,,Gujarat,India,announced,0,25.2,0,19.3,0,495,0,142,0
+FOI-17,Paradip Petrochemical Complex,20.266319,86.60404,Furnace Oil,,Odisha,India,announced,0,25.2,0,19.3,0,495,0,142,0
+FOI-23,Integrated refinery and petrochemicals complex,,,Furnace Oil,,,India,announced,0,25.2,0,19.3,0,495,0,142,0
