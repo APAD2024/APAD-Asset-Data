@@ -1,4 +1,0 @@
-1kt/yr→1.33MW
-MWh → MWd/24
-
-Pollution estimate = (((GJ*24)/0.35)*EF)/1,000,000) tonnes/day
