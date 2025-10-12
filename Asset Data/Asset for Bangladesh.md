@@ -1,8 +1,8 @@
 # Asset for Bangladesh
 
-This repository provides an overview to the listed assets in the workbook. Bangladesh is among the most polluted (especially air pollution) in the world. In the effort to determine some of the major assets and industries that contribute to the deterioration of the environment, APAD tries to establish a database along with the associated emission estimates. 
+This repository provides an overview to the listed assets in the workbook. Bangladesh is among the most polluted (especially air pollution) in the world. In an effort to determine some of the major assets and industries that contribute to the deterioration of the air quality, APAD is establishing a database along with the associated emission estimates at the 'asset-level'. 
 
-There are 6 major assets:
+There are 6 major assets currently in our database:
 
 1. Brick Kilns
 2. Coal Plants
