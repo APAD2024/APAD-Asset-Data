@@ -14,11 +14,11 @@ This document outlines the methodology for calculating air pollution emissions, 
 
 3. **Sulfur Dioxide $\ (SO_2)\$:**
    - Emissions per unit: $\ 7.20  \text{ g/KWh}\$
-   - Source: [US EPA - Emissions Inventory Conference](https://www3.epa.gov/ttnchie1/conference/ei20/session5/mmittal.pdf)
+   - Source: [US EPA - Emissions Inventory Conference]
 
 4. **Nitrogen Oxides $\ ((NO_x)\$:**
    - Emissions per unit: $\ 4.22 - 4.38 \text{ g/KWh}\$
-   - Source: [US EPA - Emissions Inventory Conference](https://www3.epa.gov/ttnchie1/conference/ei20/session5/mmittal.pdf)
+   - Source: [US EPA - Emissions Inventory Conference]
 
 **Calculation Methodology:**
 To estimate the total annual emissions of each pollutant, the following steps are taken:

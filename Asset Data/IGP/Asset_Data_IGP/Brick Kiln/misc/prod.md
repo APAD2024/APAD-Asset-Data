@@ -106,3 +106,5 @@ So, the emission rate \( ER \) is 0.0004 g/h.
 
 
 These values are based on the assumptions made and can be adjusted according to real data. If the actual flow rate of fuel gas, fuel consumption rate
+
+https://www.yumpu.com/en/document/read/8885092/brick-kilns-performance-assessment-a-roadmap-for-unep 
