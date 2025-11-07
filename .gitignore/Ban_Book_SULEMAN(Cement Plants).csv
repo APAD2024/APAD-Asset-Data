@@ -1,0 +1,33 @@
+id,name,lat,lon,type, fuel,region,country,status,capacity_tonnes,emfpm10, pm10,emfpm25, pm25,emfso2, so2 (t_yr),emfnox, nox (t_yr)
+CMB-1,Heidelberg Cement Bangladesh Ltd,23.71286,90.51543,grinding,,Dhaka Division,Bangladesh,operating,"472,000",69.2,0,22.4,0,0.0007695,363.204,0.000494,233.168
+CMB-2,LafargeHolcim Bangladesh Ltd,23.611005,90.613007,grinding,,Dhaka Division,Bangladesh,operating,"2,707,000",69.2,0,22.4,0,0.0007695,2083.0365,0.000494,1337.258
+CMB-3,LafargeHolcim Bangladesh Ltd,22.504972,89.589503,grinding,,Khulna Division,Bangladesh,operating,"2,000,00",69.2,0,22.4,0,0.0007695,#VALUE!,0.000494,#VALUE!
+CMB-4,Shun Shing Cement Mills Ltd,22.784672,89.581336,grinding,,Khulna Division,Bangladesh,operating,"1,500,000",69.2,0,22.4,0,0.0007695,1154.25,0.000494,741
+CMB-5,Mongla Cement Factory,22.515404,89.587142,grinding,,Khulna Division,Bangladesh,operating,"1,700,000",69.2,0,22.4,0,0.0007695,1308.15,0.000494,839.8
+CMB-6,"
+Crown Cement Factory Ltd.",23.576689,90.508382,grinding,,Dhaka Division,Bangladesh,operating,"4,620,000",69.2,0,22.4,0,0.0007695,3555.09,0.000494,2282.28
+CMB-7,"
+Elephant Brand Cement",22.517834,89.585596,grinding,,Khulna Division,Bangladesh,operating,,69.2,0,22.4,0,0.0007695,0,0.000494,0
+CMB-8,Scan Cement Factory,23.568501,90.520327,grinding,,Dhaka Division,Bangladesh,operating,"7,000,00",69.2,0,22.4,0,0.0007695,#VALUE!,0.000494,#VALUE!
+CMB-9,"
+Five Rings Cement Industries",22.503884,89.590302,grinding,,Khulna Division,Bangladesh,operating,,69.2,0,22.4,0,0.0007695,0,0.000494,0
+CMB-10,"
+Mongla Cement Factory (DUP in A6)",22.51778,89.585416,grinding,,Khulna Division,Bangladesh,operating,0,69.2,0,22.4,0,0.0007695,0,0.000494,0
+CMB-11,Anchor Cement Company,22.652466,90.345293,grinding,,Barisal Division,Bangladesh,operating,"1,460,000",69.2,0,22.4,0,0.0007695,1123.47,0.000494,721.24
+CMB-12,"
+Shah Cement",23.568618,90.524404,grinding,,Dhaka Division,Bangladesh,operating,"1,860,000",69.2,128712,22.4,41664,0.0007695,1431.27,0.000494,918.84
+CMB-13,Shah Cement (DUP in A13),23.571925,90.521455,grinding,,Dhaka Division,Bangladesh,operating,0,69.2,0,22.4,0,0.0007695,0,0.000494,0
+CMB-14,"
+Premier cement mills 3/4 point",23.578555,90.513202,grinding,,Dhaka Division,Bangladesh,operating,"2,400,000",69.2,166080,22.4,53760,0.0007695,1846.8,0.000494,1185.6
+CMB-15,"
+Anwar Cement Ltd.Plant",23.602161,90.624685,grinding,,Dhaka Division,Bangladesh,operating,"7,000,00",69.2,0,22.4,0,0.0007695,#VALUE!,0.000494,#VALUE!
+CMB-16,"
+Unique Cement Mills",23.609232,90.61001,grinding,,Dhaka Division,Bangladesh,operating,,69.2,0,22.4,0,0.0007695,0,0.000494,0
+CMB-17,N/A,24.127959,89.586911,grinding,,Rajshahi Division,Bangladesh,operating,,69.2,0,22.4,0,0.0007695,0,0.000494,0
+CMB-18,Aman Cement Mills Ltd.,24.290893,89.566546,grinding,,Rajshahi Division,Bangladesh,operating,"7,500,00",69.2,0,22.4,0,0.0007695,#VALUE!,0.000494,#VALUE!
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+CMB-1,https://heidelbergmaterialsbd.com/company-profile,"have we covered all three plants? A2, (22.279538, 91.795684),  A9. Only second one not covered",,,,,,,,,,,,,,,
+CMB-2,https://research.eblsecurities.com/Content/EBSLAdmin/images/ResearchReport/4/bb268544-f3c8-4c7e-85aa-fefc57a4bae815062023054549.pdf,"grey cement 2.707 million tonnes,clinker 1.311 million tonnes, aggregate0.757 million tonnes",,,,,,,,,,,,,,,
+CMB-3,,,,,,,,,,,,,,,,,
+CMB-4,https://ssgil.com/manufacturing/,"8.4 million tonnes from three plants (22.317574, 91.867925),  A5,  (23.934081, 90.613085) Only 1 in our sheet. First and third not covered, added their coords",,,,,,,,,,,,,,,
