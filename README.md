@@ -74,14 +74,12 @@ This folder contains subfolders for each asset type that contributes to pollutio
 - **Boilers**: Generates steam or hot water, emitting pollutants like PM, sulfur dioxide (SO2), and nitrogen oxides (NOx).
 - **Cement Plants**: Produces cement, releasing particulate matter (PM) and greenhouse gases like carbon dioxide (CO2).
 - **Steel Plants**: Produces steel, emitting pollutants like PM, carbon monoxide (CO), and VOCs.
-- **Marble and Granite Processing**: Releases particulate matter (PM) and other pollutants.
 - **Transport**: Contributes to air pollution through emissions from vehicles.
 - **Open Burning Sites**: Releases pollutants from waste burning.
 - **Coal Plants**: Emits pollutants like PM, SO2, and NOx.
 - **Oil Refineries**: Releases pollutants like PM, SO2, and NOx.
 - **Gas Processing**: Emits methane (CH4) and other pollutants.
 - **Pulp and Paper Mills**: Produces pulp and paper, emitting PM, SO2, and VOCs.
-
 ---
 
 ## **Asset Data CSVs**
