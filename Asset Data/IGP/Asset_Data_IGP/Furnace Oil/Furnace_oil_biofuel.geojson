@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Furnace_oil_biofuel",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": "FOP-21", "name": "Chiniot Power", "lat": 31.611397, "lon": 72.7607832, "type": "Furnace Oil", "fuel": "biofuel", "state": null, "country": "Pakistan", "status": "operating", "capacity_power": 62, "units": "MW", "capacity_factor": 0.463, "fuel_volume": 18907109.77, "unit": "m3/year", "emfpm10": 1.22e-07, "pm10_t_yr": 0.11533337, "emfpm25": 1.222e-07, "pm25_t_yr": 0.115522441, "emfso2": 9.6e-09, "so2_t_yr": 0.009075413, "emfnox": 1.6e-06, "nox_t_yr": 3.025137564, "emfco": 1.34e-06, "co_t_yr": 1.266776355 }, "geometry": { "type": "Point", "coordinates": [ 72.7607832, 31.611397 ] } }
+]
+}
