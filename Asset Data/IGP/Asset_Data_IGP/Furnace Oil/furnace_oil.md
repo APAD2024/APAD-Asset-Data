@@ -18,7 +18,7 @@ The goal is to provide **consistent, traceable pollutant EFs** for emissions mod
 
 ## 2. Furnace Oil Emission Factors (g/L)
 
-### Source: **EPA AP-42, Chapter 1.3: Fuel Oil Combustion**  
+Source: **EPA AP-42, Chapter 1.3: Fuel Oil Combustion**  
 https://www.epa.gov/sites/default/files/2020-09/documents/1.3_fuel_oil_combustion.pdf
 
 Using South Asian furnace oil with **Sulfur = 3.5%**, the PM factor from AP-42:
@@ -43,7 +43,7 @@ Converted to **g/L**, the furnace oil EFs used are:
 
 ## 3. Natural Gas Emission Factors (g/m³)
 
-### Source: **EPA AP-42, Chapter 1.4: Natural Gas Combustion**  
+Source: **EPA AP-42, Chapter 1.4: Natural Gas Combustion**  
 https://www3.epa.gov/ttn/chief/ap42/ch01/final/c01s04.pdf
 
 The EPA provides gas EFs in **lb per 10⁶ scf**.  
@@ -77,7 +77,7 @@ Final EFs for natural gas (uncontrolled small boiler):
 
 ---
 
-# 6. How to Apply These EFs
+## 6. How to Apply These EFs
 
 ### Furnace oil:
 ```
@@ -93,7 +93,7 @@ Fuel consumption must match EF units.
 
 ---
 
-# 📚 References
+## References
 
 1. **EPA AP-42, Chapter 1.3 – Fuel Oil Combustion**  
    https://www.epa.gov/sites/default/files/2020-09/documents/1.3_fuel_oil_combustion.pdf  
