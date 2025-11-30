@@ -1,2 +1,0 @@
-source_id,source_name,iso3_country,sector,subsector,lat,lon,geometry_ref,relationship,ultimate_parent_name,ultimate_parent_id,percent_interest_parent,company_name,company_id,percent_interest_company,interest_units,start_date,end_date,created_date,modified_date,percent_company_datasource,percent_parent_datasource
-25487569,Awaso Mine,GHA,mineral-extraction,bauxite-mining,6.235453,-2.284068,trace_-2.284068_6.235453,owner,Ghana Bauxite,100001012602,100,Ghana Bauxite,100001012602,100,bauxite_reserves,2022-01-01 00:00:00,2022-12-31 00:00:00,2023-11-29 22:49:35.190069,,,{7061}
