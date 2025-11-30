@@ -1,2 +1,0 @@
-source_id,source_name,iso3_country,sector,subsector,lat,lon,geometry_ref,relationship,ultimate_parent_name,ultimate_parent_id,percent_interest_parent,company_name,company_id,percent_interest_company,interest_units,start_date,end_date,created_date,modified_date,percent_company_datasource,percent_parent_datasource
-18657198,Hima cement plant,UGA,manufacturing,cement,0.291484,30.181853,trace_30.181853_0.291484,owner,Hima Cement,100001014006,100,Hima Cement,100001014006,100,real_property_cement-plant,2022-01-01 00:00:00,2022-12-31 00:00:00,2023-11-29 22:49:36.147672,,,{7061}
