@@ -1,4 +1,4 @@
-id,name,lat,lon,type, fuel,region,country,status,capacity_tonnes,emfpm10, pm10_t_yr,emfpm25,pm25_t_yr,emfso2,�so2_t_yr,emfnox,nox_t_yr,source
+id,name,lat,lon,type, fuel,region,country,status,capacity_tonnes,emfpm10, pm10_t_yr,emfpm25,pm25_t_yr,emfso2,so2_t_yr,emfnox,nox_t_yr,source
 CMC-1,,-4.593023,12.048903,Integrated,,Kouilou,Congo,Operating,,,,,,,,,,
 CMC-2,Mindouli Cement Plant,-4.242355723,14.36285391,Integrated,,Pool,Congo,Operating,59289.61749,0.0002223,6.721841804,0.0001235,3.734356558,0.0007695,23.26791394,0.000494,14.93742623,https://climatetrace.org/data
 CMC-3,SONOCC Madingou Cement Plant,-4.289766016,13.85754004,Integrated,,Bouenza,Congo,Operating,25409.83607,0.0002223,0.971883105,0.0001235,0.539935059,0.0007695,3.364210749,0.000494,2.159740234,https://climatetrace.org/data
@@ -35,6 +35,3 @@ CMD-33,PPC Barnet Kimpese Cement Plant,-5.539104707,14.33594999,Integrated,,Kong
 CMD-34,Kabimba Cement Plant,-5.556851306,29.33906789,Integrated,,Volta Region,Democratic Republic of the Congo,Operating,127049.1803,0.0002223,4.897375153,0.0001235,2.720763974,0.0007695,16.95245245,0.000494,10.88305589,https://climatetrace.org/data
 CMD-35,CimenKat Lubudi Cement Plant,-9.942315579,25.9606444,Integrated,,Katanga,Democratic Republic of the Congo,Operating,7368.852459,0.0002223,0.83542891,0.0001235,0.464127172,0.0007695,2.891869303,0.000494,1.856508688,https://climatetrace.org/data
 CMD-36,Nyumba Ya Akiba Cement Plant,-5.6312085,14.20497095,Integrated,,Kwilu,Democratic Republic of the Congo,,110109.2896,0.0002223,4.244391797,0.0001235,2.357995443,0.0007695,14.69212545,0.000494,9.431981772,https://climatetrace.org/data
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
