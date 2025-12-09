@@ -1,9 +1,9 @@
 ﻿id,name,lat,lon,type, fuel,region,country,status,capacities,capacity_power,prod_kw,emfpm10, pm10_t_yr,emfpm25,pm25_t_yr,emfso2,so2_t_yr,emfnox,nox_t_yr,source
-CN-1,Gboko Cement power station,7.411,8.974,,coal,Benue,Nigeria,operating,38,38,,,,,,,,,,
-CN-2,Ibese Cement power station,7.004,3.048,,coal,Ogun,Nigeria,operating,"37,37,37",111,,,,,,,,,,
-CN-3,Okpella Cement power station,7.344217,6.462388,,coal,Kogi,Nigeria,operating,"30,30",60,,,,,,,,,,
-CN-4,Obajana Cement power station,7.926,6.423,,coal,Kogi,Nigeria,operating,"45,45,45",135,,,,,,,,,,
-CN-5,Ugboba power station,6.181722,5.19718,,lignite,Delta,Nigeria,construction,,600,,,,,,,,,,
+CN-1,Gboko Cement power station,7.411,8.974,,coal,Benue,Nigeria,operating,38.5,38,,,,,,,,,,GEM
+CN-2,Ibese Cement power station,7.004,3.048,,coal,Ogun,Nigeria,operating,"37,37,37",111,,,,,,,,,,GEM
+CN-3,Okpella Cement power station,7.344217,6.462388,,coal,Edo,Nigeria,operating,"30,30",60,,,,,,,,,,GEM
+CN-4,Obajana Cement power station,7.926,6.423,,coal,Kogi,Nigeria,operating,"45,45,45",135,,,,,,,,,,GEM
+CN-5,Ugboba power station,6.421924,6.460065,,lignite,Delta,Nigeria,permitted,600,600,,,,,,,,,,GEM
 CN-6,Egbin Thermal Power Station,6.5661818,3.5946767,,,,Nigeria,,,,,,,,,,,,,
 CN-7,NIPP Gbarain-Ubie Power Station,5.0310479,6.3015074,,,,Nigeria,,,,,,,,,,,,,
 CN-8,Azura Edo IPP,6.4110031,5.6803898,,,,Nigeria,,,,,,,,,,,,,
@@ -15,6 +15,8 @@ CN-13,National Integrated Power Project,6.5859319,3.5231689,,,,Nigeria,,,,,,,,,,
 CN-14,Shiroro Power Station,9.9731206,6.8343434,,,,Nigeria,,,,,,,,,,,,,
 CN-15,African Natural Resources & Mines Limited,9.4624814,7.3679633,,,,Nigeria,,,,,,,,,,,,,
 CN-16,Ethiope Energy Ltd,4.8248095,7.0389116,,,,Nigeria,,,,,,,,,,,,,
+CN-17,Resident Cement Gwana power station,9.630984,10.818145,,unknown,Bauchi,Nigeria,announced,100,100,,,,,,,,,,GEM
+CN-18,DANGOTE BENUE CEMENT,7.4108,8.9739,,,,Nigeria,operating,43.9,43.9,,,,,,,,,,Climate Trace
 CU-1,Mubuku I Hydroelectric Power Station,0.3183067,30.1003841,,,,Uganda,,,,,,,,,,,,,
 CU-2,Mpanga Power Station,0.0664008,30.3213429,,,,Uganda,,,,,,,,,,,,,
 CU-3,Bugoye Hydroelectric Power Station,0.30536,30.0979116,,,,Uganda,,,,,,,,,,,,,
@@ -51,5 +53,5 @@ CG-13,Nuclear Power Ghana,5.6126157,-0.1808765,,,,Ghana,,,,,,,,,,,,,
 CG-14,Bridge Power Project,5.6773749,0.0184963,,,,Ghana,,,,,,,,,,,,,
 CG-15,Gomoa Onyaadze Solar Power Station,5.3460915,-0.7034052,,,,Ghana,,,,,,,,,,,,,
 CG-16,Nzema Solar Power Station,5.0462465,-2.4376759,,,,Ghana,,,,,,,,,,,,,
-CS-1,Gallen Cement power station,14.796229,-17.039687,,,Dakar,Senegal,operating,30,,,,,,,,,,,
-CS-2,Sendou power station,14.686988,-17.213926,,,Dakar,Senegal,operating,125,,,,,,,,,,,
+CS-1,Gallen Cement power station,14.796229,-17.039687,,unknown,Dakar,Senegal,operating,30,,,,,,,,,,,GEM
+CS-2,Sendou power station,14.686988,-17.213926,,unknown,Dakar,Senegal,operating,125,,,,,,,,,,,GEM
