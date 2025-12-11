@@ -27,17 +27,16 @@ This dataset offers vital insights into one of South Asia’s largest unregulate
 
 This dataset provides:
 
-✔ Geolocation of brick kilns (EPSG:4326, WGS 84)
-✔ Emissions for PM₁₀, PM₂.₅, SO₂, NOₓ
-✔ 1 km exposure analysis for sensitive sites
+* Geolocation of brick kilns (EPSG:4326, WGS 84)
+* Emissions for PM₁₀, PM₂.₅, SO₂, NOₓ
+* 1 km exposure analysis for sensitive sites
 
 The dataset supports the findings published in:
 
 ### *Nature Scientific Data (2025)*
 
 **Hamdani, M.S.A., Zakir, K., Kushwaha, N. et al.**
-*Brick Kiln Dataset for Pakistan’s IGP Region Using AI.*
-🔗 [https://doi.org/10.1038/s41597-025-05148-9](https://doi.org/10.1038/s41597-025-05148-9)
+*Brick Kiln Dataset for Pakistan’s IGP Region Using AI.*[https://doi.org/10.1038/s41597-025-05148-9](https://doi.org/10.1038/s41597-025-05148-9)
 
 ### Zenodo Dataset (Open Access)
 
@@ -49,22 +48,21 @@ The dataset supports the findings published in:
 
 Explore the data interactively through our dashboard:
 
-[APAD Dashboard]([https://apad.world/dashboard])
+[APAD Dashboard](https://apad.world/dashboard)
 ---
 
 # **Brick Production Calculation**
 
-Updated table (all values in *tonnes*):
-
-| **Metric**        | **Pakistan (PAK)** | **India (IND)** | **Bangladesh (BAN)** |
-| ----------------- | ------------------ | --------------- | -------------------- |
-| Annual Production | 45B                | 250B            | 15B                  |
-| Estimated Kilns   | ~18,000            | ~1,000,000      | ~5,000               |
-| Kilns Identified  | 11,272             | 34,466          | 4,760                |
-| Daily Output      | 36.204 t           | 34.905 t        | 41.334 t             |
-| Operational Days  | 215                | 215             | 215                  |
-| Seasonal Output   | **7,783 t**        | **7,505 t**     | **8,897 t**          |
-
+| **Metric**                               | **Pakistan (PAK)** | **India (IND)**   | **Bangladesh (BAN)** |
+| ---------------------------------------- | ------------------ | ----------------- | -------------------- |
+| **Annual Production (national)**         | 45B bricks         | 250B bricks       | 15B bricks           |
+| **Estimated Total Kilns**                | ~18,000            | ~1,000,000        | ~5,000               |
+| **Kilns Identified in Dataset**          | 11,272             | 34,466            | 4,760                |
+| **Annual Production (identified kilns)** | 28.18B             | 8.617B            | 14.28B               |
+| **Daily Production per Kiln**            | 11,625 bricks/day  | 11,635 bricks/day | 13,778 bricks/day    |
+| **Daily Brick Weight**                   | 36.204 tonnes      | 34.905 tonnes     | 41.334 tonnes        |
+| **Operational Days**                     | 215                | 215               | 215                  |
+| **Seasonal Weight Output per Kiln**      | **7,783 tonnes**   | **7,505 tonnes**  | **8,897 tonnes**     |
 ---
 
 # **File Structure**
