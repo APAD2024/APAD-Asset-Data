@@ -12,10 +12,8 @@ This dataset offers vital insights into one of South Asia’s largest unregulate
 # **Table of Contents**
 
 1. [Overview](#overview)
-2. [Dashboard](#dashboard)
 3. [Brick Production Calculation](#brick-production-calculation)
 4. [File Structure](#file-structure)
-5. [Interactive Map](#interactive-map)
 6. [Funding Sources](#funding-sources)
 7. [Acknowledgments](#special-gratitude)
 8. [Distribution Density](#distribution-density)
@@ -42,16 +40,13 @@ The dataset supports the findings published in:
 
 🔗 [https://doi.org/10.5281/zenodo.17897579](https://doi.org/10.5281/zenodo.17897579)
 
+**Dashboard**
+
+Explore the data interactively through our dashboard: [APAD Dashboard](https://apad.world/dashboard)
+
 ---
 
-# **Dashboard**
-
-Explore the data interactively through our dashboard:
-
-[APAD Dashboard](https://apad.world/dashboard)
----
-
-# **Brick Production Calculation**
+## **Brick Production Calculation**
 
 | **Metric**                               | **Pakistan (PAK)** | **India (IND)**   | **Bangladesh (BAN)** |
 | ---------------------------------------- | ------------------ | ----------------- | -------------------- |
@@ -63,15 +58,16 @@ Explore the data interactively through our dashboard:
 | **Daily Brick Weight**                   | 36.204 tonnes      | 34.905 tonnes     | 41.334 tonnes        |
 | **Operational Days**                     | 215                | 215               | 215                  |
 | **Seasonal Weight Output per Kiln**      | **7,783 tonnes**   | **7,505 tonnes**  | **8,897 tonnes**     |
+
 ---
 
-# **File Structure**
+## **File Structure**
 
-## **Available Formats**
+### **Available Formats**
 
-✔ `.csv`
-✔ `.geojson`
-✔ `.xlsx`
+* `.csv`
+* `.geojson`
+* `.xlsx`
 
 ---
 
@@ -122,7 +118,7 @@ Full point-set (FPS) datasets:
 
 ---
 
-# **Funding Sources**
+## **Funding Sources**
 
 This work was supported by:
 
@@ -131,7 +127,7 @@ This work was supported by:
 
 ---
 
-# **Special Gratitude**
+### **Special Gratitude**
 
 Special thanks to **@DozBoyd** and the UNDP GeoAI initiative for providing India-wide foundational kiln datasets.
 
@@ -139,14 +135,14 @@ Dataset: [https://geo-ai.undp.org.in/](https://geo-ai.undp.org.in/)
 
 ---
 
-# **Distribution Density**
+## **Distribution Density**
 
 ![Brick Kiln Density Map](all.png)
 ![Proximity Map](proximity_final.png)
 
 ---
 
-# **Citation**
+## **Citation**
 
 If you use this repository:
 
