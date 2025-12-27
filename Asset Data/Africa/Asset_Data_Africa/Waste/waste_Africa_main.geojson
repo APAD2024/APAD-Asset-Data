@@ -1,0 +1,2680 @@
+{
+  "type": "FeatureCollection",
+  "name": "Waste_Africa",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "WAK-1",
+        "name": "Kibarani Dumpsite",
+        "type": null,
+        "fuel": null,
+        "region": "Mombasa County",
+        "country": "Kenya",
+        "status": null,
+        "capacity_tonnes": 96747.96748,
+        "emfpm10": null,
+        "pm10_t_yr": null,
+        "emfpm25": null,
+        "pm25_t_yr": null,
+        "emfso2": null,
+        "so2_t_yr": null,
+        "emfnox": null,
+        "nox_t_yr": null,
+        "source": "https://climatetrace.org/data"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.64823736,
+          -4.033321787
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "WAK-2",
+        "name": "Dandora Municipal Dumping Site",
+        "type": null,
+        "fuel": null,
+        "region": "Nairobi County",
+        "country": "Kenya",
+        "status": null,
+        "capacity_tonnes": 530898.8764,
+        "emfpm10": null,
+        "pm10_t_yr": null,
+        "emfpm25": null,
+        "pm25_t_yr": null,
+        "emfso2": null,
+        "so2_t_yr": null,
+        "emfnox": null,
+        "nox_t_yr": null,
+        "source": "https://climatetrace.org/data"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.89538138,
+          -1.24926569
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "WAK-3",
+        "name": "Ngong",
+        "type": null,
+        "fuel": null,
+        "region": "Kajiado County",
+        "country": "Kenya",
+        "status": null,
+        "capacity_tonnes": 20647.11916,
+        "emfpm10": null,
+        "pm10_t_yr": null,
+        "emfpm25": null,
+        "pm25_t_yr": null,
+        "emfso2": null,
+        "so2_t_yr": null,
+        "emfnox": null,
+        "nox_t_yr": null,
+        "source": "https://climatetrace.org/data"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.66010319,
+          -1.362637722
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "WAC-1",
+        "name": "Openstreetmap Landfill",
+        "type": null,
+        "fuel": null,
+        "region": "Lualaba",
+        "country": "Democratic Republic of the Congo",
+        "status": null,
+        "capacity_tonnes": 19282.91516,
+        "emfpm10": null,
+        "pm10_t_yr": null,
+        "emfpm25": null,
+        "pm25_t_yr": null,
+        "emfso2": null,
+        "so2_t_yr": null,
+        "emfnox": null,
+        "nox_t_yr": null,
+        "source": "https://climatetrace.org/data"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.8975535,
+          -10.62145155
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "WAC-2",
+        "name": "Openstreetmap Landfill",
+        "type": null,
+        "fuel": null,
+        "region": "Lualaba",
+        "country": "Democratic Republic of the Congo",
+        "status": null,
+        "capacity_tonnes": 27992.79693,
+        "emfpm10": null,
+        "pm10_t_yr": null,
+        "emfpm25": null,
+        "pm25_t_yr": null,
+        "emfso2": null,
+        "so2_t_yr": null,
+        "emfnox": null,
+        "nox_t_yr": null,
+        "source": "https://climatetrace.org/data"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.88029814,
+          -10.6102976
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "WAC-3",
+        "name": "Openstreetmap Landfill",
+        "type": null,
+        "fuel": null,
+        "region": "Lualaba",
+        "country": "Democratic Republic of the Congo",
+        "status": null,
+        "capacity_tonnes": 1439304.178,
+        "emfpm10": null,
+        "pm10_t_yr": null,
+        "emfpm25": null,
+        "pm25_t_yr": null,
+        "emfso2": null,
+        "so2_t_yr": null,
+        "emfnox": null,
+        "nox_t_yr": null,
+        "source": "https://climatetrace.org/data"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.35211518,
+          -10.74004223
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "WAC-4",
+        "name": "Mpasa Landfill",
+        "type": null,
+        "fuel": null,
+        "region": "Kinshasa",
+        "country": "Democratic Republic of the Congo",
+        "status": null,
+        "capacity_tonnes": 2000000.0,
+        "emfpm10": null,
+        "pm10_t_yr": null,
+        "emfpm25": null,
+        "pm25_t_yr": null,
+        "emfso2": null,
+        "so2_t_yr": null,
+        "emfnox": null,
+        "nox_t_yr": null,
+        "source": "https://climatetrace.org/data"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.53816557,
+          -4.367154374
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "WAC-5",
+        "name": "Openstreetmap Landfill",
+        "type": null,
+        "fuel": null,
+        "region": "Lualaba",
+        "country": "Democratic Republic of the Congo",
+        "status": null,
+        "capacity_tonnes": 87123.70097,
+        "emfpm10": null,
+        "pm10_t_yr": null,
+        "emfpm25": null,
+        "pm25_t_yr": null,
+        "emfso2": null,
+        "so2_t_yr": null,
+        "emfnox": null,
+        "nox_t_yr": null,
+        "source": "https://climatetrace.org/data"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.90427614,
+          -10.66622894
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "WAC-6",
+        "name": "Openstreetmap Landfill",
+        "type": null,
+        "fuel": null,
+        "region": "Lualaba",
+        "country": "Democratic Republic of the Congo",
+        "status": null,
+        "capacity_tonnes": 289092.0407,
+        "emfpm10": null,
+        "pm10_t_yr": null,
+        "emfpm25": null,
+        "pm25_t_yr": null,
+        "emfso2": null,
+        "so2_t_yr": null,
+        "emfnox": null,
+        "nox_t_yr": null,
+        "source": "https://climatetrace.org/data"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.18354631,
+          -10.56428281
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "WAG-1",
+        "name": "Esn 1885Rl Waste Dump",
+        "type": null,
+        "fuel": null,
+        "region": "Central Region",
+        "country": "Ghana",
+        "status": null,
+        "capacity_tonnes": 73272.14645,
+        "emfpm10": null,
+        "pm10_t_yr": null,
+        "emfpm25": null,
+        "pm25_t_yr": null,
+        "emfso2": null,
+        "so2_t_yr": null,
+        "emfnox": null,
+        "nox_t_yr": null,
+        "source": "https://climatetrace.org/data"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.884119751,
+          5.968462116
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "WAG-2",
+        "name": "Openstreetmap Landfill",
+        "type": null,
+        "fuel": null,
+        "region": "Greater Accra Region",
+        "country": "Ghana",
+        "status": null,
+        "capacity_tonnes": 52780.15691,
+        "emfpm10": null,
+        "pm10_t_yr": null,
+        "emfpm25": null,
+        "pm25_t_yr": null,
+        "emfso2": null,
+        "so2_t_yr": null,
+        "emfnox": null,
+        "nox_t_yr": null,
+        "source": "https://climatetrace.org/data"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.322183021,
+          5.677239748
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "WAG-3",
+        "name": "Kpone Landfil",
+        "type": null,
+        "fuel": null,
+        "region": "Greater Accra Region",
+        "country": "Ghana",
+        "status": null,
+        "capacity_tonnes": 137129.4647,
+        "emfpm10": null,
+        "pm10_t_yr": null,
+        "emfpm25": null,
+        "pm25_t_yr": null,
+        "emfso2": null,
+        "so2_t_yr": null,
+        "emfnox": null,
+        "nox_t_yr": null,
+        "source": "https://climatetrace.org/data"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.02865274,
+          5.703607863
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "WAG-4",
+        "name": "Fertilizer",
+        "type": null,
+        "fuel": null,
+        "region": "Greater Accra Region",
+        "country": "Ghana",
+        "status": null,
+        "capacity_tonnes": 82777.15601,
+        "emfpm10": null,
+        "pm10_t_yr": null,
+        "emfpm25": null,
+        "pm25_t_yr": null,
+        "emfso2": null,
+        "so2_t_yr": null,
+        "emfnox": null,
+        "nox_t_yr": null,
+        "source": "https://climatetrace.org/data"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.099944886,
+          5.610732117
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "WAG-5",
+        "name": "Chn View Point Waste Dump",
+        "type": null,
+        "fuel": null,
+        "region": "Central Region",
+        "country": "Ghana",
+        "status": null,
+        "capacity_tonnes": 22219.66381,
+        "emfpm10": null,
+        "pm10_t_yr": null,
+        "emfpm25": null,
+        "pm25_t_yr": null,
+        "emfso2": null,
+        "so2_t_yr": null,
+        "emfnox": null,
+        "nox_t_yr": null,
+        "source": "https://climatetrace.org/data"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.892038823,
+          5.942780779
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "WAG-6",
+        "name": "Ayidan Landfil Site",
+        "type": null,
+        "fuel": null,
+        "region": "Greater Accra Region",
+        "country": "Ghana",
+        "status": null,
+        "capacity_tonnes": 261825.6284,
+        "emfpm10": null,
+        "pm10_t_yr": null,
+        "emfpm25": null,
+        "pm25_t_yr": null,
+        "emfso2": null,
+        "so2_t_yr": null,
+        "emfnox": null,
+        "nox_t_yr": null,
+        "source": "https://climatetrace.org/data"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.422512083,
+          5.765430647
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "WAG-7",
+        "name": "Agbogbloshie",
+        "type": null,
+        "fuel": null,
+        "region": "Greater Accra Region",
+        "country": "Ghana",
+        "status": null,
+        "capacity_tonnes": 106250.0,
+        "emfpm10": null,
+        "pm10_t_yr": null,
+        "emfpm25": null,
+        "pm25_t_yr": null,
+        "emfso2": null,
+        "so2_t_yr": null,
+        "emfnox": null,
+        "nox_t_yr": null,
+        "source": "https://climatetrace.org/data"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.227229314,
+          5.553955695
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "WAG-8",
+        "name": "Aboso Landfill",
+        "type": null,
+        "fuel": null,
+        "region": "Western Region",
+        "country": "Ghana",
+        "status": null,
+        "capacity_tonnes": 40546.69657,
+        "emfpm10": null,
+        "pm10_t_yr": null,
+        "emfpm25": null,
+        "pm25_t_yr": null,
+        "emfso2": null,
+        "so2_t_yr": null,
+        "emfnox": null,
+        "nox_t_yr": null,
+        "source": "https://climatetrace.org/data"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.928199929,
+          5.361326837
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "WAG-9",
+        "name": "Openstreetmap Landfill",
+        "type": null,
+        "fuel": null,
+        "region": "Eastern Region",
+        "country": "Ghana",
+        "status": null,
+        "capacity_tonnes": 15101.95406,
+        "emfpm10": null,
+        "pm10_t_yr": null,
+        "emfpm25": null,
+        "pm25_t_yr": null,
+        "emfso2": null,
+        "so2_t_yr": null,
+        "emfnox": null,
+        "nox_t_yr": null,
+        "source": "https://climatetrace.org/data"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.346962994,
+          5.783664019
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "WAG-10",
+        "name": "Winneba Landfill Site",
+        "type": null,
+        "fuel": null,
+        "region": "Central Region",
+        "country": "Ghana",
+        "status": null,
+        "capacity_tonnes": 14420.44063,
+        "emfpm10": null,
+        "pm10_t_yr": null,
+        "emfpm25": null,
+        "pm25_t_yr": null,
+        "emfso2": null,
+        "so2_t_yr": null,
+        "emfnox": null,
+        "nox_t_yr": null,
+        "source": "https://climatetrace.org/data"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.608778825,
+          5.361738942
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "WAN-1",
+        "name": "Sango-Otta, Ado Odo/Ota, Ogun",
+        "type": null,
+        "fuel": null,
+        "region": "Ogun State",
+        "country": "Nigeria",
+        "status": null,
+        "capacity_tonnes": 2717.517813,
+        "emfpm10": null,
+        "pm10_t_yr": null,
+        "emfpm25": null,
+        "pm25_t_yr": null,
+        "emfso2": null,
+        "so2_t_yr": null,
+        "emfnox": null,
+        "nox_t_yr": null,
+        "source": "https://climatetrace.org/data"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.250609234,
+          6.716810775
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "WAN-2",
+        "name": "Nnewi, Nnewi North, Anambra",
+        "type": null,
+        "fuel": null,
+        "region": "Anambra State",
+        "country": "Nigeria",
+        "status": null,
+        "capacity_tonnes": 4086.019389,
+        "emfpm10": null,
+        "pm10_t_yr": null,
+        "emfpm25": null,
+        "pm25_t_yr": null,
+        "emfso2": null,
+        "so2_t_yr": null,
+        "emfnox": null,
+        "nox_t_yr": null,
+        "source": "https://climatetrace.org/data"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.906870952,
+          6.012197084
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "WAN-3",
+        "name": "Alaba Taiwo St, Akinde, Ifako/Ijaye",
+        "type": null,
+        "fuel": null,
+        "region": "Lagos State",
+        "country": "Nigeria",
+        "status": null,
+        "capacity_tonnes": 1324.34598,
+        "emfpm10": null,
+        "pm10_t_yr": null,
+        "emfpm25": null,
+        "pm25_t_yr": null,
+        "emfso2": null,
+        "so2_t_yr": null,
+        "emfnox": null,
+        "nox_t_yr": null,
+        "source": "https://climatetrace.org/data"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.279921406,
+          6.678089758
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "WAN-4",
+        "name": "Igbede, Ojo, Lagos",
+        "type": null,
+        "fuel": null,
+        "region": "Lagos State",
+        "country": "Nigeria",
+        "status": null,
+        "capacity_tonnes": 6020.996368,
+        "emfpm10": null,
+        "pm10_t_yr": null,
+        "emfpm25": null,
+        "pm25_t_yr": null,
+        "emfso2": null,
+        "so2_t_yr": null,
+        "emfnox": null,
+        "nox_t_yr": null,
+        "source": "https://climatetrace.org/data"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.164584736,
+          6.456413947
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "WAN-5",
+        "name": "Obio/Akpor, Rivers, Nigeria",
+        "type": null,
+        "fuel": null,
+        "region": "Rivers State",
+        "country": "Nigeria",
+        "status": null,
+        "capacity_tonnes": 9473.091393,
+        "emfpm10": null,
+        "pm10_t_yr": null,
+        "emfpm25": null,
+        "pm25_t_yr": null,
+        "emfso2": null,
+        "so2_t_yr": null,
+        "emfnox": null,
+        "nox_t_yr": null,
+        "source": "https://climatetrace.org/data"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.964023349,
+          4.935263591
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "WAN-6",
+        "name": "Asipa, Ewekoro, Ogun",
+        "type": null,
+        "fuel": null,
+        "region": "Ogun State",
+        "country": "Nigeria",
+        "status": null,
+        "capacity_tonnes": 1203.45397,
+        "emfpm10": null,
+        "pm10_t_yr": null,
+        "emfpm25": null,
+        "pm25_t_yr": null,
+        "emfso2": null,
+        "so2_t_yr": null,
+        "emfnox": null,
+        "nox_t_yr": null,
+        "source": "https://climatetrace.org/data"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.261152087,
+          7.052666322
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "WAN-7",
+        "name": "Owerri, Owerri Municipal, Imo",
+        "type": null,
+        "fuel": null,
+        "region": "Imo State",
+        "country": "Nigeria",
+        "status": null,
+        "capacity_tonnes": 4810.378282,
+        "emfpm10": null,
+        "pm10_t_yr": null,
+        "emfpm25": null,
+        "pm25_t_yr": null,
+        "emfso2": null,
+        "so2_t_yr": null,
+        "emfnox": null,
+        "nox_t_yr": null,
+        "source": "https://climatetrace.org/data"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.036188455,
+          5.464762718
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "WAN-8",
+        "name": "Alh. Mukaila Str, Ikotun, Alimosho",
+        "type": null,
+        "fuel": null,
+        "region": "Lagos State",
+        "country": "Nigeria",
+        "status": null,
+        "capacity_tonnes": 5362.685053,
+        "emfpm10": null,
+        "pm10_t_yr": null,
+        "emfpm25": null,
+        "pm25_t_yr": null,
+        "emfso2": null,
+        "so2_t_yr": null,
+        "emfnox": null,
+        "nox_t_yr": null,
+        "source": "https://climatetrace.org/data"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.271276689,
+          6.537040705
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "WAN-9",
+        "name": "Oshodi/Isolo, Lagos, 100263",
+        "type": null,
+        "fuel": null,
+        "region": "Lagos State",
+        "country": "Nigeria",
+        "status": null,
+        "capacity_tonnes": 4395.599647,
+        "emfpm10": null,
+        "pm10_t_yr": null,
+        "emfpm25": null,
+        "pm25_t_yr": null,
+        "emfso2": null,
+        "so2_t_yr": null,
+        "emfnox": null,
+        "nox_t_yr": null,
+        "source": "https://climatetrace.org/data"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.287573765,
+          6.555614245
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "WAN-10",
+        "name": "Agboju, Amuwo Odofin, Lagos",
+        "type": null,
+        "fuel": null,
+        "region": "Lagos State",
+        "country": "Nigeria",
+        "status": null,
+        "capacity_tonnes": 17381.36973,
+        "emfpm10": null,
+        "pm10_t_yr": null,
+        "emfpm25": null,
+        "pm25_t_yr": null,
+        "emfso2": null,
+        "so2_t_yr": null,
+        "emfnox": null,
+        "nox_t_yr": null,
+        "source": "https://climatetrace.org/data"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.283417717,
+          6.460182309
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "WAN-11",
+        "name": "Igando Oloja, Ibeju Lekki, Lagos",
+        "type": null,
+        "fuel": null,
+        "region": "Lagos State",
+        "country": "Nigeria",
+        "status": null,
+        "capacity_tonnes": 1416.419573,
+        "emfpm10": null,
+        "pm10_t_yr": null,
+        "emfpm25": null,
+        "pm25_t_yr": null,
+        "emfso2": null,
+        "so2_t_yr": null,
+        "emfnox": null,
+        "nox_t_yr": null,
+        "source": "https://climatetrace.org/data"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.788996346,
+          6.470683891
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "WAN-12",
+        "name": "Shagamu, Ogun, 121006",
+        "type": null,
+        "fuel": null,
+        "region": "Ogun State",
+        "country": "Nigeria",
+        "status": null,
+        "capacity_tonnes": 2468.971853,
+        "emfpm10": null,
+        "pm10_t_yr": null,
+        "emfpm25": null,
+        "pm25_t_yr": null,
+        "emfso2": null,
+        "so2_t_yr": null,
+        "emfnox": null,
+        "nox_t_yr": null,
+        "source": "https://climatetrace.org/data"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.455876362,
+          6.73592579
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "WAN-13",
+        "name": "Oke Eri Street, Oworonṣoki, Kosofe",
+        "type": null,
+        "fuel": null,
+        "region": "Lagos State",
+        "country": "Nigeria",
+        "status": null,
+        "capacity_tonnes": 18506.58714,
+        "emfpm10": null,
+        "pm10_t_yr": null,
+        "emfpm25": null,
+        "pm25_t_yr": null,
+        "emfso2": null,
+        "so2_t_yr": null,
+        "emfnox": null,
+        "nox_t_yr": null,
+        "source": "https://climatetrace.org/data"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.405641329,
+          6.554022277
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "WAN-14",
+        "name": "Ikorodu, Lagos, 104213",
+        "type": null,
+        "fuel": null,
+        "region": "Lagos State",
+        "country": "Nigeria",
+        "status": null,
+        "capacity_tonnes": 11375.51657,
+        "emfpm10": null,
+        "pm10_t_yr": null,
+        "emfpm25": null,
+        "pm25_t_yr": null,
+        "emfso2": null,
+        "so2_t_yr": null,
+        "emfnox": null,
+        "nox_t_yr": null,
+        "source": "https://climatetrace.org/data"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.484988863,
+          6.642691281
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "WAN-15",
+        "name": "Ugbenuowhorun, Uvwie, Delta",
+        "type": null,
+        "fuel": null,
+        "region": "Delta State",
+        "country": "Nigeria",
+        "status": null,
+        "capacity_tonnes": 9893.375394,
+        "emfpm10": null,
+        "pm10_t_yr": null,
+        "emfpm25": null,
+        "pm25_t_yr": null,
+        "emfso2": null,
+        "so2_t_yr": null,
+        "emfnox": null,
+        "nox_t_yr": null,
+        "source": "https://climatetrace.org/data"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.81648687,
+          5.542532079
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "WAN-16",
+        "name": "Jako-Petedo, Ado Odo/Ota, Ogun",
+        "type": null,
+        "fuel": null,
+        "region": "Ogun State",
+        "country": "Nigeria",
+        "status": null,
+        "capacity_tonnes": 8880.031795,
+        "emfpm10": null,
+        "pm10_t_yr": null,
+        "emfpm25": null,
+        "pm25_t_yr": null,
+        "emfso2": null,
+        "so2_t_yr": null,
+        "emfnox": null,
+        "nox_t_yr": null,
+        "source": "https://climatetrace.org/data"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.083699486,
+          6.501001607
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "WAN-17",
+        "name": "Sagamu Road, Konigbagbe, Shagamu",
+        "type": null,
+        "fuel": null,
+        "region": "Ogun State",
+        "country": "Nigeria",
+        "status": null,
+        "capacity_tonnes": 1302.498076,
+        "emfpm10": null,
+        "pm10_t_yr": null,
+        "emfpm25": null,
+        "pm25_t_yr": null,
+        "emfso2": null,
+        "so2_t_yr": null,
+        "emfnox": null,
+        "nox_t_yr": null,
+        "source": "https://climatetrace.org/data"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.601093149,
+          6.812259665
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "WAN-18",
+        "name": "Ughoru, Oshimili North, Delta",
+        "type": null,
+        "fuel": null,
+        "region": "Delta State",
+        "country": "Nigeria",
+        "status": null,
+        "capacity_tonnes": 9299.022491,
+        "emfpm10": null,
+        "pm10_t_yr": null,
+        "emfpm25": null,
+        "pm25_t_yr": null,
+        "emfso2": null,
+        "so2_t_yr": null,
+        "emfnox": null,
+        "nox_t_yr": null,
+        "source": "https://climatetrace.org/data"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.655763258,
+          6.189372062
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "WAN-19",
+        "name": "Abule Egba",
+        "type": null,
+        "fuel": null,
+        "region": "Lagos State",
+        "country": "Nigeria",
+        "status": null,
+        "capacity_tonnes": 90375.83767,
+        "emfpm10": null,
+        "pm10_t_yr": null,
+        "emfpm25": null,
+        "pm25_t_yr": null,
+        "emfso2": null,
+        "so2_t_yr": null,
+        "emfnox": null,
+        "nox_t_yr": null,
+        "source": "https://climatetrace.org/data"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.301832609,
+          6.63965012
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "WAN-20",
+        "name": "Ifo, Ogun, 100581",
+        "type": null,
+        "fuel": null,
+        "region": "Ogun State",
+        "country": "Nigeria",
+        "status": null,
+        "capacity_tonnes": 9933.42005,
+        "emfpm10": null,
+        "pm10_t_yr": null,
+        "emfpm25": null,
+        "pm25_t_yr": null,
+        "emfso2": null,
+        "so2_t_yr": null,
+        "emfnox": null,
+        "nox_t_yr": null,
+        "source": "https://climatetrace.org/data"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.357474909,
+          6.65716496
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "WAN-21",
+        "name": "Akute-Oja, Ifo, Ogun",
+        "type": null,
+        "fuel": null,
+        "region": "Ogun State",
+        "country": "Nigeria",
+        "status": null,
+        "capacity_tonnes": 4305.693595,
+        "emfpm10": null,
+        "pm10_t_yr": null,
+        "emfpm25": null,
+        "pm25_t_yr": null,
+        "emfso2": null,
+        "so2_t_yr": null,
+        "emfnox": null,
+        "nox_t_yr": null,
+        "source": "https://climatetrace.org/data"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.374659829,
+          6.678739087
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "WAN-22",
+        "name": "Ojo, Lagos, 100266",
+        "type": null,
+        "fuel": null,
+        "region": "Lagos State",
+        "country": "Nigeria",
+        "status": null,
+        "capacity_tonnes": 3130.814563,
+        "emfpm10": null,
+        "pm10_t_yr": null,
+        "emfpm25": null,
+        "pm25_t_yr": null,
+        "emfso2": null,
+        "so2_t_yr": null,
+        "emfnox": null,
+        "nox_t_yr": null,
+        "source": "https://climatetrace.org/data"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.222110389,
+          6.453248227
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "WAN-23",
+        "name": "Rumurolu, Obio/Akpor, Rivers",
+        "type": null,
+        "fuel": null,
+        "region": "Rivers State",
+        "country": "Nigeria",
+        "status": null,
+        "capacity_tonnes": 2149.841309,
+        "emfpm10": null,
+        "pm10_t_yr": null,
+        "emfpm25": null,
+        "pm25_t_yr": null,
+        "emfso2": null,
+        "so2_t_yr": null,
+        "emfnox": null,
+        "nox_t_yr": null,
+        "source": "https://climatetrace.org/data"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.059751418,
+          4.839921742
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "WAN-24",
+        "name": "Isolo, Oshodi/Isolo, Lagos",
+        "type": null,
+        "fuel": null,
+        "region": "Lagos State",
+        "country": "Nigeria",
+        "status": null,
+        "capacity_tonnes": 7378.935713,
+        "emfpm10": null,
+        "pm10_t_yr": null,
+        "emfpm25": null,
+        "pm25_t_yr": null,
+        "emfso2": null,
+        "so2_t_yr": null,
+        "emfnox": null,
+        "nox_t_yr": null,
+        "source": "https://climatetrace.org/data"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.318014715,
+          6.529851638
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "WAN-25",
+        "name": "Alaiyabiagba, Ajeromi/Ifelodun, Lagos",
+        "type": null,
+        "fuel": null,
+        "region": "Lagos State",
+        "country": "Nigeria",
+        "status": null,
+        "capacity_tonnes": 5631.145506,
+        "emfpm10": null,
+        "pm10_t_yr": null,
+        "emfpm25": null,
+        "pm25_t_yr": null,
+        "emfso2": null,
+        "so2_t_yr": null,
+        "emfnox": null,
+        "nox_t_yr": null,
+        "source": "https://climatetrace.org/data"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.319226888,
+          6.455321911
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "WAN-26",
+        "name": "Iseri-Osun, Alimosho, Lagos",
+        "type": null,
+        "fuel": null,
+        "region": "Lagos State",
+        "country": "Nigeria",
+        "status": null,
+        "capacity_tonnes": 1382.615517,
+        "emfpm10": null,
+        "pm10_t_yr": null,
+        "emfpm25": null,
+        "pm25_t_yr": null,
+        "emfso2": null,
+        "so2_t_yr": null,
+        "emfnox": null,
+        "nox_t_yr": null,
+        "source": "https://climatetrace.org/data"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.278256843,
+          6.521331591
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "WAN-27",
+        "name": "Ifo, Ogun, Nigeria",
+        "type": null,
+        "fuel": null,
+        "region": "Ogun State",
+        "country": "Nigeria",
+        "status": null,
+        "capacity_tonnes": 1818.319724,
+        "emfpm10": null,
+        "pm10_t_yr": null,
+        "emfpm25": null,
+        "pm25_t_yr": null,
+        "emfso2": null,
+        "so2_t_yr": null,
+        "emfnox": null,
+        "nox_t_yr": null,
+        "source": "https://climatetrace.org/data"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.191254868,
+          6.840759888
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "WAN-28",
+        "name": "Ibb Road, Police Barrack, Fagge D2",
+        "type": null,
+        "fuel": null,
+        "region": "Kano State",
+        "country": "Nigeria",
+        "status": null,
+        "capacity_tonnes": 3788.366612,
+        "emfpm10": null,
+        "pm10_t_yr": null,
+        "emfpm25": null,
+        "pm25_t_yr": null,
+        "emfso2": null,
+        "so2_t_yr": null,
+        "emfnox": null,
+        "nox_t_yr": null,
+        "source": "https://climatetrace.org/data"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.518728586,
+          12.01334486
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "WAN-29",
+        "name": "Ojo, Lagos, Nigeria",
+        "type": null,
+        "fuel": null,
+        "region": "Lagos State",
+        "country": "Nigeria",
+        "status": null,
+        "capacity_tonnes": 2208.325749,
+        "emfpm10": null,
+        "pm10_t_yr": null,
+        "emfpm25": null,
+        "pm25_t_yr": null,
+        "emfso2": null,
+        "so2_t_yr": null,
+        "emfnox": null,
+        "nox_t_yr": null,
+        "source": "https://climatetrace.org/data"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.193438012,
+          6.450625202
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "WAN-30",
+        "name": "Ajakanga Dumpsite",
+        "type": null,
+        "fuel": null,
+        "region": "Oyo State",
+        "country": "Nigeria",
+        "status": null,
+        "capacity_tonnes": 99999.52959,
+        "emfpm10": null,
+        "pm10_t_yr": null,
+        "emfpm25": null,
+        "pm25_t_yr": null,
+        "emfso2": null,
+        "so2_t_yr": null,
+        "emfnox": null,
+        "nox_t_yr": null,
+        "source": "https://climatetrace.org/data"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.840638889,
+          7.312511111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "WAN-31",
+        "name": "Akure North, Ondo, 340223",
+        "type": null,
+        "fuel": null,
+        "region": "Ondo State",
+        "country": "Nigeria",
+        "status": null,
+        "capacity_tonnes": 3527.66206,
+        "emfpm10": null,
+        "pm10_t_yr": null,
+        "emfpm25": null,
+        "pm25_t_yr": null,
+        "emfso2": null,
+        "so2_t_yr": null,
+        "emfnox": null,
+        "nox_t_yr": null,
+        "source": "https://climatetrace.org/data"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.240190655,
+          7.219764044
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "WAN-32",
+        "name": "Onihale, Ifo, Ogun",
+        "type": null,
+        "fuel": null,
+        "region": "Ogun State",
+        "country": "Nigeria",
+        "status": null,
+        "capacity_tonnes": 3909.12174,
+        "emfpm10": null,
+        "pm10_t_yr": null,
+        "emfpm25": null,
+        "pm25_t_yr": null,
+        "emfso2": null,
+        "so2_t_yr": null,
+        "emfnox": null,
+        "nox_t_yr": null,
+        "source": "https://climatetrace.org/data"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.216082589,
+          6.762313893
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "WAN-33",
+        "name": "Enugu - Port Harcourt Expressway, Iriebe, Obio/Akpor",
+        "type": null,
+        "fuel": null,
+        "region": "Rivers State",
+        "country": "Nigeria",
+        "status": null,
+        "capacity_tonnes": 3521.529862,
+        "emfpm10": null,
+        "pm10_t_yr": null,
+        "emfpm25": null,
+        "pm25_t_yr": null,
+        "emfso2": null,
+        "so2_t_yr": null,
+        "emfnox": null,
+        "nox_t_yr": null,
+        "source": "https://climatetrace.org/data"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.082771963,
+          4.862942286
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "WAN-34",
+        "name": "Okpe, Delta, 332",
+        "type": null,
+        "fuel": null,
+        "region": "Delta State",
+        "country": "Nigeria",
+        "status": null,
+        "capacity_tonnes": 16341.96104,
+        "emfpm10": null,
+        "pm10_t_yr": null,
+        "emfpm25": null,
+        "pm25_t_yr": null,
+        "emfso2": null,
+        "so2_t_yr": null,
+        "emfnox": null,
+        "nox_t_yr": null,
+        "source": "https://climatetrace.org/data"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.882217694,
+          5.609436304
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "WAN-35",
+        "name": "Aba North, Abia, Nigeria",
+        "type": null,
+        "fuel": null,
+        "region": "Abia State",
+        "country": "Nigeria",
+        "status": null,
+        "capacity_tonnes": 2058.799052,
+        "emfpm10": null,
+        "pm10_t_yr": null,
+        "emfpm25": null,
+        "pm25_t_yr": null,
+        "emfso2": null,
+        "so2_t_yr": null,
+        "emfnox": null,
+        "nox_t_yr": null,
+        "source": "https://climatetrace.org/data"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.387602579,
+          5.098692404
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "WAN-36",
+        "name": "Bariga, Abule Ijesha, Shomolu",
+        "type": null,
+        "fuel": null,
+        "region": "Lagos State",
+        "country": "Nigeria",
+        "status": null,
+        "capacity_tonnes": 1131.705271,
+        "emfpm10": null,
+        "pm10_t_yr": null,
+        "emfpm25": null,
+        "pm25_t_yr": null,
+        "emfso2": null,
+        "so2_t_yr": null,
+        "emfnox": null,
+        "nox_t_yr": null,
+        "source": "https://climatetrace.org/data"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.400224543,
+          6.530125736
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "WAN-37",
+        "name": "Olusosun",
+        "type": null,
+        "fuel": null,
+        "region": "Lagos State",
+        "country": "Nigeria",
+        "status": null,
+        "capacity_tonnes": 427618.0698,
+        "emfpm10": null,
+        "pm10_t_yr": null,
+        "emfpm25": null,
+        "pm25_t_yr": null,
+        "emfso2": null,
+        "so2_t_yr": null,
+        "emfnox": null,
+        "nox_t_yr": null,
+        "source": "https://climatetrace.org/data"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.378510475,
+          6.59272532
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "WAN-38",
+        "name": "Maba, Obafemi Owode, Ogun",
+        "type": null,
+        "fuel": null,
+        "region": "Ogun State",
+        "country": "Nigeria",
+        "status": null,
+        "capacity_tonnes": 1370.082152,
+        "emfpm10": null,
+        "pm10_t_yr": null,
+        "emfpm25": null,
+        "pm25_t_yr": null,
+        "emfso2": null,
+        "so2_t_yr": null,
+        "emfnox": null,
+        "nox_t_yr": null,
+        "source": "https://climatetrace.org/data"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.441117901,
+          6.774686939
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "WAN-39",
+        "name": "Ijegun, Alimosho, Lagos",
+        "type": null,
+        "fuel": null,
+        "region": "Lagos State",
+        "country": "Nigeria",
+        "status": null,
+        "capacity_tonnes": 2665.553745,
+        "emfpm10": null,
+        "pm10_t_yr": null,
+        "emfpm25": null,
+        "pm25_t_yr": null,
+        "emfso2": null,
+        "so2_t_yr": null,
+        "emfnox": null,
+        "nox_t_yr": null,
+        "source": "https://climatetrace.org/data"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.258763671,
+          6.512738314
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "WAN-40",
+        "name": "Badagry, Lagos, Nigeria",
+        "type": null,
+        "fuel": null,
+        "region": "Lagos State",
+        "country": "Nigeria",
+        "status": null,
+        "capacity_tonnes": 8821.521653,
+        "emfpm10": null,
+        "pm10_t_yr": null,
+        "emfpm25": null,
+        "pm25_t_yr": null,
+        "emfso2": null,
+        "so2_t_yr": null,
+        "emfnox": null,
+        "nox_t_yr": null,
+        "source": "https://climatetrace.org/data"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.870439118,
+          6.437663846
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "WAN-41",
+        "name": "Eneka",
+        "type": null,
+        "fuel": null,
+        "region": "Rivers State",
+        "country": "Nigeria",
+        "status": null,
+        "capacity_tonnes": 50000.0,
+        "emfpm10": null,
+        "pm10_t_yr": null,
+        "emfpm25": null,
+        "pm25_t_yr": null,
+        "emfso2": null,
+        "so2_t_yr": null,
+        "emfnox": null,
+        "nox_t_yr": null,
+        "source": "https://climatetrace.org/data"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0429872,
+          4.8904136
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "WAN-42",
+        "name": "Ijoko, Shagamu, Ogun",
+        "type": null,
+        "fuel": null,
+        "region": "Ogun State",
+        "country": "Nigeria",
+        "status": null,
+        "capacity_tonnes": 7990.132553,
+        "emfpm10": null,
+        "pm10_t_yr": null,
+        "emfpm25": null,
+        "pm25_t_yr": null,
+        "emfso2": null,
+        "so2_t_yr": null,
+        "emfnox": null,
+        "nox_t_yr": null,
+        "source": "https://climatetrace.org/data"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.636715795,
+          6.840596406
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "WAN-43",
+        "name": "Solu, Ifo, Ogun",
+        "type": null,
+        "fuel": null,
+        "region": "Ogun State",
+        "country": "Nigeria",
+        "status": null,
+        "capacity_tonnes": 4612.148466,
+        "emfpm10": null,
+        "pm10_t_yr": null,
+        "emfpm25": null,
+        "pm25_t_yr": null,
+        "emfso2": null,
+        "so2_t_yr": null,
+        "emfnox": null,
+        "nox_t_yr": null,
+        "source": "https://climatetrace.org/data"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.199339319,
+          6.811917454
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "WAN-44",
+        "name": "University Of Lagos, Olaboye Olaleye Street, Iwaya",
+        "type": null,
+        "fuel": null,
+        "region": "Lagos State",
+        "country": "Nigeria",
+        "status": null,
+        "capacity_tonnes": 7776.737114,
+        "emfpm10": null,
+        "pm10_t_yr": null,
+        "emfpm25": null,
+        "pm25_t_yr": null,
+        "emfso2": null,
+        "so2_t_yr": null,
+        "emfnox": null,
+        "nox_t_yr": null,
+        "source": "https://climatetrace.org/data"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.392581394,
+          6.513848457
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "WAN-45",
+        "name": "Ebute-Metta, Lagos Mainland, Lagos",
+        "type": null,
+        "fuel": null,
+        "region": "Lagos State",
+        "country": "Nigeria",
+        "status": null,
+        "capacity_tonnes": 36509.78773,
+        "emfpm10": null,
+        "pm10_t_yr": null,
+        "emfpm25": null,
+        "pm25_t_yr": null,
+        "emfso2": null,
+        "so2_t_yr": null,
+        "emfnox": null,
+        "nox_t_yr": null,
+        "source": "https://climatetrace.org/data"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.391157419,
+          6.489941091
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "WAN-46",
+        "name": "Olori, Ifo, Ogun",
+        "type": null,
+        "fuel": null,
+        "region": "Ogun State",
+        "country": "Nigeria",
+        "status": null,
+        "capacity_tonnes": 1602.656507,
+        "emfpm10": null,
+        "pm10_t_yr": null,
+        "emfpm25": null,
+        "pm25_t_yr": null,
+        "emfso2": null,
+        "so2_t_yr": null,
+        "emfnox": null,
+        "nox_t_yr": null,
+        "source": "https://climatetrace.org/data"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.35799846,
+          6.689263644
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "WAN-47",
+        "name": "Okuokoko, Uvwie, Delta",
+        "type": null,
+        "fuel": null,
+        "region": "Delta State",
+        "country": "Nigeria",
+        "status": null,
+        "capacity_tonnes": 15300.52154,
+        "emfpm10": null,
+        "pm10_t_yr": null,
+        "emfpm25": null,
+        "pm25_t_yr": null,
+        "emfso2": null,
+        "so2_t_yr": null,
+        "emfnox": null,
+        "nox_t_yr": null,
+        "source": "https://climatetrace.org/data"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.809634158,
+          5.586751089
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "WAN-48",
+        "name": "Eko Bridge, Alagbede, Surulere",
+        "type": null,
+        "fuel": null,
+        "region": "Lagos State",
+        "country": "Nigeria",
+        "status": null,
+        "capacity_tonnes": 3798.634885,
+        "emfpm10": null,
+        "pm10_t_yr": null,
+        "emfpm25": null,
+        "pm25_t_yr": null,
+        "emfso2": null,
+        "so2_t_yr": null,
+        "emfnox": null,
+        "nox_t_yr": null,
+        "source": "https://climatetrace.org/data"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.376200616,
+          6.473344877
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "WAN-49",
+        "name": "Meran, Alimosho, Lagos",
+        "type": null,
+        "fuel": null,
+        "region": "Lagos State",
+        "country": "Nigeria",
+        "status": null,
+        "capacity_tonnes": 5162.854025,
+        "emfpm10": null,
+        "pm10_t_yr": null,
+        "emfpm25": null,
+        "pm25_t_yr": null,
+        "emfso2": null,
+        "so2_t_yr": null,
+        "emfnox": null,
+        "nox_t_yr": null,
+        "source": "https://climatetrace.org/data"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.26404941,
+          6.638021793
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "WAN-50",
+        "name": "Surulere, Oke Ira, Surulere",
+        "type": null,
+        "fuel": null,
+        "region": "Lagos State",
+        "country": "Nigeria",
+        "status": null,
+        "capacity_tonnes": 4843.147168,
+        "emfpm10": null,
+        "pm10_t_yr": null,
+        "emfpm25": null,
+        "pm25_t_yr": null,
+        "emfso2": null,
+        "so2_t_yr": null,
+        "emfnox": null,
+        "nox_t_yr": null,
+        "source": "https://climatetrace.org/data"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.368270941,
+          6.502496597
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "WAN-51",
+        "name": "Lagos-Ibadan Expressway, Ibafo, Obafemi Owode",
+        "type": null,
+        "fuel": null,
+        "region": "Ogun State",
+        "country": "Nigeria",
+        "status": null,
+        "capacity_tonnes": 6104.237081,
+        "emfpm10": null,
+        "pm10_t_yr": null,
+        "emfpm25": null,
+        "pm25_t_yr": null,
+        "emfso2": null,
+        "so2_t_yr": null,
+        "emfnox": null,
+        "nox_t_yr": null,
+        "source": "https://climatetrace.org/data"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.433698928,
+          6.802643802
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "WAN-52",
+        "name": "Ijora, Apapa, Lagos",
+        "type": null,
+        "fuel": null,
+        "region": "Lagos State",
+        "country": "Nigeria",
+        "status": null,
+        "capacity_tonnes": 1291.277547,
+        "emfpm10": null,
+        "pm10_t_yr": null,
+        "emfpm25": null,
+        "pm25_t_yr": null,
+        "emfso2": null,
+        "so2_t_yr": null,
+        "emfnox": null,
+        "nox_t_yr": null,
+        "source": "https://climatetrace.org/data"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.361276706,
+          6.470812335
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "WAN-53",
+        "name": "Oko Orisa, Epe, Lagos",
+        "type": null,
+        "fuel": null,
+        "region": "Lagos State",
+        "country": "Nigeria",
+        "status": null,
+        "capacity_tonnes": 29541.58015,
+        "emfpm10": null,
+        "pm10_t_yr": null,
+        "emfpm25": null,
+        "pm25_t_yr": null,
+        "emfso2": null,
+        "so2_t_yr": null,
+        "emfnox": null,
+        "nox_t_yr": null,
+        "source": "https://climatetrace.org/data"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.937061341,
+          6.5643224
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "WAN-54",
+        "name": "Iju Junction, Ifako/Ijaye, Lagos",
+        "type": null,
+        "fuel": null,
+        "region": "Lagos State",
+        "country": "Nigeria",
+        "status": null,
+        "capacity_tonnes": 27049.55446,
+        "emfpm10": null,
+        "pm10_t_yr": null,
+        "emfpm25": null,
+        "pm25_t_yr": null,
+        "emfso2": null,
+        "so2_t_yr": null,
+        "emfnox": null,
+        "nox_t_yr": null,
+        "source": "https://climatetrace.org/data"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.31857695,
+          6.649653099
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "WAN-55",
+        "name": "Oke, Ifo, Ogun",
+        "type": null,
+        "fuel": null,
+        "region": "Ogun State",
+        "country": "Nigeria",
+        "status": null,
+        "capacity_tonnes": 2095.144102,
+        "emfpm10": null,
+        "pm10_t_yr": null,
+        "emfpm25": null,
+        "pm25_t_yr": null,
+        "emfso2": null,
+        "so2_t_yr": null,
+        "emfnox": null,
+        "nox_t_yr": null,
+        "source": "https://climatetrace.org/data"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.398989321,
+          6.650271538
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "WAN-56",
+        "name": "Gbagada, Kosofe, Lagos",
+        "type": null,
+        "fuel": null,
+        "region": "Lagos State",
+        "country": "Nigeria",
+        "status": null,
+        "capacity_tonnes": 9299.999636,
+        "emfpm10": null,
+        "pm10_t_yr": null,
+        "emfpm25": null,
+        "pm25_t_yr": null,
+        "emfso2": null,
+        "so2_t_yr": null,
+        "emfnox": null,
+        "nox_t_yr": null,
+        "source": "https://climatetrace.org/data"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.37233458,
+          6.556354704
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "WAN-57",
+        "name": "Tope, Asa, Kwara",
+        "type": null,
+        "fuel": null,
+        "region": "Kwara State",
+        "country": "Nigeria",
+        "status": null,
+        "capacity_tonnes": 11216.51871,
+        "emfpm10": null,
+        "pm10_t_yr": null,
+        "emfpm25": null,
+        "pm25_t_yr": null,
+        "emfso2": null,
+        "so2_t_yr": null,
+        "emfnox": null,
+        "nox_t_yr": null,
+        "source": "https://climatetrace.org/data"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.445588779,
+          8.46570129
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "WAN-58",
+        "name": "Atinuke Atobajaye Crescent, Oshodi/Isolo, Lagos",
+        "type": null,
+        "fuel": null,
+        "region": "Lagos State",
+        "country": "Nigeria",
+        "status": null,
+        "capacity_tonnes": 4305.842856,
+        "emfpm10": null,
+        "pm10_t_yr": null,
+        "emfpm25": null,
+        "pm25_t_yr": null,
+        "emfso2": null,
+        "so2_t_yr": null,
+        "emfnox": null,
+        "nox_t_yr": null,
+        "source": "https://climatetrace.org/data"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.323157288,
+          6.510071967
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "WAN-59",
+        "name": "Onitsha, Onitsha North, Anambra",
+        "type": null,
+        "fuel": null,
+        "region": "Anambra State",
+        "country": "Nigeria",
+        "status": null,
+        "capacity_tonnes": 4694.295005,
+        "emfpm10": null,
+        "pm10_t_yr": null,
+        "emfpm25": null,
+        "pm25_t_yr": null,
+        "emfso2": null,
+        "so2_t_yr": null,
+        "emfnox": null,
+        "nox_t_yr": null,
+        "source": "https://climatetrace.org/data"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.77402406,
+          6.156938538
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "WAN-60",
+        "name": "Wado City, Delta, Nigeria",
+        "type": null,
+        "fuel": null,
+        "region": "Delta State",
+        "country": "Nigeria",
+        "status": null,
+        "capacity_tonnes": 1897.322722,
+        "emfpm10": null,
+        "pm10_t_yr": null,
+        "emfpm25": null,
+        "pm25_t_yr": null,
+        "emfso2": null,
+        "so2_t_yr": null,
+        "emfnox": null,
+        "nox_t_yr": null,
+        "source": "https://climatetrace.org/data"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.768283828,
+          5.504711055
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "WAN-61",
+        "name": "Municipal Area Council, Federal Capital Territory, Nigeria",
+        "type": null,
+        "fuel": null,
+        "region": "Federal Capital Territory",
+        "country": "Nigeria",
+        "status": null,
+        "capacity_tonnes": 4039.317117,
+        "emfpm10": null,
+        "pm10_t_yr": null,
+        "emfpm25": null,
+        "pm25_t_yr": null,
+        "emfso2": null,
+        "so2_t_yr": null,
+        "emfnox": null,
+        "nox_t_yr": null,
+        "source": "https://climatetrace.org/data"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.339278295,
+          9.028445493
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "WAN-62",
+        "name": "Mgbu-Oba, Obio/Akpor, Rivers",
+        "type": null,
+        "fuel": null,
+        "region": "Rivers State",
+        "country": "Nigeria",
+        "status": null,
+        "capacity_tonnes": 1968.43126,
+        "emfpm10": null,
+        "pm10_t_yr": null,
+        "emfpm25": null,
+        "pm25_t_yr": null,
+        "emfso2": null,
+        "so2_t_yr": null,
+        "emfnox": null,
+        "nox_t_yr": null,
+        "source": "https://climatetrace.org/data"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.971849748,
+          4.845473674
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "WAN-63",
+        "name": "Oke-Aro, Ifo, Ogun",
+        "type": null,
+        "fuel": null,
+        "region": "Ogun State",
+        "country": "Nigeria",
+        "status": null,
+        "capacity_tonnes": 3202.657892,
+        "emfpm10": null,
+        "pm10_t_yr": null,
+        "emfpm25": null,
+        "pm25_t_yr": null,
+        "emfso2": null,
+        "so2_t_yr": null,
+        "emfnox": null,
+        "nox_t_yr": null,
+        "source": "https://climatetrace.org/data"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.320206483,
+          6.676904579
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "WAN-64",
+        "name": "Solous",
+        "type": null,
+        "fuel": null,
+        "region": "Lagos State",
+        "country": "Nigeria",
+        "status": null,
+        "capacity_tonnes": 190000.0,
+        "emfpm10": null,
+        "pm10_t_yr": null,
+        "emfpm25": null,
+        "pm25_t_yr": null,
+        "emfso2": null,
+        "so2_t_yr": null,
+        "emfnox": null,
+        "nox_t_yr": null,
+        "source": "https://climatetrace.org/data"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.253802697,
+          6.570991605
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "WAN-65",
+        "name": "Abeokuta, Abeokuta South, Ogun",
+        "type": null,
+        "fuel": null,
+        "region": "Ogun State",
+        "country": "Nigeria",
+        "status": null,
+        "capacity_tonnes": 33045.26836,
+        "emfpm10": null,
+        "pm10_t_yr": null,
+        "emfpm25": null,
+        "pm25_t_yr": null,
+        "emfso2": null,
+        "so2_t_yr": null,
+        "emfnox": null,
+        "nox_t_yr": null,
+        "source": "https://climatetrace.org/data"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.365936868,
+          7.187498177
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "WAN-66",
+        "name": "Awotan (Apete) Dumpsite",
+        "type": null,
+        "fuel": null,
+        "region": "Oyo State",
+        "country": "Nigeria",
+        "status": null,
+        "capacity_tonnes": 136018.2371,
+        "emfpm10": null,
+        "pm10_t_yr": null,
+        "emfpm25": null,
+        "pm25_t_yr": null,
+        "emfso2": null,
+        "so2_t_yr": null,
+        "emfnox": null,
+        "nox_t_yr": null,
+        "source": "https://climatetrace.org/data"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.84910556,
+          7.463069444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "WAN-67",
+        "name": "Onitsha - Owerri Road, Onitsha, Onitsha North",
+        "type": null,
+        "fuel": null,
+        "region": "Anambra State",
+        "country": "Nigeria",
+        "status": null,
+        "capacity_tonnes": 9613.158736,
+        "emfpm10": null,
+        "pm10_t_yr": null,
+        "emfpm25": null,
+        "pm25_t_yr": null,
+        "emfso2": null,
+        "so2_t_yr": null,
+        "emfnox": null,
+        "nox_t_yr": null,
+        "source": "https://climatetrace.org/data"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.799022864,
+          6.10331787
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "WAN-68",
+        "name": "Ijako, Ado Odo/Ota, Ogun",
+        "type": null,
+        "fuel": null,
+        "region": "Ogun State",
+        "country": "Nigeria",
+        "status": null,
+        "capacity_tonnes": 1470.135166,
+        "emfpm10": null,
+        "pm10_t_yr": null,
+        "emfpm25": null,
+        "pm25_t_yr": null,
+        "emfso2": null,
+        "so2_t_yr": null,
+        "emfnox": null,
+        "nox_t_yr": null,
+        "source": "https://climatetrace.org/data"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.214680351,
+          6.738002467
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "WAN-69",
+        "name": "Akpajo, Eleme, Rivers",
+        "type": null,
+        "fuel": null,
+        "region": "Rivers State",
+        "country": "Nigeria",
+        "status": null,
+        "capacity_tonnes": 16725.90292,
+        "emfpm10": null,
+        "pm10_t_yr": null,
+        "emfpm25": null,
+        "pm25_t_yr": null,
+        "emfso2": null,
+        "so2_t_yr": null,
+        "emfnox": null,
+        "nox_t_yr": null,
+        "source": "https://climatetrace.org/data"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.091709351,
+          4.835498186
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "WAN-70",
+        "name": "Aguda, Agidingbi, Ikeja",
+        "type": null,
+        "fuel": null,
+        "region": "Lagos State",
+        "country": "Nigeria",
+        "status": null,
+        "capacity_tonnes": 5710.945618,
+        "emfpm10": null,
+        "pm10_t_yr": null,
+        "emfpm25": null,
+        "pm25_t_yr": null,
+        "emfso2": null,
+        "so2_t_yr": null,
+        "emfnox": null,
+        "nox_t_yr": null,
+        "source": "https://climatetrace.org/data"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.358578112,
+          6.62847926
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "WAN-71",
+        "name": "Lapite",
+        "type": null,
+        "fuel": null,
+        "region": "Oyo State",
+        "country": "Nigeria",
+        "status": null,
+        "capacity_tonnes": 217663.5514,
+        "emfpm10": null,
+        "pm10_t_yr": null,
+        "emfpm25": null,
+        "pm25_t_yr": null,
+        "emfso2": null,
+        "so2_t_yr": null,
+        "emfnox": null,
+        "nox_t_yr": null,
+        "source": "https://climatetrace.org/data"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.912607472,
+          7.569898142
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "WAN-72",
+        "name": "Epe",
+        "type": null,
+        "fuel": null,
+        "region": "Lagos State",
+        "country": "Nigeria",
+        "status": null,
+        "capacity_tonnes": 806451.6129,
+        "emfpm10": null,
+        "pm10_t_yr": null,
+        "emfpm25": null,
+        "pm25_t_yr": null,
+        "emfso2": null,
+        "so2_t_yr": null,
+        "emfnox": null,
+        "nox_t_yr": null,
+        "source": "https://climatetrace.org/data"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.0381622,
+          6.6492196
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "WAN-73",
+        "name": "White-Dove Group Of Schools, Erubere Street, Ugborikoko",
+        "type": null,
+        "fuel": null,
+        "region": "Delta State",
+        "country": "Nigeria",
+        "status": null,
+        "capacity_tonnes": 7648.8734,
+        "emfpm10": null,
+        "pm10_t_yr": null,
+        "emfpm25": null,
+        "pm25_t_yr": null,
+        "emfso2": null,
+        "so2_t_yr": null,
+        "emfnox": null,
+        "nox_t_yr": null,
+        "source": "https://climatetrace.org/data"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.765846857,
+          5.534788277
+        ]
+      }
+    }
+  ]
+}
