@@ -110,7 +110,7 @@ Cleaned & validated datasets for:
 
 ### **with_FPs/**
 
-Full point-set (FPS) datasets:
+With some False_Positives datasets:
 
 * India
 * Pakistan
