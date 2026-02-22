@@ -10,9 +10,10 @@
 2. [File Structure](#file-structure)  
 3. [Production Basis](#production-basis)  
 4. [Emission Factors](#emission-factors)  
-5. [Emission Estimation](#emission-estimation)  
-6. [References](#references)  
-7. [Citation](#citation) 
+5. [Emission Estimation](#emission-estimation)
+6. [Data Processing Workflow](#data-processing-workflow)
+7. [References](#references)  
+8. [Citation](#citation) 
 ---
 
 ## Overview
@@ -34,6 +35,13 @@ The dataset includes:
   - PM10
   - SO2
   - NOx  
+
+The objective of this dataset is to support:
+
+* Air quality analysis
+* Emission inventory development
+* Regulatory assessment
+* Climate and health impact modelling
 
 Emissions are calculated using:
 
@@ -60,7 +68,7 @@ Emissions are calculated using:
 | id | Unique facility identifier |
 | name | Plant name |
 | lat, lon | GPS coordinates |
-| type | Facility type (e.g., grinding / integrated) |
+| type | Facility type (grinding / integrated) |
 | fuel | Primary fuel used (if available) |
 | region | Administrative region |
 | country | Country |
@@ -145,6 +153,14 @@ If emission factor is in g/tonne cement:
 
 (1,000,000 converts grams to tonnes)
 
+---
+## Data Processing Workflow
+
+1. Acquisition of plant-level capacity and unit data
+2. Spatial verification and coordinate validation
+3. Calculation of annual production
+4. Application of standardized emission factors
+5. Export to CSV, GeoJSON, and XLSX formats
 ---
 
 ## References
