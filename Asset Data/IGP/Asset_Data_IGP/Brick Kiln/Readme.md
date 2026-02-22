@@ -9,25 +9,7 @@ This dataset offers vital insights into one of South Asia’s largest unregulate
 
 ---
 
-# **Table of Contents**
-
-1. [Overview](#overview)
-3. [Brick Production Calculation](#brick-production-calculation)
-4. [File Structure](#file-structure)
-6. [Funding Sources](#funding-sources)
-7. [Acknowledgments](#special-gratitude)
-8. [Distribution Density](#distribution-density)
-9. [Citation](#citation)
-
----
-
 # **Overview**
-
-This dataset provides:
-
-* Geolocation of brick kilns (EPSG:4326, WGS 84)
-* Emissions for PM₁₀, PM₂.₅, SO₂, NOₓ
-* 1 km exposure analysis for sensitive sites
 
 The dataset supports the findings published in:
 
@@ -43,59 +25,6 @@ The dataset supports the findings published in:
 **Dashboard**
 
 Explore the data interactively through our dashboard: [APAD Dashboard](https://apad.world/dashboard)
-
----
-
-## **Brick Production Calculation**
-
-| **Metric**                               | **Pakistan (PAK)** | **India (IND)**   | **Bangladesh (BAN)** |
-| ---------------------------------------- | ------------------ | ----------------- | -------------------- |
-| **Annual Production (national)**         | 45B bricks         | 250B bricks       | 15B bricks           |
-| **Estimated Total Kilns**                | ~18,000            | ~1,000,000        | ~5,000               |
-| **Kilns Identified in Dataset**          | 11,272             | 34,466            | 4,760                |
-| **Annual Production (identified kilns)** | 28.18B             | 8.617B            | 14.28B               |
-| **Daily Production per Kiln**            | 11,625 bricks/day  | 11,635 bricks/day | 13,778 bricks/day    |
-| **Daily Brick Weight**                   | 36.204 tonnes      | 34.905 tonnes     | 41.334 tonnes        |
-| **Operational Days**                     | 215                | 215               | 215                  |
-| **Seasonal Weight Output per Kiln**      | **7,783 tonnes**   | **7,505 tonnes**  | **8,897 tonnes**     |
-
----
-
-## **File Structure**
-
-### **Available Formats**
-
-* `.csv`
-* `.geojson`
-* `.xlsx`
-
----
-
-## **1. Main Dataset**
-
-| Field        | Description       |
-| ------------ | ----------------- |
-| `id`         | Kiln identifier   |
-| `lat`, `lon` | GPS coordinates   |
-| `type`       | Kiln type         |
-| `state`      | Province / state  |
-| `country`    | Country           |
-| `status`     | Operational state |
-
----
-
-## **2. Emission Datasets**
-
-Separate datasets for **coal** and **biomass** fuel use.
-
-| Field                  | Description           |
-| ---------------------- | --------------------- |
-| `capacity_tonnes`      | Production output     |
-| `emfpm10`, `pm10_t_yr` | PM10 EF & emissions   |
-| `emfpm25`, `pm25_t_yr` | PM2.5 EF & emissions  |
-| `emfso2`, `so2_t_yr`   | SO₂ EF & emissions    |
-| `emfnox`, `nox_t_yr`   | NOₓ EF & emissions    |
-| `source`               | Methodology reference |
 
 ---
 
