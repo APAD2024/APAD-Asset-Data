@@ -73,6 +73,7 @@ Dataset: [https://geo-ai.undp.org.in/](https://geo-ai.undp.org.in/)
 
 ## **Citation**
 
+# Brick Kiln Dataset for Pakistan:
 If you use this repository:
 
 ### **Scientific Article**
@@ -92,6 +93,33 @@ This dataset is released under:
 
 * [![License: CC BY 4.0](https://licensebuttons.net/l/by/4.0/80x15.png)](https://creativecommons.org/licenses/by/4.0/)
 * [![License: Open Data Commons Attribution](https://img.shields.io/badge/License-ODC_BY-brightgreen.svg)](https://opendatacommons.org/licenses/by/)
+
+# Brick Kiln Dataset for other countries:
+
+## If you use dataset for India:
+
+APAD (2025).
+*Brick Kilns Dataset – Indo-Gangetic Plain (IGP), India.*
+
+### **License**
+
+This dataset is released under:
+
+* [![License: CC BY 4.0](https://licensebuttons.net/l/by/4.0/80x15.png)](https://creativecommons.org/licenses/by/4.0/)
+* [![License: Open Data Commons Attribution](https://img.shields.io/badge/License-ODC_BY-brightgreen.svg)](https://opendatacommons.org/licenses/by/)
+
+## If you use dataset for Bangladesh:
+
+APAD (2025).
+*Brick Kilns Dataset – Indo-Gangetic Plain (IGP), Bangladesh.*
+
+### **License**
+
+This dataset is released under:
+
+* [![License: CC BY 4.0](https://licensebuttons.net/l/by/4.0/80x15.png)](https://creativecommons.org/licenses/by/4.0/)
+* [![License: Open Data Commons Attribution](https://img.shields.io/badge/License-ODC_BY-brightgreen.svg)](https://opendatacommons.org/licenses/by/)
+
 
 You are free to use, share, remix, and build upon the data with attribution.
 
