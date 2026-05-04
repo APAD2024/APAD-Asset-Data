@@ -105,3 +105,18 @@ Fuel consumption must match EF units.
    https://www.ipcc-nggip.iges.or.jp/public/2006gl/
 
 ---
+
+
+## Citation
+
+If you use this dataset:
+
+APAD (2025).  
+*Power Generation Dataset – Indo-Gangetic Plain (IGP).*  
+
+### **License**
+
+This dataset is released under:
+
+* [![License: CC BY 4.0](https://licensebuttons.net/l/by/4.0/80x15.png)](https://creativecommons.org/licenses/by/4.0/)
+* [![License: Open Data Commons Attribution](https://img.shields.io/badge/License-ODC_BY-brightgreen.svg)](https://opendatacommons.org/licenses/by/)
