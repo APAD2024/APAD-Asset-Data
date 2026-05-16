@@ -1,59 +1,59 @@
-Name of Enterprise,Address of the Industry
-Manoj Khadya Udhyog,"Bindabasini Rural Municipality, Parsa"
-Kohinoor Textile Ind. Pvt. Ltd.,"Chhata Pipra, Bara"
-Nepal Dairy Pvt. Ltd.,"Dhapakhel, Hattiban, Lalitpur, Nepal"
-Shree Nawaprabhat Dairy Pvt ltd,"Patan industrial area,lalitpur mp-15,lalitpur ,bagmati province"
-Sungreen Plywood Industries pvt. ltd.,Dharan-8
-Surya Kattha Udhyog Pvt. Ltd.,Dharan 8
-Dolphin Group,lakhnawar-7 kohalpur
-Green Tyres Ltd.,"Kathari, Morang"
-Tricot Industries Pvt Ltd,"Rani, Biratnagar, Nepal"
-Ganapati Vanaspati Ltd,"Pipra, Simara, Bara"
-Jun Chiyabari Tea Garden Pvt. Ltd.,"Dhankuta-1, Hile"
-Dwarika's Kathmandu Village Hotel Pvt. Ltd,"Battisputali , Kathmandu, Nepal"
-Deurali Janta Pharmaceuticals Pvt. Ltd,"Dhapasi, Kathmandu, Nepal"
-Pragati Textile Industries Pvt. Ltd,"Itahari-13, Khanar, Sunsari, Nepal."
-Nepal Pharmaceuticals Laboratory Pvt. Ltd.,Jeetpur
-Aadhunik Dairy Products Pvt. Ltd.,"Balaju, Kathmandu"
-Green Nepal Agro Pvt. Ltd.,"Bungmati, Lalitpur -22"
-National Healthcare Pvt. Ltd.,"Chhatapipra, Bara, Nepal"
-Ritika Dairy Udhyog Pvt. Ltd.,"Mechinagar-12, Jhapa"
-Hygen Packs (Nepal) Pvt Ltd,"Samaygadh, Kamal Rural Municipality - 2, Jhapa"
-Bhaktapur Dairy Pvt. Ltd,Bhaktapur Industrial Area
-Bhaktapur Ceramics,Bhaktapur
-Kriti Textiles,Bhaktapur
-Shivam Dairy Pvt. Ltd.,Bhaktapur
-Aakash food,Patan
-Shree Textiles,Patan
-Samyukta Dairy and Foods Pvt. Ltd,Patan
-JAYSANJIVANI DAIRY UDHYOG,Bhaktapur Industrial Estate
-Agro Thai Foods,Patan
-Rajdhani Dairy Pvt. Ltd.,Patan
-Husk Power Nepal Pvt. Ltd.,"Birgunj-21, Parsa"
-G.pac lubricants pvt ltd,Balaju industrial area kathmandu
-Fishtail Dairy Pvt Ltd,"Pokhara Industrial Area, Kundhar, Pokhara"
-Jaya Maa Kamakhya Industries Pvt. Ltd.,"Mechinagar-15, Jhapa"
-Bottlers Nepal Ltd.,"Balaju Industrial District, Balaju, Kathmandu, Nepal"
-Nepal Multipurpose co operative Society Limited (NMC Dairy Udyog ),"Mechinagar ,8 Itabhatta , Jhapa ,Koshi province"
-DDC Hetauda Milk Supply Scheme,"Hetauda Industrial State, Hetauda-8, Makwanpur"
-Karmacharya Bakes and Foods,Pokhara
-Shiv Bhagawati Khadya Udhyog,kathari 7
-Kamadhenu Dairy,Tarara
-Rijal Tashi Ind.Pvt.Ltd,Itahari 5 sunsari nepal
-Asian Biscuits And Confectionery Pvt. Ltd.,"Duhabi, Sunsari, Nepal"
-Arrow Pharmaceuticals Ltd.,"Changunarayan -8, sudal"
-Premier Steel Pvt. Ltd.,"Duhabi, Sunsari"
-Surya Metal Industries Pvt. Ltd.,"Dharan-8, Sunsari, Koshi"
-Siddhartha Ply Industries Pvt. Ltd.,"Dulabari Road, Mechhinagar"
-BM Metal Industries Pvt. Ltd.,"Dharan Industrial District, Sunsari"
-Shubharambha Dariy and Agrovet Research Pvt. Ltd.,Banepa 08 kavrepalanchok
-Yak Brewing Company Pvt. Ltd.,"Ichchhakamana-4, Kurintar Nepal"
-MILAN DAIRY & FOODS INDUSTRY PVT LTD,"GAGENDRA NARAYAN SINGH INDUSTRIAL ESTATE , BASBITTI , SAPTARI."
-Tulasa Dairy Pvt. Ltd.,"Kageshwori, Manohara-7 Kathmandu"
-Baglung Dugdh Utpadak Sahakari Sanstha Sang,"Baglung Municipality-2, Baglung"
-Siddhartha Pellet Feed Pvt. Ltd,"Hetauda Industrial Area ,Hetauda"
-Koshi Feeds Pvt. Ltd.,Ramdhuni-5 Jhumka Sunsari
-Om Agro Pvt.Ltd,Newarpani Hetauda
-Surkhet Dairy Udhyog Pvt. Ltd.,"Birendranagar-12, Airport Road"
-Pashupati Khadya Tel Udyog Pvt. Ltd.,"Duhabi-8, Sonapur, Sunsari"
-Shiva Baba Textile Pvt. Ltd.,"Byasi, Bhaktapur"
+id,name,lat,lon,type,fuel,region,country,status,capacity_tonnes,emfpm10,pm10_t_yr,emfpm25,pm25_t_yr,emfso2,so2_t_yr,emfnox,nox_t_yr,source
+1,Manoj Khadya Udhyog,27.047266,84.818535,,,"Bindabasini Rural Municipality, Parsa",Nepal,,,,,,,,,,,
+2,Kohinoor Textile Ind. Pvt. Ltd.,27.013437,84.870421,,,"Chhata Pipra, Bara",Nepal,,,,,,,,,,,
+3,Nepal Dairy Pvt. Ltd.,27.676231,85.317832,,,"Dhapakhel, Hattiban, Lalitpur, Nepal",Nepal,,,,,,,,,,,
+4,Shree Nawaprabhat Dairy Pvt ltd,27.661551,85.324829,,,"Patan industrial area,lalitpur mp-15,lalitpur ,bagmati province",Nepal,,,,,,,,,,,
+5,Sungreen Plywood Industries pvt. ltd.,26.486374,87.274291,,,Dharan-8,Nepal,,,,,,,,,,,
+6,Surya Kattha Udhyog Pvt. Ltd.,26.790963,87.290287,,,Dharan 8,Nepal,,,,,,,,,,,
+7,Dolphin Group,28.132722,81.679435,,,lakhnawar-7 kohalpur,Nepal,,,,,,,,,,,
+8,Green Tyres Ltd.,26.469094,87.320702,,,"Kathari, Morang",Nepal,,,,,,,,,,,
+9,Tricot Industries Pvt Ltd,26.425166,87.270365,,,"Rani, Biratnagar, Nepal",Nepal,,,,,,,,,,,
+10,Ganapati Vanaspati Ltd,27.149858,84.972717,,,"Pipra, Simara, Bara",Nepal,,,,,,,,,,,
+11,Jun Chiyabari Tea Garden Pvt. Ltd.,27.01895465307681,87.31719877958999,,,"Dhankuta-1, Hile",Nepal,,,,,,,,,,,
+12,Dwarika's Kathmandu Village Hotel Pvt. Ltd,27.707393,85.343192,,,"Battisputali , Kathmandu, Nepal",Nepal,,,,,,,,,,,
+13,Deurali Janta Pharmaceuticals Pvt. Ltd,27.749903,85.338085,,,"Dhapasi, Kathmandu, Nepal",Nepal,,,,,,,,,,,
+14,Pragati Textile Industries Pvt. Ltd,26.610095,87.274126,,,"Itahari-13, Khanar, Sunsari, Nepal.",Nepal,,,,,,,,,,,
+15,Nepal Pharmaceuticals Laboratory Pvt. Ltd.,27.123425,84.953001,,,Jeetpur,Nepal,,,,,,,,,,,
+16,Aadhunik Dairy Products Pvt. Ltd.,27.670421,85.312107,,,"Balaju, Kathmandu",Nepal,,,,,,,,,,,
+17,Green Nepal Agro Pvt. Ltd.,27.618752,85.301675,,,"Bungmati, Lalitpur -22",Nepal,,,,,,,,,,,
+18,National Healthcare Pvt. Ltd.,27.107537,84.944954,,,"Chhatapipra, Bara, Nepal",Nepal,,,,,,,,,,,
+19,Ritika Dairy Udhyog Pvt. Ltd.,26.68396,88.049718,,,"Mechinagar-12, Jhapa",Nepal,,,,,,,,,,,
+20,Hygen Packs (Nepal) Pvt Ltd,26.611286,87.745576,,,"Samaygadh, Kamal Rural Municipality - 2, Jhapa",Nepal,,,,,,,,,,,
+21,Bhaktapur Dairy Pvt. Ltd,27.675323,85.423987,,,Bhaktapur Industrial Area,Nepal,,,,,,,,,,,
+22,Bhaktapur Ceramics,27.675074,85.423231,,,Bhaktapur,Nepal,,,,,,,,,,,
+23,Kriti Textiles,27.673853,85.426021,,,Bhaktapur,Nepal,,,,,,,,,,,
+24,Shivam Dairy Pvt. Ltd.,27.673776,85.426812,,,Bhaktapur,Nepal,,,,,,,,,,,
+25,Aakash food,27.662188,85.324862,,,Patan,Nepal,,,,,,,,,,,
+26,Shree Textiles,27.66338,85.326599,,,Patan,Nepal,,,,,,,,,,,
+27,Samyukta Dairy and Foods Pvt. Ltd,27.664009,85.327062,,,Patan,Nepal,,,,,,,,,,,
+28,JAYSANJIVANI DAIRY UDHYOG,27.67444,85.426782,,,Bhaktapur Industrial Estate,Nepal,,,,,,,,,,,
+29,Agro Thai Foods,27.664686,85.327522,,,Patan,Nepal,,,,,,,,,,,
+30,Rajdhani Dairy Pvt. Ltd.,27.665818,85.327051,,,Patan,Nepal,,,,,,,,,,,
+31,Husk Power Nepal Pvt. Ltd.,27.0746,84.9051,,,"Birgunj-21, Parsa",Nepal,,,,,,,,,,,
+32,G.pac lubricants pvt ltd,27.731863,85.300741,,,Balaju industrial area kathmandu,Nepal,,,,,,,,,,,
+33,Fishtail Dairy Pvt Ltd,28.204489,84.008893,,,"Pokhara Industrial Area, Kundhar, Pokhara",Nepal,,,,,,,,,,,
+34,Jaya Maa Kamakhya Industries Pvt. Ltd.,26.63756540846262,88.10843689422093,,,"Mechinagar-15, Jhapa",Nepal,,,,,,,,,,,
+35,Bottlers Nepal Ltd.,27.729168,85.302429,,,"Balaju Industrial District, Balaju, Kathmandu, Nepal",Nepal,,,,,,,,,,,
+36,Nepal Multipurpose co operative Society Limited (NMC Dairy Udyog ),26.658102,88.115691,,,"Mechinagar ,8 Itabhatta , Jhapa ,Koshi province",Nepal,,,,,,,,,,,
+37,DDC Hetauda Milk Supply Scheme,27.399512,85.027214,,,"Hetauda Industrial State, Hetauda-8, Makwanpur",Nepal,,,,,,,,,,,
+38,Karmacharya Bakes and Foods,28.156913,84.04684,,,Pokhara,Nepal,,,,,,,,,,,
+39,Shiv Bhagawati Khadya Udhyog,26.465394,87.322872,,,kathari 7,Nepal,,,,,,,,,,,
+40,Kamadhenu Dairy,26.703561,87.273129,,,Tarara,Nepal,,,,,,,,,,,
+41,Rijal Tashi Ind.Pvt.Ltd,26.666321698097,87.2658971484542,,,Itahari 5 sunsari nepal,Nepal,,,,,,,,,,,
+42,Asian Biscuits And Confectionery Pvt. Ltd.,26.584085,87.276692,,,"Duhabi, Sunsari, Nepal",Nepal,,,,,,,,,,,
+43,Arrow Pharmaceuticals Ltd.,27.686219,85.462936,,,"Changunarayan -8, sudal",Nepal,,,,,,,,,,,
+44,Premier Steel Pvt. Ltd.,26.569859,87.265104,,,"Duhabi, Sunsari",Nepal,,,,,,,,,,,
+45,Surya Metal Industries Pvt. Ltd.,26.80646,87.28081,,,"Dharan-8, Sunsari, Koshi",Nepal,,,,,,,,,,,
+46,Siddhartha Ply Industries Pvt. Ltd.,26.654,88.086,,,"Dulabari Road, Mechhinagar",Nepal,,,,,,,,,,,
+47,BM Metal Industries Pvt. Ltd.,26.805962,87.280466,,,"Dharan Industrial District, Sunsari",Nepal,,,,,,,,,,,
+48,Shubharambha Dariy and Agrovet Research Pvt. Ltd.,27.641413,85.514736,,,Banepa 08 kavrepalanchok,Nepal,,,,,,,,,,,
+49,Yak Brewing Company Pvt. Ltd.,27.877658,84.621469,,,"Ichchhakamana-4, Kurintar Nepal",Nepal,,,,,,,,,,,
+50,MILAN DAIRY & FOODS INDUSTRY PVT LTD,26.581189,86.740962,,,"GAGENDRA NARAYAN SINGH INDUSTRIAL ESTATE , BASBITTI , SAPTARI.",Nepal,,,,,,,,,,,
+51,Tulasa Dairy Pvt. Ltd.,27.705192,85.393624,,,"Kageshwori, Manohara-7 Kathmandu",Nepal,,,,,,,,,,,
+52,Baglung Dugdh Utpadak Sahakari Sanstha Sang,28.279633,83.585773,,,"Baglung Municipality-2, Baglung",Nepal,,,,,,,,,,,
+53,Siddhartha Pellet Feed Pvt. Ltd,27.429071,85.033236,,,"Hetauda Industrial Area ,Hetauda",Nepal,,,,,,,,,,,
+54,Koshi Feeds Pvt. Ltd.,26.685086,87.171425,,,Ramdhuni-5 Jhumka Sunsari,Nepal,,,,,,,,,,,
+55,Om Agro Pvt.Ltd,27.471369,84.902458,,,Newarpani Hetauda,Nepal,,,,,,,,,,,
+56,Surkhet Dairy Udhyog Pvt. Ltd.,28.5779,81.6386,,,"Birendranagar-12, Airport Road",Nepal,,,,,,,,,,,
+57,Pashupati Khadya Tel Udyog Pvt. Ltd.,26.595358,87.276327,,,"Duhabi-8, Sonapur, Sunsari",Nepal,,,,,,,,,,,
+58,Shiva Baba Textile Pvt. Ltd.,27.67446,85.42886,,,"Byasi, Bhaktapur",Nepal,,,,,,,,,,,

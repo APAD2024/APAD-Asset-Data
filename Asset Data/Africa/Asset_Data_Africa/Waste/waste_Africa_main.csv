@@ -1,0 +1,93 @@
+id,name,lat,lon,type,fuel,region,country,status,capacity_tonnes,emfpm10,pm10_t_yr,emfpm25,pm25_t_yr,emfso2,so2_t_yr,emfnox,nox_t_yr,source
+WAK-1,Kibarani Dumpsite,-4.033321787,39.64823736,,,Mombasa County,Kenya,,96747.96748,,,,,,,,,https://climatetrace.org/data
+WAK-2,Dandora Municipal Dumping Site,-1.24926569,36.89538138,,,Nairobi County,Kenya,,530898.8764,,,,,,,,,https://climatetrace.org/data
+WAK-3,Ngong,-1.362637722,36.66010319,,,Kajiado County,Kenya,,20647.11916,,,,,,,,,https://climatetrace.org/data
+WAC-1,Openstreetmap Landfill,-10.62145155,25.8975535,,,Lualaba,Democratic Republic of the Congo,,19282.91516,,,,,,,,,https://climatetrace.org/data
+WAC-2,Openstreetmap Landfill,-10.6102976,25.88029814,,,Lualaba,Democratic Republic of the Congo,,27992.79693,,,,,,,,,https://climatetrace.org/data
+WAC-3,Openstreetmap Landfill,-10.74004223,25.35211518,,,Lualaba,Democratic Republic of the Congo,,1439304.178,,,,,,,,,https://climatetrace.org/data
+WAC-4,Mpasa Landfill,-4.367154374,15.53816557,,,Kinshasa,Democratic Republic of the Congo,,2000000.0,,,,,,,,,https://climatetrace.org/data
+WAC-5,Openstreetmap Landfill,-10.66622894,25.90427614,,,Lualaba,Democratic Republic of the Congo,,87123.70097,,,,,,,,,https://climatetrace.org/data
+WAC-6,Openstreetmap Landfill,-10.56428281,26.18354631,,,Lualaba,Democratic Republic of the Congo,,289092.0407,,,,,,,,,https://climatetrace.org/data
+WAG-1,Esn 1885Rl Waste Dump,5.968462116,-1.884119751,,,Central Region,Ghana,,73272.14645,,,,,,,,,https://climatetrace.org/data
+WAG-2,Openstreetmap Landfill,5.677239748,-0.322183021,,,Greater Accra Region,Ghana,,52780.15691,,,,,,,,,https://climatetrace.org/data
+WAG-3,Kpone Landfil,5.703607863,0.02865274,,,Greater Accra Region,Ghana,,137129.4647,,,,,,,,,https://climatetrace.org/data
+WAG-4,Fertilizer,5.610732117,-0.099944886,,,Greater Accra Region,Ghana,,82777.15601,,,,,,,,,https://climatetrace.org/data
+WAG-5,Chn View Point Waste Dump,5.942780779,-1.892038823,,,Central Region,Ghana,,22219.66381,,,,,,,,,https://climatetrace.org/data
+WAG-6,Ayidan Landfil Site,5.765430647,-0.422512083,,,Greater Accra Region,Ghana,,261825.6284,,,,,,,,,https://climatetrace.org/data
+WAG-7,Agbogbloshie,5.553955695,-0.227229314,,,Greater Accra Region,Ghana,,106250.0,,,,,,,,,https://climatetrace.org/data
+WAG-8,Aboso Landfill,5.361326837,-1.928199929,,,Western Region,Ghana,,40546.69657,,,,,,,,,https://climatetrace.org/data
+WAG-9,Openstreetmap Landfill,5.783664019,-0.346962994,,,Eastern Region,Ghana,,15101.95406,,,,,,,,,https://climatetrace.org/data
+WAG-10,Winneba Landfill Site,5.361738942,-0.608778825,,,Central Region,Ghana,,14420.44063,,,,,,,,,https://climatetrace.org/data
+WAN-1,"Sango-Otta, Ado Odo/Ota, Ogun",6.716810775,3.250609234,,,Ogun State,Nigeria,,2717.517813,,,,,,,,,https://climatetrace.org/data
+WAN-2,"Nnewi, Nnewi North, Anambra",6.012197084,6.906870952,,,Anambra State,Nigeria,,4086.019389,,,,,,,,,https://climatetrace.org/data
+WAN-3,"Alaba Taiwo St, Akinde, Ifako/Ijaye",6.678089758,3.279921406,,,Lagos State,Nigeria,,1324.34598,,,,,,,,,https://climatetrace.org/data
+WAN-4,"Igbede, Ojo, Lagos",6.456413947,3.164584736,,,Lagos State,Nigeria,,6020.996368,,,,,,,,,https://climatetrace.org/data
+WAN-5,"Obio/Akpor, Rivers, Nigeria",4.935263591,6.964023349,,,Rivers State,Nigeria,,9473.091393,,,,,,,,,https://climatetrace.org/data
+WAN-6,"Asipa, Ewekoro, Ogun",7.052666322,3.261152087,,,Ogun State,Nigeria,,1203.45397,,,,,,,,,https://climatetrace.org/data
+WAN-7,"Owerri, Owerri Municipal, Imo",5.464762718,7.036188455,,,Imo State,Nigeria,,4810.378282,,,,,,,,,https://climatetrace.org/data
+WAN-8,"Alh. Mukaila Str, Ikotun, Alimosho",6.537040705,3.271276689,,,Lagos State,Nigeria,,5362.685053,,,,,,,,,https://climatetrace.org/data
+WAN-9,"Oshodi/Isolo, Lagos, 100263",6.555614245,3.287573765,,,Lagos State,Nigeria,,4395.599647,,,,,,,,,https://climatetrace.org/data
+WAN-10,"Agboju, Amuwo Odofin, Lagos",6.460182309,3.283417717,,,Lagos State,Nigeria,,17381.36973,,,,,,,,,https://climatetrace.org/data
+WAN-11,"Igando Oloja, Ibeju Lekki, Lagos",6.470683891,3.788996346,,,Lagos State,Nigeria,,1416.419573,,,,,,,,,https://climatetrace.org/data
+WAN-12,"Shagamu, Ogun, 121006",6.73592579,3.455876362,,,Ogun State,Nigeria,,2468.971853,,,,,,,,,https://climatetrace.org/data
+WAN-13,"Oke Eri Street, Oworonṣoki, Kosofe",6.554022277,3.405641329,,,Lagos State,Nigeria,,18506.58714,,,,,,,,,https://climatetrace.org/data
+WAN-14,"Ikorodu, Lagos, 104213",6.642691281,3.484988863,,,Lagos State,Nigeria,,11375.51657,,,,,,,,,https://climatetrace.org/data
+WAN-15,"Ugbenuowhorun, Uvwie, Delta",5.542532079,5.81648687,,,Delta State,Nigeria,,9893.375394,,,,,,,,,https://climatetrace.org/data
+WAN-16,"Jako-Petedo, Ado Odo/Ota, Ogun",6.501001607,3.083699486,,,Ogun State,Nigeria,,8880.031795,,,,,,,,,https://climatetrace.org/data
+WAN-17,"Sagamu Road, Konigbagbe, Shagamu",6.812259665,3.601093149,,,Ogun State,Nigeria,,1302.498076,,,,,,,,,https://climatetrace.org/data
+WAN-18,"Ughoru, Oshimili North, Delta",6.189372062,6.655763258,,,Delta State,Nigeria,,9299.022491,,,,,,,,,https://climatetrace.org/data
+WAN-19,Abule Egba,6.63965012,3.301832609,,,Lagos State,Nigeria,,90375.83767,,,,,,,,,https://climatetrace.org/data
+WAN-20,"Ifo, Ogun, 100581",6.65716496,3.357474909,,,Ogun State,Nigeria,,9933.42005,,,,,,,,,https://climatetrace.org/data
+WAN-21,"Akute-Oja, Ifo, Ogun",6.678739087,3.374659829,,,Ogun State,Nigeria,,4305.693595,,,,,,,,,https://climatetrace.org/data
+WAN-22,"Ojo, Lagos, 100266",6.453248227,3.222110389,,,Lagos State,Nigeria,,3130.814563,,,,,,,,,https://climatetrace.org/data
+WAN-23,"Rumurolu, Obio/Akpor, Rivers",4.839921742,7.059751418,,,Rivers State,Nigeria,,2149.841309,,,,,,,,,https://climatetrace.org/data
+WAN-24,"Isolo, Oshodi/Isolo, Lagos",6.529851638,3.318014715,,,Lagos State,Nigeria,,7378.935713,,,,,,,,,https://climatetrace.org/data
+WAN-25,"Alaiyabiagba, Ajeromi/Ifelodun, Lagos",6.455321911,3.319226888,,,Lagos State,Nigeria,,5631.145506,,,,,,,,,https://climatetrace.org/data
+WAN-26,"Iseri-Osun, Alimosho, Lagos",6.521331591,3.278256843,,,Lagos State,Nigeria,,1382.615517,,,,,,,,,https://climatetrace.org/data
+WAN-27,"Ifo, Ogun, Nigeria",6.840759888,3.191254868,,,Ogun State,Nigeria,,1818.319724,,,,,,,,,https://climatetrace.org/data
+WAN-28,"Ibb Road, Police Barrack, Fagge D2",12.01334486,8.518728586,,,Kano State,Nigeria,,3788.366612,,,,,,,,,https://climatetrace.org/data
+WAN-29,"Ojo, Lagos, Nigeria",6.450625202,3.193438012,,,Lagos State,Nigeria,,2208.325749,,,,,,,,,https://climatetrace.org/data
+WAN-30,Ajakanga Dumpsite,7.312511111,3.840638889,,,Oyo State,Nigeria,,99999.52959,,,,,,,,,https://climatetrace.org/data
+WAN-31,"Akure North, Ondo, 340223",7.219764044,5.240190655,,,Ondo State,Nigeria,,3527.66206,,,,,,,,,https://climatetrace.org/data
+WAN-32,"Onihale, Ifo, Ogun",6.762313893,3.216082589,,,Ogun State,Nigeria,,3909.12174,,,,,,,,,https://climatetrace.org/data
+WAN-33,"Enugu - Port Harcourt Expressway, Iriebe, Obio/Akpor",4.862942286,7.082771963,,,Rivers State,Nigeria,,3521.529862,,,,,,,,,https://climatetrace.org/data
+WAN-34,"Okpe, Delta, 332",5.609436304,5.882217694,,,Delta State,Nigeria,,16341.96104,,,,,,,,,https://climatetrace.org/data
+WAN-35,"Aba North, Abia, Nigeria",5.098692404,7.387602579,,,Abia State,Nigeria,,2058.799052,,,,,,,,,https://climatetrace.org/data
+WAN-36,"Bariga, Abule Ijesha, Shomolu",6.530125736,3.400224543,,,Lagos State,Nigeria,,1131.705271,,,,,,,,,https://climatetrace.org/data
+WAN-37,Olusosun,6.59272532,3.378510475,,,Lagos State,Nigeria,,427618.0698,,,,,,,,,https://climatetrace.org/data
+WAN-38,"Maba, Obafemi Owode, Ogun",6.774686939,3.441117901,,,Ogun State,Nigeria,,1370.082152,,,,,,,,,https://climatetrace.org/data
+WAN-39,"Ijegun, Alimosho, Lagos",6.512738314,3.258763671,,,Lagos State,Nigeria,,2665.553745,,,,,,,,,https://climatetrace.org/data
+WAN-40,"Badagry, Lagos, Nigeria",6.437663846,2.870439118,,,Lagos State,Nigeria,,8821.521653,,,,,,,,,https://climatetrace.org/data
+WAN-41,Eneka,4.8904136,7.0429872,,,Rivers State,Nigeria,,50000.0,,,,,,,,,https://climatetrace.org/data
+WAN-42,"Ijoko, Shagamu, Ogun",6.840596406,3.636715795,,,Ogun State,Nigeria,,7990.132553,,,,,,,,,https://climatetrace.org/data
+WAN-43,"Solu, Ifo, Ogun",6.811917454,3.199339319,,,Ogun State,Nigeria,,4612.148466,,,,,,,,,https://climatetrace.org/data
+WAN-44,"University Of Lagos, Olaboye Olaleye Street, Iwaya",6.513848457,3.392581394,,,Lagos State,Nigeria,,7776.737114,,,,,,,,,https://climatetrace.org/data
+WAN-45,"Ebute-Metta, Lagos Mainland, Lagos",6.489941091,3.391157419,,,Lagos State,Nigeria,,36509.78773,,,,,,,,,https://climatetrace.org/data
+WAN-46,"Olori, Ifo, Ogun",6.689263644,3.35799846,,,Ogun State,Nigeria,,1602.656507,,,,,,,,,https://climatetrace.org/data
+WAN-47,"Okuokoko, Uvwie, Delta",5.586751089,5.809634158,,,Delta State,Nigeria,,15300.52154,,,,,,,,,https://climatetrace.org/data
+WAN-48,"Eko Bridge, Alagbede, Surulere",6.473344877,3.376200616,,,Lagos State,Nigeria,,3798.634885,,,,,,,,,https://climatetrace.org/data
+WAN-49,"Meran, Alimosho, Lagos",6.638021793,3.26404941,,,Lagos State,Nigeria,,5162.854025,,,,,,,,,https://climatetrace.org/data
+WAN-50,"Surulere, Oke Ira, Surulere",6.502496597,3.368270941,,,Lagos State,Nigeria,,4843.147168,,,,,,,,,https://climatetrace.org/data
+WAN-51,"Lagos-Ibadan Expressway, Ibafo, Obafemi Owode",6.802643802,3.433698928,,,Ogun State,Nigeria,,6104.237081,,,,,,,,,https://climatetrace.org/data
+WAN-52,"Ijora, Apapa, Lagos",6.470812335,3.361276706,,,Lagos State,Nigeria,,1291.277547,,,,,,,,,https://climatetrace.org/data
+WAN-53,"Oko Orisa, Epe, Lagos",6.5643224,3.937061341,,,Lagos State,Nigeria,,29541.58015,,,,,,,,,https://climatetrace.org/data
+WAN-54,"Iju Junction, Ifako/Ijaye, Lagos",6.649653099,3.31857695,,,Lagos State,Nigeria,,27049.55446,,,,,,,,,https://climatetrace.org/data
+WAN-55,"Oke, Ifo, Ogun",6.650271538,3.398989321,,,Ogun State,Nigeria,,2095.144102,,,,,,,,,https://climatetrace.org/data
+WAN-56,"Gbagada, Kosofe, Lagos",6.556354704,3.37233458,,,Lagos State,Nigeria,,9299.999636,,,,,,,,,https://climatetrace.org/data
+WAN-57,"Tope, Asa, Kwara",8.46570129,4.445588779,,,Kwara State,Nigeria,,11216.51871,,,,,,,,,https://climatetrace.org/data
+WAN-58,"Atinuke Atobajaye Crescent, Oshodi/Isolo, Lagos",6.510071967,3.323157288,,,Lagos State,Nigeria,,4305.842856,,,,,,,,,https://climatetrace.org/data
+WAN-59,"Onitsha, Onitsha North, Anambra",6.156938538,6.77402406,,,Anambra State,Nigeria,,4694.295005,,,,,,,,,https://climatetrace.org/data
+WAN-60,"Wado City, Delta, Nigeria",5.504711055,5.768283828,,,Delta State,Nigeria,,1897.322722,,,,,,,,,https://climatetrace.org/data
+WAN-61,"Municipal Area Council, Federal Capital Territory, Nigeria",9.028445493,7.339278295,,,Federal Capital Territory,Nigeria,,4039.317117,,,,,,,,,https://climatetrace.org/data
+WAN-62,"Mgbu-Oba, Obio/Akpor, Rivers",4.845473674,6.971849748,,,Rivers State,Nigeria,,1968.43126,,,,,,,,,https://climatetrace.org/data
+WAN-63,"Oke-Aro, Ifo, Ogun",6.676904579,3.320206483,,,Ogun State,Nigeria,,3202.657892,,,,,,,,,https://climatetrace.org/data
+WAN-64,Solous,6.570991605,3.253802697,,,Lagos State,Nigeria,,190000.0,,,,,,,,,https://climatetrace.org/data
+WAN-65,"Abeokuta, Abeokuta South, Ogun",7.187498177,3.365936868,,,Ogun State,Nigeria,,33045.26836,,,,,,,,,https://climatetrace.org/data
+WAN-66,Awotan (Apete) Dumpsite,7.463069444,3.84910556,,,Oyo State,Nigeria,,136018.2371,,,,,,,,,https://climatetrace.org/data
+WAN-67,"Onitsha - Owerri Road, Onitsha, Onitsha North",6.10331787,6.799022864,,,Anambra State,Nigeria,,9613.158736,,,,,,,,,https://climatetrace.org/data
+WAN-68,"Ijako, Ado Odo/Ota, Ogun",6.738002467,3.214680351,,,Ogun State,Nigeria,,1470.135166,,,,,,,,,https://climatetrace.org/data
+WAN-69,"Akpajo, Eleme, Rivers",4.835498186,7.091709351,,,Rivers State,Nigeria,,16725.90292,,,,,,,,,https://climatetrace.org/data
+WAN-70,"Aguda, Agidingbi, Ikeja",6.62847926,3.358578112,,,Lagos State,Nigeria,,5710.945618,,,,,,,,,https://climatetrace.org/data
+WAN-71,Lapite,7.569898142,3.912607472,,,Oyo State,Nigeria,,217663.5514,,,,,,,,,https://climatetrace.org/data
+WAN-72,Epe,6.6492196,4.0381622,,,Lagos State,Nigeria,,806451.6129,,,,,,,,,https://climatetrace.org/data
+WAN-73,"White-Dove Group Of Schools, Erubere Street, Ugborikoko",5.534788277,5.765846857,,,Delta State,Nigeria,,7648.8734,,,,,,,,,https://climatetrace.org/data
