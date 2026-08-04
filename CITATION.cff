@@ -6,6 +6,7 @@ authors:
     affiliation: "Nature Based Solutions"
 title: "APAD Asset Data"
 version: 1.0.0
+license: ODC-BY-1.0
 url: "https://github.com/APAD2024/APAD-Asset-Data"
 repository-code: "https://github.com/APAD2024/APAD-Asset-Data"
 keywords:
