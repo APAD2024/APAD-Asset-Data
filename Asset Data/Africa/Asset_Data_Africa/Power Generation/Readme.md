@@ -45,7 +45,8 @@ Emissions are calculated using:
 
 ### Available Formats
 
-- `.csv`
+- `.csv` — all plants in a single table
+- `.geojson` — the same plants split by fuel: `power_africa_gas`, `power_africa_oil`, `power_africa_biofuel`
 
 ### Column Names
 
@@ -92,9 +93,8 @@ APAD (2025).
 
 ### **License**
 
-This dataset is released under:
+This dataset is released under the **Open Data Commons Attribution License v1.0 (ODC-BY 1.0)**.
 
-* [![License: CC BY 4.0](https://licensebuttons.net/l/by/4.0/80x15.png)](https://creativecommons.org/licenses/by/4.0/)
-* [![License: Open Data Commons Attribution](https://img.shields.io/badge/License-ODC_BY-brightgreen.svg)](https://opendatacommons.org/licenses/by/)
+[![License: ODC-BY 1.0](https://img.shields.io/badge/License-ODC__BY_1.0-brightgreen.svg)](https://opendatacommons.org/licenses/by/1-0/)
 
 You are free to use, share, remix, and build upon the data with attribution.

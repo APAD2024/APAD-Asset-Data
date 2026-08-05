@@ -111,7 +111,7 @@ This pollution assets dataset supports a wide range of applications related to e
 ---
 
 ### Licensing
-This dataset is released under a Creative Commons (CC) license, allowing for broad use while ensuring proper attribution.
+This dataset is released under the [Open Data Commons Attribution License v1.0 (ODC-BY 1.0)](https://opendatacommons.org/licenses/by/1-0/), allowing for broad use while ensuring proper attribution.
 
 ---
 
